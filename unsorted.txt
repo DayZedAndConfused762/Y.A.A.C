@@ -3,35 +3,35 @@
                                             Unsorted Links related to the YAAC
 
 ==========================================================================================================================================
-            https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/14405pn/what_projects_for_raspberry_pi_zero_wh/
-            https://www.quora.com/What-is-the-coolest-thing-youve-done-with-a-Raspberry-Pi
-            https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/
-            https://github.com/rm-hull/pifm
-            https://github.com/ka9cql/pifm
-            https://github.com/miegl/PiFmAdv
-            https://github.com/MundeepL/PiFM
-            https://makezine.com/projects/pirate-radio-throwies
-            https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers
-            https://magicmirror.builders/
-            https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/16b5t44/just_got_a_pi_zero_w_what_are_some_good_first/
-            https://github.com/blake5634/Simple-Internet-Radio
-            https://pwnagotchi.ai/
-            https://www.home-assistant.io/
-            https://www.amazon.com/Triple-Stack-Raspberry-Zero-W-C4Labs/dp/B06XCK7G2R/ref=sr_1_2?crid=232X6MD8F8CO2&dib=eyJ2IjoiMSJ9.P4kF_qczg-Gl5eXt_1U90Tb5CPiAIsKWYv7dCsk_M4FuDws0awvIbklVw5utVByFcfvEF9ME_T5FXsimRaBGP9-oIS76Bi721dFYlUw6g74FIlp0x_rrQ_XxIiHAkzuFqVO15hXD_ypJwxQ5FtN6W_mdC7gg3oPzzFr9aPNeYMqQtlZrH9AGrF9v89pGBBaOOK_M6JiTWSP0JmLAqoyaesLz0pL8whYXoHMiWONsp3U.aJrXFs7JO0TCXh4zwvbQParNFNVbGDFvAtcWMabFBhk&dib_tag=se&keywords=tamagotchi+case&qid=1718734962&sprefix=pwnagotchi+case%2Caps%2C108&sr=8-2
-            https://www.amazon.com/C4Labs-Raspberry-JumboSPOT-Lonestar-Simplex/dp/B07TWNSQ29/ref=sr_1_1?crid=232X6MD8F8CO2&dib=eyJ2IjoiMSJ9.P4kF_qczg-Gl5eXt_1U90Tb5CPiAIsKWYv7dCsk_M4FuDws0awvIbklVw5utVByFcfvEF9ME_T5FXsimRaBGP9-oIS76Bi721dFYlUw6g74FIlp0x_rrQ_XxIiHAkzuFqVO15hXD_ypJwxQ5FtN6W_mdC7gg3oPzzFr9aPNeYMqQtlZrH9AGrF9v89pGBBaOOK_M6JiTWSP0JmLAqoyaesLz0pL8whYXoHMiWONsp3U.aJrXFs7JO0TCXh4zwvbQParNFNVbGDFvAtcWMabFBhk&dib_tag=se&keywords=tamagotchi+case&qid=1718734962&sprefix=pwnagotchi+case%2Caps%2C108&sr=8-1
-            https://www.amazon.com/Waveshare-2-13inch-Raspberry-Pwnagotchi-Interface/dp/B0D5CJKXTD/ref=sr_1_9?crid=25KU3MJ7EZJ4D&dib=eyJ2IjoiMSJ9.YpJ_uz8f2a2oiYBmYfY-KUhBw9s0xi39fDzGR3XaJw1NE4q1UF4Ps4zsOBZCVa5oKiNyjhBB8YN7OjZy2UH3bkcqiQMcBUx5kvHoyrT2jqWXpMYH4ai9An-PrbVcs1WcafQPQeLFko4WJrfOIgqFuiKaevTPMIkndYCXA6wMPSwh_U6mWYgG7Hd29z5AKVfIzJM6U1Izq4UV2UTTKo7Mfd-CvFgPPOXTXz1GDhbpPaZuy6B5cZKp5fU74NZhBZAyo1Vc_v4atmlBesP1_c6wEdFeIoakrTnbBdO87u_44D8.qRHXvnv0Xvv4ug2uVzSXj4ELKbXw4bMaqipf3F3WSuo&dib_tag=se&keywords=pwnagotchi&qid=1718734860&s=electronics&sprefix=pwnagotchi%2Celectronics%2C79&sr=1-9
-            https://www.amazon.com/Waveshare-2-13inch-Touch-Raspberry-Protection/dp/B09GKB8XT8/ref=sr_1_5?crid=25KU3MJ7EZJ4D&dib=eyJ2IjoiMSJ9.YpJ_uz8f2a2oiYBmYfY-KUhBw9s0xi39fDzGR3XaJw1NE4q1UF4Ps4zsOBZCVa5oKiNyjhBB8YN7OjZy2UH3bkcqiQMcBUx5kvHoyrT2jqWXpMYH4ai9An-PrbVcs1WcafQPQeLFko4WJrfOIgqFuiKaevTPMIkndYCXA6wMPSwh_U6mWYgG7Hd29z5AKVfIzJM6U1Izq4UV2UTTKo7Mfd-CvFgPPOXTXz1GDhbpPaZuy6B5cZKp5fU74NZhBZAyo1Vc_v4atmlBesP1_c6wEdFeIoakrTnbBdO87u_44D8.qRHXvnv0Xvv4ug2uVzSXj4ELKbXw4bMaqipf3F3WSuo&dib_tag=se&keywords=pwnagotchi&qid=1718734860&s=electronics&sprefix=pwnagotchi%2Celectronics%2C79&sr=1-5
-            https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B097RC8KLQ/ref=sr_1_4?crid=25KU3MJ7EZJ4D&dib=eyJ2IjoiMSJ9.YpJ_uz8f2a2oiYBmYfY-KUhBw9s0xi39fDzGR3XaJw1NE4q1UF4Ps4zsOBZCVa5oKiNyjhBB8YN7OjZy2UH3bkcqiQMcBUx5kvHoyrT2jqWXpMYH4ai9An-PrbVcs1WcafQPQeLFko4WJrfOIgqFuiKaevTPMIkndYCXA6wMPSwh_U6mWYgG7Hd29z5AKVfIzJM6U1Izq4UV2UTTKo7Mfd-CvFgPPOXTXz1GDhbpPaZuy6B5cZKp5fU74NZhBZAyo1Vc_v4atmlBesP1_c6wEdFeIoakrTnbBdO87u_44D8.qRHXvnv0Xvv4ug2uVzSXj4ELKbXw4bMaqipf3F3WSuo&dib_tag=se&keywords=pwnagotchi&qid=1718734860&s=electronics&sprefix=pwnagotchi%2Celectronics%2C79&sr=1-4
-            https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/ref=sr_1_2?crid=25KU3MJ7EZJ4D&dib=eyJ2IjoiMSJ9.YpJ_uz8f2a2oiYBmYfY-KUhBw9s0xi39fDzGR3XaJw1NE4q1UF4Ps4zsOBZCVa5oKiNyjhBB8YN7OjZy2UH3bkcqiQMcBUx5kvHoyrT2jqWXpMYH4ai9An-PrbVcs1WcafQPQeLFko4WJrfOIgqFuiKaevTPMIkndYCXA6wMPSwh_U6mWYgG7Hd29z5AKVfIzJM6U1Izq4UV2UTTKo7Mfd-CvFgPPOXTXz1GDhbpPaZuy6B5cZKp5fU74NZhBZAyo1Vc_v4atmlBesP1_c6wEdFeIoakrTnbBdO87u_44D8.qRHXvnv0Xvv4ug2uVzSXj4ELKbXw4bMaqipf3F3WSuo&dib_tag=se&keywords=pwnagotchi&qid=1718734860&s=electronics&sprefix=pwnagotchi%2Celectronics%2C79&sr=1-2
-            https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/ref=sr_1_1?crid=25KU3MJ7EZJ4D&dib=eyJ2IjoiMSJ9.YpJ_uz8f2a2oiYBmYfY-KUhBw9s0xi39fDzGR3XaJw1NE4q1UF4Ps4zsOBZCVa5oKiNyjhBB8YN7OjZy2UH3bkcqiQMcBUx5kvHoyrT2jqWXpMYH4ai9An-PrbVcs1WcafQPQeLFko4WJrfOIgqFuiKaevTPMIkndYCXA6wMPSwh_U6mWYgG7Hd29z5AKVfIzJM6U1Izq4UV2UTTKo7Mfd-CvFgPPOXTXz1GDhbpPaZuy6B5cZKp5fU74NZhBZAyo1Vc_v4atmlBesP1_c6wEdFeIoakrTnbBdO87u_44D8.qRHXvnv0Xvv4ug2uVzSXj4ELKbXw4bMaqipf3F3WSuo&dib_tag=se&keywords=pwnagotchi&qid=1718734860&s=electronics&sprefix=pwnagotchi%2Celectronics%2C79&sr=1-1
-            https://pwnagotchi.org/3d-printable-cases/index.html
-            https://docs.pi-hole.net/guides/vpn/wireguard/overview/
-            https://github.com/thibmaek/awesome-raspberry-pi
-            https://magpi.raspberrypi.com/books/projects-1/pdf/download
-            https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/
-            https://github.com/elewin/pi-weather-station
-            https://www.raspberrypi.com/documentation/computers/configuration.html
-            https://www.python.org/about/gettingstarted/
+	https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/14405pn/what_projects_for_raspberry_pi_zero_wh/
+	https://www.quora.com/What-is-the-coolest-thing-youve-done-with-a-Raspberry-Pi
+	https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/
+	https://github.com/rm-hull/pifm
+	https://github.com/ka9cql/pifm
+	https://github.com/miegl/PiFmAdv
+	https://github.com/MundeepL/PiFM
+	https://makezine.com/projects/pirate-radio-throwies
+	https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers
+	https://magicmirror.builders/
+	https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/16b5t44/just_got_a_pi_zero_w_what_are_some_good_first/
+	https://github.com/blake5634/Simple-Internet-Radio
+	https://pwnagotchi.ai/
+	https://www.home-assistant.io/
+	https://www.amazon.com/Triple-Stack-Raspberry-Zero-W-C4Labs/dp/B06XCK7G2R/ref=sr_1_2?crid=232X6MD8F8CO2&dib=eyJ2IjoiMSJ9.P4kF_qczg-Gl5eXt_1U90Tb5CPiAIsKWYv7dCsk_M4FuDws0awvIbklVw5utVByFcfvEF9ME_T5FXsimRaBGP9-oIS76Bi721dFYlUw6g74FIlp0x_rrQ_XxIiHAkzuFqVO15hXD_ypJwxQ5FtN6W_mdC7gg3oPzzFr9aPNeYMqQtlZrH9AGrF9v89pGBBaOOK_M6JiTWSP0JmLAqoyaesLz0pL8whYXoHMiWONsp3U.aJrXFs7JO0TCXh4zwvbQParNFNVbGDFvAtcWMabFBhk&dib_tag=se&keywords=tamagotchi+case&qid=1718734962&sprefix=pwnagotchi+case%2Caps%2C108&sr=8-2
+	https://www.amazon.com/C4Labs-Raspberry-JumboSPOT-Lonestar-Simplex/dp/B07TWNSQ29/ref=sr_1_1?crid=232X6MD8F8CO2&dib=eyJ2IjoiMSJ9.P4kF_qczg-Gl5eXt_1U90Tb5CPiAIsKWYv7dCsk_M4FuDws0awvIbklVw5utVByFcfvEF9ME_T5FXsimRaBGP9-oIS76Bi721dFYlUw6g74FIlp0x_rrQ_XxIiHAkzuFqVO15hXD_ypJwxQ5FtN6W_mdC7gg3oPzzFr9aPNeYMqQtlZrH9AGrF9v89pGBBaOOK_M6JiTWSP0JmLAqoyaesLz0pL8whYXoHMiWONsp3U.aJrXFs7JO0TCXh4zwvbQParNFNVbGDFvAtcWMabFBhk&dib_tag=se&keywords=tamagotchi+case&qid=1718734962&sprefix=pwnagotchi+case%2Caps%2C108&sr=8-1
+	https://www.amazon.com/Waveshare-2-13inch-Raspberry-Pwnagotchi-Interface/dp/B0D5CJKXTD/ref=sr_1_9?crid=25KU3MJ7EZJ4D&dib=eyJ2IjoiMSJ9.YpJ_uz8f2a2oiYBmYfY-KUhBw9s0xi39fDzGR3XaJw1NE4q1UF4Ps4zsOBZCVa5oKiNyjhBB8YN7OjZy2UH3bkcqiQMcBUx5kvHoyrT2jqWXpMYH4ai9An-PrbVcs1WcafQPQeLFko4WJrfOIgqFuiKaevTPMIkndYCXA6wMPSwh_U6mWYgG7Hd29z5AKVfIzJM6U1Izq4UV2UTTKo7Mfd-CvFgPPOXTXz1GDhbpPaZuy6B5cZKp5fU74NZhBZAyo1Vc_v4atmlBesP1_c6wEdFeIoakrTnbBdO87u_44D8.qRHXvnv0Xvv4ug2uVzSXj4ELKbXw4bMaqipf3F3WSuo&dib_tag=se&keywords=pwnagotchi&qid=1718734860&s=electronics&sprefix=pwnagotchi%2Celectronics%2C79&sr=1-9
+	https://www.amazon.com/Waveshare-2-13inch-Touch-Raspberry-Protection/dp/B09GKB8XT8/ref=sr_1_5?crid=25KU3MJ7EZJ4D&dib=eyJ2IjoiMSJ9.YpJ_uz8f2a2oiYBmYfY-KUhBw9s0xi39fDzGR3XaJw1NE4q1UF4Ps4zsOBZCVa5oKiNyjhBB8YN7OjZy2UH3bkcqiQMcBUx5kvHoyrT2jqWXpMYH4ai9An-PrbVcs1WcafQPQeLFko4WJrfOIgqFuiKaevTPMIkndYCXA6wMPSwh_U6mWYgG7Hd29z5AKVfIzJM6U1Izq4UV2UTTKo7Mfd-CvFgPPOXTXz1GDhbpPaZuy6B5cZKp5fU74NZhBZAyo1Vc_v4atmlBesP1_c6wEdFeIoakrTnbBdO87u_44D8.qRHXvnv0Xvv4ug2uVzSXj4ELKbXw4bMaqipf3F3WSuo&dib_tag=se&keywords=pwnagotchi&qid=1718734860&s=electronics&sprefix=pwnagotchi%2Celectronics%2C79&sr=1-5
+	https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B097RC8KLQ/ref=sr_1_4?crid=25KU3MJ7EZJ4D&dib=eyJ2IjoiMSJ9.YpJ_uz8f2a2oiYBmYfY-KUhBw9s0xi39fDzGR3XaJw1NE4q1UF4Ps4zsOBZCVa5oKiNyjhBB8YN7OjZy2UH3bkcqiQMcBUx5kvHoyrT2jqWXpMYH4ai9An-PrbVcs1WcafQPQeLFko4WJrfOIgqFuiKaevTPMIkndYCXA6wMPSwh_U6mWYgG7Hd29z5AKVfIzJM6U1Izq4UV2UTTKo7Mfd-CvFgPPOXTXz1GDhbpPaZuy6B5cZKp5fU74NZhBZAyo1Vc_v4atmlBesP1_c6wEdFeIoakrTnbBdO87u_44D8.qRHXvnv0Xvv4ug2uVzSXj4ELKbXw4bMaqipf3F3WSuo&dib_tag=se&keywords=pwnagotchi&qid=1718734860&s=electronics&sprefix=pwnagotchi%2Celectronics%2C79&sr=1-4
+	https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/ref=sr_1_2?crid=25KU3MJ7EZJ4D&dib=eyJ2IjoiMSJ9.YpJ_uz8f2a2oiYBmYfY-KUhBw9s0xi39fDzGR3XaJw1NE4q1UF4Ps4zsOBZCVa5oKiNyjhBB8YN7OjZy2UH3bkcqiQMcBUx5kvHoyrT2jqWXpMYH4ai9An-PrbVcs1WcafQPQeLFko4WJrfOIgqFuiKaevTPMIkndYCXA6wMPSwh_U6mWYgG7Hd29z5AKVfIzJM6U1Izq4UV2UTTKo7Mfd-CvFgPPOXTXz1GDhbpPaZuy6B5cZKp5fU74NZhBZAyo1Vc_v4atmlBesP1_c6wEdFeIoakrTnbBdO87u_44D8.qRHXvnv0Xvv4ug2uVzSXj4ELKbXw4bMaqipf3F3WSuo&dib_tag=se&keywords=pwnagotchi&qid=1718734860&s=electronics&sprefix=pwnagotchi%2Celectronics%2C79&sr=1-2
+	https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/ref=sr_1_1?crid=25KU3MJ7EZJ4D&dib=eyJ2IjoiMSJ9.YpJ_uz8f2a2oiYBmYfY-KUhBw9s0xi39fDzGR3XaJw1NE4q1UF4Ps4zsOBZCVa5oKiNyjhBB8YN7OjZy2UH3bkcqiQMcBUx5kvHoyrT2jqWXpMYH4ai9An-PrbVcs1WcafQPQeLFko4WJrfOIgqFuiKaevTPMIkndYCXA6wMPSwh_U6mWYgG7Hd29z5AKVfIzJM6U1Izq4UV2UTTKo7Mfd-CvFgPPOXTXz1GDhbpPaZuy6B5cZKp5fU74NZhBZAyo1Vc_v4atmlBesP1_c6wEdFeIoakrTnbBdO87u_44D8.qRHXvnv0Xvv4ug2uVzSXj4ELKbXw4bMaqipf3F3WSuo&dib_tag=se&keywords=pwnagotchi&qid=1718734860&s=electronics&sprefix=pwnagotchi%2Celectronics%2C79&sr=1-1
+	https://pwnagotchi.org/3d-printable-cases/index.html
+	https://docs.pi-hole.net/guides/vpn/wireguard/overview/
+	https://github.com/thibmaek/awesome-raspberry-pi
+	https://magpi.raspberrypi.com/books/projects-1/pdf/download
+	https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/
+	https://github.com/elewin/pi-weather-station
+	https://www.raspberrypi.com/documentation/computers/configuration.html
+	https://www.python.org/about/gettingstarted/
             https://www.reddit.com/r/learnpython/comments/11kcko1/best_way_to_learn_python/
 
 ==========================================================================================================================================
