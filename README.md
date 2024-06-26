@@ -1,3 +1,3 @@
-# Y.A.A.C.
+# Y.A.A.C
 
 Yet Another Apache CyberDeck
