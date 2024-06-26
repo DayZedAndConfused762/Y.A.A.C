@@ -33,6 +33,7 @@
 	https://github.com/elewin/pi-weather-station
 	https://www.raspberrypi.com/documentation/computers/configuration.html
 	https://www.python.org/about/gettingstarted/
+	https://fluidicice.com/TPE.html
             https://www.reddit.com/r/learnpython/comments/11kcko1/best_way_to_learn_python/
 
 ==========================================================================================================================================
