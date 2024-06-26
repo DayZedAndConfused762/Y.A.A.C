@@ -1,32 +1,34 @@
 ==========================================================================================================================================
 
-    Software
+								Software
 
-        GPS
+==========================================================================================================================================
 
-            https://www.foxtrotgps.org/
+	GPS
 
-        Offline Internet
+		https://www.foxtrotgps.org/
 
-            Internet in a Box                                                   https://internet-in-a-box.org/            
-            Kiwix offline internet/wiki                                         https://www.kiwix.org/en/
+	Offline Internet
 
-	    Operating Systems
+		Internet in a Box							https://internet-in-a-box.org/            
+		Kiwix offline internet/wiki						https://www.kiwix.org/en/
 
-	        Kali linux                                                          https://www.kali.org
-	        Raspberrian                                                         https://www.raspberrypi.com/software/
-	        RetroPi                                                             https://retropie.org.uk/
-            Collapse OS                                                         http://collapseos.org/
-			DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi 		https://sourceforge.net/projects/dragonos-pi64/
+	Operating Systems
 
-		SDR
+	        Kali linux								https://www.kali.org
+	        Raspberrian								https://www.raspberrypi.com/software/
+	        RetroPi									https://retropie.org.uk/
 
-			SDRangel TX & RX Software Defined Radio								https://www.sdrangel.org/
+	Collapse OS									http://collapseos.org/
 
-		Utilities
+		DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi 		https://sourceforge.net/projects/dragonos-pi64/
 
-			Cool-Retro-Term														https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file
+	SDR
 
+		SDRangel TX & RX Software Defined Radio					https://www.sdrangel.org/
 
+	Utilities
+
+		Cool-Retro-Term								https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file
 
 ==========================================================================================================================================
