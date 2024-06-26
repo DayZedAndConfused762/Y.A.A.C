@@ -3,6 +3,7 @@
                                             Unsorted Links related to the YAAC
 
 ==========================================================================================================================================
+
 	https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/14405pn/what_projects_for_raspberry_pi_zero_wh/
 	https://www.quora.com/What-is-the-coolest-thing-youve-done-with-a-Raspberry-Pi
 	https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/
