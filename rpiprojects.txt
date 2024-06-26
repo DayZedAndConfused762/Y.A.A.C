@@ -1,18 +1,20 @@
 ==========================================================================================================================================
 
-    Projects
+								Projects
 
-            https://www.hackster.io/sridhar-rajagopal/weather-station-with-epaper-and-raspberry-pi-c26a70
-            https://www.hackster.io/aerodynamics/weather-and-news-station-e-paper-and-raspberry-pi-a19fa3
-            https://www.hackster.io/ChrisSamuelson/lora-raspberry-pi-single-channel-gateway-cheap-d57d36
-            https://www.hackster.io/4DMakers/raspberry-pi-internet-weather-station-f960c4
-            https://www.hackster.io/sarakit/voice-chatgpt-on-raspberry-pi-with-sarakit-c58ff7
-            https://learn.adafruit.com/pipypirate-radio/overview
-            https://www.hackster.io/Granpino/raspiplayer-internet-radio-and-mp3-folder-player-3ddfdf
-            https://www.hackster.io/hartmut-wendt/raspberry-pi-based-weather-station-a9a7dd
-            https://www.hackster.io/superior-tech/advanced-cyber-security-and-education-device-superior-boy-133905
-            https://www.hackster.io/Granpino/raspberry-pi-internet-radio-and-mp3-player-with-bluetooth-1aa591
-            https://www.hackster.io/theonlystephensimon/run-raspberry-pi-on-smart-phone-31b414
-			https://makezine.com/projects/pirate-radio-throwies/
+==========================================================================================================================================
+
+		https://www.hackster.io/sridhar-rajagopal/weather-station-with-epaper-and-raspberry-pi-c26a70
+		https://www.hackster.io/aerodynamics/weather-and-news-station-e-paper-and-raspberry-pi-a19fa3
+		https://www.hackster.io/ChrisSamuelson/lora-raspberry-pi-single-channel-gateway-cheap-d57d36
+		https://www.hackster.io/4DMakers/raspberry-pi-internet-weather-station-f960c4
+		https://www.hackster.io/sarakit/voice-chatgpt-on-raspberry-pi-with-sarakit-c58ff7
+		https://learn.adafruit.com/pipypirate-radio/overview
+		https://www.hackster.io/Granpino/raspiplayer-internet-radio-and-mp3-folder-player-3ddfdf
+		https://www.hackster.io/hartmut-wendt/raspberry-pi-based-weather-station-a9a7dd
+		https://www.hackster.io/superior-tech/advanced-cyber-security-and-education-device-superior-boy-133905
+		https://www.hackster.io/Granpino/raspberry-pi-internet-radio-and-mp3-player-with-bluetooth-1aa591
+		https://www.hackster.io/theonlystephensimon/run-raspberry-pi-on-smart-phone-31b414
+		https://makezine.com/projects/pirate-radio-throwies/
 
 ==========================================================================================================================================
