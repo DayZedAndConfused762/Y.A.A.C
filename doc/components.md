@@ -171,6 +171,8 @@ Apache 3800 Black | https://www.harborfreight.com/3800-weatherproof-protective-c
 
         Cases
 
+ 	C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W	https://www.amazon.com/Triple-Stack-Raspberry-Zero-W-C4Labs/dp/B06XCK7G2R/
+
         Core Compute
 
             Beelink S12 Pro Mini PC                                             	https://www.amazon.com/Beelink-Desktop-Computer-Support-Ethernet/dp/B0BVLS7ZHP/
@@ -254,12 +256,17 @@ Apache 3800 Black | https://www.harborfreight.com/3800-weatherproof-protective-c
             Nilight 4 in 1 ON/Off Charger Socket Panel                          https://www.amazon.com/gp/product/B0BC8G9DNY/ref=ox_sc_saved_image_6?smid=ATVPDKIKX0DER&psc=1
 
                 UPS
+		https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B097RC8KLQ/
+ 		 https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/
+ 		 https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/
 
 
         Screens
 
             2.13inch E-Ink Display HAT V4                                       https://www.amazon.com/dp/B07Z1WYRQH/
             waveshare 1.51inch Transparent OLED                                 https://www.amazon.com/gp/product/B0B8N46G24/
+	    https://www.amazon.com/Waveshare-2-13inch-Raspberry-Pwnagotchi-Interface/dp/B0D5CJKXTD/
+     https://www.amazon.com/Waveshare-2-13inch-Touch-Raspberry-Protection/dp/B09GKB8XT8/
 
 	SDR Dongle
 
@@ -283,3 +290,10 @@ Apache 3800 Black | https://www.harborfreight.com/3800-weatherproof-protective-c
         Wifi Adapters
 
 ==========================================================================================================================================
+
+	
+	
+	
+	
+	
+	
