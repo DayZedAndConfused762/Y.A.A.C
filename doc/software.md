@@ -68,6 +68,13 @@ SDRangel TX & RX Software Defined Radio | https://www.sdrangel.org/
 
 <!-- ============================================================ -->
 
+### Weather
+Description|Link
+---|---
+Pi Weather Station | https://github.com/elewin/pi-weather-station
+
+<!-- ============================================================ -->
+
 ### Utilities
 Description|Link
 ---|---
