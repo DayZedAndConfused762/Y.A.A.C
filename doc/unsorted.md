@@ -1,8 +1,10 @@
-==========================================================================================================================================
+# Y.A.A.C - Unsorted
 
-                                            Unsorted Links related to the YAAC
+This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 
-==========================================================================================================================================
+<!-- ============================================================ -->
+
+### Unsorted Links
 
 * https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/14405pn/what_projects_for_raspberry_pi_zero_wh/
 * https://www.quora.com/What-is-the-coolest-thing-youve-done-with-a-Raspberry-Pi
@@ -28,5 +30,3 @@
 * https://www.python.org/about/gettingstarted/
 * https://fluidicice.com/TPE.html
 * https://www.reddit.com/r/learnpython/comments/11kcko1/best_way_to_learn_python/
-
-==========================================================================================================================================
