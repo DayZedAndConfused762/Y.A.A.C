@@ -6,16 +6,6 @@ This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 
 ### Unsorted Links
 
-* https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/14405pn/what_projects_for_raspberry_pi_zero_wh/
-* https://www.quora.com/What-is-the-coolest-thing-youve-done-with-a-Raspberry-Pi
-* https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/
-* https://github.com/rm-hull/pifm
-* https://github.com/ka9cql/pifm
-* https://github.com/miegl/PiFmAdv
-* https://github.com/MundeepL/PiFM
-* https://makezine.com/projects/pirate-radio-throwies
-* https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers
-* https://magicmirror.builders/
 * https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/16b5t44/just_got_a_pi_zero_w_what_are_some_good_first/
 * https://github.com/blake5634/Simple-Internet-Radio
 * https://pwnagotchi.ai/
