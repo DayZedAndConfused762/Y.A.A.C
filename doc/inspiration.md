@@ -7,6 +7,7 @@ This is a list of inspiration and sources of information for the Y.A.A.C
 ### Coding
 Description|URL
 ---|---
+GitHub Flavored Markdown Spec | https://github.github.com/gfm/
 Python for Beginners | https://www.python.org/about/gettingstarted/
 Best way to learn python? | https://www.reddit.com/r/learnpython/comments/11kcko1/best_way_to_learn_python/
 
