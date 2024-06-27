@@ -4,6 +4,14 @@ This is a list of inspiration and sources of information for the Y.A.A.C
 
 <!-- ============================================================ -->
 
+### Coding
+Description|URL
+---|---
+Python for Beginners | https://www.python.org/about/gettingstarted/
+Best way to learn python? | https://www.reddit.com/r/learnpython/comments/11kcko1/best_way_to_learn_python/
+
+<!-- ============================================================ -->
+
 ### CyberSecurity
 Description|URL
 ---|---
@@ -30,6 +38,8 @@ RACHEL Module information | https://community.worldpossible.org/
 RPi/Coding tutorials | https://www.youtube.com/@mmshilleh
 Raspberry Pi as an FM Transmitter | https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/
 Stopping people play music via bluetooth speakers | https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers
+Setup a Raspberry Pi to run a Web Browser in Kiosk Mode | https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/
+Raspberry Pi Configuration | https://www.raspberrypi.com/documentation/computers/configuration.html
 
 <!-- ============================================================ -->
 
