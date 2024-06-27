@@ -1,6 +1,6 @@
 # Y.A.A.C - Content
 
-This is a list of content tp be included on the Y.A.A.C
+This is a list of content to be included on the Y.A.A.C
 
 <!-- ============================================================ -->
 
