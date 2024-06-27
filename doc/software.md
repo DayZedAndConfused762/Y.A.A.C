@@ -8,7 +8,7 @@ Software current in use or to be used on the Y.A.A.C.
 Description|Link
 ---|---
 Kali linux | https://www.kali.org
-Raspberrian | https://www.raspberrypi.com/software/
+Raspberry Pi OS Bookworm | https://www.raspberrypi.com/software/
 RetroPi | https://retropie.org.uk/
 Collapse OS | http://collapseos.org/
 DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi | https://sourceforge.net/projects/dragonos-pi64/
