@@ -1,30 +1,33 @@
-==========================================================================================================================================
+# Y.A.A.C - Components List
 
-								Y.A.A.C Components
+This is a list of all componenets used in the Y.A.A.C, as well as links and prices (when available).  This list also includes other components I own but have not used yet, as well as components not yet purchased but may be useful.
 
-==========================================================================================================================================
+## Components Used
 
-    								Components Used
+### Cables & Adapters
 
-==========================================================================================================================================
+Item|URL|Price
+---|---|---
+4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
+Poyiccot USB C Adapter 40Gbps | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
+3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
+Cable Matters 48Gbps 8K HDMI Coiled Cable | https://www.amazon.com/dp/B0CSS993KB | $12.99
+QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $15.99
+PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
+PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
+USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
+YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
+Cable Matters 10Gbps 5-Pack Cat6 Cable | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
 
-	Cables & Adapters
-		4K Micro HDMI to HDMI Cable Adapter 3FT					https://www.amazon.com/gp/product/B08C2QMT4R/        $8.99
-		Poyiccot USB C Adapter 40Gbps						https://www.amazon.com/dp/B0BBTF5PYQ/                $8.96
-		3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C)              	https://www.amazon.com/dp/B07TSFYXBC/               $12.99
-		Cable Matters 48Gbps 8K HDMI Coiled Cable                           	https://www.amazon.com/dp/B0CSS993KB                $12.99
-		QIANRENON 10Gbps USB C Panel Mount                                  	https://www.amazon.com/gp/product/B0CKL8DJWH/       $15.99
-		PENGLIN 2PCS USB 3.0 Waterproof Socket                              	https://www.amazon.com/gp/product/B0B9ZKQ51N/       $13.99
-		PENGLIN 2PCS RJ45 Panel Mount Coupler                               	https://www.amazon.com/gp/product/B09Z2977RZ/       $14.99
-		USB to USB Cable 1.5FT(2 Package)                                   	https://www.amazon.com/gp/product/B0CQYF74JY/        $8.99
-		YiKaiEn USB-C 3.1 Panel Mount Adapter                               	https://www.amazon.com/gp/product/B0CVXCL791/        $9.99
-		Cable Matters 10Gbps 5-Pack Cat6 Cable                              	https://www.amazon.com/gp/product/B00BIPSHQK/        $9.99
+### Card readers and Hubs
+Item|URL|Price
+---|---|---
+BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
+USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J4ZT/ | $9.99
 
-        Card readers and Hubs
-		BUDI Multifunctional 9 in1 SD Card Reader                           	https://www.amazon.com/gp/product/B0BJ622NHZ/       $27.99
-		USB Hub 3.0, 7-Port USB Hub Splitter                                	https://www.amazon.com/gp/product/B0B6B1J4ZT/        $9.99
-
-        Case
+### Cases
+Item|URL|Price
+---|---|---
 		GeeekPi Armor Case with PWM Fan for Raspberry Pi 4                  	https://www.amazon.com/gp/product/B083XV78RD/       $17.99
 		Apache 3800 Black                                                   	https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html       $39.99
 
