@@ -40,6 +40,7 @@ Raspberry Pi as an FM Transmitter | https://makezine.com/article/maker-news/rasp
 Stopping people play music via bluetooth speakers | https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers
 Setup a Raspberry Pi to run a Web Browser in Kiosk Mode | https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/
 Raspberry Pi Configuration | https://www.raspberrypi.com/documentation/computers/configuration.html
+How to display markdown document with rendering on RPi4? | https://forums.raspberrypi.com/viewtopic.php?t=278720
 
 <!-- ============================================================ -->
 
