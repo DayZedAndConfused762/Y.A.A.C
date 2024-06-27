@@ -20,6 +20,7 @@ YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXC
 Cable Matters 10Gbps 5-Pack Cat6 Cable | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
 
 ### Card readers and Hubs
+
 Item|URL|Price
 ---|---|---
 BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
@@ -28,8 +29,8 @@ USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J
 ### Cases
 Item|URL|Price
 ---|---|---
-		GeeekPi Armor Case with PWM Fan for Raspberry Pi 4                  	https://www.amazon.com/gp/product/B083XV78RD/       $17.99
-		Apache 3800 Black                                                   	https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html       $39.99
+GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
+Apache 3800 Black | https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html | $39.99
 
         Cooling
 		SCCCF Mini, Compact 40mm x 20mm USB Fan                             	https://www.amazon.com/gp/product/B098LBSW23/        $9.99
