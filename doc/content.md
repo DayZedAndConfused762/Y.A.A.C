@@ -5,7 +5,7 @@ This is a list of content tp be included on the Y.A.A.C
 <!-- ============================================================ -->
 
 ## Book PDFs
-Desription|URL
+Description|URL
 ---|---
 Folkscanomy: Prepper and Survivalist Books | https://archive.org/details/folkscanomy_prepper
 Folkscanomy: Self-Defense Books | https://archive.org/details/folkscanomy_defense
