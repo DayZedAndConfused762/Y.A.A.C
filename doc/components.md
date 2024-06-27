@@ -147,23 +147,13 @@ Item|URL|Price
 ---|---|---
 Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
 
-==========================================================================================================================================
-
-    							Possible Components to Use
-
-==========================================================================================================================================
+## Possible Components to Use
 
 ### Antennas
 
 ### Cables & Adapters
 
-	  USB C to C
-		QianLink Micro USB to USB C Adapter                                 	https://www.amazon.com/dp/B07PH77NCL
-		2Pcs 3FT Flat Design USB C Android Auto Cable                       	https://www.amazon.com/Charger-Compatible-Nintendo-DualSense-Controller/dp/B08F7KCLKR/
 
-	  USB C to A
-		Right Angle USB A Male to USB C Female Adapter                      	https://www.amazon.com/gp/product/B08PSCL9FC/
-		3.5mm Angle Male to Female Audio Adapter                            	https://www.amazon.com/gp/product/B07YFBCQTT/
 
 	  Ethernet
 		Cable Matters 10Gbps 5-Pack Snagless Short Shielded Cat6A 6pk       	https://www.amazon.com/gp/product/B00BIPSHQK/
@@ -194,10 +184,14 @@ Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/
             Charger Cable 3FT for Car, Coiled USB C to USB C                    	https://www.amazon.com/gp/product/B0CQR8FDR2/
             SUNGUY USB C Male to USB C Male CableRight Angle                    	https://www.amazon.com/gp/product/B07H96FWY9/
             SUNGUY USB C to USB C 1.5FT [2Pack]                                 	https://www.amazon.com/gp/product/B08L7NCLZN/
+		QianLink Micro USB to USB C Adapter                                 	https://www.amazon.com/dp/B07PH77NCL
+		2Pcs 3FT Flat Design USB C Android Auto Cable                       	https://www.amazon.com/Charger-Compatible-Nintendo-DualSense-Controller/dp/B08F7KCLKR/
 
                 C to A
             JXMOX Short USB C Cable (1ft 3-Pack)                                	https://www.amazon.com/gp/product/B07HQHL6ZK/
             USB C Cable Fast Charging, 2Pack 3ft Coiled USB A                   	https://www.amazon.com/Charging-Coiled-Retractable-Compatible-Samsung/dp/B0BQ93DBF3/
+		Right Angle USB A Male to USB C Female Adapter                      	https://www.amazon.com/gp/product/B08PSCL9FC/
+		3.5mm Angle Male to Female Audio Adapter                            	https://www.amazon.com/gp/product/B07YFBCQTT/
 
                 C Extention
             APEXSUN USB C Extension Cable(2Pack,0.4Ft)                          	https://www.amazon.com/dp/B0C9JMH9VT
