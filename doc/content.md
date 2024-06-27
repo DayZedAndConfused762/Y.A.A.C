@@ -24,3 +24,4 @@ PoleShift Library | https://the-eye.eu/public/Books/pssurvival.com/PS/
 *Medical Tactical and Wilderness Library | https://www.mediafire.com/file/v2ujdc4jv45ngxf/Medical+Tactical+and+Wilderness+Survival+Guides.zip/file
 Essential Survival Guides & Fiction | https://www.ar15.com/forums/outdoors/Essential-Survival-Guides-andamp-Fiction/20/
 Pole Shift Survival Information | https://web.archive.org/web/20210115140217/https://www.ps-survival.com/
+The Preparedness Encyclopedia | https://fluidicice.com/tpe.html
