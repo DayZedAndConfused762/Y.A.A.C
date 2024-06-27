@@ -8,28 +8,12 @@ This is a list of all componenets used in the Y.A.A.C, as well as links and pric
 ### Cables & Adapters
 Item|URL|Price
 ---|---|---
-4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
-Poyiccot USB C Adapter 40Gbps | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
-3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
-Cable Matters 48Gbps 8K HDMI Coiled Cable | https://www.amazon.com/dp/B0CSS993KB | $12.99
-QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $15.99
-PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
-PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
-USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
-YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
-Cable Matters 10Gbps 5-Pack Cat6 Cable | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
-
-### Card readers and Hubs
-Item|URL|Price
----|---|---
-BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
-USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J4ZT/ | $9.99
 
 ### Cases
 Item|URL|Price
 ---|---|---
-GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
 Apache 3800 Black | https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html | $39.99
+Geekworm for Raspberry Pi 4 Case, Universal HAT Size | https://www.amazon.com/gp/product/B074T7D1V5/ | $6.00
 
 ### Cooling
 Item|URL|Price
@@ -52,14 +36,31 @@ Item|URL|Price
 E-YOOSO 60 Percent Mechanical Keyboard | https://www.amazon.com/gp/product/B098JVHPBF/ | $25.99
 TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ | $14.99
 
+### Hubs and Card Readers
+Item|URL|Price
+---|---|---
+BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
+USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J4ZT/ | $9.99
+
 ### Panels & Mounts
 Item|URL|Price
 ---|---|---
 
 ### Power
+#### Batteries
 Item|URL|Price
 ---|---|---
-Powdeom 140W Power Bank, 24600mAh | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
+Panasonic 18650 flat top unprotected | https://www.18650batterystore.com/products/panasonic-ncr18650b | $
+
+#### Buttons
+Item|URL|Price
+Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
+---|---|---
+
+#### UPS
+Item|URL|Price
+---|---|---
+Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
 
 ### Screws & Misc Hardware
 Item|URL|Price
@@ -69,11 +70,13 @@ LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.c
 ### Storage
 Item|URL|Price
 ---|---|---
-SanDisk 64GB Extreme PRO® microSD | https://www.amazon.com/gp/product/B09X7BYSFG/ | $13.99
-SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB) | https://www.amazon.com/gp/product/B09FFK1QLR/ | $20.82
+
 Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
+SanDisk 512GB Ultra microSDXC | https://www.walmart.com/ip/1455959513
+SanDisk 1TB Extreme External Portable SSD | https://www.walmart.com/ip/1455959513
 
 <!-- ============================================================ -->
+
 ## Components Owned
 
 ### Cases
@@ -84,6 +87,7 @@ GeeekPi Pi Zero 2 W Case/Zero W Case, 7 in 1 Basic Starter Kit | https://www.ama
 Geekworm for Raspberry Pi 4 Case, Universal HAT | https://www.amazon.com/dp/B074T7D1V5 | $6.00
 Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
 Micro SD/SDHC/SDXC Card Storage Holder Case | https://www.amazon.com/dp/B0196PR0H0 | $5.95
+GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
 
 ### Cables
 Item|URL|Price
@@ -96,6 +100,16 @@ StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product
 USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
 Seadream 1Foot 90 Degree Down Angle Micro HDMI | https://www.amazon.com/dp/B07BLX88H4 | $7.29
 SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
+4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
+Poyiccot USB C Adapter 40Gbps | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
+3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
+Cable Matters 48Gbps 8K HDMI Coiled Cable | https://www.amazon.com/dp/B0CSS993KB | $12.99
+QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $15.99
+PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
+PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
+USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
+YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
+Cable Matters 10Gbps 5-Pack Cat6 Cable | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
 
 ### Cooling
 Item|URL|Price
@@ -126,15 +140,21 @@ Item|URL|Price
 ---|---|---
 Anker 737 Power Bank, 24,000mAh 3-Port Laptop Portable Charger | https://www.amazon.com/gp/product/B09VPHVT2Z/ | $88.95
 Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.amazon.com/gp/product/B09VP9QJSS/ | $79.99
-Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
-Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
+Powdeom 140W Power Bank, 24600mAh | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
 
 ### Screens
 Item|URL|Price
 ---|---|---
 Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
 
+### Storage
+Item|URL|Price
+---|---|---
+SanDisk 64GB Extreme PRO® microSD | https://www.amazon.com/gp/product/B09X7BYSFG/ | $13.99
+SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB) | https://www.amazon.com/gp/product/B09FFK1QLR/ | $20.82
+
 <!-- ============================================================ -->
+
 ## Possible Components to Use
 
 ### Antennas
@@ -297,7 +317,6 @@ SHARGEEK 170 Power Bank, 170W Output 24,000mAh |  https://www.amazon.com/dp/B0CR
 Shargeek Portable Charger, Storm 2 100W 25600mAh | https://www.amazon.com/gp/product/B09NY8GN76/ | $
 Talentcell Rechargeable 12V 6000mAh/5V 12000mAh | https://www.amazon.com/TalentCell-Rechargeable-12000mAh-Multi-led-indicator/dp/B00ME3ZH7C/ | $
 Trozk Portable Charger, PD30W | https://www.amazon.com/Trozk-Portable-Charger-Charging-10000mAh/ | $
-Panasonic 18650 flat top unprotected | https://www.18650batterystore.com/products/panasonic-ncr18650b | $
 
 #### Misc
 Item|URL|Price
