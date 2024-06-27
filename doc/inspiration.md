@@ -1,4 +1,4 @@
-# Y.A.A.C - Content
+# Y.A.A.C - Inspiration
 
 This is a list of inspiration and sources of information for the Y.A.A.C
 
