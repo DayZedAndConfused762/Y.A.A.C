@@ -12,6 +12,42 @@ This is a list of all componenets used in the Y.A.A.C, as well as links and pric
 Item|URL|Price
 ---|---|---
 
+#### Ethernet
+Item|URL|Price
+---|---|---
+
+#### GPIO
+Item|URL|Price
+---|---|---
+
+#### HDMI
+Item|URL|Price
+---|---|---
+
+#### USB A to A
+Item|URL|Price
+---|---|---
+
+#### USB C to C
+Item|URL|Price
+---|---|---
+
+#### USB C to A
+Item|URL|Price
+---|---|---
+
+#### USB C Extention
+Item|URL|Price
+---|---|---
+
+#### USB C Splitter
+Item|URL|Price
+---|---|---
+
+#### USB Micro
+Item|URL|Price
+---|---|---
+
 ### Cases
 Item|URL|Price
 ---|---|---
@@ -46,6 +82,10 @@ BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0
 USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J4ZT/ | $9.99
 
 ### Panels & Mounts
+Item|URL|Price
+---|---|---
+
+### Ports
 Item|URL|Price
 ---|---|---
 
@@ -260,8 +300,6 @@ SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th
 ELECROW Crowpi Raspberry Pi 4 3 b 3b+ 4b+ | https://www.amazon.com/dp/B07L4RZP6B | 
 Deauther Watch | https://www.theverge.com/23412661/deauther-watch-wifi-hacking-chip-network-deauthorization-secure-oled | 
 
-
-
 ### GPS Dongle
 Item|URL|Price
 ---|---|---
@@ -302,6 +340,10 @@ PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9Z
 QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $
 QIANRENON TRS 3.5mm Panel Mount | https://www.amazon.com/gp/product/B0CQLPX1VB/ | $
 USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $
+
+### Ports
+Item|URL|Price
+---|---|---
 
 ### Power
 
