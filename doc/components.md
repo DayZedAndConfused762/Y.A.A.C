@@ -81,6 +81,7 @@ Argon ONE M.2 Aluminum Case | https://www.amazon.com/gp/product/B08MJ3CSW7/ | $4
 GeeekPi Pi Zero 2 W Case/Zero W Case, 7 in 1 Basic Starter Kit | https://www.amazon.com/gp/product/B08MVH2JJ1/ | $9.99
 Geekworm for Raspberry Pi 4 Case, Universal HAT | https://www.amazon.com/dp/B074T7D1V5 | $6.00
 Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
+Micro SD/SDHC/SDXC Card Storage Holder Case | https://www.amazon.com/dp/B0196PR0H0 | $5.95
 
 ### Cables
 Item|URL|Price
@@ -91,6 +92,8 @@ USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.co
 Short USB C to USB C Cable 60W (2-Pack 1ft) | https://www.amazon.com/gp/product/B0BV6BGQ3B/ | $5.99
 StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $5.29
 USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
+Seadream 1Foot 90 Degree Down Angle Micro HDMI | https://www.amazon.com/dp/B07BLX88H4 | $7.29
+SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
 
 ### Cooling
 Item|URL|Price
@@ -140,55 +143,56 @@ Item|URL|Price
 #### Ethernet
 Item|URL|Price
 ---|---|---
-		iGreely Ethernet Extender 2Pack RJ45                                	https://www.amazon.com/Ethernet-Extender-iGreely-Network-Extension/dp/B06Y4J9MZ4/
-		SinLoon 90 Degree Left to Right Angle Cat8 Ethernet                 	https://www.amazon.com/gp/product/B0B3RKQRV1/
-		StarTech.com 6 in CAT6 Cable                                        	https://www.amazon.com/gp/product/B078MP2HN1/
+iGreely Ethernet Extender 2Pack RJ45 | https://www.amazon.com/Ethernet-Extender-iGreely-Network-Extension/dp/B06Y4J9MZ4/
+SinLoon 90 Degree Left to Right Angle Cat8 Ethernet | https://www.amazon.com/gp/product/B0B3RKQRV1/
+StarTech.com 6 in CAT6 Cable | https://www.amazon.com/gp/product/B078MP2HN1/
 
 #### GPIO
 Item|URL|Price
 ---|---|---
-		Chanzon 40pcs 30cm Long Male to Female Header Jumper                	https://www.amazon.com/gp/product/B09FP9M5J9/
+Chanzon 40pcs 30cm Long Male to Female Header Jumper | https://www.amazon.com/gp/product/B09FP9M5J9/
+
 #### HDMI
 Item|URL|Price
 ---|---|---
-		Cable Matters 48Gbps 8K HDMI                                        	https://www.amazon.com/gp/product/B0CSS993KB/
-		HDMI Cable Flat – 3ft – 4K@60Hz (Flat Cable                         	https://www.amazon.com/HDMI-Cable-Flat-According-CableDirect/dp/B0BV72556Z/
-		Seadream 4K Micro HDMI to HDMI Cable 1FT 2Pack                      	https://www.amazon.com/gp/product/B0B938BP37/
+Cable Matters 48Gbps 8K HDMI | https://www.amazon.com/gp/product/B0CSS993KB/
+HDMI Cable Flat – 3ft – 4K@60Hz (Flat Cable) | https://www.amazon.com/HDMI-Cable-Flat-According-CableDirect/dp/B0BV72556Z/
+Seadream 4K Micro HDMI to HDMI Cable 1FT 2Pack | https://www.amazon.com/gp/product/B0B938BP37/
 
 #### USB A to A
 Item|URL|Price
 ---|---|---
-            USB 3.0 USB Male A to Female A                                      	https://www.amazon.com/gp/product/B09YL35VPF/
-            USB to USB Cable 1.5FT(2 Package)                                   	https://www.amazon.com/gp/product/B0CQYF74JY/
+USB 3.0 USB Male A to Female A | https://www.amazon.com/gp/product/B09YL35VPF/
+USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/
 
 #### USB C to C
 Item|URL|Price
 ---|---|---
-            Charger Cable 3FT for Car, Coiled USB C to USB C                    	https://www.amazon.com/gp/product/B0CQR8FDR2/
-            SUNGUY USB C Male to USB C Male CableRight Angle                    	https://www.amazon.com/gp/product/B07H96FWY9/
-            SUNGUY USB C to USB C 1.5FT [2Pack]                                 	https://www.amazon.com/gp/product/B08L7NCLZN/
-		QianLink Micro USB to USB C Adapter                                 	https://www.amazon.com/dp/B07PH77NCL
-		2Pcs 3FT Flat Design USB C Android Auto Cable                       	https://www.amazon.com/Charger-Compatible-Nintendo-DualSense-Controller/dp/B08F7KCLKR/
+Charger Cable 3FT for Car, Coiled USB C to USB C | https://www.amazon.com/gp/product/B0CQR8FDR2/
+SUNGUY USB C Male to USB C Male CableRight Angle | https://www.amazon.com/gp/product/B07H96FWY9/
+SUNGUY USB C to USB C 1.5FT [2Pack] | https://www.amazon.com/gp/product/B08L7NCLZN/
+QianLink Micro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL
+2Pcs 3FT Flat Design USB C Android Auto Cable | https://www.amazon.com/Charger-Compatible-Nintendo-DualSense-Controller/dp/B08F7KCLKR/
 
-#### C to A
+#### USB C to A
 Item|URL|Price
 ---|---|---
-            JXMOX Short USB C Cable (1ft 3-Pack)                                	https://www.amazon.com/gp/product/B07HQHL6ZK/
-            USB C Cable Fast Charging, 2Pack 3ft Coiled USB A                   	https://www.amazon.com/Charging-Coiled-Retractable-Compatible-Samsung/dp/B0BQ93DBF3/
-		Right Angle USB A Male to USB C Female Adapter                      	https://www.amazon.com/gp/product/B08PSCL9FC/
-		3.5mm Angle Male to Female Audio Adapter                            	https://www.amazon.com/gp/product/B07YFBCQTT/
+JXMOX Short USB C Cable (1ft 3-Pack) | https://www.amazon.com/gp/product/B07HQHL6ZK/
+USB C Cable Fast Charging, 2Pack 3ft Coiled USB A | https://www.amazon.com/Charging-Coiled-Retractable-Compatible-Samsung/dp/B0BQ93DBF3/
+Right Angle USB A Male to USB C Female Adapter | https://www.amazon.com/gp/product/B08PSCL9FC/
+3.5mm Angle Male to Female Audio Adapter | https://www.amazon.com/gp/product/B07YFBCQTT/
 
-#### C Extention
+#### USB C Extention
 Item|URL|Price
 ---|---|---
-            APEXSUN USB C Extension Cable(2Pack,0.4Ft)                          	https://www.amazon.com/dp/B0C9JMH9VT
-            CLEEFUN USB C Extension Cable 1ft                                   	https://www.amazon.com/gp/product/B0C9STSC2B/
-            USB C Extension Cable(2Pack,0.4Ft)                                  	https://www.amazon.com/gp/product/B0C9JMH9VT/
+APEXSUN USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/dp/B0C9JMH9VT
+CLEEFUN USB C Extension Cable 1ft | https://www.amazon.com/gp/product/B0C9STSC2B/
+USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/gp/product/B0C9JMH9VT/
 
-#### C Splitter
+#### USB C Splitter
 Item|URL|Price
 ---|---|---
-            USB Type C Splitter                                                 	https://www.amazon.com/gp/product/B0BZ8DFFNP/
+USB Type C Splitter | https://www.amazon.com/gp/product/B0BZ8DFFNP/
 
 #### USB Micro
 Item|URL|Price
@@ -197,38 +201,38 @@ Item|URL|Price
 ### Cases
 Item|URL|Price
 ---|---|---
- 	C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W	https://www.amazon.com/Triple-Stack-Raspberry-Zero-W-C4Labs/dp/B06XCK7G2R/
+C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W | https://www.amazon.com/Triple-Stack-Raspberry-Zero-W-C4Labs/dp/B06XCK7G2R/
 
 ### Core Compute
 Item|URL|Price
 ---|---|---
-            Beelink S12 Pro Mini PC                                             	https://www.amazon.com/Beelink-Desktop-Computer-Support-Ethernet/dp/B0BVLS7ZHP/
-            GeeekPi Raspberry Pi Zero 2 W Starter Kit                           	https://www.amazon.com/gp/product/B0BHD2S5MJ/
-            Raspberry Pi Zero WH                                                	https://www.amazon.com/gp/product/B0CG99MR5W/
-		Waveshare Package D 												https://www.amazon.com/Raspberry-Zero-WHC-Package-USB-HUB-Box/dp/B09LCKNKM5/#customerReviews
+Beelink S12 Pro Mini PC | https://www.amazon.com/Beelink-Desktop-Computer-Support-Ethernet/dp/B0BVLS7ZHP/
+GeeekPi Raspberry Pi Zero 2 W Starter Kit | https://www.amazon.com/gp/product/B0BHD2S5MJ/
+Raspberry Pi Zero WH | https://www.amazon.com/gp/product/B0CG99MR5W/
+Waveshare Package D | https://www.amazon.com/Raspberry-Zero-WHC-Package-USB-HUB-Box/dp/B09LCKNKM5/#customerReviews
 
 ### Cooling
 Item|URL|Price
 ---|---|---
-            2 Packs Wathai 60mm x 10mm USB                                      https://www.amazon.com/Packs-Wathai-60mm-Brushless-Cooling/dp/B0821YC2NW/
-            2Pack Quiet 80mm USB Fan                                            https://www.amazon.com/gp/product/B0C1GF3R3Y/
-            2Pack Quiet 120mm USB Fan                                           https://www.amazon.com/gp/product/B0BFZWV9FH/
-            AC Infinity MULTIFAN Mini, Compact 40mm x 20mm USB                  https://www.amazon.com/AC-Infinity-MULTIFAN-Raspberry-Ventilation/dp/B07CNJ4DYX/
-            Coolerguys 25mm (25x25x10) USB Fan                                  https://www.amazon.com/Coolerguys-25mm-25x25x10-USB-Fan/dp/B07NC4Z24T/
-            ELUTENG Dual 40mm USB Fan                                           https://www.amazon.com/ELUTENG-Adjustable-Computer-Compatible-Playstation/dp/B08ZY7X4CR/
-            ELUTENG Dual Cooling Fan Whisper Quiet 80mm USB                     https://www.amazon.com/ELUTENG-Cooling-Adjustable-Heatsink-Playstation/dp/B09QMC1458/
+2 Packs Wathai 60mm x 10mm USB | https://www.amazon.com/Packs-Wathai-60mm-Brushless-Cooling/dp/B0821YC2NW/
+2Pack Quiet 80mm USB Fan | https://www.amazon.com/gp/product/B0C1GF3R3Y/
+2Pack Quiet 120mm USB Fan | https://www.amazon.com/gp/product/B0BFZWV9FH/
+AC Infinity MULTIFAN Mini, Compact 40mm x 20mm USB | https://www.amazon.com/AC-Infinity-MULTIFAN-Raspberry-Ventilation/dp/B07CNJ4DYX/
+Coolerguys 25mm (25x25x10) USB Fan | https://www.amazon.com/Coolerguys-25mm-25x25x10-USB-Fan/dp/B07NC4Z24T/
+ELUTENG Dual 40mm USB Fan | https://www.amazon.com/ELUTENG-Adjustable-Computer-Compatible-Playstation/dp/B08ZY7X4CR/
+ELUTENG Dual Cooling Fan Whisper Quiet 80mm USB | https://www.amazon.com/ELUTENG-Cooling-Adjustable-Heatsink-Playstation/dp/B09QMC1458/
 
 ### Gadgets
 Item|URL|Price
 ---|---|---
-		Military Grade Hard Drive Wiper					https://www.amazon.com/gp/product/B07RPNJPRG/
-		Password Reset Key Pro Next Generation - USB 3.0		https://www.amazon.com/dp/B08PNH5VFG/
-		Pirate Audio: Speaker for Raspberry Pi - Built-in 1W Speaker	https://www.adafruit.com/product/4451               $24.95
-		Pirate Audio: 3W Stereo Speaker Amp for Raspberry Pi		https://www.adafruit.com/product/4453               $24.95
-		Mini Monochrome PiOLED Ad Blocking Pi-Hole Kit - No Soldering!	https://www.adafruit.com/product/3973               $39.95
-		SOYES XS11 3G Mini Smartphone 2.5Inch				https://www.amazon.com/dp/B08KT1VBZG/?th=1
-		ELECROW Crowpi Raspberry Pi 4 3 b 3b+ 4b+			https://www.amazon.com/dp/B07L4RZP6B
-		Deauther Watch							https://www.theverge.com/23412661/deauther-watch-wifi-hacking-chip-network-deauthorization-secure-oled
+Military Grade Hard Drive Wiper | https://www.amazon.com/gp/product/B07RPNJPRG/
+Password Reset Key Pro Next Generation - USB 3.0 | https://www.amazon.com/dp/B08PNH5VFG/
+Pirate Audio: Speaker for Raspberry Pi - Built-in 1W Speaker | https://www.adafruit.com/product/4451               $24.95
+Pirate Audio: 3W Stereo Speaker Amp for Raspberry Pi | https://www.adafruit.com/product/4453               $24.95
+Mini Monochrome PiOLED Ad Blocking Pi-Hole Kit - No Soldering! | https://www.adafruit.com/product/3973               $39.95
+SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th=1
+ELECROW Crowpi Raspberry Pi 4 3 b 3b+ 4b+ | https://www.amazon.com/dp/B07L4RZP6B
+Deauther Watch | https://www.theverge.com/23412661/deauther-watch-wifi-hacking-chip-network-deauthorization-secure-oled
 
 
 
@@ -239,99 +243,104 @@ Item|URL|Price
 ### Input Devices
 Item|URL|Price
 ---|---|---
-            Medium Panel Mount USB Trackpad with Three Buttons                  https://www.adafruit.com/product/5061               $39.95
+Medium Panel Mount USB Trackpad with Three Buttons | https://www.adafruit.com/product/5061               $39.95
 
 ### Meshtastic
 Item|URL|Price
 ---|---|---
-            LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module                https://www.amazon.com/dp/B0B659536P/
-            915 ESP32 LoRa OLED Board V3                                        https://www.amazon.com/dp/B086ZFCV7F/
-			Armachat - Meshtastic compatible LORA messenger						https://www.tindie.com/products/bobricius/armachat-meshtastic-compatible-lora-messenger/
+LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module | https://www.amazon.com/dp/B0B659536P/
+915 ESP32 LoRa OLED Board V3 |  https://www.amazon.com/dp/B086ZFCV7F/
+Armachat - Meshtastic compatible LORA messenger | https://www.tindie.com/products/bobricius/armachat-meshtastic-compatible-lora-messenger/
 
 ### Mounting and Misc. Hardware
 Item|URL|Price
 ---|---|---
-            2PCS 86 Hole Panel (4 Hole) for D-Type Module Mount                 https://www.amazon.com/gp/product/B09BNGQGP6/
-            600PCS M3 Male Female Nylon Hex Spacer Standoffs                    https://www.amazon.com/gp/product/B0CBPGKDP4/
-            EEEEE (M2 M2.5 M3 M4) 572pcs Standoff Kit                           https://www.amazon.com/gp/product/B0B57DQZHF/
-            T Tulead 20PCS Mini Decorative Handles                              https://www.amazon.com/gp/product/B07SX719XB/
-            VELCRO Brand ONE WRAP Thin Ties                                     https://www.amazon.com/gp/product/B000F5K82A/
-            2PCS 86 Hole Panel (4 Hole) for D-Type Module                       https://www.amazon.com/gp/product/B09BNGQGP6/       $12.99
+2PCS 86 Hole Panel (4 Hole) for D-Type Module Mount | https://www.amazon.com/gp/product/B09BNGQGP6/
+600PCS M3 Male Female Nylon Hex Spacer Standoffs | https://www.amazon.com/gp/product/B0CBPGKDP4/
+EEEEE (M2 M2.5 M3 M4) 572pcs Standoff Kit | https://www.amazon.com/gp/product/B0B57DQZHF/
+T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/
+VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/
+2PCS 86 Hole Panel (4 Hole) for D-Type Module | https://www.amazon.com/gp/product/B09BNGQGP6/       $12.99
 
 ### Network Hub
 Item|URL|Price
 ---|---|---
-            USB Powered Ethernet Switch                                         https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini
-            TP-Link N300 Wireless Portable Router                               https://www.amazon.com/TP-Link-Wireless-Portable-Travel-Router/dp/B00TQEX8BO/
+USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini
+TP-Link N300 Wireless Portable Router | https://www.amazon.com/TP-Link-Wireless-Portable-Travel-Router/dp/B00TQEX8BO/
 
 ### Panel Mounts
 Item|URL|Price
 ---|---|---
-		PENGLIN 2PCS RJ45 Panel Mount Coupler                               https://www.amazon.com/gp/product/B09Z2977RZ/
-		PENGLIN 2PCS USB 3.0 Waterproof Socket                              https://www.amazon.com/gp/product/B0B9ZKQ51N/
-		QIANRENON 10Gbps USB C Panel Mount                                  https://www.amazon.com/gp/product/B0CKL8DJWH/
-		QIANRENON TRS 3.5mm Panel Mount                                     https://www.amazon.com/gp/product/B0CQLPX1VB/
-		USB-C 3.1 Panel Mount Adapter                                       https://www.amazon.com/gp/product/B0CVXCL791/
+PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/
+PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/
+QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/
+QIANRENON TRS 3.5mm Panel Mount | https://www.amazon.com/gp/product/B0CQLPX1VB/
+USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/
 
 ### Power
+
+#### Batteres
 Item|URL|Price
 ---|---|---
-                Batteris
-            12V 18Ah LiFePO4 Battery                                            https://www.amazon.com/dp/B09QKD4G6L/
-            Anker Power Bank, 24,000mAh                                         https://www.amazon.com/Anker-PowerCore-Portable-Charger-Compatible/dp/B09VPHVT2Z/
-            Anker Prime Power Bank, 27,650mAh 3-Port 250W                       https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYP2F3SG/
-			Anker Prime Power Bank, 20,000mAh Portable Charger                  https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYNZXFM2/
-            Anker Prime Power Bank, 27,650mAh 3-Port                            https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYP2F3SG/
-            CUKTECH 20 Power Bank, 25,000mAh                                    https://www.amazon.com/CUKTECH-20-Support-Portable-Charging/dp/B0CCCNYW6Y/
-            LiFePO4 Deep Cycle Battery -20Ah 12v                                https://www.amazon.com/ENERGY-SAFARI-LiFePO4-Battery-Built/dp/B08JQQXB5T/
-            Powdeom 140W Power Bank, 24600mAh                                   https://www.amazon.com/Powdeom-24600mAh-Portable-Charger-Digital/dp/B0CDQ4WK47/
-            SHARGEEK 170 Power Bank, 170W Output 24,000mAh                      https://www.amazon.com/dp/B0CRF1BGVZ/
-			Shargeek Portable Charger, Storm 2 100W 25600mAh                    https://www.amazon.com/gp/product/B09NY8GN76/
-            Talentcell Rechargeable 12V 6000mAh/5V 12000mAh                     https://www.amazon.com/TalentCell-Rechargeable-12000mAh-Multi-led-indicator/dp/B00ME3ZH7C/
-            Trozk Portable Charger, PD30W                                       https://www.amazon.com/Trozk-Portable-Charger-Charging-10000mAh/
-			Panasonic 18650 flat top unprotected								https://www.18650batterystore.com/products/panasonic-ncr18650b
+12V 18Ah LiFePO4 Battery | https://www.amazon.com/dp/B09QKD4G6L/
+Anker Power Bank, 24,000mAh | https://www.amazon.com/Anker-PowerCore-Portable-Charger-Compatible/dp/B09VPHVT2Z/
+Anker Prime Power Bank, 27,650mAh 3-Port 250W | https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYP2F3SG/
+Anker Prime Power Bank, 20,000mAh Portable Charger | https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYNZXFM2/
+Anker Prime Power Bank, 27,650mAh 3-Port | https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYP2F3SG/
+CUKTECH 20 Power Bank, 25,000mAh | https://www.amazon.com/CUKTECH-20-Support-Portable-Charging/dp/B0CCCNYW6Y/
+LiFePO4 Deep Cycle Battery -20Ah 12v | https://www.amazon.com/ENERGY-SAFARI-LiFePO4-Battery-Built/dp/B08JQQXB5T/
+Powdeom 140W Power Bank, 24600mAh | https://www.amazon.com/Powdeom-24600mAh-Portable-Charger-Digital/dp/B0CDQ4WK47/
+SHARGEEK 170 Power Bank, 170W Output 24,000mAh |  https://www.amazon.com/dp/B0CRF1BGVZ/
+Shargeek Portable Charger, Storm 2 100W 25600mAh | https://www.amazon.com/gp/product/B09NY8GN76/
+Talentcell Rechargeable 12V 6000mAh/5V 12000mAh | https://www.amazon.com/TalentCell-Rechargeable-12000mAh-Multi-led-indicator/dp/B00ME3ZH7C/
+Trozk Portable Charger, PD30W | https://www.amazon.com/Trozk-Portable-Charger-Charging-10000mAh/
+Panasonic 18650 flat top unprotected | https://www.18650batterystore.com/products/panasonic-ncr18650b
 
-                Misc
-            3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C)              https://www.amazon.com/gp/product/B07TSFYXBC/
-            4 in 1 ON/Off Toggle Switch                                         https://www.amazon.com/Okerny-Charger-Voltmeter-Cigarette-Lighter/dp/B0CPNYDCP6/
-            Nilight 4 in 1 ON/Off Charger Socket Panel                          https://www.amazon.com/gp/product/B0BC8G9DNY/ref=ox_sc_saved_image_6?smid=ATVPDKIKX0DER&psc=1
+#### Misc
+Item|URL|Price
+---|---|---
+3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/gp/product/B07TSFYXBC/
+4 in 1 ON/Off Toggle Switch | https://www.amazon.com/Okerny-Charger-Voltmeter-Cigarette-Lighter/dp/B0CPNYDCP6/
+Nilight 4 in 1 ON/Off Charger Socket Panel | https://www.amazon.com/gp/product/B0BC8G9DNY/ref=ox_sc_saved_image_6?smid=ATVPDKIKX0DER&psc=1
 
-                UPS
-		https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B097RC8KLQ/
- 		 https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/
- 		 https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/
+#### UPS
+Item|URL|Price
+---|---|---
+https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B097RC8KLQ/
+https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/
+https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/
 
 
 ### Screens
 Item|URL|Price
 ---|---|---
-            2.13inch E-Ink Display HAT V4                                       https://www.amazon.com/dp/B07Z1WYRQH/
-            waveshare 1.51inch Transparent OLED                                 https://www.amazon.com/gp/product/B0B8N46G24/
-	    https://www.amazon.com/Waveshare-2-13inch-Raspberry-Pwnagotchi-Interface/dp/B0D5CJKXTD/
-     https://www.amazon.com/Waveshare-2-13inch-Touch-Raspberry-Protection/dp/B09GKB8XT8/
+2.13inch E-Ink Display HAT V4 | https://www.amazon.com/dp/B07Z1WYRQH/
+waveshare 1.51inch Transparent OLED | https://www.amazon.com/gp/product/B0B8N46G24/
+https://www.amazon.com/Waveshare-2-13inch-Raspberry-Pwnagotchi-Interface/dp/B0D5CJKXTD/
+https://www.amazon.com/Waveshare-2-13inch-Touch-Raspberry-Protection/dp/B09GKB8XT8/
 
 ### SDR
 Item|URL|Price
 ---|---|---
-            Software Defined Radio (Dongle Only)                                https://www.amazon.com/gp/product/B0BMKZCKTF/
-            V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio  https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD7558GT/
-			RTL-SDR (DVB-T), (DAB), and FM tuner								https://hackerwarehouse.com/product/rtlsdr/
+Software Defined Radio (Dongle Only) | https://www.amazon.com/gp/product/B0BMKZCKTF/
+V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD7558GT/
+RTL-SDR (DVB-T), (DAB), and FM tuner | https://hackerwarehouse.com/product/rtlsdr/
 
 ### Sound
 Item|URL|Price
 ---|---|---
-            WM8960 Audio HAT Module for Raspberry Pi                            https://www.amazon.com/WM8960-Module-Raspberry-Stereo-Record/dp/B098R7TTM4/
-            WM8960 Hi-Fi Sound Card HAT for Raspberry Pi                        https://www.amazon.com/WM8960-Hi-Fi-Raspberry-Stereo-Record/dp/B0CN1D7Z9H/
+ WM8960 Audio HAT Module for Raspberry Pi | https://www.amazon.com/WM8960-Module-Raspberry-Stereo-Record/dp/B098R7TTM4/
+WM8960 Hi-Fi Sound Card HAT for Raspberry Pi | https://www.amazon.com/WM8960-Hi-Fi-Raspberry-Stereo-Record/dp/B0CN1D7Z9H/
 
 ### Storage        
 Item|URL|Price
 ---|---|---
-            SanDisk 128GB Extreme microSDXC                                     https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7BK27V/
+SanDisk 128GB Extreme microSDXC | https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7BK27V/
 
 ### Tools
 Item|URL|Price
 ---|---|---
-            STREBITO Electronics Precision Screwdriver Sets                     https://www.amazon.com/gp/product/B08SGM6F79/
+STREBITO Electronics Precision Screwdriver Sets | https://www.amazon.com/gp/product/B08SGM6F79/
 
 ### Wifi Adapters
 Item|URL|Price
