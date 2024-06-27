@@ -36,6 +36,7 @@ Raspberry Pi Based Weather Station | https://www.hackster.io/hartmut-wendt/raspb
 Advanced Cyber Security and Education Device - SUPERIOR BOY | https://www.hackster.io/superior-tech/advanced-cyber-security-and-education-device-superior-boy-133905
 Raspberry Pi Internet Radio and MP3 Player with Bluetooth | https://www.hackster.io/Granpino/raspberry-pi-internet-radio-and-mp3-player-with-bluetooth-1aa591
 Run Raspberry Pi on Smart Phone | https://www.hackster.io/theonlystephensimon/run-raspberry-pi-on-smart-phone-31b414
+Magic Mirrors/Smart Mirrors | https://magicmirror.builders/
 Raspberry Pi Zero Pirate Radio Throwies | https://makezine.com/projects/pirate-radio-throwies/
 What projects for Raspberry Pi Zero WH?! | https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/14405pn/what_projects_for_raspberry_pi_zero_wh/
 What is the coolest thing you've done with a Raspberry Pi? | https://www.quora.com/What-is-the-coolest-thing-youve-done-with-a-Raspberry-Pi
