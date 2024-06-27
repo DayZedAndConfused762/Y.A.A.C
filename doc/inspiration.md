@@ -4,8 +4,16 @@ This is a list of inspiration and sources of information for the Y.A.A.C
 
 <!-- ============================================================ -->
 
-## Guides
-Desription|URL
+### CyberSecurity
+Description|URL
+---|---
+Pwnagotchi | https://pwnagotchi.ai/
+Pwnagotchi Cases | https://pwnagotchi.org/3d-printable-cases/index.html
+
+<!-- ============================================================ -->
+
+### Guides
+Description|URL
 ---|---
 Boot from USB - RPi 2/3 | https://pimylifeup.com/raspberry-pi-boot-from-usb/
 Kali on RPi Tips | https://raspberrytips.com/use-kali-linux-raspberry-pi/#getting-started-with-kali-linux-on-raspberry-pi
@@ -26,7 +34,7 @@ Stopping people play music via bluetooth speakers | https://hackaday.io/project/
 <!-- ============================================================ -->
 
 ### Sub Reddits
-Desription|URL
+Description|URL
 ---|---
 CyberDecks | https://www.reddit.com/r/cyberDeck/
 Raspberry Pi | https://www.reddit.com/r/raspberry_pi/
@@ -37,14 +45,14 @@ Prepping items on sale | https://www.reddit.com/r/preppersales/
 <!-- ============================================================ -->
 
 ### Youtube
-Desription|URL
+Description|URL
 ---|---
 CRT Cyberdeck | https://www.youtube.com/watch?v=Ty9pPNabPpQ
 
 <!-- ============================================================ -->
 
 ### Raspberry Pi Projects
-Desription|URL
+Description|URL
 ---|---
 Weather Station with ePaper and Raspberry Pi | https://www.hackster.io/sridhar-rajagopal/weather-station-with-epaper-and-raspberry-pi-c26a70
 Weather and news station | https://www.hackster.io/aerodynamics/weather-and-news-station-e-paper-and-raspberry-pi-a19fa3
@@ -61,4 +69,7 @@ Magic Mirrors/Smart Mirrors | https://magicmirror.builders/
 Raspberry Pi Zero Pirate Radio Throwies | https://makezine.com/projects/pirate-radio-throwies/
 What projects for Raspberry Pi Zero WH?! | https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/14405pn/what_projects_for_raspberry_pi_zero_wh/
 What is the coolest thing you've done with a Raspberry Pi? | https://www.quora.com/What-is-the-coolest-thing-youve-done-with-a-Raspberry-Pi
+Just got a Pi Zero W. What are some good first projects for it? | https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/16b5t44/just_got_a_pi_zero_w_what_are_some_good_first/
+MagPi Raspberry Pi Projects | https://magpi.raspberrypi.com/books/projects-1/pdf/download
+
 
