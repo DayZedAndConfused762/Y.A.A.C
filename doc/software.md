@@ -79,3 +79,7 @@ Pi Weather Station | https://github.com/elewin/pi-weather-station
 Description|Link
 ---|---
 Cool-Retro-Term | https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file
+balenaEtcher | https://etcher.balena.io/
+Raspberry Pi Imager | https://www.raspberrypi.com/software/
+Putty | https://www.putty.org/
+
