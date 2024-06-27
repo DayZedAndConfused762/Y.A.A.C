@@ -83,56 +83,69 @@ SanDisk 64GB Extreme PRO® microSD | https://www.amazon.com/gp/product/B09X7BYSF
 SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB) | https://www.amazon.com/gp/product/B09FFK1QLR/ | $20.82
 Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
 
-==========================================================================================================================================
+## Components Owned
 
-    								Components Owned
+### Cases
 
-==========================================================================================================================================
+Item|URL|Price
+---|---|---
+Argon ONE M.2 Aluminum Case | https://www.amazon.com/gp/product/B08MJ3CSW7/ | $47.00
+GeeekPi Pi Zero 2 W Case/Zero W Case, 7 in 1 Basic Starter Kit | https://www.amazon.com/gp/product/B08MVH2JJ1/ | $9.99
+Geekworm for Raspberry Pi 4 Case, Universal HAT | https://www.amazon.com/dp/B074T7D1V5 | $6.00
+Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
 
-        Cases
+### Cables
 
-		Argon ONE M.2 Aluminum Case                                         	https://www.amazon.com/gp/product/B08MJ3CSW7/       $47.00
-		GeeekPi Pi Zero 2 W Case/Zero W Case, 7 in 1 Basic Starter Kit      	https://www.amazon.com/gp/product/B08MVH2JJ1/        $9.99
-		Geekworm for Raspberry Pi 4 Case, Universal HAT                     	https://www.amazon.com/dp/B074T7D1V5                 $6.00
-		Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06"                    	https://www.amazon.com/gp/product/B0BJDKZWDF/       $17.99
+Item|URL|Price
+---|---|---
+Anker New Nylon USB-C to USB-C Cable (2pack, 1 ft, 60W) | https://www.amazon.com/gp/product/B0CFZNZN25/ | $10.99
+USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
+Short USB C to USB C Cable 60W (2-Pack 1ft) | https://www.amazon.com/gp/product/B0BV6BGQ3B/ | $5.99
+StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $5.29
+USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
 
-        Cables
+### Cooling
 
-		Anker New Nylon USB-C to USB-C Cable (2pack, 1 ft, 60W)             	https://www.amazon.com/gp/product/B0CFZNZN25/       $10.99
-		USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0            	https://www.amazon.com/gp/product/B07BKRS1W5/        $9.69
-		Short USB C to USB C Cable 60W (2-Pack 1ft)                         	https://www.amazon.com/gp/product/B0BV6BGQ3B/        $5.99
-		StarTech.com 3 ft USB to Type M Barrel 5V DC                        	https://www.amazon.com/gp/product/B003MQO96U/        $5.29
-		USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable     	https://www.amazon.com/gp/product/B07512GMDX/        $7.00
+Item|URL|Price
+---|---|---
+NewHail 2Pack Quiet 80mm USB Fan | https://www.amazon.com/dp/B0C1GF3R3Y | $17.95
 
-        Cooling
+### Core Compute
 
-		NewHail 2Pack Quiet 80mm USB Fan                                    	https://www.amazon.com/dp/B0C1GF3R3Y                $17.95
+Item|URL|Price
+---|---|---
+Waveshare Package E Compatible with Raspberry Pi Zero 2 WHC Bundle | https://www.amazon.com/dp/B09LCKL6D1 | $65.99
 
-        Core Compute
+### Hubs
 
-		Waveshare Package E Compatible with Raspberry Pi Zero 2 WHC Bundle  	https://www.amazon.com/dp/B09LCKL6D1                $65.99
+Item|URL|Price
+---|---|---
+GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router | https://www.amazon.com/gp/product/B09N72FMH5/ | $33.90
+NETGEAR 5-Port Gigabit Ethernet Unmanaged Switch | https://www.amazon.com/gp/product/B07S98YLHM/ | $17.99
+USB C Hub, 9-in-1 USB C Hub Multiport Adapter | https://www.amazon.com/gp/product/B0D22M5713/ | $29.99
 
-        Hubs
+### Panels and Mounts
 
-		GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router                 	https://www.amazon.com/gp/product/B09N72FMH5/       $33.90
-		NETGEAR 5-Port Gigabit Ethernet Unmanaged Switch                    	https://www.amazon.com/gp/product/B07S98YLHM/       $17.99
-		USB C Hub, 9-in-1 USB C Hub Multiport Adapter                       	https://www.amazon.com/gp/product/B0D22M5713/       $29.99
+Item|URL|Price
+---|---|---
+N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
+Metric M3 Phillips Pan Head Nylon Screws Nut Washer | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
+T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $9.29
 
-        Panels and Mounts
+### Power
 
-		N NOROCME 192 PCS Cable Management Kit                              	https://www.amazon.com/gp/product/B0B687J37D/       $14.95
-		Metric M3 Phillips Pan Head Nylon Screws Nut Washer                 	https://www.amazon.com/gp/product/B0BL3SD5HD/        $9.99
-		T Tulead 20PCS Mini Decorative Handles                              	https://www.amazon.com/gp/product/B07SX719XB/        $9.29
+Item|URL|Price
+---|---|---
+Anker 737 Power Bank, 24,000mAh 3-Port Laptop Portable Charger | https://www.amazon.com/gp/product/B09VPHVT2Z/ | $88.95
+Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.amazon.com/gp/product/B09VP9QJSS/ | $79.99
+Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
+Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
 
-        Power
-		Anker 737 Power Bank, 24,000mAh 3-Port Laptop Portable Charger      	https://www.amazon.com/gp/product/B09VPHVT2Z/       $88.95
-		Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack      	https://www.amazon.com/gp/product/B09VP9QJSS/       $79.99
-		Geekworm 19MM Metal Push Button Switch                              	https://www.amazon.com/dp/B086LFGDJF                 $9.99
-		Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS               	https://www.amazon.com/dp/B087FXLZZH                $43.00
+### Screens
 
-	Screens
-
-		Waveshare 7inch Capacitive Touch Screen LCD                         	https://www.amazon.com/gp/product/B077PLVZCX/       $63.99
+Item|URL|Price
+---|---|---
+Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
 
 ==========================================================================================================================================
 
@@ -140,9 +153,9 @@ Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
 
 ==========================================================================================================================================
 
-        Antennas
+### Antennas
 
-        Cables & Adapters
+### Cables & Adapters
 
 	  USB C to C
 		QianLink Micro USB to USB C Adapter                                 	https://www.amazon.com/dp/B07PH77NCL
@@ -194,18 +207,18 @@ Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
                 C Splitter
             USB Type C Splitter                                                 	https://www.amazon.com/gp/product/B0BZ8DFFNP/
 
-        Cases
+### Cases
 
  	C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W	https://www.amazon.com/Triple-Stack-Raspberry-Zero-W-C4Labs/dp/B06XCK7G2R/
 
-        Core Compute
+### Core Compute
 
             Beelink S12 Pro Mini PC                                             	https://www.amazon.com/Beelink-Desktop-Computer-Support-Ethernet/dp/B0BVLS7ZHP/
             GeeekPi Raspberry Pi Zero 2 W Starter Kit                           	https://www.amazon.com/gp/product/B0BHD2S5MJ/
             Raspberry Pi Zero WH                                                	https://www.amazon.com/gp/product/B0CG99MR5W/
 		Waveshare Package D 												https://www.amazon.com/Raspberry-Zero-WHC-Package-USB-HUB-Box/dp/B09LCKNKM5/#customerReviews
 
-        Cooling
+### Cooling
 
             2 Packs Wathai 60mm x 10mm USB                                      https://www.amazon.com/Packs-Wathai-60mm-Brushless-Cooling/dp/B0821YC2NW/
             2Pack Quiet 80mm USB Fan                                            https://www.amazon.com/gp/product/B0C1GF3R3Y/
@@ -215,7 +228,7 @@ Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
             ELUTENG Dual 40mm USB Fan                                           https://www.amazon.com/ELUTENG-Adjustable-Computer-Compatible-Playstation/dp/B08ZY7X4CR/
             ELUTENG Dual Cooling Fan Whisper Quiet 80mm USB                     https://www.amazon.com/ELUTENG-Cooling-Adjustable-Heatsink-Playstation/dp/B09QMC1458/
 
-        Gadgets
+### Gadgets
 
 		Military Grade Hard Drive Wiper					https://www.amazon.com/gp/product/B07RPNJPRG/
 		Password Reset Key Pro Next Generation - USB 3.0		https://www.amazon.com/dp/B08PNH5VFG/
@@ -226,18 +239,19 @@ Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
 		ELECROW Crowpi Raspberry Pi 4 3 b 3b+ 4b+			https://www.amazon.com/ELECROW-Raspberry-Learning-Programming-Electronics/dp/B07L4RZP6B
 		Deauther Watch							https://www.theverge.com/23412661/deauther-watch-wifi-hacking-chip-network-deauthorization-secure-oled
 
-                Meshtastic
-            LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module                https://www.amazon.com/LILYGO-Wireless-Meshtastic-Development-NRF52840/dp/B0B659536P/
-            915 ESP32 LoRa OLED Board V3                                        https://www.amazon.com/dp/B086ZFCV7F/
-			Armachat - Meshtastic compatible LORA messenger						https://www.tindie.com/products/bobricius/armachat-meshtastic-compatible-lora-messenger/
 
-        GPS Dongle
 
-        Input Devices
+### GPS Dongle
+
+### Input Devices
 
             Medium Panel Mount USB Trackpad with Three Buttons                  https://www.adafruit.com/product/5061               $39.95
 
-        Mounting and Misc. Hardware
+### Meshtastic
+            LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module                https://www.amazon.com/LILYGO-Wireless-Meshtastic-Development-NRF52840/dp/B0B659536P/
+            915 ESP32 LoRa OLED Board V3                                        https://www.amazon.com/dp/B086ZFCV7F/
+			Armachat - Meshtastic compatible LORA messenger						https://www.tindie.com/products/bobricius/armachat-meshtastic-compatible-lora-messenger/
+### Mounting and Misc. Hardware
 
             2PCS 86 Hole Panel (4 Hole) for D-Type Module Mount                 https://www.amazon.com/gp/product/B09BNGQGP6/
             600PCS M3 Male Female Nylon Hex Spacer Standoffs                    https://www.amazon.com/gp/product/B0CBPGKDP4/
@@ -246,19 +260,19 @@ Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
             VELCRO Brand ONE WRAP Thin Ties                                     https://www.amazon.com/gp/product/B000F5K82A/
             2PCS 86 Hole Panel (4 Hole) for D-Type Module                       https://www.amazon.com/gp/product/B09BNGQGP6/       $12.99
 
-        Network Hub
+### Network Hub
 
             USB Powered Ethernet Switch                                         https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini
             TP-Link N300 Wireless Portable Router                               https://www.amazon.com/TP-Link-Wireless-Portable-Travel-Router/dp/B00TQEX8BO/
 
-	Panel Mounts
+### Panel Mounts
 		PENGLIN 2PCS RJ45 Panel Mount Coupler                               https://www.amazon.com/gp/product/B09Z2977RZ/
 		PENGLIN 2PCS USB 3.0 Waterproof Socket                              https://www.amazon.com/gp/product/B0B9ZKQ51N/
 		QIANRENON 10Gbps USB C Panel Mount                                  https://www.amazon.com/gp/product/B0CKL8DJWH/
 		QIANRENON TRS 3.5mm Panel Mount                                     https://www.amazon.com/gp/product/B0CQLPX1VB/
 		USB-C 3.1 Panel Mount Adapter                                       https://www.amazon.com/gp/product/B0CVXCL791/
 
-        Power
+### Power
 
                 Batteris
             12V 18Ah LiFePO4 Battery                                            https://www.amazon.com/dp/B09QKD4G6L/
@@ -286,33 +300,33 @@ Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
  		 https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/
 
 
-        Screens
+### Screens
 
             2.13inch E-Ink Display HAT V4                                       https://www.amazon.com/dp/B07Z1WYRQH/
             waveshare 1.51inch Transparent OLED                                 https://www.amazon.com/gp/product/B0B8N46G24/
 	    https://www.amazon.com/Waveshare-2-13inch-Raspberry-Pwnagotchi-Interface/dp/B0D5CJKXTD/
      https://www.amazon.com/Waveshare-2-13inch-Touch-Raspberry-Protection/dp/B09GKB8XT8/
 
-	SDR Dongle
+### SDR
 
             Software Defined Radio (Dongle Only)                                https://www.amazon.com/gp/product/B0BMKZCKTF/
             V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio  https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD7558GT/
 			RTL-SDR (DVB-T), (DAB), and FM tuner								https://hackerwarehouse.com/product/rtlsdr/
 
-        Sound
+### Sound
 
             WM8960 Audio HAT Module for Raspberry Pi                            https://www.amazon.com/WM8960-Module-Raspberry-Stereo-Record/dp/B098R7TTM4/
             WM8960 Hi-Fi Sound Card HAT for Raspberry Pi                        https://www.amazon.com/WM8960-Hi-Fi-Raspberry-Stereo-Record/dp/B0CN1D7Z9H/
 
-        Storage        
+### Storage        
 
             SanDisk 128GB Extreme microSDXC                                     https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7BK27V/
 
-        Tools
+### Tools
 
             STREBITO Electronics Precision Screwdriver Sets                     https://www.amazon.com/gp/product/B08SGM6F79/
 
-        Wifi Adapters
+### Wifi Adapters
 
 ==========================================================================================================================================
 
