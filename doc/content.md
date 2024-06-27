@@ -20,6 +20,8 @@ Archive.org command line interface | https://archive.org/developers/internetarch
 *Making a RACHEL Module | https://ftp.worldpossible.org/rachel_plus/tutorials/making_a_rachel_content_module.pdf
 RACHEL Module information | https://community.worldpossible.org/
 RPi/Coding tutorials | https://www.youtube.com/@mmshilleh
+Raspberry Pi as an FM Transmitter | https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/
+Stopping people play music via bluetooth speakers | https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers
 
 <!-- ============================================================ -->
 
