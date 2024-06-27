@@ -15,6 +15,20 @@ DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi | https://sourceforg
 
 <!-- ============================================================ -->
 
+### Lists
+Description|Link
+---|---
+Awesome Raspberry Pi | https://github.com/thibmaek/awesome-raspberry-pi
+
+<!-- ============================================================ -->
+
+### Audio
+Description|Link
+---|---
+Simple Internet Radio | https://github.com/blake5634/Simple-Internet-Radio
+
+<!-- ============================================================ -->
+
 ### FM Radio Transmitting
 Description|Link
 ---|---
@@ -29,6 +43,13 @@ PiFM (MundeepL) |https://github.com/MundeepL/PiFM
 Description|Link
 ---|---
 FoxTrot GPS | https://www.foxtrotgps.org/
+
+<!-- ============================================================ -->
+
+### Networking
+Description|Link
+---|---
+PiHole | https://docs.pi-hole.net/guides/vpn/wireguard/overview/
 
 <!-- ============================================================ -->
 
