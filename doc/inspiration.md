@@ -4,6 +4,27 @@ This is a list of inspiration and sources of information for the Y.A.A.C
 
 <!-- ============================================================ -->
 
+## Guides
+Desription|URL
+---|---
+Boot from USB - RPi 2/3 | https://pimylifeup.com/raspberry-pi-boot-from-usb/
+Kali on RPi Tips | https://raspberrytips.com/use-kali-linux-raspberry-pi/#getting-started-with-kali-linux-on-raspberry-pi
+Build Your Own Off-Grid Internet with Raspberry Pi! | https://www.youtube.com/watch?v=Hp4hLpDFVyg
+Build an Off Grid Wikipedia with #RaspberryPi | https://www.youtube.com/watch?v=R63x2TXm0s8
+Securiosity YouTube Channel | https://www.youtube.com/@Securiosity
+A newbie’s guide to Software Defined Radios on Kali Linux | https://medium.com/poka-techblog/a-newbies-guide-to-software-defined-radios-on-kali-linux-part-3-using-a-raspberrypi-as-a-85a336a5c62d
+Raspberry Pi OS Documentation | https://www.raspberrypi.com/documentation/computers/os.html
+Learning Python | https://pimylifeup.com/category/coding/python/
+Downloading in bulk using wget | https://blog.archive.org/2012/04/26/downloading-in-bulk-using-wget/
+Archive.org command line interface | https://archive.org/developers/internetarchive/cli.html
+*Making a RACHEL Module | https://ftp.worldpossible.org/rachel_plus/tutorials/making_a_rachel_content_module.pdf
+RACHEL Module information | https://community.worldpossible.org/
+RPi/Coding tutorials | https://www.youtube.com/@mmshilleh
+Raspberry Pi as an FM Transmitter | https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/
+Stopping people play music via bluetooth speakers | https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers
+
+<!-- ============================================================ -->
+
 ### Sub Reddits
 Desription|URL
 ---|---
