@@ -1,8 +1,11 @@
+<!-- ================================================================================ -->
+
 # Y.A.A.C - Components List
 
 This is a list of all componenets used in the Y.A.A.C, as well as links and prices (when available).  This list also includes other components I own but have not used yet, as well as components not yet purchased but may be useful.
 
 <!-- ============================================================ -->
+
 ## Components Used
 
 ### Cables & Adapters
@@ -368,11 +371,4 @@ STREBITO Electronics Precision Screwdriver Sets | https://www.amazon.com/gp/prod
 Item|URL|Price
 ---|---|---
 
-
-
-	
-	
-	
-	
-	
-	
+<!-- ================================================================================ -->
