@@ -27,36 +27,61 @@ BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0
 USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J4ZT/ | $9.99
 
 ### Cases
+
 Item|URL|Price
 ---|---|---
 GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
 Apache 3800 Black | https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html | $39.99
 
-        Cooling
-		SCCCF Mini, Compact 40mm x 20mm USB Fan                             	https://www.amazon.com/gp/product/B098LBSW23/        $9.99
+### Cooling
 
-        Core Compute
-		Raspberry Pi 4 Computer Model B 8GB                                 	https://www.amazon.com/gp/product/B0899VXM8F/       $75.00
+Item|URL|Price
+---|---|---
+SCCCF Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23/ | $9.99
 
-        Display
-		waveshare 10.1inch Capacitive Touch Screen                          	https://www.amazon.com/dp/B01H013FGC               $129.99
+### Core Compute
 
-        Keyboard Components
-		E-YOOSO 60 Percent Mechanical Keyboard                              	https://www.amazon.com/gp/product/B098JVHPBF/       $25.99
-		TECKNET Folding Wireless Mouse                                      	https://www.amazon.com/gp/product/B07YCFYLVX/       $14.99
+Item|URL|Price
+---|---|---
+Raspberry Pi 4 Computer Model B 8GB | https://www.amazon.com/gp/product/B0899VXM8F/ | $75.00
 
-        Panels & Mounts
+### Display
 
-        Power
-		Powdeom 140W Power Bank, 24600mAh                                   	https://www.amazon.com/gp/product/B0CDQ4WK47/       $71.99
+Item|URL|Price
+---|---|---
+waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FGC | $129.99
 
-        Screws, Case, & Misc Hardware
-		LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff           	https://www.amazon.com/gp/product/B07TP2YYQB/       $14.88 
+### Keyboard Components
 
-        Storage
-		SanDisk 64GB Extreme PRO® microSD                                   	https://www.amazon.com/gp/product/B09X7BYSFG/       $13.99
-		SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB)          	https://www.amazon.com/gp/product/B09FFK1QLR/       $20.82
-		Crucial X9 1TB Portable SSD                                         	https://www.amazon.com/dp/B0CGW1FQV4                $72.99
+Item|URL|Price
+---|---|---
+E-YOOSO 60 Percent Mechanical Keyboard | https://www.amazon.com/gp/product/B098JVHPBF/ | $25.99
+TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ | $14.99
+
+### Panels & Mounts
+
+Item|URL|Price
+---|---|---
+
+### Power
+
+Item|URL|Price
+---|---|---
+Powdeom 140W Power Bank, 24600mAh | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
+
+### Screws, Case, & Misc Hardware
+
+Item|URL|Price
+---|---|---
+LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.com/gp/product/B07TP2YYQB/ | $14.88 
+
+### Storage
+
+Item|URL|Price
+---|---|---
+SanDisk 64GB Extreme PRO® microSD | https://www.amazon.com/gp/product/B09X7BYSFG/ | $13.99
+SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB) | https://www.amazon.com/gp/product/B09FFK1QLR/ | $20.82
+Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
 
 ==========================================================================================================================================
 
