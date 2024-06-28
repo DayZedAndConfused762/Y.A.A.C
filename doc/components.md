@@ -139,17 +139,11 @@ Micro SD/SDHC/SDXC Card Storage Holder Case | https://www.amazon.com/dp/B0196PR0
 GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
 
 ### Cables & Adapters
+
+#### Adapters
 Item|URL|Price
 ---|---|---
-USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
-
-Seadream 1Foot 90 Degree Down Angle Micro HDMI | https://www.amazon.com/dp/B07BLX88H4 | $7.29
-SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
-4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
 Poyiccot USB C Adapter 40Gbps | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
-
-
-USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
 
 #### DC
 Item|URL|Price
@@ -171,6 +165,9 @@ Item|URL|Price
 Item|URL|Price
 ---|---|---
 Cable Matters 48Gbps 8K HDMI Coiled Cable | https://www.amazon.com/dp/B0CSS993KB | $12.99
+Seadream 1Foot 90 Degree Down Angle Micro HDMI | https://www.amazon.com/dp/B07BLX88H4 | $7.29
+SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
+4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
 
 #### USB A to A
 Item|URL|Price
@@ -179,12 +176,13 @@ Item|URL|Price
 #### USB C to C
 Item|URL|Price
 ---|---|---
-
 Anker New Nylon USB-C to USB-C Cable (2pack, 1 ft, 60W) | https://www.amazon.com/gp/product/B0CFZNZN25/ | $10.99
 
 #### USB C to A
 Item|URL|Price
 ---|---|---
+USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
+USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
 
 #### USB C Extention
 Item|URL|Price
