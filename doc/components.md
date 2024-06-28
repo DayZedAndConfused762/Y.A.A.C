@@ -69,19 +69,23 @@ Item|URL|Price
 ---|---|---
 waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FGC | $129.99
 
-### Keyboard Components
-Item|URL|Price
----|---|---
-E-YOOSO 60 Percent Mechanical Keyboard | https://www.amazon.com/gp/product/B098JVHPBF/ | $25.99
-TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ | $14.99
-
 ### Hubs and Card Readers
 Item|URL|Price
 ---|---|---
 BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
 USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J4ZT/ | $9.99
 
-### Panels & Mounts
+### Input Devices
+Item|URL|Price
+---|---|---
+E-YOOSO 60 Percent Mechanical Keyboard | https://www.amazon.com/gp/product/B098JVHPBF/ | $25.99
+TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ | $14.99
+
+### Mounting Hardware
+Item|URL|Price
+---|---|---
+
+### Panels
 Item|URL|Price
 ---|---|---
 
@@ -171,12 +175,20 @@ GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router | https://www.amazon.com/gp/
 NETGEAR 5-Port Gigabit Ethernet Unmanaged Switch | https://www.amazon.com/gp/product/B07S98YLHM/ | $17.99
 USB C Hub, 9-in-1 USB C Hub Multiport Adapter | https://www.amazon.com/gp/product/B0D22M5713/ | $29.99
 
-### Panels and Mounts
+### Mounting Hardware
 Item|URL|Price
 ---|---|---
 N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
 Metric M3 Phillips Pan Head Nylon Screws Nut Washer | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
 T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $9.29
+
+### Panels
+Item|URL|Price
+---|---|---
+
+### Ports
+Item|URL|Price
+---|---|---
 
 ### Power
 Item|URL|Price
@@ -304,6 +316,12 @@ Deauther Watch | https://www.theverge.com/23412661/deauther-watch-wifi-hacking-c
 Item|URL|Price
 ---|---|---
 
+### Hubs & Card Readers
+Item|URL|Price
+---|---|---
+USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini | $
+TP-Link N300 Wireless Portable Router | https://www.amazon.com/TP-Link-Wireless-Portable-Travel-Router/dp/B00TQEX8BO/ | $
+
 ### Input Devices
 Item|URL|Price
 ---|---|---
@@ -316,7 +334,7 @@ LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module | https://www.amazon.com/dp
 915 ESP32 LoRa OLED Board V3 |  https://www.amazon.com/dp/B086ZFCV7F/ | $
 Armachat - Meshtastic compatible LORA messenger | https://www.tindie.com/products/bobricius/armachat-meshtastic-compatible-lora-messenger/ | $
 
-### Mounting and Misc. Hardware
+### Mounting Hardware
 Item|URL|Price
 ---|---|---
 2PCS 86 Hole Panel (4 Hole) for D-Type Module Mount | https://www.amazon.com/gp/product/B09BNGQGP6/ | $
@@ -326,13 +344,11 @@ T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX
 VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ | $
 2PCS 86 Hole Panel (4 Hole) for D-Type Module | https://www.amazon.com/gp/product/B09BNGQGP6/ | $12.99
 
-### Network Hub
+### Panels
 Item|URL|Price
 ---|---|---
-USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini | $
-TP-Link N300 Wireless Portable Router | https://www.amazon.com/TP-Link-Wireless-Portable-Travel-Router/dp/B00TQEX8BO/ | $
 
-### Panel Mounts
+### Ports
 Item|URL|Price
 ---|---|---
 PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $
@@ -340,10 +356,6 @@ PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9Z
 QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $
 QIANRENON TRS 3.5mm Panel Mount | https://www.amazon.com/gp/product/B0CQLPX1VB/ | $
 USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $
-
-### Ports
-Item|URL|Price
----|---|---
 
 ### Power
 
