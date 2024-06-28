@@ -106,6 +106,10 @@ Item|URL|Price
 ---|---|---
 Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
 
+#### Power Supplies
+Item|URL|Price
+---|---|---
+
 #### UPS
 Item|URL|Price
 ---|---|---
@@ -238,12 +242,25 @@ PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z29
 YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
 
 ### Power
+#### Batteries
 Item|URL|Price
 ---|---|---
 Anker 737 Power Bank, 24,000mAh 3-Port Laptop Portable Charger | https://www.amazon.com/gp/product/B09VPHVT2Z/ | $88.95
 Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.amazon.com/gp/product/B09VP9QJSS/ | $79.99
 Powdeom 140W Power Bank, 24600mAh | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
+
+#### Buttons
+Item|URL|Price
+---|---|---
 3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
+
+#### Power Supplies
+Item|URL|Price
+---|---|---
+
+#### UPS
+Item|URL|Price
+---|---|---
 
 ### Storage
 Item|URL|Price
@@ -430,12 +447,16 @@ Shargeek Portable Charger, Storm 2 100W 25600mAh | https://www.amazon.com/gp/pro
 Talentcell Rechargeable 12V 6000mAh/5V 12000mAh | https://www.amazon.com/TalentCell-Rechargeable-12000mAh-Multi-led-indicator/dp/B00ME3ZH7C/ | $
 Trozk Portable Charger, PD30W | https://www.amazon.com/Trozk-Portable-Charger-Charging-10000mAh/ | $
 
-#### Misc
+#### Buttons
 Item|URL|Price
 ---|---|---
 3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/gp/product/B07TSFYXBC/ | $
 4 in 1 ON/Off Toggle Switch | https://www.amazon.com/Okerny-Charger-Voltmeter-Cigarette-Lighter/dp/B0CPNYDCP6/ | $
 Nilight 4 in 1 ON/Off Charger Socket Panel | https://www.amazon.com/gp/product/B0BC8G9DNY/ref=ox_sc_saved_image_6?smid=ATVPDKIKX0DER&psc=1 | $
+
+#### Power Supplies
+Item|URL|Price
+---|---|---
 
 #### UPS
 Item|URL|Price
