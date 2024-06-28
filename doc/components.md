@@ -168,6 +168,11 @@ Item|URL|Price
 ---|---|---
 Waveshare Package E Compatible with Raspberry Pi Zero 2 WHC Bundle | https://www.amazon.com/dp/B09LCKL6D1 | $65.99
 
+### Display
+Item|URL|Price
+---|---|---
+Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
+
 ### Hubs
 Item|URL|Price
 ---|---|---
@@ -196,11 +201,6 @@ Item|URL|Price
 Anker 737 Power Bank, 24,000mAh 3-Port Laptop Portable Charger | https://www.amazon.com/gp/product/B09VPHVT2Z/ | $88.95
 Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.amazon.com/gp/product/B09VP9QJSS/ | $79.99
 Powdeom 140W Power Bank, 24600mAh | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
-
-### Screens
-Item|URL|Price
----|---|---
-Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
 
 ### Storage
 Item|URL|Price
@@ -300,6 +300,14 @@ Coolerguys 25mm (25x25x10) USB Fan | https://www.amazon.com/Coolerguys-25mm-25x2
 ELUTENG Dual 40mm USB Fan | https://www.amazon.com/ELUTENG-Adjustable-Computer-Compatible-Playstation/dp/B08ZY7X4CR/ | 
 ELUTENG Dual Cooling Fan Whisper Quiet 80mm USB | https://www.amazon.com/ELUTENG-Cooling-Adjustable-Heatsink-Playstation/dp/B09QMC1458/ | 
 
+### Display
+Item|URL|Price
+---|---|---
+2.13inch E-Ink Display HAT V4 | https://www.amazon.com/dp/B07Z1WYRQH/ | $
+waveshare 1.51inch Transparent OLED | https://www.amazon.com/gp/product/B0B8N46G24/ | $
+Waveshare 2.13inch E-paper | https://www.amazon.com/Waveshare-2-13inch-Raspberry-Pwnagotchi-Interface/dp/B0D5CJKXTD/ | $26.99
+waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/Waveshare-2-13inch-Touch-Raspberry-Protection/dp/B09GKB8XT8/ | $32.99
+
 ### Gadgets
 Item|URL|Price
 ---|---|---
@@ -388,15 +396,6 @@ Item|URL|Price
 PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B097RC8KLQ/ | $27.99
 Pisugar2 Portable 1200 mAh UPS | https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/ | $35.99
 PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/ | $39.99
-
-
-### Screens
-Item|URL|Price
----|---|---
-2.13inch E-Ink Display HAT V4 | https://www.amazon.com/dp/B07Z1WYRQH/ | $
-waveshare 1.51inch Transparent OLED | https://www.amazon.com/gp/product/B0B8N46G24/ | $
-Waveshare 2.13inch E-paper | https://www.amazon.com/Waveshare-2-13inch-Raspberry-Pwnagotchi-Interface/dp/B0D5CJKXTD/ | $26.99
-waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/Waveshare-2-13inch-Touch-Raspberry-Protection/dp/B09GKB8XT8/ | $32.99
 
 ### SDR
 Item|URL|Price
