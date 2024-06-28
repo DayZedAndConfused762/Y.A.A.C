@@ -9,6 +9,8 @@ This is a list of all componenets used in the Y.A.A.C, as well as links and pric
 ## Components Used
 
 ### Cables & Adapters
+
+#### DC
 Item|URL|Price
 ---|---|---
 
@@ -140,21 +142,26 @@ GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/p
 Item|URL|Price
 ---|---|---
 USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
-Short USB C to USB C Cable 60W (2-Pack 1ft) | https://www.amazon.com/gp/product/B0BV6BGQ3B/ | $5.99
-StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $5.29
-USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
+
 Seadream 1Foot 90 Degree Down Angle Micro HDMI | https://www.amazon.com/dp/B07BLX88H4 | $7.29
 SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
 4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
 Poyiccot USB C Adapter 40Gbps | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
-3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
-Cable Matters 48Gbps 8K HDMI Coiled Cable | https://www.amazon.com/dp/B0CSS993KB | $12.99
+
+
 USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
+
+#### DC
+Item|URL|Price
+---|---|---
+USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
+StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $5.29
 
 #### Ethernet
 Item|URL|Price
 ---|---|---
 Cable Matters 10Gbps 5-Pack Snagless Short Shielded Cat6A 6pk | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
+Short USB C to USB C Cable 60W (2-Pack 1ft) | https://www.amazon.com/gp/product/B0BV6BGQ3B/ | $5.99
 
 #### GPIO
 Item|URL|Price
@@ -163,6 +170,7 @@ Item|URL|Price
 #### HDMI
 Item|URL|Price
 ---|---|---
+Cable Matters 48Gbps 8K HDMI Coiled Cable | https://www.amazon.com/dp/B0CSS993KB | $12.99
 
 #### USB A to A
 Item|URL|Price
@@ -237,6 +245,7 @@ Item|URL|Price
 Anker 737 Power Bank, 24,000mAh 3-Port Laptop Portable Charger | https://www.amazon.com/gp/product/B09VPHVT2Z/ | $88.95
 Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.amazon.com/gp/product/B09VP9QJSS/ | $79.99
 Powdeom 140W Power Bank, 24600mAh | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
+3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
 
 ### Storage
 Item|URL|Price
@@ -253,6 +262,10 @@ Item|URL|Price
 ---|---|---
 
 ### Cables & Adapters
+
+#### DC
+Item|URL|Price
+---|---|---
 
 #### Ethernet
 Item|URL|Price
