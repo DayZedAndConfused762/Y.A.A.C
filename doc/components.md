@@ -136,11 +136,9 @@ Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/pro
 Micro SD/SDHC/SDXC Card Storage Holder Case | https://www.amazon.com/dp/B0196PR0H0 | $5.95
 GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
 
-### Cables
+### Cables & Adapters
 Item|URL|Price
 ---|---|---
-Cable Matters 10Gbps 5-Pack Snagless Short Shielded Cat6A 6pk | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
-Anker New Nylon USB-C to USB-C Cable (2pack, 1 ft, 60W) | https://www.amazon.com/gp/product/B0CFZNZN25/ | $10.99
 USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
 Short USB C to USB C Cable 60W (2-Pack 1ft) | https://www.amazon.com/gp/product/B0BV6BGQ3B/ | $5.99
 StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $5.29
@@ -151,12 +149,46 @@ SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $
 Poyiccot USB C Adapter 40Gbps | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
 3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
 Cable Matters 48Gbps 8K HDMI Coiled Cable | https://www.amazon.com/dp/B0CSS993KB | $12.99
-QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $15.99
-PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
-PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
 USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
-YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
-Cable Matters 10Gbps 5-Pack Cat6 Cable | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
+
+#### Ethernet
+Item|URL|Price
+---|---|---
+Cable Matters 10Gbps 5-Pack Snagless Short Shielded Cat6A 6pk | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
+
+#### GPIO
+Item|URL|Price
+---|---|---
+
+#### HDMI
+Item|URL|Price
+---|---|---
+
+#### USB A to A
+Item|URL|Price
+---|---|---
+
+#### USB C to C
+Item|URL|Price
+---|---|---
+
+Anker New Nylon USB-C to USB-C Cable (2pack, 1 ft, 60W) | https://www.amazon.com/gp/product/B0CFZNZN25/ | $10.99
+
+#### USB C to A
+Item|URL|Price
+---|---|---
+
+#### USB C Extention
+Item|URL|Price
+---|---|---
+
+#### USB C Splitter
+Item|URL|Price
+---|---|---
+
+#### USB Micro
+Item|URL|Price
+---|---|---
 
 ### Cooling
 Item|URL|Price
@@ -194,6 +226,10 @@ Item|URL|Price
 ### Ports
 Item|URL|Price
 ---|---|---
+QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $15.99
+PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
+PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
+YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
 
 ### Power
 Item|URL|Price
