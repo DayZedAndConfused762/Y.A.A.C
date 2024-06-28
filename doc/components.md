@@ -97,8 +97,8 @@ Panasonic 18650 flat top unprotected | https://www.18650batterystore.com/product
 
 #### Buttons
 Item|URL|Price
-Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
 ---|---|---
+Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
 
 #### UPS
 Item|URL|Price
