@@ -5,7 +5,7 @@ Software current in use or to be used on the Y.A.A.C.
 <!-- ============================================================ -->
 
 ### Operating Systems
-Description|Link
+Description | Link
 ---|---
 Kali linux | https://www.kali.org
 Raspberry Pi OS Bookworm | https://www.raspberrypi.com/software/
