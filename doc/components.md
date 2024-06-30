@@ -103,7 +103,7 @@ Item|URL|Price
 #### Batteries
 Item|URL|Price
 ---|---|---
-Panasonic 18650 flat top unprotected | https://www.18650batterystore.com/products/panasonic-ncr18650b | $
+Panasonic 18650 flat top unprotected | https://www.batteryjunction.com/panasonic-ncr18650b-3400 | $8.99
 
 #### Buttons
 Item|URL|Price
