@@ -1,7 +1,5 @@
 # Y.A.A.C
 
-Yet Another Apache CyberDeck
-
 ![Y.A.A.C Logo](images/yaac-high-resolution-logo-edited.png)
 
 ## Overview
