@@ -4,7 +4,7 @@ This is a list of guides.  This list is not yet sorted.
 
 <!-- ============================================================ -->
 
-### Guides
+### Unsorted Guides
 Description|URL
 ---|---
 Boot from USB - RPi 2/3 | https://pimylifeup.com/raspberry-pi-boot-from-usb/
@@ -37,7 +37,22 @@ GitHub Flavored Markdown Spec | https://github.github.com/gfm/
 Python for Beginners | https://www.python.org/about/gettingstarted/
 Best way to learn python? | https://www.reddit.com/r/learnpython/comments/11kcko1/best_way_to_learn_python/
 How to run a Large Language Model (LLM) on a Raspberry Pi 4 | https://www.reddit.com/r/raspberry_pi/comments/1ati2ki/how_to_run_a_large_language_model_llm_on_a/?rdt=64733
+How to Install Kali Linux on Raspberry Pi? (Complete Guide) | https://raspberrytips.com/use-kali-linux-raspberry-pi/#getting-started-with-kali-linux-on-raspberry-pi
+How to Secure Our Kali Linux to Ensure Our Protection | https://www.geeksforgeeks.org/how-to-secure-our-kali-linux-to-ensure-our-protection/?ref=ml_lbp
+Write Your Own Bash Scripts to Automate Tasks on Linux | https://null-byte.wonderhowto.com/how-to/write-your-own-bash-scripts-automate-tasks-linux-0296284/
+Linux Basics | https://null-byte.wonderhowto.com/how-to/linux-basics/
+Enabling Remote Desktop and SSH access to Kali | https://www.geeksforgeeks.org/enabling-remote-desktop-and-ssh-access-to-kali/
+How to Enable and Start SSH on Kali Linux | https://www.geeksforgeeks.org/how-to-enable-and-start-ssh-on-kali-linux/
 
-
+### CyberSecurity
+Description|URL
+---|---
+Clear the Logs & Bash History on Hacked Linux Systems to Cover Your Tracks | https://www.geeksforgeeks.org/how-to-secure-our-kali-linux-to-ensure-our-protection/?ref=ml_lbp
+Hack Networks & Devices Right from Your Wrist with the Wi-Fi Deauther Watch | https://null-byte.wonderhowto.com/how-to/hack-networks-devices-right-from-your-wrist-with-wi-fi-deauther-watch-0296283/
+Scan Websites for Potential Vulnerabilities Using the Vega Vulnerability Scanner in Kali Linux | https://null-byte.wonderhowto.com/how-to/scan-websites-for-potential-vulnerabilities-using-vega-vulnerability-scanner-kali-linux-0181887/
+There Are Hidden Wi-Fi Networks All Around You — These Attacks Will Find Them | https://null-byte.wonderhowto.com/how-to/there-are-hidden-wi-fi-networks-all-around-you-these-attacks-will-find-them-0237630/
+Code a Dead Man's Switch in Python 3 to Encrypt & Delete Files Whenever You Don't Check In | https://null-byte.wonderhowto.com/how-to/code-dead-mans-switch-python-3-encrypt-delete-files-whenever-you-dont-check-0238095/
+Hack Wi-Fi & Networks More Easily with Lazy Script | https://null-byte.wonderhowto.com/how-to/hack-wi-fi-networks-more-easily-with-lazy-script-0185764/
+Crack Password-Protected ZIP Files, PDFs & More with Zydra | https://null-byte.wonderhowto.com/how-to/crack-password-protected-zip-files-pdfs-more-with-zydra-0207607/
 
 <!-- ============================================================ -->
