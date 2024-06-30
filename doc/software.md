@@ -12,6 +12,11 @@ Raspberry Pi OS Bookworm |  x | https://www.raspberrypi.com/software/
 RetroPi |  x | https://retropie.org.uk/
 Collapse OS |  x | http://collapseos.org/
 DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi |  x | https://sourceforge.net/projects/dragonos-pi64/
+Twister OS | The main goal of Twister OS is to provide a true desktop computing experience for single board computers (SBCs), right out-of-the-box. Twister OS includes themes, applications, tools, and optimizations to allow you to get the most out of your SBC | https://twisteros.com/about.html
+RasPlex | A Plex Media Client for the Raspberry Pi computer | http://www.rasplex.com/
+Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood! | https://www.recalbox.com/download/stable/rpi/rpi4_64/
+RetroPie | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
+RISC OS | RISC OS is a computer operating system designed in Cambridge, England by Acorn. First released in 1987, its origins can be traced back to the original team that developed the Arm microprocessor | https://www.riscosopen.org/content/
 
 <!-- ============================================================ -->
 
@@ -56,6 +61,11 @@ Name|Description|Link
 FoxTrot GPS |  x | https://www.foxtrotgps.org/
 
 <!-- ============================================================ -->
+
+### Meshtastic
+Name|Description|Link
+----|---|---
+Android Application Usage | Meshtastic Android App Information | https://meshtastic.org/docs/software/android/usage/
 
 ### Networking
 Name|Description|Link
@@ -104,6 +114,7 @@ Pi Weather Station | x | https://github.com/elewin/pi-weather-station
 Name|Description|Link
 ---|---|---
 Cool-Retro-Term | x | https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file
+Third Party Themes | Themes for Cool-Retro-Term | https://github.com/Swordfish90/cool-retro-term/wiki/Third-Party-Themes
 MatrixHasYou | A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix": | https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file
 balenaEtcher | Flash OS images to SD cards & USB drives, safely and easily | https://etcher.balena.io/
 Raspberry Pi Imager | x | https://www.raspberrypi.com/software/
