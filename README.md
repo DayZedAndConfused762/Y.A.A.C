@@ -2,7 +2,7 @@
 
 Yet Another Apache CyberDeck
 
-![placeholder](images/yaac-high-resolution-logo.png)
+![Y.A.A.C Logo](images/yaac-high-resolution-logo-edited.png)
 
 ## Overview
 
