@@ -60,6 +60,8 @@ Prepping items on sale | https://www.reddit.com/r/preppersales/
 Description|URL
 ---|---
 CRT Cyberdeck | https://www.youtube.com/watch?v=Ty9pPNabPpQ
+Build Your Own Off-Grid Internet with Raspberry Pi! | https://www.youtube.com/watch?v=Hp4hLpDFVyg
+Build an Off Grid Wikipedia with #RaspberryPi  | https://www.youtube.com/watch?v=R63x2TXm0s8
 
 <!-- ============================================================ -->
 
@@ -83,5 +85,5 @@ What projects for Raspberry Pi Zero WH?! | https://www.reddit.com/r/RASPBERRY_PI
 What is the coolest thing you've done with a Raspberry Pi? | https://www.quora.com/What-is-the-coolest-thing-youve-done-with-a-Raspberry-Pi
 Just got a Pi Zero W. What are some good first projects for it? | https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/16b5t44/just_got_a_pi_zero_w_what_are_some_good_first/
 MagPi Raspberry Pi Projects | https://magpi.raspberrypi.com/books/projects-1/pdf/download
-
+Doscher.com, one of the most popular CyberDecks | https://www.doscher.com/
 
