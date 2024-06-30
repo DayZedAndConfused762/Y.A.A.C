@@ -29,6 +29,8 @@ Description|URL
 CRT Cyberdeck | https://www.youtube.com/watch?v=Ty9pPNabPpQ
 Build Your Own Off-Grid Internet with Raspberry Pi! | https://www.youtube.com/watch?v=Hp4hLpDFVyg
 Build an Off Grid Wikipedia with #RaspberryPi  | https://www.youtube.com/watch?v=R63x2TXm0s8
+Exploring Cyber Security Tools: From Cheap DIY to High-Tech & The Future of AI in Cyber Security | https://www.youtube.com/watch?v=6W-mYWzxx7Q
+Dangerous Hacking Gadgets You Can Still Buy | https://www.youtube.com/watch?v=psTvjWSmpSE
 
 <!-- ============================================================ -->
 
