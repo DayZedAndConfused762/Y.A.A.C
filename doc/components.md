@@ -401,6 +401,11 @@ Deauther Watch | https://dstike.com/collections/frontpage/products/dstike-deauth
 Item|URL|Price
 ---|---|---
 
+### Hats
+Item|URL|Price
+---|---|---
+Raspberry Pi AI HAT | https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/ | $70.00
+
 ### Hubs & Card Readers
 Item|URL|Price
 ---|---|---
