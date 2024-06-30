@@ -73,6 +73,15 @@ PiFM (MundeepL) |  x | https://github.com/MundeepL/PiFM
 
 <!-- ============================================================ -->
 
+### Gaming
+Name|Description|Link
+---|---|---
+NetHack | NetHack is an open source single-player roguelike video game, first released in 1987 | https://www.nethack.org/
+Dwarf Fortress | Dwarf Fortress is a construction and management simulation and roguelike indie video game created by Bay 12 Games. | http://www.bay12games.com/dwarves/
+pokete | A terminal based Pokemon like game | https://lxgr-linux.github.io/pokete/
+
+<!-- ============================================================ -->
+
 ### GPS/Mapping
 Name|Description|Link
 ---|---|---
