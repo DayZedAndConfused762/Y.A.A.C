@@ -348,6 +348,11 @@ USB Type C Splitter | https://www.amazon.com/gp/product/B0BZ8DFFNP/ |
 Item|URL|Price
 ---|---|---
 
+### USB Micro Extension
+Item|URL|Price
+---|---|---
+6 inch USB Micro Male to Female OTG Extension Cable | https://www.amazon.com/gp/product/B00HAOK7XE/  $5.97
+
 ### Cases
 Item|URL|Price
 ---|---|---
@@ -424,6 +429,10 @@ T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX
 VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ | $
 2PCS 86 Hole Panel (4 Hole) for D-Type Module | https://www.amazon.com/gp/product/B09BNGQGP6/ | $12.99
 5Pack Cable Spring Holder Clips | https://www.amazon.com/dp/B09S8VXZXC/ $11.99
+2Pcs 3 inch Silver Folding Butt Hinges | https://www.amazon.com/gp/product/B07BXGPSFP/ | $8.49
+Sumnacon 8Pcs Stainless Steel Flat Plates | https://www.amazon.com/gp/product/B07D8QMLPR/ | $8.99
+DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ/ | $12.99
+1280 Pieces M3 Button Head Socket Cap Screws Bolts Washers Nuts Kit | https://www.amazon.com/dp/B09WJ1C8JP/ | $19.99
 
 ### Organization and Labeling
 Item|URL|Price
