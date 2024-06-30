@@ -87,6 +87,10 @@ TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ |
 Item|URL|Price
 ---|---|---
 
+### Organization and Labeling
+Item|URL|Price
+---|---|---
+
 ### Panels
 Item|URL|Price
 ---|---|---
@@ -228,6 +232,10 @@ Item|URL|Price
 N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
 Metric M3 Phillips Pan Head Nylon Screws Nut Washer | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
 T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $9.29
+
+### Organization and Labeling
+Item|URL|Price
+---|---|---
 
 ### Panels
 Item|URL|Price
@@ -382,7 +390,7 @@ Pirate Audio: 3W Stereo Speaker Amp for Raspberry Pi | https://www.adafruit.com/
 Mini Monochrome PiOLED Ad Blocking Pi-Hole Kit - No Soldering! | https://www.adafruit.com/product/3973 | $39.95
 SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th=1 | 
 ELECROW Crowpi Raspberry Pi 4 3 b 3b+ 4b+ | https://www.amazon.com/dp/B07L4RZP6B | 
-Deauther Watch | https://www.theverge.com/23412661/deauther-watch-wifi-hacking-chip-network-deauthorization-secure-oled | 
+Deauther Watch | https://dstike.com/collections/frontpage/products/dstike-deauther-watch-v3s | 
 
 ### GPS Dongle
 Item|URL|Price
@@ -415,6 +423,13 @@ EEEEE (M2 M2.5 M3 M4) 572pcs Standoff Kit | https://www.amazon.com/gp/product/B0
 T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $
 VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ | $
 2PCS 86 Hole Panel (4 Hole) for D-Type Module | https://www.amazon.com/gp/product/B09BNGQGP6/ | $12.99
+5Pack Cable Spring Holder Clips | https://www.amazon.com/dp/B09S8VXZXC/ $11.99
+
+### Organization and Labeling
+Item|URL|Price
+---|---|---
+Wrap-It Storage - Cable Labels, Oval, Multi-Color (36 Pack) | https://www.amazon.com/dp/B07Y2JSTXK/ | $15.99
+Digital Tube Wire labels 0-9 Number Coded Clip | https://www.amazon.com/dp/B07V3S9LT6/ | $6.91
 
 ### Panels
 Item|URL|Price
@@ -462,6 +477,7 @@ Item|URL|Price
 Item|URL|Price
 ---|---|---
 PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B097RC8KLQ/ | $27.99
+Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://www.amazon.com/Pisugar-Portable-Lithium-Raspberry-Accessories/dp/B07RC649ZC | $38.99
 Pisugar2 Portable 1200 mAh UPS | https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/ | $35.99
 PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/ | $39.99
 
