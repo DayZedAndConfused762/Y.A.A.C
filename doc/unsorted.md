@@ -8,18 +8,6 @@ This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 
 ### Unsorted Links
 
-* https://www.crowdsupply.com/useful-sensors/ai-in-a-box
-* https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
-* https://huggingface.co/microsoft/phi-1_5
-* https://github.com/usefulsensors/ai_in_a_box
-* https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/
-* https://www.youtube.com/watch?v=6W-mYWzxx7Q
-* https://www.youtube.com/watch?v=psTvjWSmpSE
-* https://vimm.net/?p=emulate
-* https://www.nethack.org/
-* http://www.bay12games.com/dwarves/
-* https://lxgr-linux.github.io/pokete/
-* https://parrotsec.org/docs/installation/raspberrypi/
 * https://www.pivpn.io/
 * https://steveedson.co.uk/tools/wpa/
 * https://www.youtube.com/watch?v=TetjB6uj_No
