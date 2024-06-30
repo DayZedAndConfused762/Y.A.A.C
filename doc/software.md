@@ -73,10 +73,11 @@ PiFM (MundeepL) |  x | https://github.com/MundeepL/PiFM
 
 <!-- ============================================================ -->
 
-### GPS
+### GPS/Mapping
 Name|Description|Link
 ---|---|---
 FoxTrot GPS |  x | https://www.foxtrotgps.org/
+Ulysses Mapping Program | An offline and online mapping program created using CustomTkinter and TkinterMapview. Incorporates a settings system and an offline tile downloading addon | https://github.com/sbenf999/Ulysses-Mapping-Program
 
 <!-- ============================================================ -->
 
