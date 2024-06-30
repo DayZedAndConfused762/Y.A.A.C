@@ -7,11 +7,11 @@ Software current in use or to be used on the Y.A.A.C.
 ### Operating Systems
 Name|Description|Link
 ---|---|---
-Kali linux |  x | https://www.kali.org
-Raspberry Pi OS Bookworm |  x | https://www.raspberrypi.com/software/
-RetroPi |  x | https://retropie.org.uk/
-Collapse OS |  x | http://collapseos.org/
-DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi |  x | https://sourceforge.net/projects/dragonos-pi64/
+Kali linux | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering | https://www.kali.org
+Raspberry Pi OS Bookworm | Your Raspberry Pi needs an operating system to work. This is it. Raspberry Pi OS (previously called Raspbian) is our official supported operating system | https://www.raspberrypi.com/software/
+RetroPi | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
+Collapse OS | Winter is coming and Collapse OS aims to soften the blow. It is a Forth (why Forth?) operating system and a collection of tools and documentation with a single purpose: preserve the ability to program microcontrollers through civilizational collapse | http://collapseos.org/
+DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi | SDR Focused Distribution for the Raspberry Pi | https://sourceforge.net/projects/dragonos-pi64/
 Twister OS | The main goal of Twister OS is to provide a true desktop computing experience for single board computers (SBCs), right out-of-the-box. Twister OS includes themes, applications, tools, and optimizations to allow you to get the most out of your SBC | https://twisteros.com/about.html
 RasPlex | A Plex Media Client for the Raspberry Pi computer | http://www.rasplex.com/
 Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood! | https://www.recalbox.com/download/stable/rpi/rpi4_64/
