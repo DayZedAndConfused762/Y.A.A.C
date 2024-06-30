@@ -418,6 +418,8 @@ Item|URL|Price
 LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module | https://www.amazon.com/dp/B0B659536P/ | $
 915 ESP32 LoRa OLED Board V3 |  https://www.amazon.com/dp/B086ZFCV7F/ | $
 Armachat - Meshtastic compatible LORA messenger | https://www.tindie.com/products/bobricius/armachat-meshtastic-compatible-lora-messenger/ | $
+LILYGO® T-Deck ESP32-S3 LoRa Module 2.8 inch LCD Development Board | https://www.aliexpress.us/item/3256805505920840.html | $55.98
+LILYGO® TTGO LoRa32 V2.1_1.6 | https://www.aliexpress.us/item/2251832685763835.html | $19.98
 
 ### Mounting Hardware
 Item|URL|Price
