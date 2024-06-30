@@ -37,8 +37,6 @@ This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 * https://www.fosslinux.com/120180/how-to-enable-remote-desktop-and-ssh-access-to-kali-linux.htm
 * https://www.youtube.com/watch?v=OgbbHiv4bus
 * https://www.youtube.com/watch?v=ltJQjqm5bKA
-* https://www.aliexpress.us/item/3256805505920840.html?aff_fcid=bf55dec8339f419daa6a26adb05b4126-1717715701701-02275-_Dk8N1TV&tt=CPS_NORMAL&aff_fsk=_Dk8N1TV&aff_platform=shareComponent-detail&sk=_Dk8N1TV&aff_trace_key=bf55dec8339f419daa6a26adb05b4126-1717715701701-02275-_Dk8N1TV&terminal_id=1571bdccd65349e5b642abdcc3c2672f&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt
-* https://www.aliexpress.us/item/2251832685763835.html?aff_fcid=6c413319b1d4450c98c7ed4aae7340de-1717715702386-04056-_DBTUwxV&tt=CPS_NORMAL&aff_fsk=_DBTUwxV&aff_platform=shareComponent-detail&sk=_DBTUwxV&aff_trace_key=6c413319b1d4450c98c7ed4aae7340de-1717715702386-04056-_DBTUwxV&terminal_id=1571bdccd65349e5b642abdcc3c2672f&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt
 * https://www.youtube.com/watch?v=8onU3Ov0qZw
 * https://www.youtube.com/watch?v=TY6m6fS8bxU
 * https://www.youtube.com/watch?v=adhWIo-7gr4
@@ -46,8 +44,6 @@ This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 * https://millercenter.rutgers.edu/wp-content/uploads/2020/11/NCRI-White-Paper-Network-Enabled-Anarchy-25-Sept-259pm.pdf
 * https://www.youtube.com/watch?v=VgqxieHGNsU
 * https://www.youtube.com/watch?v=8qDGV6LTOnk
-* https://www.amazon.com/ELECROW-Raspberry-Learning-Programming-Electronics/dp/B07L4RZP6B?crid=NOAB60Y10EO1&keywords=raspberry%2Bpi&qid=1642693401&sprefix=raspberry%2Bpi%2B,aps,575&sr=8-6&th=1&linkCode=sl1&tag=tpc06c-20&linkId=266308239764eda641e9f8ca85d19f8a&language=en_US&ref_=as_li_ss_tl
-* https://www.amazon.com/Nano-Uno-Mega-Colossus-Complete/dp/B07RF9LB17?crid=2Z8VGEMBKN00J&keywords=iot+kit&qid=1642691987&sprefix=iot+k,aps,496&sr=8-7&linkCode=sl1&tag=tpc06c-20&linkId=8db62d491ec19818efdb4ddb487d4615&language=en_US&ref_=as_li_ss_tl
 * https://www.youtube.com/watch?v=sLW_r0OVyok
 * insert links here
 * insert links here.....
