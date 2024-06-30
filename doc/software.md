@@ -100,6 +100,7 @@ Name|Description|Link
 ---|---|---
 PiHole |  x | https://docs.pi-hole.net/guides/vpn/wireguard/overview/
 mRemoteNG | Multi-Remote Next Generation Connection Manager | https://mremoteng.org/download
+PiVPN | The simplest way to setup and manage a VPN, designed for Raspberry Pi | https://www.pivpn.io/
 
 <!-- ============================================================ -->
 
