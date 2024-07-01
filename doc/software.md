@@ -4,7 +4,7 @@
 
 # Y.A.A.C - Software
 
-Software current in use or to be used on the Y.A.A.C.
+Software currently in use or to be used on the Y.A.A.C.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
@@ -46,9 +46,9 @@ motionEyeOS | A Linux distribution that turns your single board computer into a 
 OSMC | OSMC is a free and open source media center built for the people, by the people | https://osmc.tv/
 PirateBox | PirateBox is an anonymous offline mobile file-sharing and communications system built with free software and inexpensive off-the-shelf hardware | https://piratebox.cc/doku.php?id=raspberry_pi:diy
 
-<!-- ++++++++++++++++++++  Operating Systems End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Operating Systems End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Lists Start ++++++++++++++++++++ -->
 
 ### Lists
 Name|Description|Link
@@ -58,28 +58,28 @@ Pi-Apps (list) | Rasberry Pi Software List | https://pi-apps.io/wiki/getting-sta
 Pi-Apps (software) | The most popular app store for Raspberry Pi computers. 100% free, open-source and written in shell scripts | https://github.com/Botspot/pi-apps 
 Awesome-Linux-Software | This repo is a collection of AWESOME Linux applications and tools for any users/developers | https://github.com/luong-komorebi/Awesome-Linux-Software
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Lists End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Audio Start ++++++++++++++++++++ -->
 
 ### Audio
 Name|Description|Link
 ---|---|---
 Simple Internet Radio |  x | https://github.com/blake5634/Simple-Internet-Radio
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Audio End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
-### Cyber Security
+### CyberSecurity
 Name|Description|Link
 ---|---|---
 Pwnagotchi |  A2C-based "AI" leveraging bettercap that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures | https://github.com/evilsocket/pwnagotchi
 Aircrack-ng | Aircrack-ng is a complete suite of tools to assess WiFi network security. | http://www.aircrack-ng.org/
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Data Start ++++++++++++++++++++ -->
 
 ### Data Management
 Name|Description|Link
@@ -91,9 +91,9 @@ SDCardFormatter | SD Memory Card Formatter for Windows Download | https://www.sd
 balenaEtcher | Flash OS images to SD cards & USB drives, safely and easily | https://etcher.balena.io/
 Raspberry Pi Imager | x | https://www.raspberrypi.com/software/
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Data End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ FM Start ++++++++++++++++++++ -->
 
 ### FM Radio Transmitting
 Name|Description|Link
@@ -103,9 +103,9 @@ PiFM (ka9cql) |  x | https://github.com/ka9cql/pifm?tab=readme-ov-file
 PiFmAdv |  x | https://github.com/miegl/PiFmAdv
 PiFM (MundeepL) |  x | https://github.com/MundeepL/PiFM
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ FM End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Gaming Start ++++++++++++++++++++ -->
 
 ### Gaming
 Name|Description|Link
@@ -114,9 +114,9 @@ NetHack | NetHack is an open source single-player roguelike video game, first re
 Dwarf Fortress | Dwarf Fortress is a construction and management simulation and roguelike indie video game created by Bay 12 Games. | http://www.bay12games.com/dwarves/
 pokete | A terminal based Pokemon like game | https://lxgr-linux.github.io/pokete/
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Gaming End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ GPS Start ++++++++++++++++++++ -->
 
 ### GPS/Mapping
 Name|Description|Link
@@ -124,18 +124,18 @@ Name|Description|Link
 FoxTrot GPS |  x | https://www.foxtrotgps.org/
 Ulysses Mapping Program | An offline and online mapping program created using CustomTkinter and TkinterMapview. Incorporates a settings system and an offline tile downloading addon | https://github.com/sbenf999/Ulysses-Mapping-Program
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ GPS End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Meshtastic Start ++++++++++++++++++++ -->
 
 ### Meshtastic
 Name|Description|Link
 ----|---|---
 Android Application Usage | Meshtastic Android App Information | https://meshtastic.org/docs/software/android/usage/
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Networking Start ++++++++++++++++++++ -->
 
 ### Networking
 Name|Description|Link
@@ -144,9 +144,9 @@ PiHole |  x | https://docs.pi-hole.net/guides/vpn/wireguard/overview/
 mRemoteNG | Multi-Remote Next Generation Connection Manager | https://mremoteng.org/download
 PiVPN | The simplest way to setup and manage a VPN, designed for Raspberry Pi | https://www.pivpn.io/
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Networking End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Offline Internet Start ++++++++++++++++++++ -->
 
 ### Offline Internet
 Name|Description|Link
@@ -154,9 +154,9 @@ Name|Description|Link
 Internet in a Box | x | https://internet-in-a-box.org/            
 Kiwix offline internet/wiki | x | https://www.kiwix.org/en/
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Offline Internet End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ RPi General Start ++++++++++++++++++++ -->
 
 ### Raspberry Pi General/Misc
 Name|Description|Link
@@ -171,27 +171,18 @@ rpi-clone | rpi-clone is a shell script that is for cloning a running Raspberry 
 RasComm | RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly | https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator
 pigg - Raspberry Pi GPIO GUI | https://github.com/andrewdavidmackenzie/pigg | An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate.
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ RPi General End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
 
 ### SDR
 Name|Description|Link
 ---|---|---
 SDRangel TX & RX Software Defined Radio | x | https://www.sdrangel.org/
 
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
-
-### Weather
-Name|Description|Link
----|---|---
-Pi Weather Station | x | https://github.com/elewin/pi-weather-station
-
-<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
-
-<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Utilities Start ++++++++++++++++++++ -->
 
 ### Utilities
 Name|Description|Link
@@ -201,7 +192,16 @@ Third Party Themes | Themes for Cool-Retro-Term | https://github.com/Swordfish90
 MatrixHasYou | A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix": | https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file
 Putty | x | https://www.putty.org/
 
-<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Utilities End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Weather Start ++++++++++++++++++++ -->
+
+### Weather
+Name|Description|Link
+---|---|---
+Pi Weather Station | x | https://github.com/elewin/pi-weather-station
+
+<!-- ++++++++++++++++++++ Weather End ++++++++++++++++++++ -->
 
 <!-- ------------------------------ Software End ------------------------------ -->
 
