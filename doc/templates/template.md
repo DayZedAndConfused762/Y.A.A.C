@@ -5,7 +5,7 @@
 
 # Markdown Template
 
-General template and github flavored markdown pages.
+General template for github flavored markdown pages.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
@@ -18,34 +18,23 @@ General template and github flavored markdown pages.
 
 ### Subsection Name
 
+<!-- _______________ SubSubsection Start _______________ -->
+
+#### SubSubsection Name
+
+<!-- _______________ SubSubsection End _______________ -->
+
 <!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
-
-### Subsection Name
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
 
 <!-- ------------------------------ Section End ------------------------------ -->
 
 
-<!-- ------------------------------ Section Start ------------------------------ -->
+<!-- ------------------------------ Outro Start ------------------------------ -->
 
-## Section Name
+Outro text goes here
 
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
-
-### Subsection Name
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
-
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
-
-### Subsection Name
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
-
-<!-- ------------------------------ Section End ------------------------------ -->
+<!-- ------------------------------ Outro End ------------------------------ -->
 
 
 <!-- ======================================== Document End ======================================== -->
