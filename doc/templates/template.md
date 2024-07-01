@@ -17,12 +17,6 @@ General template for github flavored markdown pages.
 
 ### Subsection Name
 
-<!-- _______________ SubSubsection Start _______________ -->
-
-#### SubSubsection Name
-
-<!-- _______________ SubSubsection End _______________ -->
-
 <!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
 
 
