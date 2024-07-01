@@ -38,7 +38,7 @@ Raspberry Pi Debian | This Web site is built to help you get Debian GNU/Linux ea
 DietPi | DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential | https://github.com/Fourdee/DietPi
 EZ-WifiBroadcast | Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system | https://github.com/rodizio1/EZ-WifiBroadcast
 Fedora Linux for Raspberry Pi | An innovative platform for hardware, clouds, and containers, built with love by you | https://fedoraproject.org/wiki/Architectures/ARM/Raspberry_Pi
-FreeBSD/ARM | https://wiki.freebsd.org/arm/Raspberry%20Pi | FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms
+FreeBSD/ARM | FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms | https://wiki.freebsd.org/arm/Raspberry%20Pi
 FreedomBox | FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control | https://www.freedombox.org/
 Lakka Linux | Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console | https://lakka.tv/
 LibreELEC | Just enough OS for KODI | https://libreelec.tv/
