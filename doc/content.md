@@ -1,4 +1,4 @@
-<!-- ================================================================================ -->
+<!-- ========================================.======================================== -->
 
 # Y.A.A.C - Content
 
@@ -28,4 +28,4 @@ Essential Survival Guides & Fiction | https://www.ar15.com/forums/outdoors/Essen
 Pole Shift Survival Information | https://web.archive.org/web/20210115140217/https://www.ps-survival.com/
 The Preparedness Encyclopedia | https://fluidicice.com/tpe.html
 
-<!-- ================================================================================ -->
+<!-- ========================================.======================================== -->
