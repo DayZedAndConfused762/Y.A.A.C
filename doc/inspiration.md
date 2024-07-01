@@ -1,10 +1,20 @@
-<!-- ========================================.======================================== -->
+<!-- ======================================== inspiration.md Start ======================================== -->
+
+
+<!-- ------------------------------ Intro Start ------------------------------ -->
 
 # Y.A.A.C - Inspiration
 
 This is a list of inspiration and sources of information for the Y.A.A.C
 
-<!-- ============================================================ -->
+<!-- ------------------------------ Intro End ------------------------------ -->
+
+
+<!-- ------------------------------ Inspiration Start ------------------------------ -->
+
+## Inspiration
+
+<!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
 ### CyberSecurity
 Description|URL
@@ -12,9 +22,11 @@ Description|URL
 Pwnagotchi | https://pwnagotchi.ai/
 Pwnagotchi Cases | https://pwnagotchi.org/3d-printable-cases/index.html
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
 
-### Sub Reddits
+<!-- ++++++++++++++++++++ SubReddits Start ++++++++++++++++++++ -->
+
+### SubReddits
 Description|URL
 ---|---
 CyberDecks | https://www.reddit.com/r/cyberDeck/
@@ -23,7 +35,9 @@ Raspberry Pi Projects | https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/
 Preppers | https://www.reddit.com/r/preppers/
 Prepping items on sale | https://www.reddit.com/r/preppersales/
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ SubReddits End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Youtube Start ++++++++++++++++++++ -->
 
 ### Youtube
 Description|URL
@@ -34,7 +48,9 @@ Build an Off Grid Wikipedia with #RaspberryPi  | https://www.youtube.com/watch?v
 Exploring Cyber Security Tools: From Cheap DIY to High-Tech & The Future of AI in Cyber Security | https://www.youtube.com/watch?v=6W-mYWzxx7Q
 Dangerous Hacking Gadgets You Can Still Buy | https://www.youtube.com/watch?v=psTvjWSmpSE
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ Youtube End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ RPiProjects Start ++++++++++++++++++++ -->
 
 ### Raspberry Pi Projects
 Description|URL
@@ -59,4 +75,9 @@ MagPi Raspberry Pi Projects | https://magpi.raspberrypi.com/books/projects-1/pdf
 Doscher.com, one of the most popular CyberDecks | https://www.doscher.com/
 AI in a Box | https://github.com/usefulsensors/ai_in_a_box
 
-<!-- ========================================.======================================== -->
+<!-- ++++++++++++++++++++ RPiProjects End ++++++++++++++++++++ -->
+
+<!-- ------------------------------ Inspiration Start ------------------------------ -->
+
+
+<!-- ======================================== inspiration.md End ======================================== -->
