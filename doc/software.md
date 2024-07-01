@@ -1,10 +1,19 @@
-<!-- ========================================.======================================== -->
+<!-- ======================================== software.md Start ======================================== -->
+
+<!-- ------------------------------ Intro Start ------------------------------ -->
 
 # Y.A.A.C - Software
 
 Software current in use or to be used on the Y.A.A.C.
 
-<!-- ============================================================ -->
+<!-- ------------------------------ Intro End ------------------------------ -->
+
+
+<!-- ------------------------------ Software Start ------------------------------ -->
+
+## Software:
+
+<!-- ++++++++++++++++++++ Operating Systems Start ++++++++++++++++++++ -->
 
 ### Operating Systems
 Name|Description|Link
@@ -37,8 +46,9 @@ motionEyeOS | A Linux distribution that turns your single board computer into a 
 OSMC | OSMC is a free and open source media center built for the people, by the people | https://osmc.tv/
 PirateBox | PirateBox is an anonymous offline mobile file-sharing and communications system built with free software and inexpensive off-the-shelf hardware | https://piratebox.cc/doku.php?id=raspberry_pi:diy
 
+<!-- ++++++++++++++++++++  Operating Systems End ++++++++++++++++++++ -->
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Lists
 Name|Description|Link
@@ -48,14 +58,18 @@ Pi-Apps (list) | Rasberry Pi Software List | https://pi-apps.io/wiki/getting-sta
 Pi-Apps (software) | The most popular app store for Raspberry Pi computers. 100% free, open-source and written in shell scripts | https://github.com/Botspot/pi-apps 
 Awesome-Linux-Software | This repo is a collection of AWESOME Linux applications and tools for any users/developers | https://github.com/luong-komorebi/Awesome-Linux-Software
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Audio
 Name|Description|Link
 ---|---|---
 Simple Internet Radio |  x | https://github.com/blake5634/Simple-Internet-Radio
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Cyber Security
 Name|Description|Link
@@ -63,7 +77,9 @@ Name|Description|Link
 Pwnagotchi |  A2C-based "AI" leveraging bettercap that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures | https://github.com/evilsocket/pwnagotchi
 Aircrack-ng | Aircrack-ng is a complete suite of tools to assess WiFi network security. | http://www.aircrack-ng.org/
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Data Management
 Name|Description|Link
@@ -71,8 +87,13 @@ Name|Description|Link
 HDD Raw Copy Tool (windows) | HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.  | https://hddguru.com/software/HDD-Raw-Copy-Tool/
 imgclone | This program can be used to create a backup of your Raspberry Pi SD card while it's active. | https://github.com/tom-2015/imgclone
 rpi-clone | rpi-clone is a shell script that is for cloning a running Raspberry Pi booted source disk (SD card or USB disk) to a destination disk which will be bootable | https://github.com/billw2/rpi-clone
+SDCardFormatter | SD Memory Card Formatter for Windows Download | https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/
+balenaEtcher | Flash OS images to SD cards & USB drives, safely and easily | https://etcher.balena.io/
+Raspberry Pi Imager | x | https://www.raspberrypi.com/software/
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### FM Radio Transmitting
 Name|Description|Link
@@ -82,7 +103,9 @@ PiFM (ka9cql) |  x | https://github.com/ka9cql/pifm?tab=readme-ov-file
 PiFmAdv |  x | https://github.com/miegl/PiFmAdv
 PiFM (MundeepL) |  x | https://github.com/MundeepL/PiFM
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Gaming
 Name|Description|Link
@@ -91,7 +114,9 @@ NetHack | NetHack is an open source single-player roguelike video game, first re
 Dwarf Fortress | Dwarf Fortress is a construction and management simulation and roguelike indie video game created by Bay 12 Games. | http://www.bay12games.com/dwarves/
 pokete | A terminal based Pokemon like game | https://lxgr-linux.github.io/pokete/
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### GPS/Mapping
 Name|Description|Link
@@ -99,12 +124,18 @@ Name|Description|Link
 FoxTrot GPS |  x | https://www.foxtrotgps.org/
 Ulysses Mapping Program | An offline and online mapping program created using CustomTkinter and TkinterMapview. Incorporates a settings system and an offline tile downloading addon | https://github.com/sbenf999/Ulysses-Mapping-Program
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Meshtastic
 Name|Description|Link
 ----|---|---
 Android Application Usage | Meshtastic Android App Information | https://meshtastic.org/docs/software/android/usage/
+
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Networking
 Name|Description|Link
@@ -113,7 +144,9 @@ PiHole |  x | https://docs.pi-hole.net/guides/vpn/wireguard/overview/
 mRemoteNG | Multi-Remote Next Generation Connection Manager | https://mremoteng.org/download
 PiVPN | The simplest way to setup and manage a VPN, designed for Raspberry Pi | https://www.pivpn.io/
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Offline Internet
 Name|Description|Link
@@ -121,7 +154,9 @@ Name|Description|Link
 Internet in a Box | x | https://internet-in-a-box.org/            
 Kiwix offline internet/wiki | x | https://www.kiwix.org/en/
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Raspberry Pi General/Misc
 Name|Description|Link
@@ -136,21 +171,27 @@ rpi-clone | rpi-clone is a shell script that is for cloning a running Raspberry 
 RasComm | RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly | https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator
 pigg - Raspberry Pi GPIO GUI | https://github.com/andrewdavidmackenzie/pigg | An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate.
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### SDR
 Name|Description|Link
 ---|---|---
 SDRangel TX & RX Software Defined Radio | x | https://www.sdrangel.org/
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Weather
 Name|Description|Link
 ---|---|---
 Pi Weather Station | x | https://github.com/elewin/pi-weather-station
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++  End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Utilities
 Name|Description|Link
@@ -158,11 +199,11 @@ Name|Description|Link
 Cool-Retro-Term | x | https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file
 Third Party Themes | Themes for Cool-Retro-Term | https://github.com/Swordfish90/cool-retro-term/wiki/Third-Party-Themes
 MatrixHasYou | A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix": | https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file
-balenaEtcher | Flash OS images to SD cards & USB drives, safely and easily | https://etcher.balena.io/
-Raspberry Pi Imager | x | https://www.raspberrypi.com/software/
 Putty | x | https://www.putty.org/
-SDCardFormatter | SD Memory Card Formatter for Windows Download | https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
 
-<!-- ========================================.======================================== -->
+<!-- ------------------------------ Software End ------------------------------ -->
+
+
+<!-- ======================================== software.md end ======================================== -->
