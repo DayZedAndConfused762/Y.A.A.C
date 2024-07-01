@@ -1,100 +1,49 @@
-<!-- ======================================== Document Start ======================================== -->
+<!-- ======================================== Template Start ======================================== -->
 
 
 <!-- ============================== Intro Start ============================== -->
 
-# Markdown Template/Reference
+# Markdown Template
 
-General template and reference for github flavored markdown.
+General template and github flavored markdown pages.
 
 <!-- ============================== Intro End ============================== -->
 
 
-<!-- ============================== Markdown Start ============================== -->
+<!-- ============================== Section Start ============================== -->
 
+## Section Name
 
-## Markdown Reference
+<!-- ==================== Subsection Start ==================== -->
 
+### Subsection Name
 
-<!-- ==================== Headers Start ==================== -->
+<!-- ==================== Subsection End ==================== -->
 
-### Headers
+<!-- ==================== Subsection Start ==================== -->
 
-# Level 1 Header
+### Subsection Name
 
-## Level 2 Header
+<!-- ==================== Subsection End ==================== -->
 
-## Level 3 Header
-
-## Level 4 Header
-
-<!-- ==================== Headers End ==================== -->
-
-
-<!-- ==================== Formatting Start ==================== -->
-
-### Formatting Text
-
-**This is bold text**
-__This is bold text__
-
-_This text is italicized_
-*This text is italicized*
-
-~~This was mistaken text~~
-
-**This text is _extremely_ important**
-
-***All this text is important***
-
-This is a <sub>subscript</sub> text
-
-This is a <sup>superscript</sup> text
-
-<!-- ==================== Formatting End ==================== -->
-
-
-<!-- ==================== Quoting Start ==================== -->
-
-### Quoting
-
-Text that is not a quote
-
-> Text that is a quote
-
-Use `git status` to list all new or modified files that haven't yet been committed.
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-
-<!-- ==================== Quoting End ==================== -->
-
-
-<!-- ==================== Color Start ==================== -->
-
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-
-HEX	`#RRGGBB`	`#0969DA`
-
-RGB	`rgb(R,G,B)`	`rgb(9, 105, 218)`
-
-HSL	`hsl(H,S,L)`	`hsl(212, 92%, 45%)`
-
-<!-- ==================== Color End ==================== -->
+<!-- ============================== Section End ============================== -->
 
 
 <!-- ============================== Section Start ============================== -->
 
+## Section Name
 
 <!-- ==================== Subsection Start ==================== -->
 
+### Subsection Name
 
 <!-- ==================== Subsection End ==================== -->
 
+<!-- ==================== Subsection Start ==================== -->
+
+### Subsection Name
+
+<!-- ==================== Subsection End ==================== -->
 
 <!-- ============================== Section End ============================== -->
 
