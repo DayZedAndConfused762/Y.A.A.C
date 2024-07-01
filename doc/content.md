@@ -1,12 +1,22 @@
-<!-- ========================================.======================================== -->
+<!-- ======================================== content.md Start ======================================== -->
+
+
+<!-- ------------------------------ Intro Start ------------------------------ -->
 
 # Y.A.A.C - Content
 
 This is a list of content to be included on the Y.A.A.C
 
-<!-- ============================================================ -->
+<!-- ------------------------------ Intro End ------------------------------ -->
 
-## Book PDFs
+
+<!-- ------------------------------ Content Start ------------------------------ -->
+
+## Content
+
+<!-- ++++++++++++++++++++ Books Start ++++++++++++++++++++ -->
+
+### Books
 Description|URL
 ---|---
 Folkscanomy: Prepper and Survivalist Books | https://archive.org/details/folkscanomy_prepper
@@ -28,4 +38,8 @@ Essential Survival Guides & Fiction | https://www.ar15.com/forums/outdoors/Essen
 Pole Shift Survival Information | https://web.archive.org/web/20210115140217/https://www.ps-survival.com/
 The Preparedness Encyclopedia | https://fluidicice.com/tpe.html
 
-<!-- ========================================.======================================== -->
+<!-- ++++++++++++++++++++ Books End ++++++++++++++++++++ -->
+
+<!-- ------------------------------ Content Start ------------------------------ -->
+
+<!-- ======================================== content.md End ======================================== -->
