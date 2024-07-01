@@ -19,7 +19,7 @@ This is a list of guides.  This list is not yet sorted.
 ### Unsorted Guides
 Description|URL
 ---|---
-Retropie: Full guide for Raspberry Pi | https://github.com/DayZedAndConfused762/Y.A.A.C/edit/main/doc/guides.md
+* | *
 
 <!-- ++++++++++++++++++++ Unsorted End ++++++++++++++++++++ -->
 
