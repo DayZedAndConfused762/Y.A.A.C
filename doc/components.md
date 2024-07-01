@@ -264,7 +264,6 @@ Argon ONE M.2 Aluminum Case | https://www.amazon.com/gp/product/B08MJ3CSW7/ | $4
 GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
 GeeekPi Pi Zero 2 W Case/Zero W Case, 7 in 1 Basic Starter Kit | https://www.amazon.com/gp/product/B08MVH2JJ1/ | $9.99
 Geekworm for Raspberry Pi 4 Case, Universal HAT | https://www.amazon.com/dp/B074T7D1V5 | $6.00
-Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
 Micro SD/SDHC/SDXC Card Storage Holder Case | https://www.amazon.com/dp/B0196PR0H0 | $5.95
 
 <!-- ++++++++++++++++++++ Cases End ++++++++++++++++++++ -->
@@ -331,6 +330,7 @@ Item|URL|Price
 ### Panels
 Item|URL|Price
 ---|---|---
+Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
 
 <!-- ++++++++++++++++++++ Panels End ++++++++++++++++++++ -->
 
@@ -353,8 +353,8 @@ YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXC
 #### Batteries
 Item|URL|Price
 ---|---|---
-Anker 737 Power Bank, 24,000mAh 3-Port Laptop Portable Charger | https://www.amazon.com/gp/product/B09VPHVT2Z/ | $88.95
 Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.amazon.com/gp/product/B09VP9QJSS/ | $79.99
+Anker Power Bank, 24,000mAh 3-Port Portable Charger with 140W Output |  https://www.amazon.com/gp/product/B09VPHVT2Z/ | $109.99
 Powdeom 140W Power Bank, 24600mAh | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
 
 #### Buttons
@@ -654,7 +654,6 @@ USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | 
 Item|URL|Price
 ---|---|---
 12V 18Ah LiFePO4 Battery | https://www.amazon.com/dp/B09QKD4G6L/ | 
-Anker Power Bank, 24,000mAh | https://www.amazon.com/Anker-PowerCore-Portable-Charger-Compatible/dp/B09VPHVT2Z/ | $
 Anker Prime Power Bank, 27,650mAh 3-Port 250W | https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYP2F3SG/ | $
 Anker Prime Power Bank, 20,000mAh Portable Charger | https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYNZXFM2/ | $
 Anker Prime Power Bank, 27,650mAh 3-Port | https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYP2F3SG/ | $
