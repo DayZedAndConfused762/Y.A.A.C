@@ -63,6 +63,15 @@ Aircrack-ng | Aircrack-ng is a complete suite of tools to assess WiFi network se
 
 <!-- ============================================================ -->
 
+### Data Management
+Name|Description|Link
+---|---|---
+HDD Raw Copy Tool (windows) | HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.  | https://hddguru.com/software/HDD-Raw-Copy-Tool/
+imgclone | This program can be used to create a backup of your Raspberry Pi SD card while it's active. | https://github.com/tom-2015/imgclone
+rpi-clone | rpi-clone is a shell script that is for cloning a running Raspberry Pi booted source disk (SD card or USB disk) to a destination disk which will be bootable | https://github.com/billw2/rpi-clone
+
+<!-- ============================================================ -->
+
 ### FM Radio Transmitting
 Name|Description|Link
 ---|---|---
@@ -123,6 +132,7 @@ TorTiPi | a tool to setup the Tor based wifi hotspot on Raspberry Pi | https://g
 sysmon | An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups | https://github.com/gridhead/sysmon
 rpi-clone | rpi-clone is a shell script that is for cloning a running Raspberry Pi booted source disk (SD card or USB disk) | https://github.com/billw2/rpi-clone
 RasComm | RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly | https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator
+pigg - Raspberry Pi GPIO GUI | https://github.com/andrewdavidmackenzie/pigg | An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate.
 
 <!-- ============================================================ -->
 
