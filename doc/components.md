@@ -229,6 +229,8 @@ SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $
 #### USB A to A
 Item|URL|Price
 ---|---|---
+USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
+USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
 
 #### USB C to C
 Item|URL|Price
@@ -240,8 +242,6 @@ SUNGUY USB C to USB C 1.5FT [2Pack] | https://www.amazon.com/gp/product/B08L7NCL
 Item|URL|Price
 ---|---|---
 JXMOX Short USB C Cable (1ft 3-Pack) | https://www.amazon.com/gp/product/B07HQHL6ZK/ | $6.99
-USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
-USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
 
 #### USB C Extention
 Item|URL|Price
