@@ -1,4 +1,4 @@
-# Y.A.A.C - Inspiration
+# Y.A.A.C - Guides
 
 This is a list of guides.  This list is not yet sorted.
 
