@@ -1,4 +1,4 @@
-<!-- ================================================================================ -->
+<!-- ========================================.======================================== -->
 
 # Y.A.A.C - Inspiration
 
@@ -59,4 +59,4 @@ MagPi Raspberry Pi Projects | https://magpi.raspberrypi.com/books/projects-1/pdf
 Doscher.com, one of the most popular CyberDecks | https://www.doscher.com/
 AI in a Box | https://github.com/usefulsensors/ai_in_a_box
 
-<!-- ================================================================================ -->
+<!-- ========================================.======================================== -->
