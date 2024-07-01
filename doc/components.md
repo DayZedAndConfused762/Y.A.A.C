@@ -287,6 +287,8 @@ Item|URL|Price
 ### Core Compute
 Item|URL|Price
 ---|---|---
+New Raspberry Pi 3 Model B+ Board (3B+) | Previously Owned | $35.00
+Raspberry Pi 3 Model B Board | Previously Owned | $35.00
 Waveshare Package E Compatible with Raspberry Pi Zero 2 WHC Bundle | https://www.amazon.com/dp/B09LCKL6D1 | $65.99
 
 <!-- ++++++++++++++++++++ Compute End ++++++++++++++++++++ -->
