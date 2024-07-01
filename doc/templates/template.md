@@ -4,7 +4,6 @@
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
 # Markdown Template
-
 General template for github flavored markdown pages.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
@@ -32,6 +31,7 @@ General template for github flavored markdown pages.
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
+## Outro
 Outro text goes here
 
 <!-- ------------------------------ Outro End ------------------------------ -->
