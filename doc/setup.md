@@ -27,8 +27,8 @@ Steps to setup and install operating systems and software on the Y.A.A.C.
 ### Operating System 1 - Internet in a Box - Rasperry Pi OS Bookworm - Crucial 1TB SSD
 
 * Image 'Raspberry Pi OS Full (64-bit)' using [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
-* Expand File System - Run: sudo raspi-config. Choose 1 Expand File System. Follow the onscreen instructions. Reboot the Raspberry Pi
-* Update software - 'sudo apt update' 'sudo apt full-upgrade'
+* Expand File System - Run: `sudo raspi-config`. Choose [1] Expand File System. Follow the onscreen instructions. Reboot the Raspberry Pi
+* Update software - `sudo apt update` and `sudo apt full-upgrade`
 * Setup SSH
 * Install Internet in a Box - from command line enter 'curl iiab.io/install.txt | bash'
 
