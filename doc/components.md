@@ -205,8 +205,8 @@ Poyiccot USB C Adapter 40Gbps | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
 #### DC
 Item|URL|Price
 ---|---|---
-USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
 StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $5.29
+USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
 
 #### Ethernet
 Item|URL|Price
@@ -221,10 +221,10 @@ Item|URL|Price
 #### HDMI
 Item|URL|Price
 ---|---|---
+4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
 Cable Matters 48Gbps 8K HDMI Coiled Cable | https://www.amazon.com/dp/B0CSS993KB | $12.99
 Seadream 1Foot 90 Degree Down Angle Micro HDMI | https://www.amazon.com/dp/B07BLX88H4 | $7.29
 SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
-4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
 
 #### USB A to A
 Item|URL|Price
@@ -261,11 +261,11 @@ Item|URL|Price
 Item|URL|Price
 ---|---|---
 Argon ONE M.2 Aluminum Case | https://www.amazon.com/gp/product/B08MJ3CSW7/ | $47.00
+GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
 GeeekPi Pi Zero 2 W Case/Zero W Case, 7 in 1 Basic Starter Kit | https://www.amazon.com/gp/product/B08MVH2JJ1/ | $9.99
 Geekworm for Raspberry Pi 4 Case, Universal HAT | https://www.amazon.com/dp/B074T7D1V5 | $6.00
 Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
 Micro SD/SDHC/SDXC Card Storage Holder Case | https://www.amazon.com/dp/B0196PR0H0 | $5.95
-GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
 
 <!-- ++++++++++++++++++++ Cases End ++++++++++++++++++++ -->
 
@@ -312,8 +312,8 @@ USB C Hub, 9-in-1 USB C Hub Multiport Adapter | https://www.amazon.com/gp/produc
 ### Mounting & Hardware
 Item|URL|Price
 ---|---|---
-N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
 Metric M3 Phillips Pan Head Nylon Screws Nut Washer | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
+N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
 T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $9.29
 
 <!-- ++++++++++++++++++++ Mounting End ++++++++++++++++++++ -->
@@ -339,9 +339,9 @@ Item|URL|Price
 ### Ports
 Item|URL|Price
 ---|---|---
-QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $15.99
 PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
 PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
+QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $15.99
 YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
 
 <!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
@@ -377,8 +377,8 @@ Item|URL|Price
 ### Storage
 Item|URL|Price
 ---|---|---
-SanDisk 64GB Extreme PRO® microSD | https://www.amazon.com/gp/product/B09X7BYSFG/ | $13.99
 SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB) | https://www.amazon.com/gp/product/B09FFK1QLR/ | $20.82
+SanDisk 64GB Extreme PRO® microSD | https://www.amazon.com/gp/product/B09X7BYSFG/ | $13.99
 
 <!-- ++++++++++++++++++++ Storage End ++++++++++++++++++++ -->
 
@@ -410,6 +410,11 @@ WM8960 Hi-Fi Sound Card HAT for Raspberry Pi | https://www.amazon.com/WM8960-Hi-
 <!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
 
 ### Cables & Adapters
+
+#### Audio
+Item|URL|Price
+---|---|---
+3.5mm Angle Male to Female Audio Adapter | https://www.amazon.com/gp/product/B07YFBCQTT/ | 
 
 #### DC
 Item|URL|Price
@@ -443,19 +448,18 @@ USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY
 #### USB C to C
 Item|URL|Price
 ---|---|---
+2Pcs 3FT Flat Design USB C Android Auto Cable | https://www.amazon.com/Charger-Compatible-Nintendo-DualSense-Controller/dp/B08F7KCLKR/ | 
 Charger Cable 3FT for Car, Coiled USB C to USB C | https://www.amazon.com/gp/product/B0CQR8FDR2/ | 
 SUNGUY USB C Male to USB C Male CableRight Angle | https://www.amazon.com/gp/product/B07H96FWY9/ | 
 SUNGUY USB C to USB C 1.5FT [2Pack] | https://www.amazon.com/gp/product/B08L7NCLZN/ | 
 QianLink Micro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL | 
-2Pcs 3FT Flat Design USB C Android Auto Cable | https://www.amazon.com/Charger-Compatible-Nintendo-DualSense-Controller/dp/B08F7KCLKR/ | 
 
 #### USB C to A
 Item|URL|Price
 ---|---|---
 JXMOX Short USB C Cable (1ft 3-Pack) | https://www.amazon.com/gp/product/B07HQHL6ZK/ | 
-USB C Cable Fast Charging, 2Pack 3ft Coiled USB A | https://www.amazon.com/Charging-Coiled-Retractable-Compatible-Samsung/dp/B0BQ93DBF3/ | 
 Right Angle USB A Male to USB C Female Adapter | https://www.amazon.com/gp/product/B08PSCL9FC/ | 
-3.5mm Angle Male to Female Audio Adapter | https://www.amazon.com/gp/product/B07YFBCQTT/ | 
+USB C Cable Fast Charging, 2Pack 3ft Coiled USB A | https://www.amazon.com/Charging-Coiled-Retractable-Compatible-Samsung/dp/B0BQ93DBF3/ | 
 
 #### USB C Extention
 Item|URL|Price
@@ -533,14 +537,14 @@ waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/Wav
 ### Gadgets
 Item|URL|Price
 ---|---|---
+Deauther Watch | https://dstike.com/collections/frontpage/products/dstike-deauther-watch-v3s | 
+ELECROW Crowpi Raspberry Pi 4 3 b 3b+ 4b+ | https://www.amazon.com/dp/B07L4RZP6B | 
 Military Grade Hard Drive Wiper | https://www.amazon.com/gp/product/B07RPNJPRG/ | 
 Password Reset Key Pro Next Generation - USB 3.0 | https://www.amazon.com/dp/B08PNH5VFG/ | 
 Pirate Audio: Speaker for Raspberry Pi - Built-in 1W Speaker | https://www.adafruit.com/product/4451 | $24.95
 Pirate Audio: 3W Stereo Speaker Amp for Raspberry Pi | https://www.adafruit.com/product/4453 | $24.95
 Mini Monochrome PiOLED Ad Blocking Pi-Hole Kit - No Soldering! | https://www.adafruit.com/product/3973 | $39.95
 SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th=1 | 
-ELECROW Crowpi Raspberry Pi 4 3 b 3b+ 4b+ | https://www.amazon.com/dp/B07L4RZP6B | 
-Deauther Watch | https://dstike.com/collections/frontpage/products/dstike-deauther-watch-v3s | 
 
 <!-- ++++++++++++++++++++ Gadgets End ++++++++++++++++++++ -->
 
@@ -566,8 +570,8 @@ Raspberry Pi AI HAT | https://www.raspberrypi.com/news/raspberry-pi-ai-kit-avail
 ### Hubs & Card Readers
 Item|URL|Price
 ---|---|---
-USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini | $
 TP-Link N300 Wireless Portable Router | https://www.amazon.com/TP-Link-Wireless-Portable-Travel-Router/dp/B00TQEX8BO/ | $
+USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini | $
 
 <!-- ++++++++++++++++++++ Hubs End ++++++++++++++++++++ -->
 
@@ -585,10 +589,10 @@ Medium Panel Mount USB Trackpad with Three Buttons | https://www.adafruit.com/pr
 ### Meshtastic
 Item|URL|Price
 ---|---|---
-LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module | https://www.amazon.com/dp/B0B659536P/ | $
 915 ESP32 LoRa OLED Board V3 |  https://www.amazon.com/dp/B086ZFCV7F/ | $
 Armachat - Meshtastic compatible LORA messenger | https://www.tindie.com/products/bobricius/armachat-meshtastic-compatible-lora-messenger/ | $
 LILYGO® T-Deck ESP32-S3 LoRa Module 2.8 inch LCD Development Board | https://www.aliexpress.us/item/3256805505920840.html | $55.98
+LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module | https://www.amazon.com/dp/B0B659536P/ | $
 LILYGO® TTGO LoRa32 V2.1_1.6 | https://www.aliexpress.us/item/2251832685763835.html | $19.98
 
 <!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
@@ -598,17 +602,15 @@ LILYGO® TTGO LoRa32 V2.1_1.6 | https://www.aliexpress.us/item/2251832685763835.
 ### Mounting & Hardware
 Item|URL|Price
 ---|---|---
-2PCS 86 Hole Panel (4 Hole) for D-Type Module Mount | https://www.amazon.com/gp/product/B09BNGQGP6/ | $
+1280 Pieces M3 Button Head Socket Cap Screws Bolts Washers Nuts Kit | https://www.amazon.com/dp/B09WJ1C8JP/ | $19.99
+2Pcs 3 inch Silver Folding Butt Hinges | https://www.amazon.com/gp/product/B07BXGPSFP/ | $8.49
+5Pack Cable Spring Holder Clips | https://www.amazon.com/dp/B09S8VXZXC/ $11.99
 600PCS M3 Male Female Nylon Hex Spacer Standoffs | https://www.amazon.com/gp/product/B0CBPGKDP4/ | $
+DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ/ | $12.99
 EEEEE (M2 M2.5 M3 M4) 572pcs Standoff Kit | https://www.amazon.com/gp/product/B0B57DQZHF/ | $
+Sumnacon 8Pcs Stainless Steel Flat Plates | https://www.amazon.com/gp/product/B07D8QMLPR/ | $8.99
 T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $
 VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ | $
-2PCS 86 Hole Panel (4 Hole) for D-Type Module | https://www.amazon.com/gp/product/B09BNGQGP6/ | $12.99
-5Pack Cable Spring Holder Clips | https://www.amazon.com/dp/B09S8VXZXC/ $11.99
-2Pcs 3 inch Silver Folding Butt Hinges | https://www.amazon.com/gp/product/B07BXGPSFP/ | $8.49
-Sumnacon 8Pcs Stainless Steel Flat Plates | https://www.amazon.com/gp/product/B07D8QMLPR/ | $8.99
-DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ/ | $12.99
-1280 Pieces M3 Button Head Socket Cap Screws Bolts Washers Nuts Kit | https://www.amazon.com/dp/B09WJ1C8JP/ | $19.99
 
 <!-- ++++++++++++++++++++ Mounting End ++++++++++++++++++++ -->
 
@@ -617,8 +619,8 @@ DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ
 ### Organization & Labeling
 Item|URL|Price
 ---|---|---
-Wrap-It Storage - Cable Labels, Oval, Multi-Color (36 Pack) | https://www.amazon.com/dp/B07Y2JSTXK/ | $15.99
 Digital Tube Wire labels 0-9 Number Coded Clip | https://www.amazon.com/dp/B07V3S9LT6/ | $6.91
+Wrap-It Storage - Cable Labels, Oval, Multi-Color (36 Pack) | https://www.amazon.com/dp/B07Y2JSTXK/ | $15.99
 
 <!-- ++++++++++++++++++++ Organization End ++++++++++++++++++++ -->
 
@@ -627,6 +629,7 @@ Digital Tube Wire labels 0-9 Number Coded Clip | https://www.amazon.com/dp/B07V3
 ### Panels
 Item|URL|Price
 ---|---|---
+2PCS 86 Hole Panel (4 Hole) for D-Type Module | https://www.amazon.com/gp/product/B09BNGQGP6/ | $12.99
 
 <!-- ++++++++++++++++++++ Panels End ++++++++++++++++++++ -->
 
@@ -677,10 +680,10 @@ Item|URL|Price
 #### UPS
 Item|URL|Price
 ---|---|---
-PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B097RC8KLQ/ | $27.99
 Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://www.amazon.com/Pisugar-Portable-Lithium-Raspberry-Accessories/dp/B07RC649ZC | $38.99
-Pisugar2 Portable 1200 mAh UPS | https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/ | $35.99
+Pisugar 2 Portable 1200 mAh UPS | https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/ | $35.99
 PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/ | $39.99
+PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B097RC8KLQ/ | $27.99
 
 <!-- ++++++++++++++++++++ Power End ++++++++++++++++++++ -->
 
@@ -689,9 +692,9 @@ PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Ras
 ### SDR
 Item|URL|Price
 ---|---|---
+RTL-SDR (DVB-T), (DAB), and FM tuner | https://hackerwarehouse.com/product/rtlsdr/ | $
 Software Defined Radio (Dongle Only) | https://www.amazon.com/gp/product/B0BMKZCKTF/ | $
 V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD7558GT/ | $
-RTL-SDR (DVB-T), (DAB), and FM tuner | https://hackerwarehouse.com/product/rtlsdr/ | $
 
 <!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
 
