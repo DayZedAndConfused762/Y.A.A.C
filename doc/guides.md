@@ -1,10 +1,20 @@
 <!-- ======================================== guides.md Start ======================================== -->
 
+
+<!-- ------------------------------ Intro Start ------------------------------ -->
+
 # Y.A.A.C - Guides
 
 This is a list of guides.  This list is not yet sorted.
 
-<!-- ============================================================ -->
+<!-- ------------------------------ Intro End ------------------------------ -->
+
+
+<!-- ------------------------------ Guides Start ------------------------------ -->
+
+## Guides
+
+<!-- ++++++++++++++++++++ Unsorted Start ++++++++++++++++++++ -->
 
 ### Unsorted Guides
 Description|URL
@@ -31,7 +41,9 @@ PSA: Backup your SD cards. It's cheap and easy to get an USB SD card reader and 
 Stopping people play music via bluetooth speakers | https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers
 Retropie: Full guide for Raspberry Pi | https://github.com/DayZedAndConfused762/Y.A.A.C/edit/main/doc/guides.md
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ Unsorted End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ AI Start ++++++++++++++++++++ -->
 
 ### AI
 Description|URL
@@ -42,7 +54,9 @@ I Ran Advanced LLMs on the Raspberry Pi 5! | https://www.reddit.com/r/OpenAI/com
 How to Run a Large Language Model on Your Raspberry Pi | https://www.reddit.com/r/raspberry_pi/comments/11xnsu3/how_to_run_a_large_language_model_on_your/?rdt=52395
 How to run a Large Language Model (LLM) on a Raspberry Pi 4 | https://www.reddit.com/r/raspberry_pi/comments/1ati2ki/how_to_run_a_large_language_model_llm_on_a/?rdt=64733
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ AI End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
 ### CyberSecurity
 Description|URL
@@ -58,7 +72,9 @@ Crack Password-Protected ZIP Files, PDFs & More with Zydra | https://null-byte.w
 Securiosity YouTube Channel | https://www.youtube.com/@Securiosity
 Stopping people play music via bluetooth speakers | https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Downloading Start ++++++++++++++++++++ -->
 
 ### Downloading Content/Sites
 Description|URL
@@ -66,7 +82,9 @@ Description|URL
 Downloading in bulk using wget | https://blog.archive.org/2012/04/26/downloading-in-bulk-using-wget/
 Archive.org command line interface | https://archive.org/developers/internetarchive/cli.html
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ Downloading End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Kali Start ++++++++++++++++++++ -->
 
 ### Kali Linux
 Description|URL
@@ -83,7 +101,9 @@ Thread: Enable monitor mode in Kali Linux 2 | https://forums.kali.org/showthread
 Kali Linux Remote Access | Kali Linux Remote Access
 Thread: Enabling Remote Desktop and SSH access to Kali | https://forums.kali.org/showthread.php?46345-Enabling-Remote-Desktop-and-SSH-access-to-Kali
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ Kali End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Offline Start ++++++++++++++++++++ -->
 
 ### Offline Internet (Kiwix, RACHEL, IIAB)
 Description|URL
@@ -93,7 +113,9 @@ Build an Off Grid Wikipedia with #RaspberryPi | https://www.youtube.com/watch?v=
 *Making a RACHEL Module | https://ftp.worldpossible.org/rachel_plus/tutorials/making_a_rachel_content_module.pdf
 RACHEL Module information | https://community.worldpossible.org/
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ Offline End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ RPi Start ++++++++++++++++++++ -->
 
 ### Raspberry Pi Specific
 Description|URL
@@ -101,6 +123,8 @@ Description|URL
 Raspberry Pi OS Documentation | https://www.raspberrypi.com/documentation/computers/os.html
 Boot from USB - RPi 2/3 | https://pimylifeup.com/raspberry-pi-boot-from-usb/
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ RPi End ++++++++++++++++++++ -->
+
+<!-- ------------------------------ Guides End ------------------------------ -->
 
 <!-- ======================================== guides.md End ======================================== -->
