@@ -1,3 +1,5 @@
+<!-- ================================================================================ -->
+
 # Y.A.A.C
 
 ![Y.A.A.C Logo](images/yaac-high-resolution-logo-edited.png)
@@ -16,3 +18,5 @@ The Y.A.A.C (Yet Another Apache CyberDeck/Yak) is my personal take on a CyberDec
 * [Software](doc/software.md) Software used and to possibly use on the Y.A.A.C.
 * [To Do List](doc/todo.md) To Do list for the Y.A.A.C.
 * [Unsorted](doc/unsorted.md) A file containing links and other information yet to be sorted.
+
+<!-- ================================================================================ -->
