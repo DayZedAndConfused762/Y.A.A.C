@@ -19,7 +19,7 @@ This is a list of guides.  This list is not yet sorted.
 ### Unsorted Guides
 Description|URL
 ---|---
-* | *
+`* | *
 
 <!-- ++++++++++++++++++++ Unsorted End ++++++++++++++++++++ -->
 
