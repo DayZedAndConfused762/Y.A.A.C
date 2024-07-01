@@ -100,8 +100,21 @@ How to Secure Our Kali Linux to Ensure Our Protection | https://www.geeksforgeek
 Thread: Enable monitor mode in Kali Linux 2 | https://forums.kali.org/showthread.php?26486-Enable-monitor-mode-in-Kali-Linux-2
 Kali Linux Remote Access | Kali Linux Remote Access
 Thread: Enabling Remote Desktop and SSH access to Kali | https://forums.kali.org/showthread.php?46345-Enabling-Remote-Desktop-and-SSH-access-to-Kali
+How to connect kali linux remotely from Windows using xrdp | https://medium.com/@canonminibeast/how-to-connect-kali-linux-remotely-from-windows-using-xrdp-54ec46cdb455
+Access Kali Linux GUI with Remote Desktop (RDP) | https://shivagyawali.com.np/access-kali-linux-with-remote-desktop-rdp
+rdp from kali linux to windows machine | https://www.reddit.com/r/Kalilinux/comments/fx5ma1/rdp_from_kali_linux_to_windows_machine/
+How to enable Remote Desktop and SSH access to Kali Linux | https://www.fosslinux.com/120180/how-to-enable-remote-desktop-and-ssh-access-to-kali-linux.htm
 
 <!-- ++++++++++++++++++++ Kali End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Linux Start ++++++++++++++++++++ -->
+
+### Linux General Guides
+Description|URL
+---|---
+Linux Commands Cheat Sheet | https://www.geeksforgeeks.org/linux-commands-cheat-sheet/?ref=outind
+
+<!-- ++++++++++++++++++++ Linux End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Offline Start ++++++++++++++++++++ -->
 
