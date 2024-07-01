@@ -7,7 +7,7 @@ This is a list of guides.  This list is not yet sorted.
 ### Unsorted Guides
 Description|URL
 ---|---
-
+https://crontab.guru/
 
 Learning Python | https://pimylifeup.com/category/coding/python/
 
@@ -81,6 +81,9 @@ Kali on RPi Tips | https://raspberrytips.com/use-kali-linux-raspberry-pi/#gettin
 A newbie’s guide to Software Defined Radios on Kali Linux | https://medium.com/poka-techblog/a-newbies-guide-to-software-defined-radios-on-kali-linux-part-3-using-a-raspberrypi-as-a-85a336a5c62d
 How to Install Kali Linux on Raspberry Pi? (Complete Guide) | https://raspberrytips.com/use-kali-linux-raspberry-pi/#getting-started-with-kali-linux-on-raspberry-pi
 How to Secure Our Kali Linux to Ensure Our Protection | https://www.geeksforgeeks.org/how-to-secure-our-kali-linux-to-ensure-our-protection/?ref=ml_lbp
+Thread: Enable monitor mode in Kali Linux 2 | https://forums.kali.org/showthread.php?26486-Enable-monitor-mode-in-Kali-Linux-2
+Kali Linux Remote Access | Kali Linux Remote Access
+Thread: Enabling Remote Desktop and SSH access to Kali | https://forums.kali.org/showthread.php?46345-Enabling-Remote-Desktop-and-SSH-access-to-Kali
 
 <!-- ============================================================ -->
 
