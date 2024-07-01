@@ -319,6 +319,9 @@ Item|URL|Price
 EEEEE (M2 M2.5 M3 M4) 572pcs Standoff Kit | https://www.amazon.com/gp/product/B0B57DQZHF/ | $23.00
 Metric M3 Phillips Pan Head Nylon Screws Nut Washer Assortment Kit | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
 N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
+Pro MAG® Round Magnets with Foam Adhesive | https://www.michaels.com/product/pro-mag-round-magnets-with-foam-adhesive-10392634 | $3.99
+Pro MAG® Value Pack Button Magnets, .5" | https://www.michaels.com/product/pro-mag-value-pack-button-magnets-5-10026598 | $7.99
+Rare Earth Magnets, 10 Pack | https://www.harborfreight.com/10-piece-rare-earth-magnets-67488.html | $2.99
 T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $9.29
 VELCRO® Brand Sticky Back 5ft x 3/4in Roll, Black | https://www.walmart.com/ip/46059293 | $15.98
 
