@@ -47,6 +47,15 @@ Build Your Own Off-Grid Internet with Raspberry Pi! | https://www.youtube.com/wa
 Build an Off Grid Wikipedia with #RaspberryPi  | https://www.youtube.com/watch?v=R63x2TXm0s8
 Exploring Cyber Security Tools: From Cheap DIY to High-Tech & The Future of AI in Cyber Security | https://www.youtube.com/watch?v=6W-mYWzxx7Q
 Dangerous Hacking Gadgets You Can Still Buy | https://www.youtube.com/watch?v=psTvjWSmpSE
+CR Scan Raptor - pelican cyberdeck project progress update | https://www.youtube.com/watch?v=OgbbHiv4bus
+How to receive and track LoRa Satellites (TinyGS) | https://www.youtube.com/watch?v=ltJQjqm5bKA
+How to build a solar powered Meshtastic repeater from scratch | https://www.youtube.com/watch?v=8onU3Ov0qZw
+#337 LoRa Off-Grid Mesh Communication: Meshtastic (ESP32, BLE, GPS) | https://www.youtube.com/watch?v=TY6m6fS8bxU
+#120 LoRa / LoRaWAN Range World Record Attempt. Will I succeed? | https://www.youtube.com/watch?v=adhWIo-7gr4
+#212 How to build a powerful LoRa Antenna with a Harley Davidson (collinear) | https://www.youtube.com/watch?v=lVD-dnYLv-U
+CYBERDECK UPDATE | https://www.youtube.com/watch?v=VgqxieHGNsU
+This RISC-V cyberdeck is not for you | https://www.youtube.com/watch?v=8qDGV6LTOnk
+Forget WiFi! This Wireless Method is WAY Better? | https://www.youtube.com/watch?v=sLW_r0OVyok
 
 <!-- ++++++++++++++++++++ Youtube End ++++++++++++++++++++ -->
 
