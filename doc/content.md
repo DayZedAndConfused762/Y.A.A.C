@@ -37,6 +37,7 @@ PoleShift Library | https://the-eye.eu/public/Books/pssurvival.com/PS/
 Essential Survival Guides & Fiction | https://www.ar15.com/forums/outdoors/Essential-Survival-Guides-andamp-Fiction/20/
 Pole Shift Survival Information | https://web.archive.org/web/20210115140217/https://www.ps-survival.com/
 The Preparedness Encyclopedia | https://fluidicice.com/tpe.html
+NETWORK-ENABLED ANARCHY | https://millercenter.rutgers.edu/wp-content/uploads/2020/11/NCRI-White-Paper-Network-Enabled-Anarchy-25-Sept-259pm.pdf
 
 <!-- ++++++++++++++++++++ Books End ++++++++++++++++++++ -->
 
