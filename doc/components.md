@@ -156,7 +156,7 @@ Item|URL|Price
 #### Batteries
 Item|URL|Price
 ---|---|---
-Panasonic 18650 flat top unprotected | https://www.batteryjunction.com/panasonic-ncr18650b-3400 | $8.99
+Panasonic NCR 18650 3400mAh 3.7V Unprotected High-Drain 4.87A Lithium Ion | https://www.batteryjunction.com/panasonic-ncr18650b-3400 | $8.99
 
 #### Buttons
 Item|URL|Price
