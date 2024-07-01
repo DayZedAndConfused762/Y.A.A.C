@@ -5,7 +5,7 @@
 
 # Y.A.A.C - Guides
 
-This is a list of guides.  This list is not yet sorted.
+This is a list of guides and helpful information.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
