@@ -1,16 +1,22 @@
 <!-- ======================================== setup.md Start ======================================== -->
 
+
+<!-- ------------------------------ Intro Start ------------------------------ -->
+
 # Y.A.A.C - Setup
 
 Steps to setup and install operating systems and software on the Y.A.A.C.
 
-<!-- ============================================================ -->
+<!-- ------------------------------ Intro End ------------------------------ -->
 
-### Setup
 
-<!-- ============================================================ -->
+<!-- ------------------------------ Setup Start ------------------------------ -->
 
-#### Change Raspberry Pi Boot to USB
+## Setup
+
+
+
+### Change Raspberry Pi Boot to USB
 * Image a SD card with 'Bootloader (Pi 4 family)' using [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
 * Boot the Raspberry Pi with SD card, choose USB as the first boot option (Will boot from USB if present, then fallback to SD Card if no USB device)
 
@@ -35,5 +41,8 @@ Steps to setup and install operating systems and software on the Y.A.A.C.
 * Expand File System - Run: sudo raspi-config. Choose 1 Expand File System. Follow the onscreen instructions. Reboot the Raspberry Pi
 * Update software - 'sudo apt update' 'sudo apt full-upgrade'
 * Setup SSH
+
+<!-- ------------------------------ Setup End ------------------------------ -->
+
 
 <!-- ======================================== setup.md End ======================================== -->
