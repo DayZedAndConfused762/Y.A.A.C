@@ -30,7 +30,7 @@ Steps to setup and install operating systems and software on the Y.A.A.C.
 * Expand File System - Run: `sudo raspi-config`. Choose [1] Expand File System. Follow the onscreen instructions. Reboot the Raspberry Pi
 * Update software - `sudo apt update` and `sudo apt full-upgrade`
 * Setup SSH
-* Install Internet in a Box - from command line enter 'curl iiab.io/install.txt | bash'
+* Install Internet in a Box - from command line enter `curl iiab.io/install.txt | bash`
 
 <!-- ++++++++++++++++++++ OS 1 End ++++++++++++++++++++ -->
 
