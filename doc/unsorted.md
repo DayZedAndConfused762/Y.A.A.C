@@ -29,7 +29,7 @@ This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 * https://www.youtube.com/watch?v=sLW_r0OVyok
 * https://www.fosslinux.com/120180/how-to-enable-remote-desktop-and-ssh-access-to-kali-linux.htm
 * https://millercenter.rutgers.edu/wp-content/uploads/2020/11/NCRI-White-Paper-Network-Enabled-Anarchy-25-Sept-259pm.pdf
-* 
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 * 
 * 
 * 
