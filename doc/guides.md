@@ -19,14 +19,6 @@ This is a list of guides.  This list is not yet sorted.
 ### Unsorted Guides
 Description|URL
 ---|---
-How to display markdown document with rendering on RPi4? | https://forums.raspberrypi.com/viewtopic.php?t=278720
-Share laptop WiFi via ethernet cable to PC | https://answers.microsoft.com/en-us/windows/forum/all/share-laptop-wifi-via-ethernet-cable-to-pc/b8cd07cc-b6b7-4d5a-b8ca-1b7c2bb465ad
-How to Share Internet Over Ethernet Cable | https://www.instructables.com/How-to-share-Internet-over-Ethernet-Cable/
-How To Format Pi SD Cards Using SD Formatter | https://www.raspberrypi-spy.co.uk/2015/03/how-to-format-pi-sd-cards-using-sd-formatter/
-Re-format SD card back to normal | https://forums.raspberrypi.com/viewtopic.php?t=204167&sid=8ff11f46427bd9df34d5688809002891
-
-PSA: Backup your SD cards. It's cheap and easy to get an USB SD card reader and automate the process | https://www.reddit.com/r/raspberry_pi/comments/1d8s51a/psa_backup_your_sd_cards_its_cheap_and_easy_to/
-
 Retropie: Full guide for Raspberry Pi | https://github.com/DayZedAndConfused762/Y.A.A.C/edit/main/doc/guides.md
 
 <!-- ++++++++++++++++++++ Unsorted End ++++++++++++++++++++ -->
@@ -57,6 +49,7 @@ Write Your Own Bash Scripts to Automate Tasks on Linux | https://null-byte.wonde
 RPi/Coding tutorials | https://www.youtube.com/@mmshilleh
 Learning Python | https://pimylifeup.com/category/coding/python/
 r/learnpython | https://www.reddit.com/r/learnpython/
+How to display markdown document with rendering on RPi4? | https://forums.raspberrypi.com/viewtopic.php?t=278720
 
 <!-- ++++++++++++++++++++ Coding End ++++++++++++++++++++ -->
 
@@ -78,6 +71,17 @@ Stopping people play music via bluetooth speakers | https://hackaday.io/project/
 Stopping people play music via bluetooth speakers | https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers
 
 <!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Data Start ++++++++++++++++++++ -->
+
+### Data Management
+Description|URL
+---|---
+How To Format Pi SD Cards Using SD Formatter | https://www.raspberrypi-spy.co.uk/2015/03/how-to-format-pi-sd-cards-using-sd-formatter/
+Re-format SD card back to normal | https://forums.raspberrypi.com/viewtopic.php?t=204167&sid=8ff11f46427bd9df34d5688809002891
+PSA: Backup your SD cards. It's cheap and easy to get an USB SD card reader and automate the process | https://www.reddit.com/r/raspberry_pi/comments/1d8s51a/psa_backup_your_sd_cards_its_cheap_and_easy_to/
+
+<!-- ++++++++++++++++++++ Data End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Downloading Start ++++++++++++++++++++ -->
 
@@ -134,6 +138,16 @@ Build an Off Grid Wikipedia with #RaspberryPi | https://www.youtube.com/watch?v=
 RACHEL Module information | https://community.worldpossible.org/
 
 <!-- ++++++++++++++++++++ Offline End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Networking Start ++++++++++++++++++++ -->
+
+### Networking
+Description|URL
+---|---
+Share laptop WiFi via ethernet cable to PC | https://answers.microsoft.com/en-us/windows/forum/all/share-laptop-wifi-via-ethernet-cable-to-pc/b8cd07cc-b6b7-4d5a-b8ca-1b7c2bb465ad
+How to Share Internet Over Ethernet Cable | https://www.instructables.com/How-to-share-Internet-over-Ethernet-Cable/
+
+<!-- ++++++++++++++++++++ Networking End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ RPi Start ++++++++++++++++++++ -->
 
