@@ -1,4 +1,4 @@
-<!-- ================================================================================ -->
+<!-- ========================================.======================================== -->
 
 # Y.A.A.C - Guides
 
@@ -9,14 +9,10 @@ This is a list of guides.  This list is not yet sorted.
 ### Unsorted Guides
 Description|URL
 ---|---
-https://crontab.guru/
-
+ | https://crontab.guru/
 Learning Python | https://pimylifeup.com/category/coding/python/
-
-
 RPi/Coding tutorials | https://www.youtube.com/@mmshilleh
 Raspberry Pi as an FM Transmitter | https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/
-
 Setup a Raspberry Pi to run a Web Browser in Kiosk Mode | https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/
 Raspberry Pi Configuration | https://www.raspberrypi.com/documentation/computers/configuration.html
 How to display markdown document with rendering on RPi4? | https://forums.raspberrypi.com/viewtopic.php?t=278720
@@ -107,4 +103,4 @@ Boot from USB - RPi 2/3 | https://pimylifeup.com/raspberry-pi-boot-from-usb/
 
 <!-- ============================================================ -->
 
-<!-- ================================================================================ -->
+<!-- ========================================.======================================== -->
