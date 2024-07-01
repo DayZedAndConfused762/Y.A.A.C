@@ -1,12 +1,20 @@
-<!-- ========================================.======================================== -->
+<!-- ======================================== Components.md Start ======================================== -->
+
+
+<!-- ------------------------------ Intro Start ------------------------------ -->
 
 # Y.A.A.C - Components List
 
 This is a list of all componenets used in the Y.A.A.C, as well as links and prices (when available).  This list also includes other components I own but have not used yet, as well as components not yet purchased but may be useful.
 
-<!-- ============================================================ -->
+<!-- ------------------------------ Intro End ------------------------------ -->
+
+
+<!-- ------------------------------ Components Used Start ------------------------------ -->
 
 ## Components Used
+
+<!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
 
 ### Cables & Adapters
 
@@ -50,26 +58,46 @@ Item|URL|Price
 Item|URL|Price
 ---|---|---
 
+<!-- ++++++++++++++++++++ Cables End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Cases Start ++++++++++++++++++++ -->
+
 ### Cases
 Item|URL|Price
 ---|---|---
 Apache 3800 Black | https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html | $39.99
 Geekworm for Raspberry Pi 4 Case, Universal HAT Size | https://www.amazon.com/gp/product/B074T7D1V5/ | $6.00
 
+<!-- ++++++++++++++++++++ Cases End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Cooling Start ++++++++++++++++++++ -->
+
 ### Cooling
 Item|URL|Price
 ---|---|---
 SCCCF Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23/ | $9.99
+
+<!-- ++++++++++++++++++++ Cooling End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Core Compute Start ++++++++++++++++++++ -->
 
 ### Core Compute
 Item|URL|Price
 ---|---|---
 Raspberry Pi 4 Computer Model B 8GB | https://www.amazon.com/gp/product/B0899VXM8F/ | $75.00
 
+<!-- ++++++++++++++++++++ Core Compute End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Display Start ++++++++++++++++++++ -->
+
 ### Display
 Item|URL|Price
 ---|---|---
 waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FGC | $129.99
+
+<!-- ++++++++++++++++++++ Display End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
 
 ### Hubs and Card Readers
 Item|URL|Price
@@ -77,27 +105,52 @@ Item|URL|Price
 BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
 USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J4ZT/ | $9.99
 
+<!-- ++++++++++++++++++++ Hubs End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Input Start ++++++++++++++++++++ -->
+
 ### Input Devices
 Item|URL|Price
 ---|---|---
 E-YOOSO 60 Percent Mechanical Keyboard | https://www.amazon.com/gp/product/B098JVHPBF/ | $25.99
 TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ | $14.99
 
+<!-- ++++++++++++++++++++ Input End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Mounting Start ++++++++++++++++++++ -->
+
 ### Mounting Hardware
 Item|URL|Price
 ---|---|---
+LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.com/gp/product/B07TP2YYQB/ | $14.88 
+
+<!-- ++++++++++++++++++++ Mounting End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Organization Start ++++++++++++++++++++ -->
 
 ### Organization and Labeling
 Item|URL|Price
 ---|---|---
 
+<!-- ++++++++++++++++++++ Organization End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
+
 ### Panels
 Item|URL|Price
 ---|---|---
 
+<!-- ++++++++++++++++++++ Panels End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
+
 ### Ports
 Item|URL|Price
 ---|---|---
+
+<!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Power Start ++++++++++++++++++++ -->
 
 ### Power
 #### Batteries
@@ -119,10 +172,9 @@ Item|URL|Price
 ---|---|---
 Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
 
-### Screws & Misc Hardware
-Item|URL|Price
----|---|---
-LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.com/gp/product/B07TP2YYQB/ | $14.88 
+<!-- ++++++++++++++++++++ Power End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Storage Start ++++++++++++++++++++ -->
 
 ### Storage
 Item|URL|Price
@@ -132,7 +184,12 @@ Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
 SanDisk 512GB Ultra microSDXC | https://www.walmart.com/ip/1455959513
 SanDisk 1TB Extreme External Portable SSD | https://www.walmart.com/ip/1455959513
 
-<!-- ============================================================ -->
+<!-- ++++++++++++++++++++ Storage End ++++++++++++++++++++ -->
+
+<!-- ------------------------------ Components Used End ------------------------------ -->
+
+
+<!-- ------------------------------ Components Owned Start ------------------------------ -->
 
 ## Components Owned
 
@@ -219,7 +276,7 @@ Item|URL|Price
 ---|---|---
 Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
 
-### Hubs
+### Hubs & Card readers
 Item|URL|Price
 ---|---|---
 GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router | https://www.amazon.com/gp/product/B09N72FMH5/ | $33.90
@@ -276,7 +333,10 @@ Item|URL|Price
 SanDisk 64GB Extreme PRO® microSD | https://www.amazon.com/gp/product/B09X7BYSFG/ | $13.99
 SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB) | https://www.amazon.com/gp/product/B09FFK1QLR/ | $20.82
 
-<!-- ============================================================ -->
+<!-- ------------------------------ Components Owned End ------------------------------ -->
+
+
+<!-- ------------------------------ Components to Use Start ------------------------------ -->
 
 ## Possible Components to Use
 
@@ -397,7 +457,7 @@ SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th
 ELECROW Crowpi Raspberry Pi 4 3 b 3b+ 4b+ | https://www.amazon.com/dp/B07L4RZP6B | 
 Deauther Watch | https://dstike.com/collections/frontpage/products/dstike-deauther-watch-v3s | 
 
-### GPS Dongle
+### GPS
 Item|URL|Price
 ---|---|---
 
@@ -524,4 +584,6 @@ STREBITO Electronics Precision Screwdriver Sets | https://www.amazon.com/gp/prod
 Item|URL|Price
 ---|---|---
 
-<!-- ========================================.======================================== -->
+<!-- ------------------------------ Components to Use End ------------------------------ -->
+
+<!-- ======================================== Components.md End ======================================== -->
