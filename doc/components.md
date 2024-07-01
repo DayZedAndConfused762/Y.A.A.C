@@ -180,8 +180,8 @@ Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/d
 Item|URL|Price
 ---|---|---
 Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
-SanDisk 512GB Ultra microSDXC | https://www.walmart.com/ip/1455959513
-SanDisk 1TB Extreme External Portable SSD | https://www.walmart.com/ip/1455959513
+SanDisk 1TB Extreme External Portable SSD | https://www.walmart.com/ip/1928585043 | $94.00
+SanDisk 512GB Ultra microSDXC | https://www.walmart.com/ip/1455959513 | $42.69
 
 <!-- ++++++++++++++++++++ Storage End ++++++++++++++++++++ -->
 
