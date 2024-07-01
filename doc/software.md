@@ -191,6 +191,7 @@ Cool-Retro-Term | x | https://github.com/Swordfish90/cool-retro-term?tab=readme-
 Third Party Themes | Themes for Cool-Retro-Term | https://github.com/Swordfish90/cool-retro-term/wiki/Third-Party-Themes
 MatrixHasYou | A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix": | https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file
 Putty | x | https://www.putty.org/
+crontab guru | The quick and simple editor for cron schedule expressions by Cronitor | https://crontab.guru/
 
 <!-- ++++++++++++++++++++ Utilities End ++++++++++++++++++++ -->
 
