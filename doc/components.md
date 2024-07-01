@@ -320,6 +320,7 @@ EEEEE (M2 M2.5 M3 M4) 572pcs Standoff Kit | https://www.amazon.com/gp/product/B0
 Metric M3 Phillips Pan Head Nylon Screws Nut Washer Assortment Kit | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
 N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
 T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $9.29
+VELCRO® Brand Sticky Back 5ft x 3/4in Roll, Black | https://www.walmart.com/ip/46059293 | $15.98
 
 <!-- ++++++++++++++++++++ Mounting End ++++++++++++++++++++ -->
 
@@ -328,6 +329,7 @@ T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX
 ### Organization and Labeling
 Item|URL|Price
 ---|---|---
+Velcro Brand Cable Ties | no link/in store (Michaels) | $1.00 (Clearance)
 
 <!-- ++++++++++++++++++++ Organization End ++++++++++++++++++++ -->
 
@@ -336,6 +338,7 @@ Item|URL|Price
 ### Panels
 Item|URL|Price
 ---|---|---
+16" x 20" Black Foam Boards, 3ct. | https://www.michaels.com/product/16-x-20-black-foam-boards-3ct-10308906 | $9.99
 2PCS 86 Hole Panel (4 Hole) for D-Type Module | https://www.amazon.com/gp/product/B09BNGQGP6/ | $12.99
 Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
 
