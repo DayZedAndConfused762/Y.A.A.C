@@ -193,15 +193,7 @@ SanDisk 1TB Extreme External Portable SSD | https://www.walmart.com/ip/145595951
 
 ## Components Owned
 
-### Cases
-Item|URL|Price
----|---|---
-Argon ONE M.2 Aluminum Case | https://www.amazon.com/gp/product/B08MJ3CSW7/ | $47.00
-GeeekPi Pi Zero 2 W Case/Zero W Case, 7 in 1 Basic Starter Kit | https://www.amazon.com/gp/product/B08MVH2JJ1/ | $9.99
-Geekworm for Raspberry Pi 4 Case, Universal HAT | https://www.amazon.com/dp/B074T7D1V5 | $6.00
-Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
-Micro SD/SDHC/SDXC Card Storage Holder Case | https://www.amazon.com/dp/B0196PR0H0 | $5.95
-GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
+<!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
 
 ### Cables & Adapters
 
@@ -261,20 +253,50 @@ Item|URL|Price
 Item|URL|Price
 ---|---|---
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
+### Cases
+Item|URL|Price
+---|---|---
+Argon ONE M.2 Aluminum Case | https://www.amazon.com/gp/product/B08MJ3CSW7/ | $47.00
+GeeekPi Pi Zero 2 W Case/Zero W Case, 7 in 1 Basic Starter Kit | https://www.amazon.com/gp/product/B08MVH2JJ1/ | $9.99
+Geekworm for Raspberry Pi 4 Case, Universal HAT | https://www.amazon.com/dp/B074T7D1V5 | $6.00
+Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
+Micro SD/SDHC/SDXC Card Storage Holder Case | https://www.amazon.com/dp/B0196PR0H0 | $5.95
+GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Cooling
 Item|URL|Price
 ---|---|---
 NewHail 2Pack Quiet 80mm USB Fan | https://www.amazon.com/dp/B0C1GF3R3Y | $17.95
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Core Compute
 Item|URL|Price
 ---|---|---
 Waveshare Package E Compatible with Raspberry Pi Zero 2 WHC Bundle | https://www.amazon.com/dp/B09LCKL6D1 | $65.99
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Display
 Item|URL|Price
 ---|---|---
 Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Hubs & Card readers
 Item|URL|Price
@@ -283,6 +305,10 @@ GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router | https://www.amazon.com/gp/
 NETGEAR 5-Port Gigabit Ethernet Unmanaged Switch | https://www.amazon.com/gp/product/B07S98YLHM/ | $17.99
 USB C Hub, 9-in-1 USB C Hub Multiport Adapter | https://www.amazon.com/gp/product/B0D22M5713/ | $29.99
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Mounting Hardware
 Item|URL|Price
 ---|---|---
@@ -290,13 +316,25 @@ N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B68
 Metric M3 Phillips Pan Head Nylon Screws Nut Washer | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
 T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $9.29
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Organization and Labeling
 Item|URL|Price
 ---|---|---
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Panels
 Item|URL|Price
 ---|---|---
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Ports
 Item|URL|Price
@@ -306,7 +344,12 @@ PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9Z
 PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
 YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Power
+
 #### Batteries
 Item|URL|Price
 ---|---|---
@@ -327,6 +370,10 @@ Item|URL|Price
 Item|URL|Price
 ---|---|---
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Storage
 Item|URL|Price
 ---|---|---
@@ -340,9 +387,15 @@ SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB) | https://www.amazon.
 
 ## Possible Components to Use
 
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Antennas
 Item|URL|Price
 ---|---|---
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Cables & Adapters
 
@@ -413,10 +466,18 @@ Item|URL|Price
 ---|---|---
 6 inch USB Micro Male to Female OTG Extension Cable | https://www.amazon.com/gp/product/B00HAOK7XE/  $5.97
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Cases
 Item|URL|Price
 ---|---|---
 C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W | https://www.amazon.com/Triple-Stack-Raspberry-Zero-W-C4Labs/dp/B06XCK7G2R/ | 
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Core Compute
 Item|URL|Price
@@ -425,6 +486,10 @@ Beelink S12 Pro Mini PC | https://www.amazon.com/Beelink-Desktop-Computer-Suppor
 GeeekPi Raspberry Pi Zero 2 W Starter Kit | https://www.amazon.com/gp/product/B0BHD2S5MJ/ | 
 Raspberry Pi Zero WH | https://www.amazon.com/gp/product/B0CG99MR5W/ | 
 Waveshare Package D | https://www.amazon.com/Raspberry-Zero-WHC-Package-USB-HUB-Box/dp/B09LCKNKM5/#customerReviews | 
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Cooling
 Item|URL|Price
@@ -437,6 +502,10 @@ Coolerguys 25mm (25x25x10) USB Fan | https://www.amazon.com/Coolerguys-25mm-25x2
 ELUTENG Dual 40mm USB Fan | https://www.amazon.com/ELUTENG-Adjustable-Computer-Compatible-Playstation/dp/B08ZY7X4CR/ | 
 ELUTENG Dual Cooling Fan Whisper Quiet 80mm USB | https://www.amazon.com/ELUTENG-Cooling-Adjustable-Heatsink-Playstation/dp/B09QMC1458/ | 
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Display
 Item|URL|Price
 ---|---|---
@@ -444,6 +513,10 @@ Item|URL|Price
 waveshare 1.51inch Transparent OLED | https://www.amazon.com/gp/product/B0B8N46G24/ | $
 Waveshare 2.13inch E-paper | https://www.amazon.com/Waveshare-2-13inch-Raspberry-Pwnagotchi-Interface/dp/B0D5CJKXTD/ | $26.99
 waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/Waveshare-2-13inch-Touch-Raspberry-Protection/dp/B09GKB8XT8/ | $32.99
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Gadgets
 Item|URL|Price
@@ -457,14 +530,26 @@ SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th
 ELECROW Crowpi Raspberry Pi 4 3 b 3b+ 4b+ | https://www.amazon.com/dp/B07L4RZP6B | 
 Deauther Watch | https://dstike.com/collections/frontpage/products/dstike-deauther-watch-v3s | 
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### GPS
 Item|URL|Price
 ---|---|---
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Hats
 Item|URL|Price
 ---|---|---
 Raspberry Pi AI HAT | https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/ | $70.00
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Hubs & Card Readers
 Item|URL|Price
@@ -472,10 +557,18 @@ Item|URL|Price
 USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini | $
 TP-Link N300 Wireless Portable Router | https://www.amazon.com/TP-Link-Wireless-Portable-Travel-Router/dp/B00TQEX8BO/ | $
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Input Devices
 Item|URL|Price
 ---|---|---
 Medium Panel Mount USB Trackpad with Three Buttons | https://www.adafruit.com/product/5061 | $39.95
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Meshtastic
 Item|URL|Price
@@ -485,6 +578,10 @@ LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module | https://www.amazon.com/dp
 Armachat - Meshtastic compatible LORA messenger | https://www.tindie.com/products/bobricius/armachat-meshtastic-compatible-lora-messenger/ | $
 LILYGO® T-Deck ESP32-S3 LoRa Module 2.8 inch LCD Development Board | https://www.aliexpress.us/item/3256805505920840.html | $55.98
 LILYGO® TTGO LoRa32 V2.1_1.6 | https://www.aliexpress.us/item/2251832685763835.html | $19.98
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Mounting Hardware
 Item|URL|Price
@@ -501,15 +598,27 @@ Sumnacon 8Pcs Stainless Steel Flat Plates | https://www.amazon.com/gp/product/B0
 DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ/ | $12.99
 1280 Pieces M3 Button Head Socket Cap Screws Bolts Washers Nuts Kit | https://www.amazon.com/dp/B09WJ1C8JP/ | $19.99
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Organization and Labeling
 Item|URL|Price
 ---|---|---
 Wrap-It Storage - Cable Labels, Oval, Multi-Color (36 Pack) | https://www.amazon.com/dp/B07Y2JSTXK/ | $15.99
 Digital Tube Wire labels 0-9 Number Coded Clip | https://www.amazon.com/dp/B07V3S9LT6/ | $6.91
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Panels
 Item|URL|Price
 ---|---|---
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Ports
 Item|URL|Price
@@ -519,6 +628,10 @@ PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9Z
 QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $
 QIANRENON TRS 3.5mm Panel Mount | https://www.amazon.com/gp/product/B0CQLPX1VB/ | $
 USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Power
 
@@ -557,6 +670,10 @@ Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://ww
 Pisugar2 Portable 1200 mAh UPS | https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/ | $35.99
 PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/ | $39.99
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### SDR
 Item|URL|Price
 ---|---|---
@@ -564,26 +681,45 @@ Software Defined Radio (Dongle Only) | https://www.amazon.com/gp/product/B0BMKZC
 V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD7558GT/ | $
 RTL-SDR (DVB-T), (DAB), and FM tuner | https://hackerwarehouse.com/product/rtlsdr/ | $
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Sound
 Item|URL|Price
 ---|---|---
 WM8960 Audio HAT Module for Raspberry Pi | https://www.amazon.com/WM8960-Module-Raspberry-Stereo-Record/dp/B098R7TTM4/ | $
 WM8960 Hi-Fi Sound Card HAT for Raspberry Pi | https://www.amazon.com/WM8960-Hi-Fi-Raspberry-Stereo-Record/dp/B0CN1D7Z9H/ | $
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Storage        
 Item|URL|Price
 ---|---|---
 SanDisk 128GB Extreme microSDXC | https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7BK27V/ | $
+
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Tools
 Item|URL|Price
 ---|---|---
 STREBITO Electronics Precision Screwdriver Sets | https://www.amazon.com/gp/product/B08SGM6F79/ | $
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
+
 ### Wifi Adapters
 Item|URL|Price
 ---|---|---
 
+<!-- ++++++++++++++++++++ End ++++++++++++++++++++ -->
+
 <!-- ------------------------------ Components to Use End ------------------------------ -->
+
 
 <!-- ======================================== Components.md End ======================================== -->
