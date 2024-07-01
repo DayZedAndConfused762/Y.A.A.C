@@ -201,6 +201,7 @@ SanDisk 1TB Extreme External Portable SSD | https://www.walmart.com/ip/145595951
 Item|URL|Price
 ---|---|---
 Poyiccot USB C Adapter 40Gbps | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
+QianLink Micro USB to USB C Adapter,8-PackMicro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL | $5.99
 
 #### DC
 Item|URL|Price
@@ -311,7 +312,7 @@ USB C Hub, 9-in-1 USB C Hub Multiport Adapter | https://www.amazon.com/gp/produc
 ### Mounting & Hardware
 Item|URL|Price
 ---|---|---
-Metric M3 Phillips Pan Head Nylon Screws Nut Washer | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
+Metric M3 Phillips Pan Head Nylon Screws Nut Washer Assortment Kit | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
 N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
 T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $9.29
 
@@ -452,7 +453,6 @@ Item|URL|Price
 Charger Cable 3FT for Car, Coiled USB C to USB C | https://www.amazon.com/gp/product/B0CQR8FDR2/ | 
 SUNGUY USB C Male to USB C Male CableRight Angle | https://www.amazon.com/gp/product/B07H96FWY9/ | 
 SUNGUY USB C to USB C 1.5FT [2Pack] | https://www.amazon.com/gp/product/B08L7NCLZN/ | 
-QianLink Micro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL | 
 
 #### USB C to A
 Item|URL|Price
@@ -609,7 +609,6 @@ Item|URL|Price
 DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ/ | $12.99
 EEEEE (M2 M2.5 M3 M4) 572pcs Standoff Kit | https://www.amazon.com/gp/product/B0B57DQZHF/ | $
 Sumnacon 8Pcs Stainless Steel Flat Plates | https://www.amazon.com/gp/product/B07D8QMLPR/ | $8.99
-T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $
 VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ | $
 
 <!-- ++++++++++++++++++++ Mounting End ++++++++++++++++++++ -->
