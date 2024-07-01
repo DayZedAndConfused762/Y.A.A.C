@@ -75,7 +75,7 @@ Geekworm for Raspberry Pi 4 Case, Universal HAT Size | https://www.amazon.com/gp
 ### Cooling
 Item|URL|Price
 ---|---|---
-SCCCF Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23/ | $9.99
+Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23/ | $9.99
 
 <!-- ++++++++++++++++++++ Cooling End ++++++++++++++++++++ -->
 
@@ -200,7 +200,7 @@ SanDisk 1TB Extreme External Portable SSD | https://www.walmart.com/ip/145595951
 #### Adapters
 Item|URL|Price
 ---|---|---
-Poyiccot USB C Adapter 40Gbps | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
+Poyiccot USB C Adapter 40Gbps, 3Pack 90 Degree | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
 QianLink Micro USB to USB C Adapter,8-PackMicro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL | $5.99
 
 #### DC
@@ -235,20 +235,25 @@ Item|URL|Price
 Item|URL|Price
 ---|---|---
 Anker New Nylon USB-C to USB-C Cable (2pack, 1 ft, 60W) | https://www.amazon.com/gp/product/B0CFZNZN25/ | $10.99
+SUNGUY USB C to USB C 1.5FT [2Pack] | https://www.amazon.com/gp/product/B08L7NCLZN/ | $7.99
 
 #### USB C to A
 Item|URL|Price
 ---|---|---
+JXMOX Short USB C Cable (1ft 3-Pack) | https://www.amazon.com/gp/product/B07HQHL6ZK/ | $6.99
 USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
 USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
 
 #### USB C Extention
 Item|URL|Price
 ---|---|---
+CLEEFUN USB C Extension Cable 1ft | https://www.amazon.com/gp/product/B0C9STSC2B/ | $6.99
+USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/gp/product/B0C9JMH9VT/ | $6.99
 
 #### USB C Splitter
 Item|URL|Price
 ---|---|---
+
 
 #### USB Micro
 Item|URL|Price
@@ -274,7 +279,7 @@ Micro SD/SDHC/SDXC Card Storage Holder Case | https://www.amazon.com/dp/B0196PR0
 ### Cooling
 Item|URL|Price
 ---|---|---
-NewHail 2Pack Quiet 80mm USB Fan | https://www.amazon.com/dp/B0C1GF3R3Y | $17.95
+2Pack Quiet 80mm USB Fan | https://www.amazon.com/dp/B0C1GF3R3Y | $19.95
 
 <!-- ++++++++++++++++++++ Cooling End ++++++++++++++++++++ -->
 
@@ -312,6 +317,7 @@ USB C Hub, 9-in-1 USB C Hub Multiport Adapter | https://www.amazon.com/gp/produc
 ### Mounting & Hardware
 Item|URL|Price
 ---|---|---
+EEEEE (M2 M2.5 M3 M4) 572pcs Standoff Kit | https://www.amazon.com/gp/product/B0B57DQZHF/ | $23.00
 Metric M3 Phillips Pan Head Nylon Screws Nut Washer Assortment Kit | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
 N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
 T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $9.29
@@ -331,6 +337,7 @@ Item|URL|Price
 ### Panels
 Item|URL|Price
 ---|---|---
+2PCS 86 Hole Panel (4 Hole) for D-Type Module | https://www.amazon.com/gp/product/B09BNGQGP6/ | $12.99
 Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
 
 <!-- ++++++++++++++++++++ Panels End ++++++++++++++++++++ -->
@@ -343,7 +350,8 @@ Item|URL|Price
 PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
 PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
 QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $15.99
-YiKaiEn USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
+QIANRENON TRS 3.5mm Panel Mount | https://www.amazon.com/gp/product/B0CQLPX1VB/ | $$12.99
+USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
 
 <!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
 
@@ -356,12 +364,12 @@ Item|URL|Price
 ---|---|---
 Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.amazon.com/gp/product/B09VP9QJSS/ | $79.99
 Anker Power Bank, 24,000mAh 3-Port Portable Charger with 140W Output |  https://www.amazon.com/gp/product/B09VPHVT2Z/ | $109.99
-Powdeom 140W Power Bank, 24600mAh | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
+140W Power Bank, 24600mAh 3-Port PD3.1 | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
 
 #### Buttons
 Item|URL|Price
 ---|---|---
-3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
+CanaKit 3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
 
 #### Power Supplies
 Item|URL|Price
@@ -382,6 +390,15 @@ SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB) | https://www.amazon.
 SanDisk 64GB Extreme PRO® microSD | https://www.amazon.com/gp/product/B09X7BYSFG/ | $13.99
 
 <!-- ++++++++++++++++++++ Storage End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Tools Start ++++++++++++++++++++ -->
+
+### Tools
+Item|URL|Price
+---|---|---
+STREBITO Electronics Precision Screwdriver Sets | https://www.amazon.com/gp/product/B08SGM6F79/ | $27.99
+
+<!-- ++++++++++++++++++++ Tools End ++++++++++++++++++++ -->
 
 <!-- ------------------------------ Components Owned End ------------------------------ -->
 
@@ -436,15 +453,12 @@ Chanzon 40pcs 30cm Long Male to Female Header Jumper | https://www.amazon.com/gp
 #### HDMI
 Item|URL|Price
 ---|---|---
-Cable Matters 48Gbps 8K HDMI | https://www.amazon.com/gp/product/B0CSS993KB/ | 
 HDMI Cable Flat – 3ft – 4K@60Hz (Flat Cable) | https://www.amazon.com/HDMI-Cable-Flat-According-CableDirect/dp/B0BV72556Z/ | 
-Seadream 4K Micro HDMI to HDMI Cable 1FT 2Pack | https://www.amazon.com/gp/product/B0B938BP37/ | 
 
 #### USB A to A
 Item|URL|Price
 ---|---|---
 USB 3.0 USB Male A to Female A | https://www.amazon.com/gp/product/B09YL35VPF/ | 
-USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | 
 
 #### USB C to C
 Item|URL|Price
@@ -452,12 +466,11 @@ Item|URL|Price
 2Pcs 3FT Flat Design USB C Android Auto Cable | https://www.amazon.com/Charger-Compatible-Nintendo-DualSense-Controller/dp/B08F7KCLKR/ | 
 Charger Cable 3FT for Car, Coiled USB C to USB C | https://www.amazon.com/gp/product/B0CQR8FDR2/ | 
 SUNGUY USB C Male to USB C Male CableRight Angle | https://www.amazon.com/gp/product/B07H96FWY9/ | 
-SUNGUY USB C to USB C 1.5FT [2Pack] | https://www.amazon.com/gp/product/B08L7NCLZN/ | 
+
 
 #### USB C to A
 Item|URL|Price
 ---|---|---
-JXMOX Short USB C Cable (1ft 3-Pack) | https://www.amazon.com/gp/product/B07HQHL6ZK/ | 
 Right Angle USB A Male to USB C Female Adapter | https://www.amazon.com/gp/product/B08PSCL9FC/ | 
 USB C Cable Fast Charging, 2Pack 3ft Coiled USB A | https://www.amazon.com/Charging-Coiled-Retractable-Compatible-Samsung/dp/B0BQ93DBF3/ | 
 
@@ -465,8 +478,6 @@ USB C Cable Fast Charging, 2Pack 3ft Coiled USB A | https://www.amazon.com/Charg
 Item|URL|Price
 ---|---|---
 APEXSUN USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/dp/B0C9JMH9VT/ | 
-CLEEFUN USB C Extension Cable 1ft | https://www.amazon.com/gp/product/B0C9STSC2B/ | 
-USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/gp/product/B0C9JMH9VT/ | 
 
 #### USB C Splitter
 Item|URL|Price
@@ -511,7 +522,6 @@ Waveshare Package D | https://www.amazon.com/Raspberry-Zero-WHC-Package-USB-HUB-
 Item|URL|Price
 ---|---|---
 2 Packs Wathai 60mm x 10mm USB | https://www.amazon.com/Packs-Wathai-60mm-Brushless-Cooling/dp/B0821YC2NW/ | 
-2Pack Quiet 80mm USB Fan | https://www.amazon.com/gp/product/B0C1GF3R3Y/ | 
 2Pack Quiet 120mm USB Fan | https://www.amazon.com/gp/product/B0BFZWV9FH/ | 
 AC Infinity MULTIFAN Mini, Compact 40mm x 20mm USB | https://www.amazon.com/AC-Infinity-MULTIFAN-Raspberry-Ventilation/dp/B07CNJ4DYX/ | 
 Coolerguys 25mm (25x25x10) USB Fan | https://www.amazon.com/Coolerguys-25mm-25x25x10-USB-Fan/dp/B07NC4Z24T/ | 
@@ -607,7 +617,7 @@ Item|URL|Price
 5Pack Cable Spring Holder Clips | https://www.amazon.com/dp/B09S8VXZXC/ $11.99
 600PCS M3 Male Female Nylon Hex Spacer Standoffs | https://www.amazon.com/gp/product/B0CBPGKDP4/ | $
 DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ/ | $12.99
-EEEEE (M2 M2.5 M3 M4) 572pcs Standoff Kit | https://www.amazon.com/gp/product/B0B57DQZHF/ | $
+
 Sumnacon 8Pcs Stainless Steel Flat Plates | https://www.amazon.com/gp/product/B07D8QMLPR/ | $8.99
 VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ | $
 
@@ -628,7 +638,7 @@ Wrap-It Storage - Cable Labels, Oval, Multi-Color (36 Pack) | https://www.amazon
 ### Panels
 Item|URL|Price
 ---|---|---
-2PCS 86 Hole Panel (4 Hole) for D-Type Module | https://www.amazon.com/gp/product/B09BNGQGP6/ | $12.99
+
 
 <!-- ++++++++++++++++++++ Panels End ++++++++++++++++++++ -->
 
@@ -637,11 +647,9 @@ Item|URL|Price
 ### Ports
 Item|URL|Price
 ---|---|---
-PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $
-PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $
-QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $
-QIANRENON TRS 3.5mm Panel Mount | https://www.amazon.com/gp/product/B0CQLPX1VB/ | $
-USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $
+
+
+
 
 <!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
 
@@ -658,7 +666,6 @@ Anker Prime Power Bank, 20,000mAh Portable Charger | https://www.amazon.com/Anke
 Anker Prime Power Bank, 27,650mAh 3-Port | https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYP2F3SG/ | $
 CUKTECH 20 Power Bank, 25,000mAh | https://www.amazon.com/CUKTECH-20-Support-Portable-Charging/dp/B0CCCNYW6Y/ | $
 LiFePO4 Deep Cycle Battery -20Ah 12v | https://www.amazon.com/ENERGY-SAFARI-LiFePO4-Battery-Built/dp/B08JQQXB5T/ | $
-Powdeom 140W Power Bank, 24600mAh | https://www.amazon.com/Powdeom-24600mAh-Portable-Charger-Digital/dp/B0CDQ4WK47/ | $
 SHARGEEK 170 Power Bank, 170W Output 24,000mAh |  https://www.amazon.com/dp/B0CRF1BGVZ/ | $
 Shargeek Portable Charger, Storm 2 100W 25600mAh | https://www.amazon.com/gp/product/B09NY8GN76/ | $
 Talentcell Rechargeable 12V 6000mAh/5V 12000mAh | https://www.amazon.com/TalentCell-Rechargeable-12000mAh-Multi-led-indicator/dp/B00ME3ZH7C/ | $
@@ -667,7 +674,6 @@ Trozk Portable Charger, PD30W | https://www.amazon.com/Trozk-Portable-Charger-Ch
 #### Buttons
 Item|URL|Price
 ---|---|---
-3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/gp/product/B07TSFYXBC/ | $
 4 in 1 ON/Off Toggle Switch | https://www.amazon.com/Okerny-Charger-Voltmeter-Cigarette-Lighter/dp/B0CPNYDCP6/ | $
 Nilight 4 in 1 ON/Off Charger Socket Panel | https://www.amazon.com/gp/product/B0BC8G9DNY/ref=ox_sc_saved_image_6?smid=ATVPDKIKX0DER&psc=1 | $
 
@@ -710,7 +716,6 @@ SanDisk 128GB Extreme microSDXC | https://www.amazon.com/SanDisk-Extreme-microSD
 ### Tools
 Item|URL|Price
 ---|---|---
-STREBITO Electronics Precision Screwdriver Sets | https://www.amazon.com/gp/product/B08SGM6F79/ | $
 
 <!-- ++++++++++++++++++++ Tools End ++++++++++++++++++++ -->
 
