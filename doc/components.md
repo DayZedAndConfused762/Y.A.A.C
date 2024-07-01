@@ -739,4 +739,11 @@ Item|URL|Price
 <!-- ------------------------------ Components to Use End ------------------------------ -->
 
 
+<!-- ------------------------------ Outro Start ------------------------------ -->
+
+Please note that the prices were accurate at the time of purchase/entry to this list, and may have changed.
+
+<!-- ------------------------------ Outro End ------------------------------ -->
+
+
 <!-- ======================================== components.md End ======================================== -->
