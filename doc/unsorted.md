@@ -36,11 +36,15 @@ This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 * https://www.waveshare.com/7.9inch-hdmi-lcd.htm
 * https://www.aliexpress.us/item/2255799828239708.html?gps-id=pcStoreLeaderboard&scm=1007.22922.271278.0&scm_id=1007.22922.271278.0&scm-url=1007.22922.271278.0&pvid=0108b827-8853-4e6f-8445-d08d1945c893&_t=gps-id%3ApcStoreLeaderboard%2Cscm-url%3A1007.22922.271278.0%2Cpvid%3A0108b827-8853-4e6f-8445-d08d1945c893%2Ctpp_buckets%3A668%232846%238110%231995&pdp_npi=3%40dis%21EUR%210.8%210.75%21%21%21%21%21%40213db7b316839049659704541e2c4f%2112000021640768890%21rec%21IT%212000347138&spm=a2g0o.store_pc_home.smartLeaderboard_* 6000808235239.4000014554460&gatewayAdapt=ita2usa4itemAdapt
 * https://eustore.ifixit.com/products/pro-tech-toolkit
-* https://github.com/search?q=cyberdeck&type=repositories&p=2
 * https://github.com/BenMakesEverything/cyberdeck
 * https://github.com/brickbots/framedeck/blob/main/docs/parts.md
 * https://github.com/CyZooNiC/cyberdeck
-* 
+* https://github.com/0015/ESP32Berry
+* https://github.com/jbmorley/little-luggable
+* https://parallax_punch.artstation.com/projects/XL6eL
+* https://github.com/Martian1337/CyberDeck
+* https://www.doscher.com/the-raspberry-pi-quick-kit/
+* https://github.com/search?q=cyberdeck&type=repositories&p=9
 * 
 * 
 * 
