@@ -44,10 +44,7 @@ This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 * https://parallax_punch.artstation.com/projects/XL6eL
 * https://github.com/Martian1337/CyberDeck
 * https://www.doscher.com/the-raspberry-pi-quick-kit/
-* https://github.com/search?q=cyberdeck&type=repositories&p=9
-* 
-* 
-* 
+* https://github.com/search?q=cyberdeck&type=repositories&p=10 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
 
