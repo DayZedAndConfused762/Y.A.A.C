@@ -199,6 +199,7 @@ SanDisk 512GB Ultra microSDXC | https://www.walmart.com/ip/1455959513 | $42.69
 #### Adapters
 Item|URL|Price
 ---|---|---
+Cable Matters Combo-Pack 8K@60Hz Right Angle HDMI 2.1 Adapters | https://www.amazon.com/gp/product/B097CJLNXS/ | $7.99
 Poyiccot USB C Adapter 40Gbps, 3Pack 90 Degree | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
 QianLink Micro USB to USB C Adapter,8-PackMicro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL | $5.99
 
@@ -224,6 +225,7 @@ Item|URL|Price
 4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
 Cable Matters 48Gbps 8K HDMI Coiled Cable | https://www.amazon.com/dp/B0CSS993KB | $12.99
 Seadream 1Foot 90 Degree Down Angle Micro HDMI | https://www.amazon.com/dp/B07BLX88H4 | $7.29
+Seadream 4K Micro HDMI to HDMI Cable 1FT 2Pack | https://www.amazon.com/gp/product/B0B938BP37/ | $9.88
 SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
 
 #### USB A to A
