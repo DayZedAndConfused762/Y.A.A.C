@@ -201,7 +201,7 @@ Item|URL|Price
 ---|---|---
 Cable Matters Combo-Pack 8K@60Hz Right Angle HDMI 2.1 Adapters | https://www.amazon.com/gp/product/B097CJLNXS/ | $7.99
 Poyiccot USB C Adapter 40Gbps, 3Pack 90 Degree | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
-QianLink Micro USB to USB C Adapter,8-PackMicro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL | $5.99
+QianLink Micro USB to USB C Adapter,8-Pack Micro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL | $5.99
 
 #### DC
 Item|URL|Price
