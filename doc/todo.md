@@ -28,9 +28,12 @@ This is a To Do list for the Y.A.A.C
 ## Github
 
 - [ ] Create list of used parts in Y.A.A.C
-- [ ] Organize and format files
+- [ ] Format MD files
 - [ ] Take and uploaded pictures of the Y.A.A.C during and after assembly
-- [ ] 
+- [ ] Sort [contents.md](doc/contents.md)
+- [ ] Sort [guides.md](doc/guides.md)
+- [ ] Sort [inspiration.md](doc/inspiration.md)
+- [ ] Sort [software.md](doc/software.md)
 
 <!-- ------------------------------ Github End ------------------------------ -->
 
