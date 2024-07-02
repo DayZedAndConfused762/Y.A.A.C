@@ -11,11 +11,29 @@ General template for github flavored markdown pages.
 
 <!-- ------------------------------ Section Start ------------------------------ -->
 
-## Section Name
+## Section
 
 <!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
 
-### Subsection Name
+### Subsection
+
+#### Subsubsection
+
+<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+
+
+<!-- ------------------------------ Section End ------------------------------ -->
+
+
+<!-- ------------------------------ Section Start ------------------------------ -->
+
+## Section
+
+<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
+
+### Subsection
+
+#### Subsubsection
 
 <!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
 
@@ -25,7 +43,6 @@ General template for github flavored markdown pages.
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
-## Outro
 Outro text goes here
 
 <!-- ------------------------------ Outro End ------------------------------ -->
