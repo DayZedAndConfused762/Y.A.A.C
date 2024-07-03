@@ -27,6 +27,9 @@ RetroPie | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC in
 Ubuntu | Ubuntu Linux for Raspberry Pi | https://ubuntu.com/download/raspberry-pi
 Ubuntu MATE | Ubuntu MATE for the Raspberry Pi provides a complete, familiar, desktop environment that can be used for basic desktop computing. It is also of interest to makers and device hackers who want to target Ubuntu for their projects | https://ubuntu-mate.org/raspberry-pi/
 Arch Linux ARM | Arch Linux for ARM processors, a lightweight and flexible Linux® distribution that tries to Keep It Simple | https://archlinuxarm.org/
+Raspberry Pi Debian | This Web site is built to help you get Debian GNU/Linux easily running if you have a computer of the Raspberry Pi family | https://raspi.debian.net/
+DietPi | DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential | https://github.com/Fourdee/DietPi
+Lakka Linux | Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console | https://lakka.tv/
 
 #### Gaming
 Name|Description|Link
@@ -57,13 +60,12 @@ Collapse OS | Winter is coming and Collapse OS aims to soften the blow. It is a 
 RISC OS | RISC OS is a computer operating system designed in Cambridge, England by Acorn. First released in 1987, its origins can be traced back to the original team that developed the Arm microprocessor | https://www.riscosopen.org/content/
 BerryBoot v2.0 | Berryboot is a simple boot selection screen for ARM computers like the Raspberry Pi, that allows you to put multiple Linux distributions on a single SD card | https://www.berryterminal.com/doku.php/berryboot
 chilipie-kiosk | Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors | https://github.com/jareware/chilipie-kiosk
-Raspberry Pi Debian | This Web site is built to help you get Debian GNU/Linux easily running if you have a computer of the Raspberry Pi family | https://raspi.debian.net/
-DietPi | DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential | https://github.com/Fourdee/DietPi
+
 EZ-WifiBroadcast | Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system | https://github.com/rodizio1/EZ-WifiBroadcast
 Fedora Linux for Raspberry Pi | An innovative platform for hardware, clouds, and containers, built with love by you | https://fedoraproject.org/wiki/Architectures/ARM/Raspberry_Pi
 FreeBSD/ARM | FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms | https://wiki.freebsd.org/arm/Raspberry%20Pi
 FreedomBox | FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control | https://www.freedombox.org/
-Lakka Linux | Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console | https://lakka.tv/
+
 LibreELEC | Just enough OS for KODI | https://libreelec.tv/
 motionEyeOS | A Linux distribution that turns your single board computer into a video surveillance system | https://github.com/motioneye-project/motioneyeos
 OSMC | OSMC is a free and open source media center built for the people, by the people | https://osmc.tv/
