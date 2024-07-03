@@ -11,30 +11,28 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 
 <!-- ------------------------------ Software Start ------------------------------ -->
 
-## Software:
-
 <!-- ++++++++++++++++++++ Operating Systems Start ++++++++++++++++++++ -->
 
-### Operating Systems
+## Operating Systems
 
-#### Communication
+### Communication
 Name|Description|Link
 ---|---|---
 EZ-WifiBroadcast | Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system | https://github.com/rodizio1/EZ-WifiBroadcast
 
-#### Data
+### Data
 Name|Description|Link
 ---|---|---
 PirateBox | PirateBox is an anonymous offline mobile file-sharing and communications system built with free software and inexpensive off-the-shelf hardware | https://piratebox.cc/doku.php?id=raspberry_pi:diy
 
-#### Gaming
+### Gaming
 Name|Description|Link
 ---|---|---
 RetroPi | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
 Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood! | https://www.recalbox.com/download/stable/rpi/rpi4_64/
 Lakka Linux | Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console | https://lakka.tv/
 
-#### General Use
+### General Use
 Name|Description|Link
 ---|---|---
 Raspberry Pi OS Bookworm | Your Raspberry Pi needs an operating system to work. This is it. Raspberry Pi OS (previously called Raspbian) is our official supported operating system | https://www.raspberrypi.com/software/
@@ -48,14 +46,14 @@ Raspberry Pi Debian | This Web site is built to help you get Debian GNU/Linux ea
 DietPi | DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential | https://github.com/Fourdee/DietPi
 Fedora Linux for Raspberry Pi | An innovative platform for hardware, clouds, and containers, built with love by you | https://fedoraproject.org/wiki/Architectures/ARM/Raspberry_Pi
 
-#### Media
+### Media
 Name|Description|Link
 ---|---|---
 RasPlex | A Plex Media Client for the Raspberry Pi computer | http://www.rasplex.com/
 OSMC | OSMC is a free and open source media center built for the people, by the people | https://osmc.tv/
 LibreELEC | Just enough OS for KODI | https://libreelec.tv/
 
-#### Misc
+### Misc
 Name|Description|Link
 ---|---|---
 Collapse OS | Winter is coming and Collapse OS aims to soften the blow. It is a Forth (why Forth?) operating system and a collection of tools and documentation with a single purpose: preserve the ability to program microcontrollers through civilizational collapse | http://collapseos.org/
@@ -63,19 +61,19 @@ RISC OS | RISC OS is a computer operating system designed in Cambridge, England 
 BerryBoot v2.0 | Berryboot is a simple boot selection screen for ARM computers like the Raspberry Pi, that allows you to put multiple Linux distributions on a single SD card | https://www.berryterminal.com/doku.php/berryboot
 chilipie-kiosk | Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors | https://github.com/jareware/chilipie-kiosk
 
-#### SDR
+### SDR
 Name|Description|Link
 ---|---|---
 DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi | SDR Focused Distribution for the Raspberry Pi | https://sourceforge.net/projects/dragonos-pi64/
 
-#### Security
+### Security
 Name|Description|Link
 ---|---|---
 Alpine Linux | Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and Busybox | https://wiki.alpinelinux.org/wiki/Raspberry_Pi
 Kali linux | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering | https://www.kali.org
 motionEyeOS | A Linux distribution that turns your single board computer into a video surveillance system | https://github.com/motioneye-project/motioneyeos
 
-#### Server
+### Server
 Name|Description|Link
 ---|---|---
 FreeBSD/ARM | FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms | https://wiki.freebsd.org/arm/Raspberry%20Pi
@@ -86,7 +84,8 @@ FreedomBox | FreedomBox is a private server for non-experts: it lets you install
 
 <!-- ++++++++++++++++++++ Lists Start ++++++++++++++++++++ -->
 
-### Lists
+## Lists
+
 Name|Description|Link
 ---|---|---
 Awesome Raspberry Pi |  x | https://github.com/thibmaek/awesome-raspberry-pi
@@ -99,7 +98,8 @@ Awesome-Linux-Software | This repo is a collection of AWESOME Linux applications
 
 <!-- ++++++++++++++++++++ Audio Start ++++++++++++++++++++ -->
 
-### Audio
+## Audio
+
 Name|Description|Link
 ---|---|---
 Simple Internet Radio |  x | https://github.com/blake5634/Simple-Internet-Radio
@@ -109,7 +109,8 @@ Simple Internet Radio |  x | https://github.com/blake5634/Simple-Internet-Radio
 
 <!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
-### CyberSecurity
+## CyberSecurity
+
 Name|Description|Link
 ---|---|---
 Pwnagotchi |  A2C-based "AI" leveraging bettercap that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures | https://github.com/evilsocket/pwnagotchi
@@ -120,7 +121,8 @@ Aircrack-ng | Aircrack-ng is a complete suite of tools to assess WiFi network se
 
 <!-- ++++++++++++++++++++ Data Start ++++++++++++++++++++ -->
 
-### Data Management
+## Data Management
+
 Name|Description|Link
 ---|---|---
 HDD Raw Copy Tool (windows) | HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.  | https://hddguru.com/software/HDD-Raw-Copy-Tool/
@@ -135,7 +137,8 @@ Raspberry Pi Imager | x | https://www.raspberrypi.com/software/
 
 <!-- ++++++++++++++++++++ FM Start ++++++++++++++++++++ -->
 
-### FM Radio Transmitting
+## FM Radio Transmitting
+
 Name|Description|Link
 ---|---|---
 PiFM (RM-Hull) |  x | https://github.com/rm-hull/pifm?tab=readme-ov-file
@@ -148,7 +151,8 @@ PiFM (MundeepL) |  x | https://github.com/MundeepL/PiFM
 
 <!-- ++++++++++++++++++++ Gaming Start ++++++++++++++++++++ -->
 
-### Gaming
+## Gaming
+
 Name|Description|Link
 ---|---|---
 NetHack | NetHack is an open source single-player roguelike video game, first released in 1987 | https://www.nethack.org/
@@ -160,7 +164,8 @@ pokete | A terminal based Pokemon like game | https://lxgr-linux.github.io/poket
 
 <!-- ++++++++++++++++++++ GPS Start ++++++++++++++++++++ -->
 
-### GPS/Mapping
+## GPS/Mapping
+
 Name|Description|Link
 ---|---|---
 FoxTrot GPS |  x | https://www.foxtrotgps.org/
@@ -171,7 +176,8 @@ Ulysses Mapping Program | An offline and online mapping program created using Cu
 
 <!-- ++++++++++++++++++++ Meshtastic Start ++++++++++++++++++++ -->
 
-### Meshtastic
+## Meshtastic
+
 Name|Description|Link
 ----|---|---
 Android Application Usage | Meshtastic Android App Information | https://meshtastic.org/docs/software/android/usage/
@@ -181,7 +187,8 @@ Android Application Usage | Meshtastic Android App Information | https://meshtas
 
 <!-- ++++++++++++++++++++ Networking Start ++++++++++++++++++++ -->
 
-### Networking
+## Networking
+
 Name|Description|Link
 ---|---|---
 PiHole |  x | https://docs.pi-hole.net/guides/vpn/wireguard/overview/
@@ -193,7 +200,8 @@ PiVPN | The simplest way to setup and manage a VPN, designed for Raspberry Pi | 
 
 <!-- ++++++++++++++++++++ Offline Internet Start ++++++++++++++++++++ -->
 
-### Offline Internet
+## Offline Internet
+
 Name|Description|Link
 ---|---|---
 Internet in a Box | x | https://internet-in-a-box.org/            
@@ -204,7 +212,8 @@ Kiwix offline internet/wiki | x | https://www.kiwix.org/en/
 
 <!-- ++++++++++++++++++++ RPi General Start ++++++++++++++++++++ -->
 
-### Raspberry Pi General/Misc
+## Raspberry Pi General/Misc
+
 Name|Description|Link
 ---|---|---
 PiKISS | A Bunch Of Scripts With Menu To Make Your Life Easier | https://github.com/jmcerrejon/PiKISS
@@ -222,7 +231,8 @@ pigg - Raspberry Pi GPIO GUI | https://github.com/andrewdavidmackenzie/pigg | An
 
 <!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
 
-### SDR
+## SDR
+
 Name|Description|Link
 ---|---|---
 SDRangel TX & RX Software Defined Radio | x | https://www.sdrangel.org/
@@ -232,7 +242,8 @@ SDRangel TX & RX Software Defined Radio | x | https://www.sdrangel.org/
 
 <!-- ++++++++++++++++++++ Utilities Start ++++++++++++++++++++ -->
 
-### Utilities
+## Utilities
+
 Name|Description|Link
 ---|---|---
 Cool-Retro-Term | x | https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file
@@ -246,7 +257,8 @@ crontab guru | The quick and simple editor for cron schedule expressions by Cron
 
 <!-- ++++++++++++++++++++ Weather Start ++++++++++++++++++++ -->
 
-### Weather
+## Weather
+
 Name|Description|Link
 ---|---|---
 Pi Weather Station | x | https://github.com/elewin/pi-weather-station
