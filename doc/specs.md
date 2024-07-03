@@ -54,7 +54,9 @@ Hardware Specs for the Y.A.A.C
 ## Power
 
 ### Anker 737 Power Bank, 24,000mAh 3-Port Portable Charger
-* **:** 
+* **Capacity:** 24,000 mAh
+* **Ports:** 1 USB-A in/out, 1 USB-C in/out, 1 USB-C out
+* **Display:** Shows current wattage being used per port, as well as remaining time on the battery
 
 ### Geekworm Raspberry Pi X728 UPS
 * **Voltage:** 5.1 Volts
@@ -64,6 +66,8 @@ Hardware Specs for the Y.A.A.C
 ### 2x Panasonic NCR 18650 3400mAh 3.7V Unprotected High-Drain 4.87A LiOn Flat Top
 * **Capacity:** 3,400 mAh
 * **Voltage:** 3.7 Volts
+
+### 
 
 <!-- ------------------------------ Power End ------------------------------ -->
 
