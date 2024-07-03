@@ -26,6 +26,7 @@ Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to repla
 RetroPie | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
 Ubuntu | Ubuntu Linux for Raspberry Pi | https://ubuntu.com/download/raspberry-pi
 Ubuntu MATE | Ubuntu MATE for the Raspberry Pi provides a complete, familiar, desktop environment that can be used for basic desktop computing. It is also of interest to makers and device hackers who want to target Ubuntu for their projects | https://ubuntu-mate.org/raspberry-pi/
+Arch Linux ARM | Arch Linux for ARM processors, a lightweight and flexible Linux® distribution that tries to Keep It Simple | https://archlinuxarm.org/
 
 #### Gaming
 Name|Description|Link
@@ -36,27 +37,24 @@ Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to repla
 #### Media
 Name|Description|Link
 ---|---|---
-DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi | SDR Focused Distribution for the Raspberry Pi | https://sourceforge.net/projects/dragonos-pi64/
 RasPlex | A Plex Media Client for the Raspberry Pi computer | http://www.rasplex.com/
 
 #### SDR
 Name|Description|Link
 ---|---|---
+DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi | SDR Focused Distribution for the Raspberry Pi | https://sourceforge.net/projects/dragonos-pi64/
 
 #### Security
 Name|Description|Link
 ---|---|---
+Alpine Linux | Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and Busybox | https://wiki.alpinelinux.org/wiki/Raspberry_Pi
 Kali linux | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering | https://www.kali.org
 
 #### Unsorted
 Name|Description|Link
 ---|---|---
-
 Collapse OS | Winter is coming and Collapse OS aims to soften the blow. It is a Forth (why Forth?) operating system and a collection of tools and documentation with a single purpose: preserve the ability to program microcontrollers through civilizational collapse | http://collapseos.org/
 RISC OS | RISC OS is a computer operating system designed in Cambridge, England by Acorn. First released in 1987, its origins can be traced back to the original team that developed the Arm microprocessor | https://www.riscosopen.org/content/
-
-Alpine Linux | Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and Busybox | https://wiki.alpinelinux.org/wiki/Raspberry_Pi
-Arch Linux ARM | Arch Linux for ARM processors, a lightweight and flexible Linux® distribution that tries to Keep It Simple | https://archlinuxarm.org/
 BerryBoot v2.0 | Berryboot is a simple boot selection screen for ARM computers like the Raspberry Pi, that allows you to put multiple Linux distributions on a single SD card | https://www.berryterminal.com/doku.php/berryboot
 chilipie-kiosk | Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors | https://github.com/jareware/chilipie-kiosk
 Raspberry Pi Debian | This Web site is built to help you get Debian GNU/Linux easily running if you have a computer of the Raspberry Pi family | https://raspi.debian.net/
