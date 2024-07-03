@@ -3,7 +3,7 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C
+# Y.A.A.C - Hardware Specs
 
 Hardware Specs for the Y.A.A.C
 
