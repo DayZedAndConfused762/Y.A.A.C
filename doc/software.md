@@ -4,7 +4,7 @@
 
 # Y.A.A.C - Software
 
-Software currently in use or to be used on the Y.A.A.C.
+Software currently in use or possibly to be used on the Y.A.A.C.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
@@ -96,6 +96,7 @@ Awesome-Linux-Software | This repo is a collection of AWESOME Linux applications
 
 <!-- ++++++++++++++++++++ Lists End ++++++++++++++++++++ -->
 
+
 <!-- ++++++++++++++++++++ Audio Start ++++++++++++++++++++ -->
 
 ### Audio
@@ -104,6 +105,7 @@ Name|Description|Link
 Simple Internet Radio |  x | https://github.com/blake5634/Simple-Internet-Radio
 
 <!-- ++++++++++++++++++++ Audio End ++++++++++++++++++++ -->
+
 
 <!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
@@ -114,6 +116,7 @@ Pwnagotchi |  A2C-based "AI" leveraging bettercap that learns from its surroundi
 Aircrack-ng | Aircrack-ng is a complete suite of tools to assess WiFi network security. | http://www.aircrack-ng.org/
 
 <!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
+
 
 <!-- ++++++++++++++++++++ Data Start ++++++++++++++++++++ -->
 
@@ -129,6 +132,7 @@ Raspberry Pi Imager | x | https://www.raspberrypi.com/software/
 
 <!-- ++++++++++++++++++++ Data End ++++++++++++++++++++ -->
 
+
 <!-- ++++++++++++++++++++ FM Start ++++++++++++++++++++ -->
 
 ### FM Radio Transmitting
@@ -141,6 +145,7 @@ PiFM (MundeepL) |  x | https://github.com/MundeepL/PiFM
 
 <!-- ++++++++++++++++++++ FM End ++++++++++++++++++++ -->
 
+
 <!-- ++++++++++++++++++++ Gaming Start ++++++++++++++++++++ -->
 
 ### Gaming
@@ -152,6 +157,7 @@ pokete | A terminal based Pokemon like game | https://lxgr-linux.github.io/poket
 
 <!-- ++++++++++++++++++++ Gaming End ++++++++++++++++++++ -->
 
+
 <!-- ++++++++++++++++++++ GPS Start ++++++++++++++++++++ -->
 
 ### GPS/Mapping
@@ -162,6 +168,7 @@ Ulysses Mapping Program | An offline and online mapping program created using Cu
 
 <!-- ++++++++++++++++++++ GPS End ++++++++++++++++++++ -->
 
+
 <!-- ++++++++++++++++++++ Meshtastic Start ++++++++++++++++++++ -->
 
 ### Meshtastic
@@ -170,6 +177,7 @@ Name|Description|Link
 Android Application Usage | Meshtastic Android App Information | https://meshtastic.org/docs/software/android/usage/
 
 <!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
+
 
 <!-- ++++++++++++++++++++ Networking Start ++++++++++++++++++++ -->
 
@@ -182,6 +190,7 @@ PiVPN | The simplest way to setup and manage a VPN, designed for Raspberry Pi | 
 
 <!-- ++++++++++++++++++++ Networking End ++++++++++++++++++++ -->
 
+
 <!-- ++++++++++++++++++++ Offline Internet Start ++++++++++++++++++++ -->
 
 ### Offline Internet
@@ -191,6 +200,7 @@ Internet in a Box | x | https://internet-in-a-box.org/
 Kiwix offline internet/wiki | x | https://www.kiwix.org/en/
 
 <!-- ++++++++++++++++++++ Offline Internet End ++++++++++++++++++++ -->
+
 
 <!-- ++++++++++++++++++++ RPi General Start ++++++++++++++++++++ -->
 
@@ -209,6 +219,7 @@ pigg - Raspberry Pi GPIO GUI | https://github.com/andrewdavidmackenzie/pigg | An
 
 <!-- ++++++++++++++++++++ RPi General End ++++++++++++++++++++ -->
 
+
 <!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
 
 ### SDR
@@ -217,6 +228,7 @@ Name|Description|Link
 SDRangel TX & RX Software Defined Radio | x | https://www.sdrangel.org/
 
 <!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
+
 
 <!-- ++++++++++++++++++++ Utilities Start ++++++++++++++++++++ -->
 
@@ -231,6 +243,7 @@ crontab guru | The quick and simple editor for cron schedule expressions by Cron
 
 <!-- ++++++++++++++++++++ Utilities End ++++++++++++++++++++ -->
 
+
 <!-- ++++++++++++++++++++ Weather Start ++++++++++++++++++++ -->
 
 ### Weather
@@ -239,6 +252,7 @@ Name|Description|Link
 Pi Weather Station | x | https://github.com/elewin/pi-weather-station
 
 <!-- ++++++++++++++++++++ Weather End ++++++++++++++++++++ -->
+
 
 <!-- ------------------------------ Software End ------------------------------ -->
 
