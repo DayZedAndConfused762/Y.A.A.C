@@ -217,7 +217,7 @@ Name|Description|Link
 ---|---|---
 PiKISS | A Bunch Of Scripts With Menu To Make Your Life Easier | https://github.com/jmcerrejon/PiKISS
 PiGro | All Settings In One Place! | https://github.com/actionschnitzel/PiGro-Aid-
-pigg - Raspberry Pi GPIO GUI | https://github.com/andrewdavidmackenzie/pigg | An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate.
+pigg - Raspberry Pi GPIO GUI | An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate | https://github.com/andrewdavidmackenzie/pigg
 rpi-clone | rpi-clone is a shell script that is for cloning a running Raspberry Pi booted source disk (SD card or USB disk) | https://github.com/billw2/rpi-clone
 RasComm | RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly | https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator
 sdm | Raspberry Pi SSD/SD Card Image Manager | https://github.com/gitbls/sdm
