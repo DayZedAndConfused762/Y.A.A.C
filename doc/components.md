@@ -514,6 +514,7 @@ Item|URL|Price
 Item|URL|Price
 ---|---|---
 C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W | https://www.amazon.com/Triple-Stack-Raspberry-Zero-W-C4Labs/dp/B06XCK7G2R/ | 
+Pelican Vault V100 Hard Case | https://www.amazon.com/Pelican-Vault-V100-Pistol-Black/dp/B0CVQSRC6L/ | $49.95
 
 <!-- ++++++++++++++++++++ Cases End ++++++++++++++++++++ -->
 
