@@ -16,20 +16,45 @@ Software currently in use or to be used on the Y.A.A.C.
 <!-- ++++++++++++++++++++ Operating Systems Start ++++++++++++++++++++ -->
 
 ### Operating Systems
+
+#### General Use
+Name|Description|Link
+---|---|---
+Raspberry Pi OS Bookworm | Your Raspberry Pi needs an operating system to work. This is it. Raspberry Pi OS (previously called Raspbian) is our official supported operating system | https://www.raspberrypi.com/software/
+Twister OS | The main goal of Twister OS is to provide a true desktop computing experience for single board computers (SBCs), right out-of-the-box. Twister OS includes themes, applications, tools, and optimizations to allow you to get the most out of your SBC | https://twisteros.com/about.html
+Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood! | https://www.recalbox.com/download/stable/rpi/rpi4_64/
+RetroPie | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
+Ubuntu | Ubuntu Linux for Raspberry Pi | https://ubuntu.com/download/raspberry-pi
+Ubuntu MATE | Ubuntu MATE for the Raspberry Pi provides a complete, familiar, desktop environment that can be used for basic desktop computing. It is also of interest to makers and device hackers who want to target Ubuntu for their projects | https://ubuntu-mate.org/raspberry-pi/
+
+#### Gaming
+Name|Description|Link
+---|---|---
+RetroPi | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
+Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood! | https://www.recalbox.com/download/stable/rpi/rpi4_64/
+
+#### Media
+Name|Description|Link
+---|---|---
+DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi | SDR Focused Distribution for the Raspberry Pi | https://sourceforge.net/projects/dragonos-pi64/
+RasPlex | A Plex Media Client for the Raspberry Pi computer | http://www.rasplex.com/
+
+#### SDR
+Name|Description|Link
+---|---|---
+
+#### Security
 Name|Description|Link
 ---|---|---
 Kali linux | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering | https://www.kali.org
-Raspberry Pi OS Bookworm | Your Raspberry Pi needs an operating system to work. This is it. Raspberry Pi OS (previously called Raspbian) is our official supported operating system | https://www.raspberrypi.com/software/
-RetroPi | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
+
+#### Unsorted
+Name|Description|Link
+---|---|---
+
 Collapse OS | Winter is coming and Collapse OS aims to soften the blow. It is a Forth (why Forth?) operating system and a collection of tools and documentation with a single purpose: preserve the ability to program microcontrollers through civilizational collapse | http://collapseos.org/
-DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi | SDR Focused Distribution for the Raspberry Pi | https://sourceforge.net/projects/dragonos-pi64/
-Twister OS | The main goal of Twister OS is to provide a true desktop computing experience for single board computers (SBCs), right out-of-the-box. Twister OS includes themes, applications, tools, and optimizations to allow you to get the most out of your SBC | https://twisteros.com/about.html
-RasPlex | A Plex Media Client for the Raspberry Pi computer | http://www.rasplex.com/
-Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood! | https://www.recalbox.com/download/stable/rpi/rpi4_64/
-RetroPie | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
 RISC OS | RISC OS is a computer operating system designed in Cambridge, England by Acorn. First released in 1987, its origins can be traced back to the original team that developed the Arm microprocessor | https://www.riscosopen.org/content/
-Ubuntu | Ubuntu Linux for Raspberry Pi | https://ubuntu.com/download/raspberry-pi
-Ubuntu MATE | Ubuntu MATE for the Raspberry Pi provides a complete, familiar, desktop environment that can be used for basic desktop computing. It is also of interest to makers and device hackers who want to target Ubuntu for their projects | https://ubuntu-mate.org/raspberry-pi/
+
 Alpine Linux | Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and Busybox | https://wiki.alpinelinux.org/wiki/Raspberry_Pi
 Arch Linux ARM | Arch Linux for ARM processors, a lightweight and flexible Linux® distribution that tries to Keep It Simple | https://archlinuxarm.org/
 BerryBoot v2.0 | Berryboot is a simple boot selection screen for ARM computers like the Raspberry Pi, that allows you to put multiple Linux distributions on a single SD card | https://www.berryterminal.com/doku.php/berryboot
