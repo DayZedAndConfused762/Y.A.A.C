@@ -26,14 +26,15 @@ Version 0.1.0 of the Y.A.A.C
 
 ## Files
 
-* [Components](doc/components.md) A list of compents used in the Y.A.A.C, components owned, and components to possibly buy
-* [Contents](doc/content,md) Content included and planned to be included on the Y.A.A.C
+* [Build Guide](doc/build.md) A step by step reference of the build process
+* [Components](doc/components.md) A list of compents used, components owned, and components to possibly buy
+* [Contents](doc/content,md) Content included and planned to be included
 * [Guides](doc/guides.md) A list of guides/tutorials/information
 * [Inspiration](doc/inspiration.md) Other CyberDecks, projects, and links for inspiration
 * [Specifications](doc/specs.md) Hardware specifications
 * [Setup](doc/setup.md) Setup steps for the operating systems and software
-* [Software](doc/software.md) Software used and to possibly use on the Y.A.A.C
-* [To Do List](doc/todo.md) To Do list for the Y.A.A.C
+* [Software](doc/software.md) Software used and to possibly use
+* [To Do List](doc/todo.md) To Do list
 * [Unsorted](doc/unsorted.md) A file containing links and other information yet to be sorted
 
 <!-- ------------------------------ Files End ------------------------------ -->
