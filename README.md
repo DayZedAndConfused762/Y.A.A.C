@@ -2,7 +2,7 @@
 
 # Y.A.A.C
 
-![Y.A.A.C Logo](images/yaac-high-resolution-logo-edited.png)
+![Y.A.A.C Logo](images/logo/yaac-high-resolution-logo-edited.png)
 
 ## Overview
 
