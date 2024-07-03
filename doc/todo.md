@@ -14,11 +14,10 @@ This is a To Do list for the Y.A.A.C
 
 ## Y.A.A.C
 
-- [ ] Assemble components outside of case and test
+- [X] Assemble components outside of case and test
 - [x] Create rought draft of face plate using cardboard
 - [ ] Create faceplates using FoamCore and ABS Sheets
 - [ ] Assemble the Y.A.A.C
-- [ ] 
 
 <!-- ------------------------------ YAAC End ------------------------------ -->
 
