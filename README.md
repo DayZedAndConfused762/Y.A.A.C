@@ -8,8 +8,6 @@
 
 The Y.A.A.C (Yet Another Apache CyberDeck/Yak) is my personal take on a CyberDeck.  It is designed for multiple uses, including general computing, cyber security, and offline internet.  This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
 
-<img src="images/old-versions/IMG_20240520_163106484_HDR.jpg" width="500">
-
 ## Files
 
 * [Components](doc/components.md) A list of compents used in the Y.A.A.C, components owned, and components to possibly buy.
