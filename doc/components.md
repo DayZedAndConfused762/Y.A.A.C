@@ -267,6 +267,9 @@ Item|URL|Price
 ### Cases
 Item|URL|Price
 ---|---|---
+APACHE 1800 Weatherproof Protective Case, Small, Black | https://www.harborfreight.com/1800-weatherproof-protective-case-small-black-64550.html | $12.99
+APACHE 2800 Weatherproof Protective Case, Medium, Black | https://www.harborfreight.com/2800-weatherproof-protective-case-medium-black-64551.html | $29.99
+APACHE 2800 Weatherproof Protective Case, Medium, Tan | https://www.harborfreight.com/2800-weatherproof-protective-case-medium-tan-58656.html | $29.99
 Argon ONE M.2 Aluminum Case | https://www.amazon.com/gp/product/B08MJ3CSW7/ | $47.00
 GeeekPi Armor Case with PWM Fan for Raspberry Pi 4 | https://www.amazon.com/gp/product/B083XV78RD/ | $17.99
 GeeekPi Pi Zero 2 W Case/Zero W Case, 7 in 1 Basic Starter Kit | https://www.amazon.com/gp/product/B08MVH2JJ1/ | $9.99
