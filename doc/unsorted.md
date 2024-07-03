@@ -44,7 +44,20 @@ This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 * https://parallax_punch.artstation.com/projects/XL6eL
 * https://github.com/Martian1337/CyberDeck
 * https://www.doscher.com/the-raspberry-pi-quick-kit/
-* https://github.com/search?q=cyberdeck&type=repositories&p=10 
+* https://cyberdeck.cafe/
+* https://github.com/TechDocN/cyberDeck
+* https://github.com/T-ryder2/CyberDeck
+* https://github.com/Sloth-Wizard/CyberDeck
+* https://github.com/Celeo/cyberdeck-helper
+* https://github.com/leaverossb/CyberDeck
+* https://github.com/mirrexagon/samus-cyberdeck?tab=readme-ov-file
+* https://github.com/Alshootfa/CyberDeckSynth
+* https://github.com/wdbm/cyberDeck_2022
+* https://github.com/JFisch25200/RPI-CyberDeck
+* https://github.com/arbowl/cyberdeck-battery-indicator
+* https://github.com/rconjoe/oldsoul
+* https://github.com/Skitz67/Orange-Pi-Cyberdeck
+* 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
 
