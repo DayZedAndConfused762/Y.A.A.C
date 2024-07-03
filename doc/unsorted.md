@@ -64,6 +64,12 @@ This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 * https://github.com/cjdaly/smolDeck
 * https://github.com/ailynux/CyberDeckV.01
 * https://github.com/Omodaka9375/M8-CyberDeck-400
+* https://github.com/Infer4Y/CyPi-Zero-Term
+* https://github.com/BobGaemes/BobDeck
+* https://github.com/brsloan/writerDeck
+* https://github.com/IcarusImageJu/positive-vibes-spotter
+* https://github.com/paradoxzss/Project-Midnight-Eclipse
+* https://github.com/SquishVic/CyberMiga
 * 
 * 
 
