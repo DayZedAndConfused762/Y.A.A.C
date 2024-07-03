@@ -5,48 +5,9 @@
 
 # Build Steps
 
-Steps and info on the building process
+Steps and info on the building process.  The Y.A.A.C is currently disassembled, undergoing a revision due to new hardware.  Full details of the build process will be posted here as complete.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
-
-
-<!-- ------------------------------ Section Start ------------------------------ -->
-
-## Section
-
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
-
-### Subsection
-
-#### Subsubsection
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
-
-
-<!-- ------------------------------ Section End ------------------------------ -->
-
-
-<!-- ------------------------------ Section Start ------------------------------ -->
-
-## Section
-
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
-
-### Subsection
-
-#### Subsubsection
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
-
-
-<!-- ------------------------------ Section End ------------------------------ -->
-
-
-<!-- ------------------------------ Outro Start ------------------------------ -->
-
-Outro text goes here
-
-<!-- ------------------------------ Outro End ------------------------------ -->
 
 
 <!-- ======================================== build.md End ======================================== -->
