@@ -57,6 +57,14 @@ This is a unsorted dump list of links and info for the Y.A.A.C to be sorted
 * https://github.com/arbowl/cyberdeck-battery-indicator
 * https://github.com/rconjoe/oldsoul
 * https://github.com/Skitz67/Orange-Pi-Cyberdeck
+* https://github.com/AndresBorray/LunchBox_cyberDeck
+* https://github.com/krum04/PiZero-CyberDeck-Tape
+* https://github.com/spacecadet85/CyberDeck--OmniDevice
+* https://github.com/kirbycope/raspberry-pi-400-cyberdeck
+* https://github.com/cjdaly/smolDeck
+* https://github.com/ailynux/CyberDeckV.01
+* https://github.com/Omodaka9375/M8-CyberDeck-400
+* 
 * 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
