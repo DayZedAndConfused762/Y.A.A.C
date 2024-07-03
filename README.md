@@ -1,8 +1,16 @@
-<!-- ================================================================================ -->
+<!-- ======================================== README.md Start ======================================== -->
+
+
+<!-- ------------------------------ Intro Start ------------------------------ -->
 
 # Y.A.A.C
 
 ![Y.A.A.C Logo](images/logo/yaac-high-resolution-logo-edited.png)
+
+<!-- ------------------------------ Intro End ------------------------------ -->
+
+
+<!-- ------------------------------ Overview Start ------------------------------ -->
 
 ## Overview
 
@@ -10,7 +18,10 @@ The Y.A.A.C (Yet Another Apache CyberDeck/Yak) is my personal take on a [CyberDe
 
 ![CyberDeck v0.1.0](images/cyberdeck/cyberdeck-2-v0-1-0.jpg)
 
+<!-- ------------------------------ Overview End ------------------------------ -->
 
+
+<!-- ------------------------------ Files Start ------------------------------ -->
 
 ## Files
 
@@ -22,5 +33,13 @@ The Y.A.A.C (Yet Another Apache CyberDeck/Yak) is my personal take on a [CyberDe
 * [Software](doc/software.md) Software used and to possibly use on the Y.A.A.C
 * [To Do List](doc/todo.md) To Do list for the Y.A.A.C
 * [Unsorted](doc/unsorted.md) A file containing links and other information yet to be sorted
+
+<!-- ------------------------------ Files End ------------------------------ -->
+
+
+<!-- ------------------------------ Outro Start ------------------------------ -->
+
+<!-- ------------------------------ Outro End ------------------------------ -->
+
 
 <!-- ================================================================================ -->
