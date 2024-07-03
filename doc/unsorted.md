@@ -5,7 +5,7 @@
 
 # Y.A.A.C - Unsorted
 
-This is a unsorted dump list of links and info to be sorted
+This is a unsorted dump list of links and info
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
