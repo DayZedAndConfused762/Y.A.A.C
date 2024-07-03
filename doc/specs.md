@@ -67,7 +67,10 @@ Hardware Specs for the Y.A.A.C
 * **Capacity:** 3,400 mAh
 * **Voltage:** 3.7 Volts
 
-### 
+### CanaKit 3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C)
+* **Voltage:** 5.1 Volts
+* **Amperage:** 3.5 Amps
+* Detachable power switch with LED indicator
 
 <!-- ------------------------------ Power End ------------------------------ -->
 
