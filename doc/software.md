@@ -17,6 +17,23 @@ Software currently in use or to be used on the Y.A.A.C.
 
 ### Operating Systems
 
+#### Communication
+Name|Description|Link
+---|---|---
+EZ-WifiBroadcast | Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system | https://github.com/rodizio1/EZ-WifiBroadcast
+
+#### Data
+Name|Description|Link
+---|---|---
+PirateBox | PirateBox is an anonymous offline mobile file-sharing and communications system built with free software and inexpensive off-the-shelf hardware | https://piratebox.cc/doku.php?id=raspberry_pi:diy
+
+#### Gaming
+Name|Description|Link
+---|---|---
+RetroPi | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
+Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood! | https://www.recalbox.com/download/stable/rpi/rpi4_64/
+Lakka Linux | Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console | https://lakka.tv/
+
 #### General Use
 Name|Description|Link
 ---|---|---
@@ -29,18 +46,22 @@ Ubuntu MATE | Ubuntu MATE for the Raspberry Pi provides a complete, familiar, de
 Arch Linux ARM | Arch Linux for ARM processors, a lightweight and flexible Linux® distribution that tries to Keep It Simple | https://archlinuxarm.org/
 Raspberry Pi Debian | This Web site is built to help you get Debian GNU/Linux easily running if you have a computer of the Raspberry Pi family | https://raspi.debian.net/
 DietPi | DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential | https://github.com/Fourdee/DietPi
-Lakka Linux | Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console | https://lakka.tv/
-
-#### Gaming
-Name|Description|Link
----|---|---
-RetroPi | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
-Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood! | https://www.recalbox.com/download/stable/rpi/rpi4_64/
+Fedora Linux for Raspberry Pi | An innovative platform for hardware, clouds, and containers, built with love by you | https://fedoraproject.org/wiki/Architectures/ARM/Raspberry_Pi
 
 #### Media
 Name|Description|Link
 ---|---|---
 RasPlex | A Plex Media Client for the Raspberry Pi computer | http://www.rasplex.com/
+OSMC | OSMC is a free and open source media center built for the people, by the people | https://osmc.tv/
+LibreELEC | Just enough OS for KODI | https://libreelec.tv/
+
+#### Misc
+Name|Description|Link
+---|---|---
+Collapse OS | Winter is coming and Collapse OS aims to soften the blow. It is a Forth (why Forth?) operating system and a collection of tools and documentation with a single purpose: preserve the ability to program microcontrollers through civilizational collapse | http://collapseos.org/
+RISC OS | RISC OS is a computer operating system designed in Cambridge, England by Acorn. First released in 1987, its origins can be traced back to the original team that developed the Arm microprocessor | https://www.riscosopen.org/content/
+BerryBoot v2.0 | Berryboot is a simple boot selection screen for ARM computers like the Raspberry Pi, that allows you to put multiple Linux distributions on a single SD card | https://www.berryterminal.com/doku.php/berryboot
+chilipie-kiosk | Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors | https://github.com/jareware/chilipie-kiosk
 
 #### SDR
 Name|Description|Link
@@ -52,26 +73,16 @@ Name|Description|Link
 ---|---|---
 Alpine Linux | Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and Busybox | https://wiki.alpinelinux.org/wiki/Raspberry_Pi
 Kali linux | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering | https://www.kali.org
+motionEyeOS | A Linux distribution that turns your single board computer into a video surveillance system | https://github.com/motioneye-project/motioneyeos
 
-#### Unsorted
+#### Server
 Name|Description|Link
 ---|---|---
-Collapse OS | Winter is coming and Collapse OS aims to soften the blow. It is a Forth (why Forth?) operating system and a collection of tools and documentation with a single purpose: preserve the ability to program microcontrollers through civilizational collapse | http://collapseos.org/
-RISC OS | RISC OS is a computer operating system designed in Cambridge, England by Acorn. First released in 1987, its origins can be traced back to the original team that developed the Arm microprocessor | https://www.riscosopen.org/content/
-BerryBoot v2.0 | Berryboot is a simple boot selection screen for ARM computers like the Raspberry Pi, that allows you to put multiple Linux distributions on a single SD card | https://www.berryterminal.com/doku.php/berryboot
-chilipie-kiosk | Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors | https://github.com/jareware/chilipie-kiosk
-
-EZ-WifiBroadcast | Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system | https://github.com/rodizio1/EZ-WifiBroadcast
-Fedora Linux for Raspberry Pi | An innovative platform for hardware, clouds, and containers, built with love by you | https://fedoraproject.org/wiki/Architectures/ARM/Raspberry_Pi
 FreeBSD/ARM | FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms | https://wiki.freebsd.org/arm/Raspberry%20Pi
 FreedomBox | FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control | https://www.freedombox.org/
 
-LibreELEC | Just enough OS for KODI | https://libreelec.tv/
-motionEyeOS | A Linux distribution that turns your single board computer into a video surveillance system | https://github.com/motioneye-project/motioneyeos
-OSMC | OSMC is a free and open source media center built for the people, by the people | https://osmc.tv/
-PirateBox | PirateBox is an anonymous offline mobile file-sharing and communications system built with free software and inexpensive off-the-shelf hardware | https://piratebox.cc/doku.php?id=raspberry_pi:diy
-
 <!-- ++++++++++++++++++++ Operating Systems End ++++++++++++++++++++ -->
+
 
 <!-- ++++++++++++++++++++ Lists Start ++++++++++++++++++++ -->
 
