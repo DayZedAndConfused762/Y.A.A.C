@@ -71,7 +71,8 @@ This is a unsorted dump list of links and info to be sorted
 * https://github.com/paradoxzss/Project-Midnight-Eclipse
 * https://github.com/SquishVic/CyberMiga
 * https://www.waveshare.com/wiki/10.1inch_HDMI_LCD_(B)_(with_case)
-* 
+* https://wiki.geekworm.com/X728-Software
+* https://github.com/geekworm-com/x728
 * 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
