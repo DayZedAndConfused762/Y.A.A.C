@@ -638,7 +638,6 @@ Item|URL|Price
 5Pack Cable Spring Holder Clips | https://www.amazon.com/dp/B09S8VXZXC/ $11.99
 600PCS M3 Male Female Nylon Hex Spacer Standoffs | https://www.amazon.com/gp/product/B0CBPGKDP4/ | $
 DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ/ | $12.99
-
 Sumnacon 8Pcs Stainless Steel Flat Plates | https://www.amazon.com/gp/product/B07D8QMLPR/ | $8.99
 VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ | $
 
