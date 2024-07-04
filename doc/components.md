@@ -440,8 +440,8 @@ Item|URL|Price
 ### Audio
 Item|URL|Price
 ---|---|---
-WM8960 Audio HAT Module for Raspberry Pi | https://www.amazon.com/WM8960-Module-Raspberry-Stereo-Record/dp/B098R7TTM4/ | $
-WM8960 Hi-Fi Sound Card HAT for Raspberry Pi | https://www.amazon.com/WM8960-Hi-Fi-Raspberry-Stereo-Record/dp/B0CN1D7Z9H/ | $
+WM8960 Audio HAT Module for Raspberry Pi | https://www.amazon.com/dp/B098R7TTM4/ | $
+WM8960 Hi-Fi Sound Card HAT for Raspberry Pi | https://www.amazon.com/dp/B0CN1D7Z9H/ | $
 
 <!-- ++++++++++++++++++++ Audio End ++++++++++++++++++++ -->
 
@@ -461,7 +461,7 @@ Item|URL|Price
 #### Ethernet
 Item|URL|Price
 ---|---|---
-iGreely Ethernet Extender 2Pack RJ45 | https://www.amazon.com/Ethernet-Extender-iGreely-Network-Extension/dp/B06Y4J9MZ4/ | 
+iGreely Ethernet Extender 2Pack RJ45 | https://www.amazon.com/dp/B06Y4J9MZ4/ | 
 SinLoon 90 Degree Left to Right Angle Cat8 Ethernet | https://www.amazon.com/gp/product/B0B3RKQRV1/ | 
 StarTech.com 6 in CAT6 Cable | https://www.amazon.com/gp/product/B078MP2HN1/ | 
 
@@ -473,7 +473,7 @@ Chanzon 40pcs 30cm Long Male to Female Header Jumper | https://www.amazon.com/gp
 #### HDMI
 Item|URL|Price
 ---|---|---
-HDMI Cable Flat – 3ft – 4K@60Hz (Flat Cable) | https://www.amazon.com/HDMI-Cable-Flat-According-CableDirect/dp/B0BV72556Z/ | 
+HDMI Cable Flat – 3ft – 4K@60Hz (Flat Cable) | https://www.amazon.com/dp/B0BV72556Z/ | 
 
 #### USB A to A
 Item|URL|Price
@@ -483,7 +483,7 @@ USB 3.0 USB Male A to Female A | https://www.amazon.com/gp/product/B09YL35VPF/ |
 #### USB C to C
 Item|URL|Price
 ---|---|---
-2Pcs 3FT Flat Design USB C Android Auto Cable | https://www.amazon.com/Charger-Compatible-Nintendo-DualSense-Controller/dp/B08F7KCLKR/ | 
+2Pcs 3FT Flat Design USB C Android Auto Cable | https://www.amazon.com/dp/B08F7KCLKR/ | 
 Charger Cable 3FT for Car, Coiled USB C to USB C | https://www.amazon.com/gp/product/B0CQR8FDR2/ | 
 SUNGUY USB C Male to USB C Male CableRight Angle | https://www.amazon.com/gp/product/B07H96FWY9/ | 
 
@@ -492,7 +492,7 @@ SUNGUY USB C Male to USB C Male CableRight Angle | https://www.amazon.com/gp/pro
 Item|URL|Price
 ---|---|---
 Right Angle USB A Male to USB C Female Adapter | https://www.amazon.com/gp/product/B08PSCL9FC/ | 
-USB C Cable Fast Charging, 2Pack 3ft Coiled USB A | https://www.amazon.com/Charging-Coiled-Retractable-Compatible-Samsung/dp/B0BQ93DBF3/ | 
+USB C Cable Fast Charging, 2Pack 3ft Coiled USB A | https://www.amazon.com/dp/B0BQ93DBF3/ | 
 
 #### USB C Extention
 Item|URL|Price
@@ -520,7 +520,7 @@ Item|URL|Price
 ### Cases
 Item|URL|Price
 ---|---|---
-C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W | https://www.amazon.com/Triple-Stack-Raspberry-Zero-W-C4Labs/dp/B06XCK7G2R/ | 
+C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W | https://www.amazon.com/dp/B06XCK7G2R/ | 
 Pelican Vault V100 Hard Case | https://www.amazon.com/Pelican-Vault-V100-Pistol-Black/dp/B0CVQSRC6L/ | $49.95
 
 <!-- ++++++++++++++++++++ Cases End ++++++++++++++++++++ -->
@@ -530,10 +530,10 @@ Pelican Vault V100 Hard Case | https://www.amazon.com/Pelican-Vault-V100-Pistol-
 ### Core Compute
 Item|URL|Price
 ---|---|---
-Beelink S12 Pro Mini PC | https://www.amazon.com/Beelink-Desktop-Computer-Support-Ethernet/dp/B0BVLS7ZHP/ | 
+Beelink S12 Pro Mini PC | https://www.amazon.com/dp/B0BVLS7ZHP/ | 
 GeeekPi Raspberry Pi Zero 2 W Starter Kit | https://www.amazon.com/gp/product/B0BHD2S5MJ/ | 
 Raspberry Pi Zero WH | https://www.amazon.com/gp/product/B0CG99MR5W/ | 
-Waveshare Package D | https://www.amazon.com/Raspberry-Zero-WHC-Package-USB-HUB-Box/dp/B09LCKNKM5/#customerReviews | 
+Waveshare Package D | https://www.amazon.com/dp/B09LCKNKM5/ | 
 
 <!-- ++++++++++++++++++++ Compute End ++++++++++++++++++++ -->
 
@@ -542,12 +542,12 @@ Waveshare Package D | https://www.amazon.com/Raspberry-Zero-WHC-Package-USB-HUB-
 ### Cooling
 Item|URL|Price
 ---|---|---
-2 Packs Wathai 60mm x 10mm USB | https://www.amazon.com/Packs-Wathai-60mm-Brushless-Cooling/dp/B0821YC2NW/ | 
+2 Packs Wathai 60mm x 10mm USB | https://www.amazon.com/dp/B0821YC2NW/ | 
 2Pack Quiet 120mm USB Fan | https://www.amazon.com/gp/product/B0BFZWV9FH/ | 
-AC Infinity MULTIFAN Mini, Compact 40mm x 20mm USB | https://www.amazon.com/AC-Infinity-MULTIFAN-Raspberry-Ventilation/dp/B07CNJ4DYX/ | 
-Coolerguys 25mm (25x25x10) USB Fan | https://www.amazon.com/Coolerguys-25mm-25x25x10-USB-Fan/dp/B07NC4Z24T/ | 
-ELUTENG Dual 40mm USB Fan | https://www.amazon.com/ELUTENG-Adjustable-Computer-Compatible-Playstation/dp/B08ZY7X4CR/ | 
-ELUTENG Dual Cooling Fan Whisper Quiet 80mm USB | https://www.amazon.com/ELUTENG-Cooling-Adjustable-Heatsink-Playstation/dp/B09QMC1458/ | 
+AC Infinity MULTIFAN Mini, Compact 40mm x 20mm USB | https://www.amazon.com/dp/B07CNJ4DYX/ | 
+Coolerguys 25mm (25x25x10) USB Fan | https://www.amazon.com/dp/B07NC4Z24T/ | 
+ELUTENG Dual 40mm USB Fan | https://www.amazon.com/dp/B08ZY7X4CR/ | 
+ELUTENG Dual Cooling Fan Whisper Quiet 80mm USB | https://www.amazon.com/dp/B09QMC1458/ | 
 
 <!-- ++++++++++++++++++++ Cooling End ++++++++++++++++++++ -->
 
@@ -558,8 +558,8 @@ Item|URL|Price
 ---|---|---
 2.13inch E-Ink Display HAT V4 | https://www.amazon.com/dp/B07Z1WYRQH/ | $
 waveshare 1.51inch Transparent OLED | https://www.amazon.com/gp/product/B0B8N46G24/ | $
-Waveshare 2.13inch E-paper | https://www.amazon.com/Waveshare-2-13inch-Raspberry-Pwnagotchi-Interface/dp/B0D5CJKXTD/ | $26.99
-waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/Waveshare-2-13inch-Touch-Raspberry-Protection/dp/B09GKB8XT8/ | $32.99
+Waveshare 2.13inch E-paper | https://www.amazon.com/dp/B0D5CJKXTD/ | $26.99
+waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/dp/B09GKB8XT8/ | $32.99
 
 <!-- ++++++++++++++++++++ Display End ++++++++++++++++++++ -->
 
@@ -601,7 +601,7 @@ Raspberry Pi AI HAT | https://www.raspberrypi.com/news/raspberry-pi-ai-kit-avail
 ### Hubs & Card Readers
 Item|URL|Price
 ---|---|---
-TP-Link N300 Wireless Portable Router | https://www.amazon.com/TP-Link-Wireless-Portable-Travel-Router/dp/B00TQEX8BO/ | $
+TP-Link N300 Wireless Portable Router | https://www.amazon.com/dp/B00TQEX8BO/ | $
 USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini | $
 
 <!-- ++++++++++++++++++++ Hubs End ++++++++++++++++++++ -->
@@ -682,21 +682,21 @@ Item|URL|Price
 Item|URL|Price
 ---|---|---
 12V 18Ah LiFePO4 Battery | https://www.amazon.com/dp/B09QKD4G6L/ | 
-Anker Prime Power Bank, 27,650mAh 3-Port 250W | https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYP2F3SG/ | $
-Anker Prime Power Bank, 20,000mAh Portable Charger | https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYNZXFM2/ | $
-Anker Prime Power Bank, 27,650mAh 3-Port | https://www.amazon.com/Anker-Portable-Compatible-Charging-Included/dp/B0BYP2F3SG/ | $
-CUKTECH 20 Power Bank, 25,000mAh | https://www.amazon.com/CUKTECH-20-Support-Portable-Charging/dp/B0CCCNYW6Y/ | $
-LiFePO4 Deep Cycle Battery -20Ah 12v | https://www.amazon.com/ENERGY-SAFARI-LiFePO4-Battery-Built/dp/B08JQQXB5T/ | $
+Anker Prime Power Bank, 27,650mAh 3-Port 250W | https://www.amazon.com/dp/B0BYP2F3SG/ | $
+Anker Prime Power Bank, 20,000mAh Portable Charger | https://www.amazon.com/dp/B0BYNZXFM2/ | $
+Anker Prime Power Bank, 27,650mAh 3-Port | https://www.amazon.com/dp/B0BYP2F3SG/ | $
+CUKTECH 20 Power Bank, 25,000mAh | https://www.amazon.com/dp/B0CCCNYW6Y/ | $
+LiFePO4 Deep Cycle Battery -20Ah 12v | https://www.amazon.com/dp/B08JQQXB5T/ | $
 SHARGEEK 170 Power Bank, 170W Output 24,000mAh |  https://www.amazon.com/dp/B0CRF1BGVZ/ | $
 Shargeek Portable Charger, Storm 2 100W 25600mAh | https://www.amazon.com/gp/product/B09NY8GN76/ | $
-Talentcell Rechargeable 12V 6000mAh/5V 12000mAh | https://www.amazon.com/TalentCell-Rechargeable-12000mAh-Multi-led-indicator/dp/B00ME3ZH7C/ | $
-Trozk Portable Charger, PD30W | https://www.amazon.com/Trozk-Portable-Charger-Charging-10000mAh/ | $
+Talentcell Rechargeable 12V 6000mAh/5V 12000mAh | https://www.amazon.com/dp/B00ME3ZH7C/ | $
+Trozk Portable Charger, PD30W | https://www.amazon.com/dp/B0CJ2J2YDS | $
 
 #### Buttons
 Item|URL|Price
 ---|---|---
-4 in 1 ON/Off Toggle Switch | https://www.amazon.com/Okerny-Charger-Voltmeter-Cigarette-Lighter/dp/B0CPNYDCP6/ | $
-Nilight 4 in 1 ON/Off Charger Socket Panel | https://www.amazon.com/gp/product/B0BC8G9DNY/ref=ox_sc_saved_image_6?smid=ATVPDKIKX0DER&psc=1 | $
+4 in 1 ON/Off Toggle Switch | https://www.amazon.com/dp/B0CPNYDCP6/ | $
+Nilight 4 in 1 ON/Off Charger Socket Panel | https://www.amazon.com/gp/product/B0BC8G9DNY/ | $
 
 #### Power Supplies
 Item|URL|Price
@@ -705,10 +705,10 @@ Item|URL|Price
 #### UPS
 Item|URL|Price
 ---|---|---
-Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://www.amazon.com/Pisugar-Portable-Lithium-Raspberry-Accessories/dp/B07RC649ZC | $38.99
-Pisugar 2 Portable 1200 mAh UPS | https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/ | $35.99
-PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B09MJ8SCGD/ | $39.99
-PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/Portable-Pwnagotchi-Raspberry-Accessories-handhold/dp/B097RC8KLQ/ | $27.99
+Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://www.amazon.com/dp/B07RC649ZC | $38.99
+Pisugar 2 Portable 1200 mAh UPS | https://www.amazon.com/dp/B08D678XPR/ | $35.99
+PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/dp/B09MJ8SCGD/ | $39.99
+PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/dp/B097RC8KLQ/ | $27.99
 
 <!-- ++++++++++++++++++++ Power End ++++++++++++++++++++ -->
 
@@ -719,7 +719,7 @@ Item|URL|Price
 ---|---|---
 RTL-SDR (DVB-T), (DAB), and FM tuner | https://hackerwarehouse.com/product/rtlsdr/ | $
 Software Defined Radio (Dongle Only) | https://www.amazon.com/gp/product/B0BMKZCKTF/ | $
-V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD7558GT/ | $
+V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www.amazon.com/dp/B0CD7558GT/ | $
 
 <!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
 
@@ -728,7 +728,7 @@ V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www
 ### Storage        
 Item|URL|Price
 ---|---|---
-SanDisk 128GB Extreme microSDXC | https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7BK27V/ | $
+SanDisk 128GB Extreme microSDXC | https://www.amazon.com/dp/B09X7BK27V/ | $
 
 <!-- ++++++++++++++++++++ Storage End ++++++++++++++++++++ -->
 
