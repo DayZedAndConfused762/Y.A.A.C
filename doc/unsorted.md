@@ -75,6 +75,8 @@ This is a unsorted dump list of links and info
 * https://github.com/geekworm-com/x728
 * http://www.broadband-hamnet.org/
 * https://media.ccc.de/v/35c3-9681-butterbrotdosen-smartphone
+* https://pine64.com/
+* https://www.instructables.com/OURphone-an-Open-Source-Linux-Smartphone/
 * 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
