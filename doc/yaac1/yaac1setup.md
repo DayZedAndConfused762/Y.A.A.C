@@ -1,52 +1,64 @@
-<!-- ======================================== template.md Start ======================================== -->
+<!-- ======================================== yaac1setup.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Markdown Template
-General template for github flavored markdown pages.
+# Y.A.A.C-1 - Setup
+
+Steps to setup and install operating systems and software on the Y.A.A.C-1.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
-<!-- ------------------------------ Section Start ------------------------------ -->
+<!-- ------------------------------ Setup Start ------------------------------ -->
 
-## Section
+## Setup
 
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Bootloader Start ++++++++++++++++++++ -->
 
-### Subsection
+### Change Raspberry Pi Boot to USB
+* Image a SD card with 'Bootloader (Pi 4 family)' using [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
+* Boot the Raspberry Pi with SD card, choose USB as the first boot option (Will boot from USB if present, then fallback to SD Card if no USB device)
 
-#### Subsubsection
+<!-- ++++++++++++++++++++ Bootloader End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ OS 1 Start ++++++++++++++++++++ -->
 
+### Operating System 1 - Internet in a Box - Rasperry Pi OS Bookworm - Crucial 1TB SSD
 
-<!-- ------------------------------ Section End ------------------------------ -->
+* Image 'Raspberry Pi OS Full (64-bit)' using [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
+* Expand File System - Run: `sudo raspi-config`. Choose [1] Expand File System. Follow the onscreen instructions. Reboot the Raspberry Pi
+* Update software - `sudo apt update` and `sudo apt full-upgrade`
+* Setup SSH
+* Install Internet in a Box - from command line enter `curl iiab.io/install.txt | bash`
 
+<!-- ++++++++++++++++++++ OS 1 End ++++++++++++++++++++ -->
 
-<!-- ------------------------------ Section Start ------------------------------ -->
+<!-- ++++++++++++++++++++ OS 2 Start ++++++++++++++++++++ -->
 
-## Section
+### Operating System 2 - CyberSecurity - Kali Linux - 512 GB Sandisk Micro SD Card
 
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
+* https://www.kali.org/docs/
 
-### Subsection
+<!-- ++++++++++++++++++++ OS 2End ++++++++++++++++++++ -->
 
-#### Subsubsection
+<!-- ++++++++++++++++++++ OS 3 Start ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+### Operating System 3 - General Use - Raspberry Pi OS Bookworm - SanDisk 1TB Extreme Portable SSD
 
+* Image 'Raspberry Pi OS Full (64-bit)' using [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
+* Expand File System - Run: `sudo raspi-config`. Choose [1] Expand File System. Follow the onscreen instructions. Reboot the Raspberry Pi
+* Update software - `sudo apt update` `sudo apt full-upgrade`
+* Setup SSH
 
-<!-- ------------------------------ Section End ------------------------------ -->
+<!-- ++++++++++++++++++++ OS 3 End ++++++++++++++++++++ -->
+
+<!-- ------------------------------ Setup End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
-Outro text goes here
-
 <!-- ------------------------------ Outro End ------------------------------ -->
 
 
-<!-- ======================================== template.md End ======================================== -->
-
+<!-- ======================================== yaac1setup.md End ======================================== -->
