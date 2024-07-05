@@ -3,7 +3,7 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C-1
+# Y.A.A.C 1
 
 This page is the home of the Y.A.A.C-1, my primary CyberDeck.
 
