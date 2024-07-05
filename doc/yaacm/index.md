@@ -3,7 +3,7 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C-m
+# Y.A.A.C Mini
 
 This page is the home of the Y.A.A.C-m, a mini CyberDeck.
 
