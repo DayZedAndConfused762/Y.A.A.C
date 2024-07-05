@@ -3,50 +3,43 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C Power
+# Y.A.A.C-p
 
 This page is the home of the Y.A.A.C-p, a portable power station.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
-<!-- ------------------------------ Section Start ------------------------------ -->
+<!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Section
+## Overview
 
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
+The Y.A.A.C-p is a planned gaming CyberDeck.
 
-### Subsection
+This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
 
-#### Subsubsection
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+<!-- ------------------------------ Overview End ------------------------------ -->
 
 
-<!-- ------------------------------ Section End ------------------------------ -->
+<!-- ------------------------------ Files Start ------------------------------ -->
 
+## Files
 
-<!-- ------------------------------ Section Start ------------------------------ -->
+* [Build Guide](yaacpbuild.md) A step by step reference of the build process
+* [Components](yaacpcomponents.md) A list of compents used, components owned, and components to possibly buy
+* [Contents](yaacpcontent.md) Content included and planned to be included
+* [Setup](yaacpsetup.md) Setup steps for the operating systems and software
+* [Specifications](yaacpspecs.md) Hardware specifications
+* [Software](yaacpsoftware.md) Software used and to possibly use
+* [To Do List](yaacptodo.md) To Do list
 
-## Section
-
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
-
-### Subsection
-
-#### Subsubsection
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
-
-
-<!-- ------------------------------ Section End ------------------------------ -->
+<!-- ------------------------------ Files End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
-Outro text goes here
-
 <!-- ------------------------------ Outro End ------------------------------ -->
+
 
 
 <!-- ======================================== yaacpindex.md End ======================================== -->
