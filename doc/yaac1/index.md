@@ -18,7 +18,7 @@ The Y.A.A.C-1 is my personal take on a [CyberDeck](https://www.reddit.com/r/Cybe
 
 This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
 
-![CyberDeck v0.1.0](images/cyberdeck/cyberdeck-3-v0-1-0.jpg)
+![CyberDeck v0.1.0](../../images/cyberdeck/cyberdeck-3-v0-1-0.jpg)
 Version 0.1.0 of the Y.A.A.C-1
 
 <!-- ------------------------------ Overview End ------------------------------ -->
