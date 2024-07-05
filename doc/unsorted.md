@@ -14,31 +14,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-* https://github.com/TechDocN/cyberDeck
-* https://github.com/T-ryder2/CyberDeck
-* https://github.com/Sloth-Wizard/CyberDeck
-* https://github.com/Celeo/cyberdeck-helper
-* https://github.com/leaverossb/CyberDeck
-* https://github.com/mirrexagon/samus-cyberdeck?tab=readme-ov-file
-* https://github.com/Alshootfa/CyberDeckSynth
-* https://github.com/wdbm/cyberDeck_2022
-* https://github.com/JFisch25200/RPI-CyberDeck
-* https://github.com/arbowl/cyberdeck-battery-indicator
-* https://github.com/rconjoe/oldsoul
-* https://github.com/Skitz67/Orange-Pi-Cyberdeck
-* https://github.com/AndresBorray/LunchBox_cyberDeck
-* https://github.com/krum04/PiZero-CyberDeck-Tape
-* https://github.com/spacecadet85/CyberDeck--OmniDevice
-* https://github.com/kirbycope/raspberry-pi-400-cyberdeck
-* https://github.com/cjdaly/smolDeck
-* https://github.com/ailynux/CyberDeckV.01
-* https://github.com/Omodaka9375/M8-CyberDeck-400
-* https://github.com/Infer4Y/CyPi-Zero-Term
-* https://github.com/BobGaemes/BobDeck
-* https://github.com/brsloan/writerDeck
-* https://github.com/IcarusImageJu/positive-vibes-spotter
-* https://github.com/paradoxzss/Project-Midnight-Eclipse
-* https://github.com/SquishVic/CyberMiga
 * https://www.waveshare.com/wiki/10.1inch_HDMI_LCD_(B)_(with_case)
 * https://wiki.geekworm.com/X728-Software
 * https://github.com/geekworm-com/x728
