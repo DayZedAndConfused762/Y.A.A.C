@@ -16,6 +16,7 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 
 <!-- ++++++++++++++++++++ UsedCables Start ++++++++++++++++++++ -->
 
+<!--
 ### Cables & Adapters
 
 #### DC
@@ -57,6 +58,7 @@ Item|URL|Price
 #### USB Micro
 Item|URL|Price
 ---|---|---
+-->
 
 <!-- ++++++++++++++++++++ UsedCables End ++++++++++++++++++++ -->
 
@@ -128,25 +130,31 @@ LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.c
 
 <!-- ++++++++++++++++++++ UsedOrganization Start ++++++++++++++++++++ -->
 
+<!--
 ### Organization and Labeling
 Item|URL|Price
 ---|---|---
+-->
 
 <!-- ++++++++++++++++++++ UsedOrganization End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ UsedPanels Start ++++++++++++++++++++ -->
 
+<!--
 ### Panels
 Item|URL|Price
 ---|---|---
+-->
 
 <!-- ++++++++++++++++++++ UsedPanels End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ UsedPorts Start ++++++++++++++++++++ -->
 
+<!--
 ### Ports
 Item|URL|Price
 ---|---|---
+-->
 
 <!-- ++++++++++++++++++++ UsedPorts End ++++++++++++++++++++ -->
 
@@ -163,9 +171,11 @@ Item|URL|Price
 ---|---|---
 Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
 
+<!--
 #### Power Supplies
 Item|URL|Price
 ---|---|---
+-->
 
 #### UPS
 Item|URL|Price
