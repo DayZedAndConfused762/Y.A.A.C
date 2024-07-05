@@ -3,7 +3,7 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C-p
+# Y.A.A.C Power
 
 This page is the home of the Y.A.A.C-p, a portable power station.
 
