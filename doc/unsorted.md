@@ -14,15 +14,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-* https://github.com/BenMakesEverything/cyberdeck
-* https://github.com/brickbots/framedeck/blob/main/docs/parts.md
-* https://github.com/CyZooNiC/cyberdeck
-* https://github.com/0015/ESP32Berry
-* https://github.com/jbmorley/little-luggable
-* https://parallax_punch.artstation.com/projects/XL6eL
-* https://github.com/Martian1337/CyberDeck
-* https://www.doscher.com/the-raspberry-pi-quick-kit/
-* https://cyberdeck.cafe/
 * https://github.com/TechDocN/cyberDeck
 * https://github.com/T-ryder2/CyberDeck
 * https://github.com/Sloth-Wizard/CyberDeck
