@@ -17,26 +17,32 @@ This is a list of inspiration and sources of information for CyberDecks.
 <!-- ++++++++++++++++++++ Cyberdecks Start ++++++++++++++++++++ -->
 
 ### Cyberdecks
-* [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck):
+* [CyberDecks](https://www.reddit.com/r/cyberDeck/)
+* [The CyberDeck Cafe](https://cyberdeck.cafe/)
+* [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
+* [Framework Cyberdeck](https://github.com/BenMakesEverything/cyberdeck)
+* [framedeck](https://github.com/brickbots/framedeck)
+* [little-luggable](https://github.com/jbmorley/little-luggable)
+* [MR 3000 dual band radio device](https://parallax_punch.artstation.com/projects/XL6eL)
+* [the Raspberry Pi Quick Kit](https://www.doscher.com/the-raspberry-pi-quick-kit/)
 
 <!-- ++++++++++++++++++++ Cyberdecks End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
 ### CyberSecurity
-* [Pwnagotchi](https://pwnagotchi.ai/): 
-* [Pwnagotchi Cases](https://pwnagotchi.org/3d-printable-cases/index.html): 
+* [Pwnagotchi](https://pwnagotchi.ai/)
+* [Pwnagotchi Cases](https://pwnagotchi.org/3d-printable-cases/index.html)
 
 <!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ SubReddits Start ++++++++++++++++++++ -->
 
 ### SubReddits
-* [CyberDecks](https://www.reddit.com/r/cyberDeck/): 
-* [Raspberry Pi](https://www.reddit.com/r/raspberry_pi/): 
-* [Raspberry Pi Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/): 
-* [Preppers](https://www.reddit.com/r/preppers/): 
-* [Prepping items on sale](https://www.reddit.com/r/preppersales/): 
+* [Raspberry Pi](https://www.reddit.com/r/raspberry_pi/)
+* [Raspberry Pi Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/)
+* [Preppers](https://www.reddit.com/r/preppers/)
+* [Prepping items on sale](https://www.reddit.com/r/preppersales/)
 
 <!-- ++++++++++++++++++++ SubReddits End ++++++++++++++++++++ -->
 
