@@ -12,6 +12,19 @@ Steps to setup and install operating systems and software on the Y.A.A.C-g. The 
 
 <!-- ------------------------------ Setup Start ------------------------------ -->
 
+## Setup
+
+<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
+
+### Subsection Name - Purpose - Operating System - Storage Device
+
+* Step 1
+* Step 2
+* Step 3 `this is a command to run`
+
+<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+
+
 <!-- ------------------------------ Setup End ------------------------------ -->
 
 
