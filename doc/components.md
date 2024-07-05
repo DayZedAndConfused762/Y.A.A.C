@@ -5,7 +5,7 @@
 
 # Y.A.A.C - Components List
 
-This is a list of all componenets for my CyberDecks as well as links and prices (when available).  This list also includes components I own , as well as components not yet purchased but may be useful.
+This is a list of all componenets for my CyberDecks as well as links and prices (when available).  This list includes components I own, as well as components not yet purchased but may be useful.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
