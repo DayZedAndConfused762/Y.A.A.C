@@ -25,13 +25,13 @@ This repository details my build process, as well as containing links to compone
 
 ## Files
 
-* [Build Guide](doc/yaacg/yaacgbuild.md) A step by step reference of the build process
-* [Components](doc/yaacg/yaacgcomponents.md) A list of compents used, components owned, and components to possibly buy
-* [Contents](doc/yaacg/yaacgcontent,md) Content included and planned to be included
-* [Setup](doc/yaacg/yaacgsetup.md) Setup steps for the operating systems and software
-* [Specifications](doc/yaacg/yaacgspecs.md) Hardware specifications
-* [Software](doc/yaacg/yaacgsoftware.md) Software used and to possibly use
-* [To Do List](doc/yaacg/yaacgtodo.md) To Do list
+* [Build Guide](yaacgbuild.md) A step by step reference of the build process
+* [Components](yaacgcomponents.md) A list of compents used, components owned, and components to possibly buy
+* [Contents](yaacgcontent.md) Content included and planned to be included
+* [Setup](yaacgsetup.md) Setup steps for the operating systems and software
+* [Specifications](yaacgspecs.md) Hardware specifications
+* [Software](yaacgsoftware.md) Software used and to possibly use
+* [To Do List](yaacgtodo.md) To Do list
 
 <!-- ------------------------------ Files End ------------------------------ -->
 
