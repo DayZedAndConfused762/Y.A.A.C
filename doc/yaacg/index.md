@@ -3,8 +3,7 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C-g
-
+# Y.A.A.C Gaming
 This page is the home of the Y.A.A.C-g, a portable gaming deck.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
