@@ -17,8 +17,8 @@ This is template for a list of inspiration and sources of information.
 <!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
 
 ### Subsection Name
-* [Link](https://pwnagotchi.ai/): Link Description
-  - [Sublink](https://pwnagotchi.org/3d-printable-cases/index.html): Sublink Description
+* [Link](https://www.google.com/): Link Description
+  - [Sublink](https://www.google.com/): Sublink Description
 
 <!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
 
@@ -27,6 +27,8 @@ This is template for a list of inspiration and sources of information.
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
+
+Outro Text Goes Here
 
 <!-- ------------------------------ Outro End ------------------------------ -->
 
