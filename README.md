@@ -26,17 +26,6 @@ Version 0.1.0 of the Y.A.A.C.1
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 
-<!-- ------------------------------ Decks Start ------------------------------ -->
-
-## Decks
-* [Y.A.A.C-1](doc/yaac1/index.md): Y.A.A.C-1 is the primary CyberDeck.  This deck build is currently in process.
-* [Y.A.A.C-g](doc/yaacg/index.md): A deck designed for gaming.  A future deck still in planning stages.
-* [Y.A.A.C-m](doc/yaacm/index.md): A mini deck.  A future deck still in planning stages.
-* [Y.A.A.C-p](doc/yaacp/index.md): A portable power supply.  A future deck still in planning stages.
-
-<!-- ------------------------------ Decks End ------------------------------ -->
-
-
 <!-- ------------------------------ Files Start ------------------------------ -->
 
 ## Files
@@ -49,6 +38,17 @@ Version 0.1.0 of the Y.A.A.C.1
 * [Unsorted](doc/unsorted.md) A file containing links and other information yet to be sorted
 
 <!-- ------------------------------ Files End ------------------------------ -->
+
+
+<!-- ------------------------------ Decks Start ------------------------------ -->
+
+## Decks
+* [Y.A.A.C-1](doc/yaac1/index.md): Y.A.A.C-1 is the primary CyberDeck.  This deck build is currently in process.
+* [Y.A.A.C-g](doc/yaacg/index.md): A deck designed for gaming.  A future deck still in planning stages.
+* [Y.A.A.C-m](doc/yaacm/index.md): A mini deck.  A future deck still in planning stages.
+* [Y.A.A.C-p](doc/yaacp/index.md): A portable power supply.  A future deck still in planning stages.
+
+<!-- ------------------------------ Decks End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
