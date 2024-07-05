@@ -14,6 +14,13 @@ This is a list of inspiration and sources of information for CyberDecks.
 
 ## Inspiration
 
+<!-- ++++++++++++++++++++ Cyberdecks Start ++++++++++++++++++++ -->
+
+### Cyberdecks
+* [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck):
+
+<!-- ++++++++++++++++++++ Cyberdecks End ++++++++++++++++++++ -->
+
 <!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
 ### CyberSecurity
