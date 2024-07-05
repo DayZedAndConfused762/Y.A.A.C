@@ -39,36 +39,30 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 ### Media
 Name|Description|Link
 ---|---|---
-LibreELEC | Just enough OS for KODI | https://libreelec.tv/
-OSMC | OSMC is a free and open source media center built for the people, by the people | https://osmc.tv/
-RasPlex | A Plex Media Client for the Raspberry Pi computer | http://www.rasplex.com/
+* [LibreELEC](https://libreelec.tv/): Just enough OS for KODI
+* [OSMC](https://osmc.tv/): OSMC is a free and open source media center built for the people, by the people
+* [RasPlex](http://www.rasplex.com/): A Plex Media Client for the Raspberry Pi computer
 
 
 ### Misc
 Name|Description|Link
 ---|---|---
-BerryBoot v2.0 | Berryboot is a simple boot selection screen for ARM computers like the Raspberry Pi, that allows you to put multiple Linux distributions on a single SD card | https://www.berryterminal.com/doku.php/berryboot
-chilipie-kiosk | Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors | https://github.com/jareware/chilipie-kiosk
-Collapse OS | Winter is coming and Collapse OS aims to soften the blow. It is a Forth (why Forth?) operating system and a collection of tools and documentation with a single purpose: preserve the ability to program microcontrollers through civilizational collapse | http://collapseos.org/
-RISC OS | RISC OS is a computer operating system designed in Cambridge, England by Acorn. First released in 1987, its origins can be traced back to the original team that developed the Arm microprocessor | https://www.riscosopen.org/content/
+* [BerryBoot v2.0](https://www.berryterminal.com/doku.php/berryboot): Berryboot is a simple boot selection screen for ARM computers like the Raspberry Pi, that allows you to put multiple Linux distributions on a single SD card
+* [chilipie-kiosk](https://github.com/jareware/chilipie-kiosk): Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors
+* [Collapse OS](http://collapseos.org/): Winter is coming and Collapse OS aims to soften the blow. It is a Forth (why Forth?) operating system and a collection of tools and documentation with a single purpose: preserve the ability to program microcontrollers through civilizational collapse
+* [RISC OS](https://www.riscosopen.org/content/): RISC OS is a computer operating system designed in Cambridge, England by Acorn. First released in 1987, its origins can be traced back to the original team that developed the Arm microprocessor
 
 ### SDR
-Name|Description|Link
----|---|---
-DragonOS_Pi64 SDR Focused Distribution for the Raspberry Pi | SDR Focused Distribution for the Raspberry Pi | https://sourceforge.net/projects/dragonos-pi64/
+* [DragonOS_Pi64](https://sourceforge.net/projects/dragonos-pi64/): SDR Focused Distribution for the Raspberry Pi
 
 ### Security
-Name|Description|Link
----|---|---
-Alpine Linux | Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and Busybox | https://wiki.alpinelinux.org/wiki/Raspberry_Pi
-Kali linux | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering | https://www.kali.org
-motionEyeOS | A Linux distribution that turns your single board computer into a video surveillance system | https://github.com/motioneye-project/motioneyeos
+* [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi): Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and Busybox
+* [Kali linux](https://www.kali.org): Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering
+* [motionEyeOS](https://github.com/motioneye-project/motioneyeos): A Linux distribution that turns your single board computer into a video surveillance system
 
 ### Server
-Name|Description|Link
----|---|---
-FreeBSD/ARM | FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms | https://wiki.freebsd.org/arm/Raspberry%20Pi
-FreedomBox | FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control | https://www.freedombox.org/
+* [FreeBSD/ARM](https://wiki.freebsd.org/arm/Raspberry%20Pi): FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms
+* [FreedomBox](https://www.freedombox.org/): FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control
 
 <!-- ++++++++++++++++++++ Operating Systems End ++++++++++++++++++++ -->
 
