@@ -1,52 +1,44 @@
-<!-- ======================================== index.md Start ======================================== -->
+<!-- ======================================== yaacmindex.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C Mini
+# Y.A.A.C-m
 
-This page is the home of the Y.A.A.C-m, a mini CyberDeck.
+This page is the home of the Y.A.A.C-m, a mini CyberDeck
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
-<!-- ------------------------------ Section Start ------------------------------ -->
+<!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Section
+## Overview
 
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
+The Y.A.A.C-m is a planned mini CyberDeck.
 
-### Subsection
+This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
 
-#### Subsubsection
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+<!-- ------------------------------ Overview End ------------------------------ -->
 
 
-<!-- ------------------------------ Section End ------------------------------ -->
+<!-- ------------------------------ Files Start ------------------------------ -->
 
+## Files
 
-<!-- ------------------------------ Section Start ------------------------------ -->
+* [Build Guide](yaacmbuild.md) A step by step reference of the build process
+* [Components](yaacmcomponents.md) A list of compents used, components owned, and components to possibly buy
+* [Contents](yaacmcontent.md) Content included and planned to be included
+* [Setup](yaacmsetup.md) Setup steps for the operating systems and software
+* [Specifications](yaacmspecs.md) Hardware specifications
+* [Software](yaacmsoftware.md) Software used and to possibly use
+* [To Do List](yaacmtodo.md) To Do list
 
-## Section
-
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
-
-### Subsection
-
-#### Subsubsection
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
-
-
-<!-- ------------------------------ Section End ------------------------------ -->
+<!-- ------------------------------ Files End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
-Outro text goes here
-
 <!-- ------------------------------ Outro End ------------------------------ -->
 
 
-<!-- ======================================== index.md End ======================================== -->
+<!-- ======================================== yaacmindex.md End ======================================== -->
