@@ -78,6 +78,7 @@ This is a unsorted dump list of links and info
 * https://pine64.com/
 * https://www.instructables.com/OURphone-an-Open-Source-Linux-Smartphone/
 * https://www.amazon.com/Renogy-12V-20A-Alligator-Batteries/dp/B08C2JN76Q
+* https://github.com/sindresorhus/awesome?tab=readme-ov-file
 * 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
