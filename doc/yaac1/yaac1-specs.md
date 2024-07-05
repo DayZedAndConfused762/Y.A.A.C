@@ -17,10 +17,11 @@ Hardware Specs for the Y.A.A.C-1
 ### APACHE 3800 Weatherproof Protective Case
 
 * **Waterproofing:** IP65 Rated- watertight and dustproof
-  Adjustable pressure relief valve equalizes pressure for easy opening
+  - Adjustable pressure relief valve equalizes pressure for easy opening
 * **Material:** Super strong reinforced polypropylene construction
 * **Security:** Pre-drilled for two padlocks
-* **Interior dimensions:** 14-7/8 in. x 10-5/8 in. x 6-1/8 in.
+* **Exterior Dimensions:** 16-1/2" x 13" x 6-3/4"
+* **Interior Dimensions:** 14-7/8" x 10-5/8" x 6-1/8"
 
 <!-- ------------------------------ Case End ------------------------------ -->
 
