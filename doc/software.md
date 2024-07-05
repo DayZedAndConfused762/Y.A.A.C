@@ -104,7 +104,7 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 ## FM Radio Transmitting
 * [PiFM (RM-Hull)](https://github.com/rm-hull/pifm?tab=readme-ov-file): Turning the Raspberry Pi Into an FM Transmitter.
 * [PiFmAdv] (miegl)(https://github.com/miegl/PiFmAdv): This program generates an FM modulation, with RDS (Radio Data System) data generated in real time. It can include monophonic or stereophonic audio.
-* [PiFM GTK (MundeepL)](https://github.com/MundeepL/PiFM): PiFM GTK is an extension to the already popular PiFmAdv repository developd by Miegl. This extension features a small number of additional files that greatly assist the procedure to install and set up the software.
+  - [PiFM GTK (MundeepL)](https://github.com/MundeepL/PiFM): PiFM GTK is an extension to the already popular PiFmAdv repository developd by Miegl. This extension features a small number of additional files that greatly assist the procedure to install and set up the software.
 
 <!-- ++++++++++++++++++++ FM End ++++++++++++++++++++ -->
 
@@ -175,8 +175,8 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 
 ## Utilities
 * [Cool-Retro-Term](https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file): A terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
-* [Third Party Themes](https://github.com/Swordfish90/cool-retro-term/wiki/Third-Party-Themes): Themes for Cool-Retro-Term.
-* [MatrixHasYou](https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file): A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix".
+  - [Third Party Themes](https://github.com/Swordfish90/cool-retro-term/wiki/Third-Party-Themes): Themes for Cool-Retro-Term.
+  - [MatrixHasYou](https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file): A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix".
 * [crontab guru](https://crontab.guru/): The quick and simple editor for cron schedule expressions by Cronitor.
 * [Putty](https://www.putty.org/): PuTTY is an SSH and telnet client.
 
