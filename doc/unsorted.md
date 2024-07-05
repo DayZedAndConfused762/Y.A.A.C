@@ -14,16 +14,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-* https://github.com/tmux/tmux/wiki
-* https://github.com/samoshkin/tmux-config
-* https://github.com/tmuxinator/tmuxinator
-* https://github.com/neomutt/neomutt
-* https://github.com/insanum/gcalcli
-* https://github.com/weechat/weechat
-* https://github.com/pystardust/ytfzf
-* https://mpv.io/
-* https://github.com/FFmpeg/FFmpeg
-* https://www.nongnu.org/fbi-improved/
 * https://www.amazon.com/gp/product/B01JL837X8
 * https://www.amazon.com/AKZYTUE-4500mAh-Battery-Rechargeable-Connector/dp/B07TXHV3ST?th=1
 * https://www.amazon.com/gp/product/B07GLJ7KCJ/
