@@ -77,6 +77,7 @@ This is a unsorted dump list of links and info
 * https://media.ccc.de/v/35c3-9681-butterbrotdosen-smartphone
 * https://pine64.com/
 * https://www.instructables.com/OURphone-an-Open-Source-Linux-Smartphone/
+* https://www.amazon.com/Renogy-12V-20A-Alligator-Batteries/dp/B08C2JN76Q
 * 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
