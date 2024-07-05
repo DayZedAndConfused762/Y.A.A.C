@@ -17,8 +17,6 @@ This is a list of inspiration and sources of information for the Y.A.A.C
 <!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
 ### CyberSecurity
-Description|URL
----|---
 * [Pwnagotchi](https://pwnagotchi.ai/): 
 * [Pwnagotchi Cases](https://pwnagotchi.org/3d-printable-cases/index.html): 
 
@@ -27,8 +25,6 @@ Description|URL
 <!-- ++++++++++++++++++++ SubReddits Start ++++++++++++++++++++ -->
 
 ### SubReddits
-Description|URL
----|---
 * [CyberDecks](https://www.reddit.com/r/cyberDeck/): 
 * [Raspberry Pi](https://www.reddit.com/r/raspberry_pi/): 
 * [Raspberry Pi Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/): 
@@ -40,8 +36,6 @@ Description|URL
 <!-- ++++++++++++++++++++ Youtube Start ++++++++++++++++++++ -->
 
 ### Youtube
-Description|URL
----|---
 * [CRT Cyberdeck](https://www.youtube.com/watch?v=Ty9pPNabPpQ): 
 * [Build Your Own Off-Grid Internet with Raspberry Pi!](https://www.youtube.com/watch?v=Hp4hLpDFVyg): 
 * [Build an Off Grid Wikipedia with #RaspberryPi ](https://www.youtube.com/watch?v=R63x2TXm0s8): 
@@ -62,8 +56,6 @@ Description|URL
 <!-- ++++++++++++++++++++ RPiProjects Start ++++++++++++++++++++ -->
 
 ### Raspberry Pi Projects
-Description|URL
----|---
 * [Weather Station with ePaper and Raspberry Pi](https://www.hackster.io/sridhar-rajagopal/weather-station-with-epaper-and-raspberry-pi-c26a70): 
 * [Weather and news station](https://www.hackster.io/aerodynamics/weather-and-news-station-e-paper-and-raspberry-pi-a19fa3): 
 * [LoRa - Raspberry Pi - Single Channel Gateway](https://www.hackster.io/ChrisSamuelson/lora-raspberry-pi-single-channel-gateway-cheap-d57d36): 
