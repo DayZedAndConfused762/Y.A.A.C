@@ -79,6 +79,13 @@ A list of operating systems and software that may be useful for CyberDecks.  Thi
 
 <!-- ++++++++++++++++++++ Audio End ++++++++++++++++++++ -->
 
+<!-- ++++++++++++++++++++ Communications Start ++++++++++++++++++++ -->
+
+## Communications
+* [WeeChat](https://github.com/weechat/weechat): (Wee Enhanced Environment for Chat) is a free chat client, fast and light, designed for many operating systems.
+
+<!-- ++++++++++++++++++++ Communications End ++++++++++++++++++++ -->
+
 <!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
 ## CyberSecurity
@@ -124,6 +131,16 @@ A list of operating systems and software that may be useful for CyberDecks.  Thi
 * [Ulysses Mapping Program](https://github.com/sbenf999/Ulysses-Mapping-Program): An offline and online mapping program created using CustomTkinter and TkinterMapview. Incorporates a settings system and an offline tile downloading addon.
 
 <!-- ++++++++++++++++++++ GPS End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Media Start ++++++++++++++++++++ -->
+
+## Media
+* [FFmpeg](https://github.com/FFmpeg/FFmpeg): FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+* [FIM (Fbi IMproved) image viewer](https://www.nongnu.org/fbi-improved/): FIM is a highly customizable and scriptable image viewer for users who are comfortable with software like the VIM text editor
+* [mpv](https://mpv.io/): a free, open source, and cross-platform media player
+* [ytfzf](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
+
+<!-- ++++++++++++++++++++ Media End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Meshtastic Start ++++++++++++++++++++ -->
 
@@ -179,7 +196,10 @@ A list of operating systems and software that may be useful for CyberDecks.  Thi
   - [MatrixHasYou](https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file): A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix".
 * [crontab guru](https://crontab.guru/): The quick and simple editor for cron schedule expressions by Cronitor.
 * [Putty](https://www.putty.org/): PuTTY is an SSH and telnet client.
-
+* [tmux](https://github.com/tmux/tmux/wiki): tmux is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal.
+  - [Tmux Configuration](https://github.com/samoshkin/tmux-config): Tmux configuration, that supercharges your tmux and builds cozy and cool terminal environment.
+  - [Tmuxinator](https://github.com/tmuxinator/tmuxinator): Create and manage tmux sessions easily.
+  - 
 <!-- ++++++++++++++++++++ Utilities End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Weather Start ++++++++++++++++++++ -->
