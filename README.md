@@ -14,9 +14,9 @@
 
 ## Overview
 
-The Y.A.A.C (Yet Another Apache CyberDeck/Yak) is my personal take on a [CyberDecks](https://www.reddit.com/r/CyberDeck/).  It is a planned family of CyberDecks for various uses.  Currently working the Y.A.A.C1, a general use CyberDeck, including general computing, cyber security, and offline internet.
+The Y.A.A.C (Yet Another Apache CyberDeck/Yak) is my personal take on a [CyberDecks](https://www.reddit.com/r/CyberDeck/).  It is a planned family of CyberDecks for various uses.  Currently working the [Y.A.A.C1](/doc/yaac1/index.md), a general use CyberDeck, including general computing, cyber security, and offline internet.
 
-Future planned decks include the Y.A.A.Cg for Gaming, the Y.A.A.Cp for a portable power supply, and the Y.A.A.Cm a miniture deck.
+Future planned decks include the [Y.A.A.Cg](/doc/yaacg/index.md) for Gaming, the [Y.A.A.Cp](/doc/yaacp/index.md) for a portable power supply, and the [Y.A.A.Cm](/doc/yaacm/index.md) a miniture deck.
 
 This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
 
