@@ -30,10 +30,9 @@ Version 0.1.0 of the Y.A.A.C.1
 
 ## Files
 
-* [Components](doc/components.md) A list of compents used, components owned, and components to possibly buy
+* [Components](doc/components.md) A list of compents I own, as well as components that may be useful for future builds
 * [Guides](doc/guides.md) A list of guides/tutorials/information
 * [Inspiration](doc/inspiration.md) Other CyberDecks, projects, and links for inspiration
-* [Projects](doc/projects.md) A list of built and planned projects
 * [Software](doc/software.md) Software used and to possibly use
 * [To Do List](doc/todo.md) To Do list
 * [Unsorted](doc/unsorted.md) A file containing links and other information yet to be sorted
