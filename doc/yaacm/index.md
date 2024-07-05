@@ -25,13 +25,13 @@ This repository details my build process, as well as containing links to compone
 
 ## Files
 
-* [Build Guide](yaacmbuild.md) A step by step reference of the build process
-* [Components](yaacmcomponents.md) A list of compents used, components owned, and components to possibly buy
-* [Contents](yaacmcontent.md) Content included and planned to be included
-* [Setup](yaacmsetup.md) Setup steps for the operating systems and software
-* [Specifications](yaacmspecs.md) Hardware specifications
-* [Software](yaacmsoftware.md) Software used and to possibly use
-* [To Do List](yaacmtodo.md) To Do list
+* [Build Guide](yaacm-build.md) A step by step reference of the build process
+* [Components](yaacm-components.md) A list of compents used, components owned, and components to possibly buy
+* [Contents](yaacm-content.md) Content included and planned to be included
+* [Setup](yaacm-setup.md) Setup steps for the operating systems and software
+* [Specifications](yaacm-specs.md) Hardware specifications
+* [Software](yaacm-software.md) Software used and to possibly use
+* [To Do List](yaacm-todo.md) To Do list
 
 <!-- ------------------------------ Files End ------------------------------ -->
 
