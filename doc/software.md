@@ -16,9 +16,7 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 ## Operating Systems
 
 ### Communication
-Name|Description|Link
-|---|---|---|
-EZ-WifiBroadcast | Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system | https://github.com/rodizio1/EZ-WifiBroadcast
+* [EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast) Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system
 
 ### Data
 Name|Description|Link
