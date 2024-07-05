@@ -50,6 +50,11 @@ Seadream 1Foot 90 Degree Down Angle Micro HDMI | https://www.amazon.com/dp/B07BL
 Seadream 4K Micro HDMI to HDMI Cable 1FT 2Pack | https://www.amazon.com/gp/product/B0B938BP37/ | $9.88
 SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
 
+### Micro SD Extension
+Item|URL|Price
+---|---|---
+Micro SD to Micro SD Card TF Memory Card Reader Flexible Extender | https://www.aliexpress.us/item/3256801742490754.html | $0.99
+
 #### USB A to A
 Item|URL|Price
 ---|---|---
