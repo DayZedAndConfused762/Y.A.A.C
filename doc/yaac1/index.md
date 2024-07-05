@@ -32,7 +32,7 @@ Version 0.1.0 of the Y.A.A.C-1
 * [Components](doc/yaac1/yaac1components.md) A list of compents used, components owned, and components to possibly buy
 * [Contents](doc/yaac1/yaac1content,md) Content included and planned to be included
 * [Setup](doc/yaac1/yaac1setup.md) Setup steps for the operating systems and software
-* [Specifications](doc/specs.md) Hardware specifications
+* [Specifications](doc/yaac1/yaac1specs.md) Hardware specifications
 * [Software](doc/yaac1/yaac1software.md) Software used and to possibly use
 * [To Do List](doc/yaac1/yaac1todo.md) To Do list
 
