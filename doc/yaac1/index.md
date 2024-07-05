@@ -28,13 +28,13 @@ Version 0.1.0 of the Y.A.A.C-1
 
 ## Files
 
-* [Build Guide](doc/yaac1/yaac1build.md) A step by step reference of the build process
-* [Components](doc/yaac1/yaac1components.md) A list of compents used, components owned, and components to possibly buy
-* [Contents](doc/yaac1/yaac1content,md) Content included and planned to be included
-* [Setup](doc/yaac1/yaac1setup.md) Setup steps for the operating systems and software
-* [Specifications](doc/yaac1/yaac1specs.md) Hardware specifications
-* [Software](doc/yaac1/yaac1software.md) Software used and to possibly use
-* [To Do List](doc/yaac1/yaac1todo.md) To Do list
+* [Build Guide](yaac1build.md) A step by step reference of the build process
+* [Components](yaac1components.md) A list of compents used, components owned, and components to possibly buy
+* [Contents](yaac1content,md) Content included and planned to be included
+* [Setup](yaac1setup.md) Setup steps for the operating systems and software
+* [Specifications](yaac1specs.md) Hardware specifications
+* [Software](yaac1software.md) Software used and to possibly use
+* [To Do List](yaac1todo.md) To Do list
 
 <!-- ------------------------------ Files End ------------------------------ -->
 
