@@ -447,6 +447,7 @@ Raspberry Pi AI HAT | https://www.raspberrypi.com/news/raspberry-pi-ai-kit-avail
 ### Hubs & Card Readers
 Item|URL|Price
 ---|---|---
+Micro USB OTG Hub for Raspberry Pi Zero | https://www.amazon.com/gp/product/B01JL837X8 | $7.99
 TP-Link N300 Wireless Portable Router | https://www.amazon.com/dp/B00TQEX8BO/ | $
 USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini | $
 
@@ -479,10 +480,12 @@ LILYGO® TTGO LoRa32 V2.1_1.6 | https://www.aliexpress.us/item/2251832685763835.
 ### Mounting & Hardware
 Item|URL|Price
 ---|---|---
-1280 Pieces M3 Button Head Socket Cap Screws Bolts Washers Nuts Kit | https://www.amazon.com/dp/B09WJ1C8JP/ | $19.99
 2Pcs 3 inch Silver Folding Butt Hinges | https://www.amazon.com/gp/product/B07BXGPSFP/ | $8.49
 5Pack Cable Spring Holder Clips | https://www.amazon.com/dp/B09S8VXZXC/ $11.99
+500pcs Laptop Notebook Computer Screw Kit Set | https://www.amazon.com/gp/product/B01FTI8TM8 | $8.99
+500Pcs M2 M2.5 M3 Metric Female Thread Knurled Brass Threaded Insert Embedded Nuts | https://www.amazon.com/gp/product/B07GLJ7KCJ/ | $11.39
 600PCS M3 Male Female Nylon Hex Spacer Standoffs | https://www.amazon.com/gp/product/B0CBPGKDP4/ | $
+1280 Pieces M3 Button Head Socket Cap Screws Bolts Washers Nuts Kit | https://www.amazon.com/dp/B09WJ1C8JP/ | $19.99
 DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ/ | $12.99
 Sumnacon 8Pcs Stainless Steel Flat Plates | https://www.amazon.com/gp/product/B07D8QMLPR/ | $8.99
 VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ | $
@@ -526,8 +529,8 @@ Item|URL|Price
 #### Batteres
 Item|URL|Price
 ---|---|---
+3.7V 4500mAh 955178 LiPo Battery Pack with PH2.0mm JST Connector | https://www.amazon.com/dp/B07TXHV3ST | $13.80
 12V 18Ah LiFePO4 Battery | https://www.amazon.com/dp/B09QKD4G6L/ | 
-Anker Prime Power Bank, 27,650mAh 3-Port 250W | https://www.amazon.com/dp/B0BYP2F3SG/ | $
 Anker Prime Power Bank, 20,000mAh Portable Charger | https://www.amazon.com/dp/B0BYNZXFM2/ | $
 Anker Prime Power Bank, 27,650mAh 3-Port | https://www.amazon.com/dp/B0BYP2F3SG/ | $
 CUKTECH 20 Power Bank, 25,000mAh | https://www.amazon.com/dp/B0CCCNYW6Y/ | $
