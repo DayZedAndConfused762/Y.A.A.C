@@ -16,31 +16,25 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 ## Operating Systems
 
 ### Communication
-* [EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast) Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system
+* [EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast): Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system
 
 ### Data
-Name|Description|Link
----|---|---
-PirateBox | PirateBox is an anonymous offline mobile file-sharing and communications system built with free software and inexpensive off-the-shelf hardware | https://piratebox.cc/doku.php?id=raspberry_pi:diy
+* [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy): PirateBox is an anonymous offline mobile file-sharing and communications system built with free software and inexpensive off-the-shelf hardware
 
 ### Gaming
-Name|Description|Link
----|---|---
-Lakka Linux | Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console | https://lakka.tv/
-Recalbox | Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood! | https://www.recalbox.com/download/stable/rpi/rpi4_64/
-RetroPie | RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine | https://retropie.org.uk/
+* [Lakka Linux](https://lakka.tv/): Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console
+* [Recalbox](https://www.recalbox.com/download/stable/rpi/rpi4_64/):  Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood!
+* [RetroPie](https://retropie.org.uk/):  RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine
 
 ### General Use
-Name|Description|Link
----|---|---
-Arch Linux ARM | Arch Linux for ARM processors, a lightweight and flexible Linux® distribution that tries to Keep It Simple | https://archlinuxarm.org/
-DietPi | DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential | https://github.com/Fourdee/DietPi
-Fedora Linux for Raspberry Pi | An innovative platform for hardware, clouds, and containers, built with love by you | https://fedoraproject.org/wiki/Architectures/ARM/Raspberry_Pi
-Raspberry Pi Bookworm | Your Raspberry Pi needs an operating system to work. This is it. Raspberry Pi OS (previously called Raspbian) is our official supported operating system | https://www.raspberrypi.com/software/
-Raspberry Pi Debian | This Web site is built to help you get Debian GNU/Linux easily running if you have a computer of the Raspberry Pi family | https://raspi.debian.net/
-Twister OS | The main goal of Twister OS is to provide a true desktop computing experience for single board computers (SBCs), right out-of-the-box. Twister OS includes themes, applications, tools, and optimizations to allow you to get the most out of your SBC | https://twisteros.com/about.html
-Ubuntu | Ubuntu Linux for Raspberry Pi | https://ubuntu.com/download/raspberry-pi
-Ubuntu MATE | Ubuntu MATE for the Raspberry Pi provides a complete, familiar, desktop environment that can be used for basic desktop computing. It is also of interest to makers and device hackers who want to target Ubuntu for their projects | https://ubuntu-mate.org/raspberry-pi/
+* [Arch Linux ARM](https://archlinuxarm.org/): Arch Linux for ARM processors, a lightweight and flexible Linux® distribution that tries to Keep It Simple
+* [DietPi](https://github.com/Fourdee/DietPi): DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential
+* [Fedora Linux for Raspberry Pi](https://fedoraproject.org/wiki/Architectures/ARM/Raspberry_Pi): An innovative platform for hardware, clouds, and containers, built with love by you
+* [Raspberry Pi Bookworm](https://www.raspberrypi.com/software/): Your Raspberry Pi needs an operating system to work. This is it. Raspberry Pi OS (previously called Raspbian) is our official supported operating system
+* [Raspberry Pi Debian](https://raspi.debian.net/): This Web site is built to help you get Debian GNU/Linux easily running if you have a computer of the Raspberry Pi family
+* [Twister OS](https://twisteros.com/about.html): The main goal of Twister OS is to provide a true desktop computing experience for single board computers (SBCs), right out-of-the-box. Twister OS includes themes, applications, tools, and optimizations to allow you to get the most out of your SBC 
+* [Ubuntu](https://ubuntu.com/download/raspberry-pi): Ubuntu Linux for Raspberry Pi
+* [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/): Ubuntu MATE for the Raspberry Pi provides a complete, familiar, desktop environment that can be used for basic desktop computing. It is also of interest to makers and device hackers who want to target Ubuntu for their projects
 
 ### Media
 Name|Description|Link
