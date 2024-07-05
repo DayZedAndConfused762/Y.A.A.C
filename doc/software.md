@@ -37,16 +37,12 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 * [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/): Ubuntu MATE for the Raspberry Pi provides a complete, familiar, desktop environment that can be used for basic desktop computing. It is also of interest to makers and device hackers who want to target Ubuntu for their projects
 
 ### Media
-Name|Description|Link
----|---|---
 * [LibreELEC](https://libreelec.tv/): Just enough OS for KODI
 * [OSMC](https://osmc.tv/): OSMC is a free and open source media center built for the people, by the people
 * [RasPlex](http://www.rasplex.com/): A Plex Media Client for the Raspberry Pi computer
 
 
 ### Misc
-Name|Description|Link
----|---|---
 * [BerryBoot v2.0](https://www.berryterminal.com/doku.php/berryboot): Berryboot is a simple boot selection screen for ARM computers like the Raspberry Pi, that allows you to put multiple Linux distributions on a single SD card
 * [chilipie-kiosk](https://github.com/jareware/chilipie-kiosk): Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors
 * [Collapse OS](http://collapseos.org/): Winter is coming and Collapse OS aims to soften the blow. It is a Forth (why Forth?) operating system and a collection of tools and documentation with a single purpose: preserve the ability to program microcontrollers through civilizational collapse
