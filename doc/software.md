@@ -5,7 +5,7 @@
 
 # Y.A.A.C - Software
 
-Software currently in use or possibly to be used on the Y.A.A.C.
+A list of operating systems and software that may be useful for CyberDecks.  This is a general list and I have not used or tested all of this software.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
