@@ -19,7 +19,7 @@ This is a list of guides and helpful information.
 ### AI
 Description|URL
 ---|---
-* [Deploy and run LLM on Raspberry Pi](https://www.dfrobot.com/blog-13498.html
+* [Deploy and run LLM on Raspberry Pi](https://www.dfrobot.com/blog-13498.html): 
 * [Best LLM to run on a RPI 4b 4/8GB?](https://www.reddit.com/r/LocalLLM/comments/14ztpt1/best_llm_to_run_on_a_rpi_4b_48gb/?rdt=42405): 
 * [I Ran Advanced LLMs on the Raspberry Pi 5!](https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/?rdt=50633): 
 * [How to Run a Large Language Model on Your Raspberry Pi](https://www.reddit.com/r/raspberry_pi/comments/11xnsu3/how_to_run_a_large_language_model_on_your/?rdt=52395): 
