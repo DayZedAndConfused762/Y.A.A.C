@@ -90,7 +90,8 @@ A list of operating systems and software that may be useful for CyberDecks.  Thi
 
 ## CyberSecurity
 * [Pwnagotchi](https://github.com/evilsocket/pwnagotchi):  A2C-based "AI" leveraging bettercap that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
-* [Aircrack-ng](http://www.aircrack-ng.org/): Aircrack-ng is a complete suite of tools to assess WiFi network security. 
+* [Aircrack-ng](http://www.aircrack-ng.org/): Aircrack-ng is a complete suite of tools to assess WiFi network security.
+* [Cyberdeck](https://github.com/Martian1337/CyberDeck): CyberDeck is a script designed for setting up a web pentesting environment. It installs a wide range of essential tools for network reconnaissance, vulnerability analysis, exploitation, and is specifically tailored to web security testing.
 
 <!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
 
