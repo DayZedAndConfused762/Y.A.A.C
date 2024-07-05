@@ -14,18 +14,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-* https://www.amazon.com/gp/product/B01JL837X8
-* https://www.amazon.com/AKZYTUE-4500mAh-Battery-Rechargeable-Connector/dp/B07TXHV3ST?th=1
-* https://www.amazon.com/gp/product/B07GLJ7KCJ/
-* https://www.amazon.com/gp/product/B01FTI8TM8
-* https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck
-* https://www.aliexpress.us/item/2251832676398666.html?spm=a2g0o.order_list.order_list_main.41.474c36968LM9De&gatewayAdapt=ita2usa4itemAdapt
-* https://www.aliexpress.us/item/3256804262043754.html?spm=a2g0o.order_list.order_list_main.31.474c36968LM9De&gatewayAdapt=ita2usa4itemAdapt
-* https://www.kickstart-design.com/our-products/p/amp-ripper-3000
-* https://www.waveshare.com/7.9inch-hdmi-lcd.htm
-* https://www.waveshare.com/7.9inch-hdmi-lcd.htm
-* https://www.aliexpress.us/item/2255799828239708.html
-* https://eustore.ifixit.com/products/pro-tech-toolkit
 * https://github.com/BenMakesEverything/cyberdeck
 * https://github.com/brickbots/framedeck/blob/main/docs/parts.md
 * https://github.com/CyZooNiC/cyberdeck
