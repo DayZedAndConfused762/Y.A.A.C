@@ -10,6 +10,35 @@ This is a list of all componenets used in the Y.A.A.C-g, as well as links and pr
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
+<!-- ------------------------------ Section Start ------------------------------ -->
+
+## Section Name
+
+<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
+
+### Section Name
+Item|URL|Price
+---|---|---
+Item Name | https://www.amazon.com/ | $123,456,789.99
+Item Name | https://www.amazon.com/ | $123,456,789.99
+
+<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
+
+### Subsection Name
+
+#### Subsubsection Name
+Item|URL|Price
+---|---|---
+Item Name | https://www.amazon.com/ | $123,456,789.99
+Item Name | https://www.amazon.com/ | $123,456,789.99
+
+<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+
+<!-- ------------------------------Section End ------------------------------ -->
+
+
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
 Please note that the prices were accurate at the time of purchase/entry to this list, and may have changed.
