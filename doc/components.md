@@ -38,11 +38,11 @@ Item|URL|Price
 Item|URL|Price
 ---|---|---
 
-#### USB C to C
+#### USB C to A
 Item|URL|Price
 ---|---|---
 
-#### USB C to A
+#### USB C to C
 Item|URL|Price
 ---|---|---
 
