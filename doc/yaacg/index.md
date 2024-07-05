@@ -1,4 +1,4 @@
-<!-- ======================================== yaacgindex.md Start ======================================== -->
+<!-- ======================================== index.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
@@ -25,13 +25,13 @@ This repository details my build process, as well as containing links to compone
 
 ## Files
 
-* [Build Guide](yaacgbuild.md) A step by step reference of the build process
-* [Components](yaacgcomponents.md) A list of compents used, components owned, and components to possibly buy
-* [Contents](yaacgcontent.md) Content included and planned to be included
-* [Setup](yaacgsetup.md) Setup steps for the operating systems and software
-* [Specifications](yaacgspecs.md) Hardware specifications
-* [Software](yaacgsoftware.md) Software used and to possibly use
-* [To Do List](yaacgtodo.md) To Do list
+* [Build Guide](yaacg-build.md) A step by step reference of the build process
+* [Components](yaacg-components.md) A list of compents used, components owned, and components to possibly buy
+* [Contents](yaacg-content.md) Content included and planned to be included
+* [Setup](yaacg-setup.md) Setup steps for the operating systems and software
+* [Specifications](yaacg-specs.md) Hardware specifications
+* [Software](yaacg-software.md) Software used and to possibly use
+* [To Do List](yaacg-todo.md) To Do list
 
 <!-- ------------------------------ Files End ------------------------------ -->
 
@@ -42,4 +42,4 @@ This repository details my build process, as well as containing links to compone
 
 
 
-<!-- ======================================== yaacgindex.md End ======================================== -->
+<!-- ======================================== index.md End ======================================== -->
