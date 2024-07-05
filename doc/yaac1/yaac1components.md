@@ -1,9 +1,9 @@
-<!-- ======================================== components.md Start ======================================== -->
+<!-- ======================================== yaac1components.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C - Components List
+# Y.A.A.C-1 - Components List
 
 This is a list of all componenets used in the Y.A.A.C-1, as well as links and prices (when available).
 
@@ -205,4 +205,4 @@ Please note that the prices were accurate at the time of purchase/entry to this 
 <!-- ------------------------------ Outro End ------------------------------ -->
 
 
-<!-- ======================================== components.md End ======================================== -->
+<!-- ======================================== yaac1components.md End ======================================== -->
