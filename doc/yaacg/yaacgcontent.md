@@ -5,7 +5,7 @@
 
 # Y.A.A.C-g - Content
 
-This is a list of content to be included on the Y.A.A.C-g
+This is a list of content to be included on the Y.A.A.C-g.  This deck is currently in the planning stages, so this list is blank.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
