@@ -118,9 +118,6 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 <!-- ++++++++++++++++++++ Gaming Start ++++++++++++++++++++ -->
 
 ## Gaming
-
-Name|Description|Link
----|---|---
 * [Dwarf Fortress](http://www.bay12games.com/dwarves/): Dwarf Fortress is a construction and management simulation and roguelike indie video game created by Bay 12 Games. 
 * [NetHack](https://www.nethack.org/): NetHack is an open source single-player roguelike video game, first released in 1987 
 * [pokete](https://lxgr-linux.github.io/pokete/): A terminal based Pokemon like game 
@@ -131,9 +128,6 @@ Name|Description|Link
 <!-- ++++++++++++++++++++ GPS Start ++++++++++++++++++++ -->
 
 ## GPS/Mapping
-
-Name|Description|Link
----|---|---
 * [FoxTrot GPS](https://www.foxtrotgps.org/): 
 * [Ulysses Mapping Program](https://github.com/sbenf999/Ulysses-Mapping-Program): An offline and online mapping program created using CustomTkinter and TkinterMapview. Incorporates a settings system and an offline tile downloading addon 
 
@@ -143,9 +137,6 @@ Name|Description|Link
 <!-- ++++++++++++++++++++ Meshtastic Start ++++++++++++++++++++ -->
 
 ## Meshtastic
-
-Name|Description|Link
-----|---|---
 * [Android Application Usage](https://meshtastic.org/docs/software/android/usage/): Meshtastic Android App Information 
 
 <!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
@@ -154,9 +145,6 @@ Name|Description|Link
 <!-- ++++++++++++++++++++ Networking Start ++++++++++++++++++++ -->
 
 ## Networking
-
-Name|Description|Link
----|---|---
 * [mRemoteNG](https://mremoteng.org/download): Multi-Remote Next Generation Connection Manager 
 * [PiHole](https://docs.pi-hole.net/guides/vpn/wireguard/overview/): 
 * [PiVPN](https://www.pivpn.io/): The simplest way to setup and manage a VPN, designed for Raspberry Pi 
@@ -167,9 +155,6 @@ Name|Description|Link
 <!-- ++++++++++++++++++++ Offline Internet Start ++++++++++++++++++++ -->
 
 ## Offline Internet
-
-Name|Description|Link
----|---|---
 * [Internet in a Box](https://internet-in-a-box.org/  ): x           
 * [Kiwix offline internet/wiki](https://www.kiwix.org/en/): x 
 
@@ -179,9 +164,6 @@ Name|Description|Link
 <!-- ++++++++++++++++++++ RPi General Start ++++++++++++++++++++ -->
 
 ## Raspberry Pi General/Misc
-
-Name|Description|Link
----|---|---
 * [PiKISS](https://github.com/jmcerrejon/PiKISS): A Bunch Of Scripts With Menu To Make Your Life Easier 
 * [PiGro](https://github.com/actionschnitzel/PiGro-Aid-): All Settings In One Place! https://github.com/actionschnitzel/PiGro-Aid-
 * [pigg](https://github.com/andrewdavidmackenzie/pigg): - Raspberry Pi GPIO GUI An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate 
@@ -198,9 +180,6 @@ Name|Description|Link
 <!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
 
 ## SDR
-
-Name|Description|Link
----|---|---
 * [SDRangel](https://www.sdrangel.org/): TX & RX Software Defined Radio x 
 
 <!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
@@ -209,9 +188,6 @@ Name|Description|Link
 <!-- ++++++++++++++++++++ Utilities Start ++++++++++++++++++++ -->
 
 ## Utilities
-
-Name|Description|Link
----|---|---
 * [Cool-Retro-Term](https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file): x 
 * [Third Party Themes](https://github.com/Swordfish90/cool-retro-term/wiki/Third-Party-Themes): Themes for Cool-Retro-Term 
 * [MatrixHasYou](https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file): A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix": 
@@ -224,9 +200,6 @@ Name|Description|Link
 <!-- ++++++++++++++++++++ Weather Start ++++++++++++++++++++ -->
 
 ## Weather
-
-Name|Description|Link
----|---|---
 * [Pi Weather Station](https://github.com/elewin/pi-weather-station): x 
 
 <!-- ++++++++++++++++++++ Weather End ++++++++++++++++++++ -->
