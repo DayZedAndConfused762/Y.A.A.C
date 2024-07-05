@@ -1,51 +1,45 @@
-<!-- ======================================== index.md Start ======================================== -->
+<!-- ======================================== yaacgindex.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C Gaming
-This page is the home of the Y.A.A.C-g, a portable gaming deck.
+# Y.A.A.C-g
+
+This page is the home of the Y.A.A.C-g, a gaming oriented CyberDeck
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
-<!-- ------------------------------ Section Start ------------------------------ -->
+<!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Section
+## Overview
 
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
+The Y.A.A.C-g is a planned gaming CyberDeck.
 
-### Subsection
+This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
 
-#### Subsubsection
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+<!-- ------------------------------ Overview End ------------------------------ -->
 
 
-<!-- ------------------------------ Section End ------------------------------ -->
+<!-- ------------------------------ Files Start ------------------------------ -->
 
+## Files
 
-<!-- ------------------------------ Section Start ------------------------------ -->
+* [Build Guide](doc/yaacg/yaacgbuild.md) A step by step reference of the build process
+* [Components](doc/yaacg/yaacgcomponents.md) A list of compents used, components owned, and components to possibly buy
+* [Contents](doc/yaacg/yaacgcontent,md) Content included and planned to be included
+* [Setup](doc/yaacg/yaacgsetup.md) Setup steps for the operating systems and software
+* [Specifications](doc/yaacg/yaacgspecs.md) Hardware specifications
+* [Software](doc/yaacg/yaacgsoftware.md) Software used and to possibly use
+* [To Do List](doc/yaacg/yaacgtodo.md) To Do list
 
-## Section
-
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
-
-### Subsection
-
-#### Subsubsection
-
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
-
-
-<!-- ------------------------------ Section End ------------------------------ -->
+<!-- ------------------------------ Files End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
-Outro text goes here
-
 <!-- ------------------------------ Outro End ------------------------------ -->
 
 
-<!-- ======================================== index.md End ======================================== -->
+
+<!-- ======================================== yaacgindex.md End ======================================== -->
