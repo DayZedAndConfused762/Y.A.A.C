@@ -25,10 +25,10 @@ This repository details my build process, as well as containing links to compone
 
 ## Files
 
-* [Build Guide](yaacpbuild.md) A step by step reference of the build process
-* [Components](yaacpcomponents.md) A list of compents used, components owned, and components to possibly buy
-* [Specifications](yaacpspecs.md) Hardware specifications
-* [To Do List](yaacptodo.md) To Do list
+* [Build Guide](yaacp-build.md) A step by step reference of the build process
+* [Components](yaacp-components.md) A list of compents used, components owned, and components to possibly buy
+* [Specifications](yaacp-specs.md) Hardware specifications
+* [To Do List](yaacp-todo.md) To Do list
 
 <!-- ------------------------------ Files End ------------------------------ -->
 
