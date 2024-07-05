@@ -66,10 +66,10 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 <!-- ++++++++++++++++++++ Lists Start ++++++++++++++++++++ -->
 
 ## Lists
-* [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi): |  x | 
-* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software): | This repo is a collection of AWESOME Linux applications and tools for any users/developers | 
-* [Pi-Apps list](https://pi-apps.io/wiki/getting-started/apps-list/): | Rasberry Pi Software List | 
-* [Pi-Apps software](https://github.com/Botspot/pi-apps ): | The most popular app store for Raspberry Pi computers. 100% free, open-source and written in shell scripts | 
+* [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi): 
+* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software): This repo is a collection of AWESOME Linux applications and tools for any users/developers 
+* [Pi-Apps list](https://pi-apps.io/wiki/getting-started/apps-list/): Rasberry Pi Software List 
+* [Pi-Apps software](https://github.com/Botspot/pi-apps ): The most popular app store for Raspberry Pi computers. 100% free, open-source and written in shell scripts 
 
 <!-- ++++++++++++++++++++ Lists End ++++++++++++++++++++ -->
 
@@ -77,7 +77,7 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 <!-- ++++++++++++++++++++ Audio Start ++++++++++++++++++++ -->
 
 ## Audio
-* [Simple Internet Radio](https://github.com/blake5634/Simple-Internet-Radio): |  x | 
+* [Simple Internet Radio](https://github.com/blake5634/Simple-Internet-Radio): 
 
 <!-- ++++++++++++++++++++ Audio End ++++++++++++++++++++ -->
 
@@ -85,8 +85,8 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 <!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
 ## CyberSecurity
-* [Pwnagotchi](https://github.com/evilsocket/pwnagotchi): |  A2C-based "AI" leveraging bettercap that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures | 
-* [Aircrack-ng](http://www.aircrack-ng.org/): | Aircrack-ng is a complete suite of tools to assess WiFi network security. | 
+* [Pwnagotchi](https://github.com/evilsocket/pwnagotchi):  A2C-based "AI" leveraging bettercap that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures 
+* [Aircrack-ng](http://www.aircrack-ng.org/): Aircrack-ng is a complete suite of tools to assess WiFi network security. 
 
 <!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
 
@@ -94,12 +94,12 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 <!-- ++++++++++++++++++++ Data Start ++++++++++++++++++++ -->
 
 ## Data Management
-* [balenaEtcher](https://etcher.balena.io/): | Flash OS images to SD cards & USB drives, safely and easily | 
-* [HDD Raw Copy Tool(windows)](https://hddguru.com/software/HDD-Raw-Copy-Tool/): | HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.  | 
-* [imgclone](https://github.com/tom-2015/imgclone): | This program can be used to create a backup of your Raspberry Pi SD card while it's active. | 
-* [Raspberry Pi Imager](https://www.raspberrypi.com/software/): | x | 
-* [rpi-clone](https://github.com/billw2/rpi-clone): | rpi-clone is a shell script that is for cloning a running Raspberry Pi booted source disk (SD card or USB disk) to a destination disk which will be bootable | 
-* [SDCardFormatter](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/): | SD Memory Card Formatter for Windows Download | 
+* [balenaEtcher](https://etcher.balena.io/): Flash OS images to SD cards & USB drives, safely and easily 
+* [HDD Raw Copy Tool(windows)](https://hddguru.com/software/HDD-Raw-Copy-Tool/): HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.  
+* [imgclone](https://github.com/tom-2015/imgclone): This program can be used to create a backup of your Raspberry Pi SD card while it's active. 
+* [Raspberry Pi Imager](https://www.raspberrypi.com/software/): x 
+* [rpi-clone](https://github.com/billw2/rpi-clone): rpi-clone is a shell script that is for cloning a running Raspberry Pi booted source disk (SD card or USB disk) to a destination disk which will be bootable 
+* [SDCardFormatter](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/): SD Memory Card Formatter for Windows Download 
 
 <!-- ++++++++++++++++++++ Data End ++++++++++++++++++++ -->
 
@@ -107,10 +107,10 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 <!-- ++++++++++++++++++++ FM Start ++++++++++++++++++++ -->
 
 ## FM Radio Transmitting
-* [PiFM (MundeepL)](https://github.com/MundeepL/PiFM): |  x | 
-* [PiFM (ka9cql)](https://github.com/ka9cql/pifm?tab=readme-ov-file): |  x | 
-* [PiFM (RM-Hull)](https://github.com/rm-hull/pifm?tab=readme-ov-file): |  x | 
-* [PiFmAdv](https://github.com/miegl/PiFmAdv): |  x | 
+* [PiFM (MundeepL)](https://github.com/MundeepL/PiFM): 
+* [PiFM (ka9cql)](https://github.com/ka9cql/pifm?tab=readme-ov-file): 
+* [PiFM (RM-Hull)](https://github.com/rm-hull/pifm?tab=readme-ov-file): 
+* [PiFmAdv](https://github.com/miegl/PiFmAdv): 
 
 <!-- ++++++++++++++++++++ FM End ++++++++++++++++++++ -->
 
@@ -121,9 +121,9 @@ Software currently in use or possibly to be used on the Y.A.A.C.
 
 Name|Description|Link
 ---|---|---
-* [Dwarf Fortress](http://www.bay12games.com/dwarves/): | Dwarf Fortress is a construction and management simulation and roguelike indie video game created by Bay 12 Games. | 
-* [NetHack](https://www.nethack.org/): | NetHack is an open source single-player roguelike video game, first released in 1987 | 
-* [pokete](https://lxgr-linux.github.io/pokete/): | A terminal based Pokemon like game | 
+* [Dwarf Fortress](http://www.bay12games.com/dwarves/): Dwarf Fortress is a construction and management simulation and roguelike indie video game created by Bay 12 Games. 
+* [NetHack](https://www.nethack.org/): NetHack is an open source single-player roguelike video game, first released in 1987 
+* [pokete](https://lxgr-linux.github.io/pokete/): A terminal based Pokemon like game 
 
 <!-- ++++++++++++++++++++ Gaming End ++++++++++++++++++++ -->
 
@@ -134,8 +134,8 @@ Name|Description|Link
 
 Name|Description|Link
 ---|---|---
-* [FoxTrot GPS](https://www.foxtrotgps.org/): |  x | 
-* [Ulysses Mapping Program](https://github.com/sbenf999/Ulysses-Mapping-Program): | An offline and online mapping program created using CustomTkinter and TkinterMapview. Incorporates a settings system and an offline tile downloading addon | 
+* [FoxTrot GPS](https://www.foxtrotgps.org/): 
+* [Ulysses Mapping Program](https://github.com/sbenf999/Ulysses-Mapping-Program): An offline and online mapping program created using CustomTkinter and TkinterMapview. Incorporates a settings system and an offline tile downloading addon 
 
 <!-- ++++++++++++++++++++ GPS End ++++++++++++++++++++ -->
 
@@ -146,7 +146,7 @@ Name|Description|Link
 
 Name|Description|Link
 ----|---|---
-* [Android Application Usage](https://meshtastic.org/docs/software/android/usage/): | Meshtastic Android App Information | 
+* [Android Application Usage](https://meshtastic.org/docs/software/android/usage/): Meshtastic Android App Information 
 
 <!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
 
@@ -157,9 +157,9 @@ Name|Description|Link
 
 Name|Description|Link
 ---|---|---
-* [mRemoteNG](https://mremoteng.org/download): | Multi-Remote Next Generation Connection Manager | 
-* [PiHole](https://docs.pi-hole.net/guides/vpn/wireguard/overview/): |  x | 
-* [PiVPN](https://www.pivpn.io/): | The simplest way to setup and manage a VPN, designed for Raspberry Pi | 
+* [mRemoteNG](https://mremoteng.org/download): Multi-Remote Next Generation Connection Manager 
+* [PiHole](https://docs.pi-hole.net/guides/vpn/wireguard/overview/): 
+* [PiVPN](https://www.pivpn.io/): The simplest way to setup and manage a VPN, designed for Raspberry Pi 
 
 <!-- ++++++++++++++++++++ Networking End ++++++++++++++++++++ -->
 
@@ -170,8 +170,8 @@ Name|Description|Link
 
 Name|Description|Link
 ---|---|---
-* [Internet in a Box](https://internet-in-a-box.org/  ): | x |           
-* [Kiwix offline internet/wiki](https://www.kiwix.org/en/): | x | 
+* [Internet in a Box](https://internet-in-a-box.org/  ): x           
+* [Kiwix offline internet/wiki](https://www.kiwix.org/en/): x 
 
 <!-- ++++++++++++++++++++ Offline Internet End ++++++++++++++++++++ -->
 
@@ -182,15 +182,15 @@ Name|Description|Link
 
 Name|Description|Link
 ---|---|---
-* [PiKISS](https://github.com/jmcerrejon/PiKISS): | A Bunch Of Scripts With Menu To Make Your Life Easier | 
-* [PiGro](https://github.com/actionschnitzel/PiGro-Aid-): | All Settings In One Place! | https://github.com/actionschnitzel/PiGro-Aid-
-* [pigg](https://github.com/andrewdavidmackenzie/pigg): - Raspberry Pi GPIO GUI | An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate | 
-* [rpi-clone](https://github.com/billw2/rpi-clone): | rpi-clone is a shell script that is for cloning a running Raspberry Pi booted source disk (SD card or USB disk) | 
-* [RasComm](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator): | RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly | 
-* [sdm](https://github.com/gitbls/sdm): | Raspberry Pi SSD/SD Card Image Manager | 
-* [stressberry](https://github.com/nschloe/stressberry): | a package for testing the core temperature under different loads | 
-* [sysmon](https://github.com/gridhead/sysmon): | An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups | 
-* [TorTiPi](https://github.com/rosehgal/tortipi): | a tool to setup the Tor based wifi hotspot on Raspberry Pi | 
+* [PiKISS](https://github.com/jmcerrejon/PiKISS): A Bunch Of Scripts With Menu To Make Your Life Easier 
+* [PiGro](https://github.com/actionschnitzel/PiGro-Aid-): All Settings In One Place! https://github.com/actionschnitzel/PiGro-Aid-
+* [pigg](https://github.com/andrewdavidmackenzie/pigg): - Raspberry Pi GPIO GUI An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate 
+* [rpi-clone](https://github.com/billw2/rpi-clone): rpi-clone is a shell script that is for cloning a running Raspberry Pi booted source disk (SD card or USB disk) 
+* [RasComm](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator): RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly 
+* [sdm](https://github.com/gitbls/sdm): Raspberry Pi SSD/SD Card Image Manager 
+* [stressberry](https://github.com/nschloe/stressberry): a package for testing the core temperature under different loads 
+* [sysmon](https://github.com/gridhead/sysmon): An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups 
+* [TorTiPi](https://github.com/rosehgal/tortipi): a tool to setup the Tor based wifi hotspot on Raspberry Pi 
 
 <!-- ++++++++++++++++++++ RPi General End ++++++++++++++++++++ -->
 
@@ -201,7 +201,7 @@ Name|Description|Link
 
 Name|Description|Link
 ---|---|---
-* [SDRangel](https://www.sdrangel.org/): TX & RX Software Defined Radio | x | 
+* [SDRangel](https://www.sdrangel.org/): TX & RX Software Defined Radio x 
 
 <!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
 
@@ -212,11 +212,11 @@ Name|Description|Link
 
 Name|Description|Link
 ---|---|---
-* [Cool-Retro-Term](https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file): | x | 
-* [Third Party Themes](https://github.com/Swordfish90/cool-retro-term/wiki/Third-Party-Themes): | Themes for Cool-Retro-Term | 
-* [MatrixHasYou](https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file): | A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix": | 
-* [crontab guru](https://crontab.guru/): | The quick and simple editor for cron schedule expressions by Cronitor | 
-* [Putty](https://www.putty.org/): | x | 
+* [Cool-Retro-Term](https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file): x 
+* [Third Party Themes](https://github.com/Swordfish90/cool-retro-term/wiki/Third-Party-Themes): Themes for Cool-Retro-Term 
+* [MatrixHasYou](https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file): A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix": 
+* [crontab guru](https://crontab.guru/): The quick and simple editor for cron schedule expressions by Cronitor 
+* [Putty](https://www.putty.org/): x 
 
 <!-- ++++++++++++++++++++ Utilities End ++++++++++++++++++++ -->
 
@@ -227,7 +227,7 @@ Name|Description|Link
 
 Name|Description|Link
 ---|---|---
-* [Pi Weather Station](https://github.com/elewin/pi-weather-station): | x | 
+* [Pi Weather Station](https://github.com/elewin/pi-weather-station): x 
 
 <!-- ++++++++++++++++++++ Weather End ++++++++++++++++++++ -->
 
