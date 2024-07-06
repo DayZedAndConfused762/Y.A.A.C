@@ -19,43 +19,43 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 <!--
 ### Cables & Adapters
 
-#### DC
+#### *DC*
 Item|URL|Price
 ---|---|---
 
-#### Ethernet
+#### *Ethernet*
 Item|URL|Price
 ---|---|---
 
-#### GPIO
+#### *GPIO*
 Item|URL|Price
 ---|---|---
 
-#### HDMI
+#### *HDMI*
 Item|URL|Price
 ---|---|---
 
-#### USB A to A
+#### *USB A to A*
 Item|URL|Price
 ---|---|---
 
-#### USB C to A
+#### *USB C to A*
 Item|URL|Price
 ---|---|---
 
-#### USB C to C
+#### *USB C to C*
 Item|URL|Price
 ---|---|---
 
-#### USB C Extention
+#### *USB C Extention
 Item|URL|Price
 ---|---|---
 
-#### USB C Splitter
+#### *USB C Splitter
 Item|URL|Price
 ---|---|---
 
-#### USB Micro
+#### *USB Micro*
 Item|URL|Price
 ---|---|---
 -->
@@ -161,23 +161,23 @@ Item|URL|Price
 <!-- ++++++++++++++++++++ UsedPower Start ++++++++++++++++++++ -->
 
 ### Power
-#### Batteries
+#### *Batteries*
 Item|URL|Price
 ---|---|---
 Panasonic NCR 18650 3400mAh 3.7V Unprotected High-Drain 4.87A Lithium Ion | https://www.batteryjunction.com/panasonic-ncr18650b-3400 | $8.99
 
-#### Buttons
+#### *Buttons*
 Item|URL|Price
 ---|---|---
 Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
 
 <!--
-#### Power Supplies
+#### *Power Supplies*
 Item|URL|Price
 ---|---|---
 -->
 
-#### UPS
+#### *UPS*
 Item|URL|Price
 ---|---|---
 Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
