@@ -18,30 +18,30 @@ This is a list of all componenets for my CyberDecks as well as links and prices 
 
 ### Cables & Adapters
 
-#### Adapters
+#### *Adapters*
 Item|URL|Price
 ---|---|---
 Cable Matters Combo-Pack 8K@60Hz Right Angle HDMI 2.1 Adapters | https://www.amazon.com/gp/product/B097CJLNXS/ | $7.99
 Poyiccot USB C Adapter 40Gbps, 3Pack 90 Degree | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
 QianLink Micro USB to USB C Adapter,8-Pack Micro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL | $5.99
 
-#### DC
+#### *DC*
 Item|URL|Price
 ---|---|---
 StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $5.29
 USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
 
-#### Ethernet
+#### *Ethernet*
 Item|URL|Price
 ---|---|---
 Cable Matters 10Gbps 5-Pack Snagless Short Shielded Cat6A 6pk | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
 Short USB C to USB C Cable 60W (2-Pack 1ft) | https://www.amazon.com/gp/product/B0BV6BGQ3B/ | $5.99
 
-#### GPIO
+#### *GPIO*
 Item|URL|Price
 ---|---|---
 
-#### HDMI
+#### *HDMI*
 Item|URL|Price
 ---|---|---
 4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
@@ -50,40 +50,40 @@ Seadream 1Foot 90 Degree Down Angle Micro HDMI | https://www.amazon.com/dp/B07BL
 Seadream 4K Micro HDMI to HDMI Cable 1FT 2Pack | https://www.amazon.com/gp/product/B0B938BP37/ | $9.88
 SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
 
-### Micro SD Extension
+<!--
+#### *Micro SD Extension*
 Item|URL|Price
 ---|---|---
-Micro SD to Micro SD Card TF Memory Card Reader Flexible Extender | https://www.aliexpress.us/item/3256801742490754.html | $0.99
+-->
 
-#### USB A to A
+#### *USB A to A*
 Item|URL|Price
 ---|---|---
 USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
 USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
 
-#### USB C to C
+#### *USB C to C*
 Item|URL|Price
 ---|---|---
 Anker New Nylon USB-C to USB-C Cable (2pack, 1 ft, 60W) | https://www.amazon.com/gp/product/B0CFZNZN25/ | $10.99
 SUNGUY USB C to USB C 1.5FT [2Pack] | https://www.amazon.com/gp/product/B08L7NCLZN/ | $7.99
 
-#### USB C to A
+#### *USB C to A*
 Item|URL|Price
 ---|---|---
 JXMOX Short USB C Cable (1ft 3-Pack) | https://www.amazon.com/gp/product/B07HQHL6ZK/ | $6.99
 
-#### USB C Extention
+#### *USB C Extention*
 Item|URL|Price
 ---|---|---
 CLEEFUN USB C Extension Cable 1ft | https://www.amazon.com/gp/product/B0C9STSC2B/ | $6.99
 USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/gp/product/B0C9JMH9VT/ | $6.99
 
-#### USB C Splitter
+#### *USB C Splitter*
 Item|URL|Price
 ---|---|---
 
-
-#### USB Micro
+#### *USB Micro*
 Item|URL|Price
 ---|---|---
 
@@ -217,7 +217,7 @@ USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | 
 
 ### Power
 
-#### Batteries
+#### *Batteries*
 Item|URL|Price
 ---|---|---
 Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.amazon.com/gp/product/B09VP9QJSS/ | $79.99
@@ -225,17 +225,17 @@ Anker Power Bank, 24,000mAh 3-Port Portable Charger with 140W Output |  https://
 140W Power Bank, 24600mAh 3-Port PD3.1 | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
 Panasonic NCR 18650 3400mAh 3.7V Unprotected High-Drain 4.87A Lithium Ion | https://www.batteryjunction.com/panasonic-ncr18650b-3400 | $8.99
 
-#### Buttons
+#### *Buttons*
 Item|URL|Price
 ---|---|---
 Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
 
-#### Power Supplies
+#### *Power Supplies*
 Item|URL|Price
 ---|---|---
 CanaKit 3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
 
-#### UPS
+#### *UPS*
 Item|URL|Price
 ---|---|---
 Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
@@ -300,66 +300,70 @@ WM8960 Hi-Fi Sound Card HAT for Raspberry Pi | https://www.amazon.com/dp/B0CN1D7
 
 ### Cables & Adapters
 
-#### Audio
+#### *Audio*
 Item|URL|Price
 ---|---|---
 3.5mm Angle Male to Female Audio Adapter | https://www.amazon.com/gp/product/B07YFBCQTT/ | 
 
-#### DC
+#### *DC*
 Item|URL|Price
 ---|---|---
 
-#### Ethernet
+#### *Ethernet*
 Item|URL|Price
 ---|---|---
 iGreely Ethernet Extender 2Pack RJ45 | https://www.amazon.com/dp/B06Y4J9MZ4/ | 
 SinLoon 90 Degree Left to Right Angle Cat8 Ethernet | https://www.amazon.com/gp/product/B0B3RKQRV1/ | 
 StarTech.com 6 in CAT6 Cable | https://www.amazon.com/gp/product/B078MP2HN1/ | 
 
-#### GPIO
+#### *GPIO*
 Item|URL|Price
 ---|---|---
 Chanzon 40pcs 30cm Long Male to Female Header Jumper | https://www.amazon.com/gp/product/B09FP9M5J9/ | 
 
-#### HDMI
+#### *HDMI*
 Item|URL|Price
 ---|---|---
 HDMI Cable Flat – 3ft – 4K@60Hz (Flat Cable) | https://www.amazon.com/dp/B0BV72556Z/ | 
 
-#### USB A to A
+#### *Micro SD Extension*
+Item|URL|Price
+---|---|---
+Micro SD to Micro SD Card TF Memory Card Reader Flexible Extender | https://www.aliexpress.us/item/3256801742490754.html | $0.99
+
+#### *USB A to A*
 Item|URL|Price
 ---|---|---
 USB 3.0 USB Male A to Female A | https://www.amazon.com/gp/product/B09YL35VPF/ | 
 
-#### USB C to C
+#### *USB C to C*
 Item|URL|Price
 ---|---|---
 2Pcs 3FT Flat Design USB C Android Auto Cable | https://www.amazon.com/dp/B08F7KCLKR/ | 
 Charger Cable 3FT for Car, Coiled USB C to USB C | https://www.amazon.com/gp/product/B0CQR8FDR2/ | 
 SUNGUY USB C Male to USB C Male CableRight Angle | https://www.amazon.com/gp/product/B07H96FWY9/ | 
 
-
-#### USB C to A
+#### *USB C to A*
 Item|URL|Price
 ---|---|---
 Right Angle USB A Male to USB C Female Adapter | https://www.amazon.com/gp/product/B08PSCL9FC/ | 
 USB C Cable Fast Charging, 2Pack 3ft Coiled USB A | https://www.amazon.com/dp/B0BQ93DBF3/ | 
 
-#### USB C Extention
+#### *USB C Extention*
 Item|URL|Price
 ---|---|---
 APEXSUN USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/dp/B0C9JMH9VT/ | 
 
-#### USB C Splitter
+#### *USB C Splitter*
 Item|URL|Price
 ---|---|---
 USB Type C Splitter | https://www.amazon.com/gp/product/B0BZ8DFFNP/ | 
 
-#### USB Micro
+#### *USB Micro*
 Item|URL|Price
 ---|---|---
 
-### USB Micro Extension
+### *USB Micro Extension*
 Item|URL|Price
 ---|---|---
 6 inch USB Micro Male to Female OTG Extension Cable | https://www.amazon.com/gp/product/B00HAOK7XE/  $5.97
@@ -531,7 +535,7 @@ Item|URL|Price
 
 ### Power
 
-#### Batteres
+#### *Batteres*
 Item|URL|Price
 ---|---|---
 3.7V 4500mAh 955178 LiPo Battery Pack with PH2.0mm JST Connector | https://www.amazon.com/dp/B07TXHV3ST | $13.80
@@ -545,17 +549,17 @@ Shargeek Portable Charger, Storm 2 100W 25600mAh | https://www.amazon.com/gp/pro
 Talentcell Rechargeable 12V 6000mAh/5V 12000mAh | https://www.amazon.com/dp/B00ME3ZH7C/ | $
 Trozk Portable Charger, PD30W | https://www.amazon.com/dp/B0CJ2J2YDS | $
 
-#### Buttons
+#### *Buttons*
 Item|URL|Price
 ---|---|---
 4 in 1 ON/Off Toggle Switch | https://www.amazon.com/dp/B0CPNYDCP6/ | $
 Nilight 4 in 1 ON/Off Charger Socket Panel | https://www.amazon.com/gp/product/B0BC8G9DNY/ | $
 
-#### Power Supplies
+#### *Power Supplies*
 Item|URL|Price
 ---|---|---
 
-#### UPS
+#### *UPS*
 Item|URL|Price
 ---|---|---
 Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://www.amazon.com/dp/B07RC649ZC | $38.99
