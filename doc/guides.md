@@ -28,15 +28,24 @@ This is a list of guides and helpful information.
 <!-- ++++++++++++++++++++ Coding Start ++++++++++++++++++++ -->
 
 ### Coding/Scripting/Markup/Markdown
-* [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): 
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/): 
-* [Python for Beginners](https://www.python.org/about/gettingstarted/): 
-* [Best way to learn python?](https://www.reddit.com/r/learnpython/comments/11kcko1/best_way_to_learn_python/): 
-* [Write Your Own Bash Scripts to Automate Tasks on Linux](https://null-byte.wonderhowto.com/how-to/write-your-own-bash-scripts-automate-tasks-linux-0296284/): 
+
 * [RPi/Coding tutorials](https://www.youtube.com/@mmshilleh): 
+
+#### *Markdown*
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): 
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/):
+* [How to display markdown document with rendering on RPi4?](https://forums.raspberrypi.com/viewtopic.php?t=278720):
+
+#### *Python*
+* [Python for Beginners](https://www.python.org/about/gettingstarted/): 
+* [Best way to learn python?](https://www.reddit.com/r/learnpython/comments/11kcko1/best_way_to_learn_python/):
 * [Learning Python](https://pimylifeup.com/category/coding/python/): 
 * [r/learnpython](https://www.reddit.com/r/learnpython/): 
-* [How to display markdown document with rendering on RPi4?](https://forums.raspberrypi.com/viewtopic.php?t=278720): 
+
+#### *Bash*
+* [Write Your Own Bash Scripts to Automate Tasks on Linux](https://null-byte.wonderhowto.com/how-to/write-your-own-bash-scripts-automate-tasks-linux-0296284/): 
+
 
 <!-- ++++++++++++++++++++ Coding End ++++++++++++++++++++ -->
 
