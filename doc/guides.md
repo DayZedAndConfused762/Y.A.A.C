@@ -53,7 +53,6 @@ This is a list of guides and helpful information.
 * [Crack Password-Protected ZIP Files, PDFs & More with Zydra](https://null-byte.wonderhowto.com/how-to/crack-password-protected-zip-files-pdfs-more-with-zydra-0207607/): 
 * [Securiosity YouTube Channel](https://www.youtube.com/@Securiosity): 
 * [Stopping people play music via bluetooth speakers](https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers): 
-* [Stopping people play music via bluetooth speakers](https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers): 
 
 <!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
 
