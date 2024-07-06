@@ -31,6 +31,14 @@ This is a unsorted dump list of links and info
 * https://www.reddit.com/r/irc/comments/ouez5d/move_over_raspberry_pi_the_new_king_of_lowend_irc/
 * https://www.reddit.com/r/irc/comments/osu1f6/creating_an_raspberry_pi_irc_and_web_server/
 * https://pimylifeup.com/raspberry-pi-irc-server/
+* https://github.com/hack-shack/glowfire
+* https://www.remove.bg/upload
+* https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck
+* https://github.com/The-Exterminator/PiShrink-to-Crontab
+* https://vimm.net/?p=emulate
+* https://www.crowdsupply.com/useful-sensors/ai-in-a-box
+* https://github.com/arbowl/cyberdeck-battery-indicator/
+* https://github.com/andrewdavidmackenzie/pigg
 * 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
