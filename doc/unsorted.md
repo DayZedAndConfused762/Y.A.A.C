@@ -27,6 +27,10 @@ This is a unsorted dump list of links and info
 * https://github.com/arbowl/cyberdeck-battery-indicator
 * https://us.store.bambulab.com/products/a1-mini?variant=41513493627016&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gclid=Cj0KCQjws560BhCuARIsAHMqE0HnUhAIglJQwQqTK-sM3_zbbS-OCuRnXC50aFpFoEUQareySjqvBPwaAoAyEALw_wcB
 * https://github.com/DevMiser
+* https://www.reddit.com/r/raspberry_pi/comments/sd1u3k/irc_client_with_web_interface/
+* https://www.reddit.com/r/irc/comments/ouez5d/move_over_raspberry_pi_the_new_king_of_lowend_irc/
+* https://www.reddit.com/r/irc/comments/osu1f6/creating_an_raspberry_pi_irc_and_web_server/
+* https://pimylifeup.com/raspberry-pi-irc-server/
 * 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
