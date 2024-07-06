@@ -5,7 +5,7 @@
 
 # Y.A.A.C-m
 
-This page is the home of the Y.A.A.C-m, a mini CyberDeck
+This page is the home of the Y.A.A.C-m, a Meshtastic CyberDeck
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
@@ -14,7 +14,7 @@ This page is the home of the Y.A.A.C-m, a mini CyberDeck
 
 ## Overview
 
-The Y.A.A.C-m is a planned mini CyberDeck.
+The Y.A.A.C-m is a planned Meshtastic CyberDeck.
 
 This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
 
