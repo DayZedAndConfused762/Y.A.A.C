@@ -52,6 +52,9 @@ This is a unsorted dump list of links and info
 * https://www.instructables.com/OURphone-an-Open-Source-Linux-Smartphone/
 * https://pine64.com/
 * https://github.com/evanman83/OURS-project/
+* https://pine64.com/product/pinetime-smartwatch-sealed/
+* https://wiki.pine64.org/wiki/PineTime
+* https://pine64.com/product/pinetime-dev-kit/
 * 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
