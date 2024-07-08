@@ -18,6 +18,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <img src="img/logos/vecteezy_black-vector-yak-head-icon-isolated-on-white-background_.jpg" alt="CyberDeck Logo" align="left" style="margin-right: 25px" height=150>
 
