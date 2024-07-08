@@ -56,6 +56,8 @@ This is a unsorted dump list of links and info
 - https://wiki.pine64.org/wiki/PineTime
 - https://pine64.com/product/pinetime-dev-kit/
 - https://github.com/outdoorbits/little-backup-box
+- https://github.com/MXZZ/Netgotchi/
+- 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
 
