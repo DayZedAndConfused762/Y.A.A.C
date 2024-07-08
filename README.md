@@ -3,8 +3,6 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C
-
 ![Y.A.A.C Logo](img/logos/yaac-high-resolution-logo-transparent.png)
 
 <!-- ------------------------------ Intro End ------------------------------ -->
