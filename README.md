@@ -5,7 +5,7 @@
 
 # Y.A.A.C
 
-![Y.A.A.C Logo](images/logo/yaac-high-resolution-logo-transparent.png)
+![Y.A.A.C Logo](img/logos/yaac-high-resolution-logo-transparent.png)
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
