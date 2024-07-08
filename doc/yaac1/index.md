@@ -14,7 +14,8 @@ This page is the home of the Y.A.A.C-1, my primary CyberDeck.
 
 ## Overview
 
-The Y.A.A.C-1 is a general use CyberDeck, for general computing, cyber security, and offline internet. At it's core is a Raspberry Pi 4 in an Apache 3800 case. Powered by an Anker powerbank and a Geekworm UPS.
+The Y.A.A.C-1 is a general use CyberDeck, for general computing, cyber security, and offline internet. At it's core is a Raspberry Pi 4 in an Apache 3800 case. Powered by an Anker powerbank and a Geekworm UPS. It is currenty disassembled as I got in some new hardware, and want to refind the face plates.  I will be posting pictures of the build process as it's put back together.
+
 This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
 
 ![CyberDeck v0.1.0](../../img/yaac/yaac1/cyberdeck-3-v0-1-0.jpg)
