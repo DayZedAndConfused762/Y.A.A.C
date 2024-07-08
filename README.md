@@ -20,7 +20,7 @@ Future planned decks include the [Y.A.A.C-g](/doc/yaacg/index.md) for Gaming, th
 
 This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
 
-![CyberDeck v0.1.0](images/cyberdeck/cyberdeck-3-v0-1-0.jpg)
+![CyberDeck v0.1.0](img/yaac/cyberdeck-3-v0-1-0.jpg)
 Version 0.1.0 of the Y.A.A.C.1
 
 <!-- ------------------------------ Overview End ------------------------------ -->
