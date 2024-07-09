@@ -86,6 +86,7 @@ Item|URL|Price
 #### *USB Micro*
 Item|URL|Price
 ---|---|---
+SABRENT [6-Pack 22AWG Premium 1ft Micro USB Cables | https://www.amazon.com/gp/product/B011KMSNXM/ | $7.98
 
 <!-- ++++++++++++++++++++ OwnedCables End ++++++++++++++++++++ -->
 
@@ -145,6 +146,7 @@ waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FG
 Item|URL|Price
 ---|---|---
 GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router | https://www.amazon.com/gp/product/B09N72FMH5/ | $33.90
+Micro USB OTG Hub for Raspberry Pi Zero | https://www.amazon.com/gp/product/B01JL837X8 | $7.99
 NETGEAR 5-Port Gigabit Ethernet Unmanaged Switch | https://www.amazon.com/gp/product/B07S98YLHM/ | $17.99
 USB C Hub, 9-in-1 USB C Hub Multiport Adapter | https://www.amazon.com/gp/product/B0D22M5713/ | $29.99
 BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
@@ -239,10 +241,20 @@ CanaKit 3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.ama
 Item|URL|Price
 ---|---|---
 Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
+PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/gp/product/B09MJ8SCGD/ | $39.99
 
 <!-- ++++++++++++++++++++ OwnedPower End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedStorage Start ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ OwnedSdr Start ++++++++++++++++++++ -->
+
+#### *SDR*
+Item|URL|Price
+---|---|---
+V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www.amazon.com/dp/B0CD7558GT/ | $41.95
+
+<!-- ++++++++++++++++++++ OwnedSdr End ++++++++++++++++++++ -->
+
 
 ### Storage
 Item|URL|Price
@@ -456,7 +468,6 @@ Raspberry Pi AI HAT | https://www.raspberrypi.com/news/raspberry-pi-ai-kit-avail
 ### Hubs & Card Readers
 Item|URL|Price
 ---|---|---
-Micro USB OTG Hub for Raspberry Pi Zero | https://www.amazon.com/gp/product/B01JL837X8 | $7.99
 TP-Link N300 Wireless Portable Router | https://www.amazon.com/dp/B00TQEX8BO/ | $
 USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini | $
 
@@ -569,7 +580,6 @@ Item|URL|Price
 ---|---|---
 Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://www.amazon.com/dp/B07RC649ZC | $38.99
 Pisugar 2 Portable 1200 mAh UPS | https://www.amazon.com/dp/B08D678XPR/ | $35.99
-PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/dp/B09MJ8SCGD/ | $39.99
 PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/dp/B097RC8KLQ/ | $27.99
 
 <!-- ++++++++++++++++++++ ToUsePower End ++++++++++++++++++++ -->
@@ -581,7 +591,6 @@ Item|URL|Price
 ---|---|---
 RTL-SDR (DVB-T), (DAB), and FM tuner | https://hackerwarehouse.com/product/rtlsdr/ | $
 Software Defined Radio (Dongle Only) | https://www.amazon.com/gp/product/B0BMKZCKTF/ | $
-V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www.amazon.com/dp/B0CD7558GT/ | $
 
 <!-- ++++++++++++++++++++ ToUseSDR End ++++++++++++++++++++ -->
 
