@@ -31,6 +31,12 @@ Item|URL|Price
 StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $5.29
 USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
 
+#### *Dust Covers*
+Item|URL|Price
+---|---|---
+40PCS USB Port Cover Assortment | https://www.amazon.com/gp/product/B0CYZZ879Q/ | $7.99
+uxcell 5pcs Silicone Protectors Micro HDMI | https://www.amazon.com/gp/product/B07YJX8BYG/ | $.89
+
 #### *Ethernet*
 Item|URL|Price
 ---|---|---
@@ -169,6 +175,8 @@ TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ |
 ### Mounting & Hardware
 Item|URL|Price
 ---|---|---
+600PCS M3 Male Female Nylon Hex Spacer Standoffs | https://www.amazon.com/gp/product/B0CBPGKDP4/ | $14.99
+1280 Pieces M3 Button Head Socket Cap Screws Bolts Washers Nuts Kit | https://www.amazon.com/dp/B09WJ1C8JP/ | $19.99
 EEEEE (M2 M2.5 M3 M4) 572pcs Standoff Kit | https://www.amazon.com/gp/product/B0B57DQZHF/ | $23.00
 Metric M3 Phillips Pan Head Nylon Screws Nut Washer Assortment Kit | https://www.amazon.com/gp/product/B0BL3SD5HD/ | $9.99
 N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
@@ -504,8 +512,6 @@ Item|URL|Price
 5Pack Cable Spring Holder Clips | https://www.amazon.com/dp/B09S8VXZXC/ $11.99
 500pcs Laptop Notebook Computer Screw Kit Set | https://www.amazon.com/gp/product/B01FTI8TM8 | $8.99
 500Pcs M2 M2.5 M3 Metric Female Thread Knurled Brass Threaded Insert Embedded Nuts | https://www.amazon.com/gp/product/B07GLJ7KCJ/ | $11.39
-600PCS M3 Male Female Nylon Hex Spacer Standoffs | https://www.amazon.com/gp/product/B0CBPGKDP4/ | $
-1280 Pieces M3 Button Head Socket Cap Screws Bolts Washers Nuts Kit | https://www.amazon.com/dp/B09WJ1C8JP/ | $19.99
 DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ/ | $12.99
 Sumnacon 8Pcs Stainless Steel Flat Plates | https://www.amazon.com/gp/product/B07D8QMLPR/ | $8.99
 VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ | $
