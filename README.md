@@ -28,12 +28,13 @@ Version 0.1.0 of the Y.A.A.C.1
 
 ## Files
 
-- [Components](doc/components.md) A list of compents I own, as well as components that may be useful for future builds
-- [Guides](doc/guides.md) A list of guides/tutorials/information
-- [Inspiration](doc/inspiration.md) Other CyberDecks, projects, and links for inspiration
-- [Software](doc/software.md) Software used and to possibly use
-- [To Do List](doc/todo.md) To Do list
-- [Unsorted](doc/unsorted.md) A file containing links and other information yet to be sorted
+- [Components](doc/components.md): A list of compents I own, as well as components that may be useful for future builds.
+- [Guides](doc/guides.md): A list of guides/tutorials/information.
+- [Inspiration](doc/inspiration.md): Other CyberDecks, projects, and links for inspiration.
+- [Software](doc/software.md): Software used and to possibly use.
+- [To Do List](doc/todo.md): A To Do list for this repository.
+- [Unsorted](doc/unsorted.md): A file containing links and other information yet to be sorted.
+- [Web Tools](doc/webtools.md): A collection of web based tools and utilities.
 
 <!-- ------------------------------ Files End ------------------------------ -->
 
