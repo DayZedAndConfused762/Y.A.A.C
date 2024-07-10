@@ -18,7 +18,7 @@ Currently working the [Y.A.A.C-1](/doc/yaac1/index.md), a general use CyberDeck,
 
 This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
 
-![CyberDeck v0.1.0](img/yaac/yaac1/cyberdeck-3-v0-1-0.jpg)
+![CyberDeck v0.1.0](img/yaac/yaac1/yaac1-3-v0-1-0.jpg)
 Version 0.1.0 of the Y.A.A.C.1
 
 <!-- ------------------------------ Overview End ------------------------------ -->
