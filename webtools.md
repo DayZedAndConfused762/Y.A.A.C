@@ -1,1 +1,0 @@
-- [crontab guru](https://crontab.guru/): The quick and simple editor for cron schedule expressions by Cronitor.
