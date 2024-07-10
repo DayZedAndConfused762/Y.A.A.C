@@ -67,6 +67,7 @@ This is a unsorted dump list of links and info
 - https://www.reddit.com/r/RTLSDR/comments/178bjbk/what_raspberry_pi_to_get/
 - https://www.reddit.com/r/RTLSDR/comments/1bixs2e/rtlsdr_v4_static_on_linux_latest_raspberry_os_on/
 - https://www.reddit.com/r/RTLSDR/comments/ryqood/raspberry_pi_4_wsdr/
+- https://www.walmart.com/ip/5239182812
 - 
 - 
 
