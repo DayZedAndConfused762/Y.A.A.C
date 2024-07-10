@@ -127,11 +127,20 @@ A list of operating systems and software that may be useful for CyberDecks.  Thi
 
 <!-- ++++++++++++++++++++ GPS Start ++++++++++++++++++++ -->
 
-## GPS/Mapping
+## GPS and Mapping
 - [FoxTrot GPS](https://www.foxtrotgps.org/): FoxtrotGPS is an easy to use, free & open-source GPS/GIS application that works well on small screens, and is especially suited to touch input.
 - [Ulysses Mapping Program](https://github.com/sbenf999/Ulysses-Mapping-Program): An offline and online mapping program created using CustomTkinter and TkinterMapview. Incorporates a settings system and an offline tile downloading addon.
 
 <!-- ++++++++++++++++++++ GPS End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Hardware Start ++++++++++++++++++++ -->
+
+## Hardware Utilities
+- [Waveshare 10.1inch HDMI LCD (B) (with case)](https://www.waveshare.com/wiki/10.1inch_HDMI_LCD_(B)_(with_case)): Software for the Waveshare 10.1inch LCD (B) display.
+- [Geekworm x728 Software](https://wiki.geekworm.com/X728-Software): Software for the Geekworm x728 UPS.
+- [Geekworm x728 Repository](https://github.com/geekworm-com/x728): GitHub repository for the Geekworm x728 UPS.
+
+<!-- ++++++++++++++++++++ Hardware End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Media Start ++++++++++++++++++++ -->
 
@@ -173,15 +182,11 @@ A list of operating systems and software that may be useful for CyberDecks.  Thi
 - [PiKISS](https://github.com/jmcerrejon/PiKISS): A Bunch Of Scripts With Menu To Make Your Life Easier.
 - [PiGro](https://github.com/actionschnitzel/PiGro-Aid-): All Settings In One Place!.
 - [pigg](https://github.com/andrewdavidmackenzie/pigg): - Raspberry Pi GPIO GUI An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate.
-- [rpi-clone](https://github.com/billw2/rpi-clone): rpi-clone is a shell script that is for cloning a running Raspberry Pi booted source disk (SD card or USB disk).
 - [RasComm](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator): RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
 - [sdm](https://github.com/gitbls/sdm): Raspberry Pi SSD/SD Card Image Manager.
 - [stressberry](https://github.com/nschloe/stressberry): a package for testing the core temperature under different loads.
 - [sysmon](https://github.com/gridhead/sysmon): An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.
 - [TorTiPi](https://github.com/rosehgal/tortipi): a tool to setup the Tor based wifi hotspot on Raspberry Pi.
-- [Waveshare 10.1inch HDMI LCD (B) (with case)](https://www.waveshare.com/wiki/10.1inch_HDMI_LCD_(B)_(with_case)): Software for the Waveshare 10.1inch LCD (B) display.
-- [Geekworm x728 Software](https://wiki.geekworm.com/X728-Software): Software for the Geekworm x728 UPS.
-- [Geekworm x728 Repository](https://github.com/geekworm-com/x728): GitHub repository for the Geekworm x728 UPS.
 
 <!-- ++++++++++++++++++++ RPi General End ++++++++++++++++++++ -->
 
