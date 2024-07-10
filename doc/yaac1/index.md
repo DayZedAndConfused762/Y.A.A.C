@@ -14,7 +14,7 @@ This page is the home of the Y.A.A.C-1, my primary CyberDeck.
 
 ## Overview
 
-The Y.A.A.C-1 is a general use CyberDeck, for general computing, cyber security, and offline internet. At it's core is a Raspberry Pi 4 in an Apache 3800 case. Powered by an Anker powerbank and a Geekworm UPS.  Battery life is approximately 10 hours with the screen on, and about 20 the screen powered down, not counting the battery in the UPS.
+The Y.A.A.C-1 is the first of the Y.A.A.C family of CyberDecks.  It is designed for general computing, cyber security, and offline internet. At it's core is a Raspberry Pi 4 in an Apache 3800 case. Powered by an Anker powerbank and a Geekworm UPS.  Battery life is approximately 10 hours with the screen on, and about 20 the screen powered down, not counting the battery in the UPS.
 
 It is currenty disassembled as I got in some new hardware, and want to refind the face plates.  I will be posting pictures of the build process as it's put back together.
 
