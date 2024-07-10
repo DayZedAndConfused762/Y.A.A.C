@@ -12,11 +12,10 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ Guides Start ------------------------------ -->
 
-## Guides
 
 <!-- ++++++++++++++++++++ AI Start ++++++++++++++++++++ -->
 
-### AI
+## AI
 - [Deploy and run LLM on Raspberry Pi](https://www.dfrobot.com/blog-13498.html): 
 - [Best LLM to run on a RPI 4b 4/8GB?](https://www.reddit.com/r/LocalLLM/comments/14ztpt1/best_llm_to_run_on_a_rpi_4b_48gb/?rdt=42405): 
 - [I Ran Advanced LLMs on the Raspberry Pi 5!](https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/?rdt=50633): 
@@ -27,23 +26,23 @@ This is a list of guides and helpful information.
 
 <!-- ++++++++++++++++++++ Coding Start ++++++++++++++++++++ -->
 
-### Coding/Scripting/Markup/Markdown
+## Coding/Scripting/Markup/Markdown
 
 - [RPi/Coding tutorials](https://www.youtube.com/@mmshilleh): 
 
-#### *Markdown*
+### *Markdown*
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/):
 - [How to display markdown document with rendering on RPi4?](https://forums.raspberrypi.com/viewtopic.php?t=278720):
 
-#### *Python*
+### *Python*
 - [Python for Beginners](https://www.python.org/about/gettingstarted/): 
 - [Best way to learn python?](https://www.reddit.com/r/learnpython/comments/11kcko1/best_way_to_learn_python/):
 - [Learning Python](https://pimylifeup.com/category/coding/python/): 
 - [r/learnpython](https://www.reddit.com/r/learnpython/): 
 
-#### *Bash*
+### *Bash*
 - [Write Your Own Bash Scripts to Automate Tasks on Linux](https://null-byte.wonderhowto.com/how-to/write-your-own-bash-scripts-automate-tasks-linux-0296284/): 
 
 
@@ -51,7 +50,7 @@ This is a list of guides and helpful information.
 
 <!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
-### CyberSecurity
+## CyberSecurity
 - [Clear the Logs & Bash History on Hacked Linux Systems to Cover Your Tracks](https://null-byte.wonderhowto.com/how-to/clear-logs-bash-history-hacked-linux-systems-cover-your-tracks-remain-undetected-0244768/): 
 - [How to Secure Our Kali Linux to Ensure Our Protection](https://www.geeksforgeeks.org/how-to-secure-our-kali-linux-to-ensure-our-protection/?ref=ml_lbp): 
 - [Hack Networks & Devices Right from Your Wrist with the Wi-Fi Deauther Watch](https://null-byte.wonderhowto.com/how-to/hack-networks-devices-right-from-your-wrist-with-wi-fi-deauther-watch-0296283/): 
@@ -67,7 +66,7 @@ This is a list of guides and helpful information.
 
 <!-- ++++++++++++++++++++ Data Start ++++++++++++++++++++ -->
 
-### Data Management
+## Data Management
 - [How To Format Pi SD Cards Using SD Formatter](https://www.raspberrypi-spy.co.uk/2015/03/how-to-format-pi-sd-cards-using-sd-formatter/): 
 - [Re-format SD card back to normal](https://forums.raspberrypi.com/viewtopic.php?t=204167&sid=8ff11f46427bd9df34d5688809002891): 
 - [PSA: Backup your SD cards. It's cheap and easy to get an USB SD card reader and automate the process](https://www.reddit.com/r/raspberry_pi/comments/1d8s51a/psa_backup_your_sd_cards_its_cheap_and_easy_to/): 
@@ -76,7 +75,7 @@ This is a list of guides and helpful information.
 
 <!-- ++++++++++++++++++++ Downloading Start ++++++++++++++++++++ -->
 
-### Downloading Content/Sites
+## Downloading Content/Sites
 - [Downloading in bulk using wget](https://blog.archive.org/2012/04/26/downloading-in-bulk-using-wget/): 
 - [Archive.org command line interface](https://archive.org/developers/internetarchive/cli.html): 
 
@@ -84,7 +83,7 @@ This is a list of guides and helpful information.
 
 <!-- ++++++++++++++++++++ Kali Start ++++++++++++++++++++ -->
 
-### Kali Linux
+## Kali Linux
 - [Enabling Remote Desktop and SSH access to Kali](https://www.geeksforgeeks.org/enabling-remote-desktop-and-ssh-access-to-kali/): 
 - [How to Enable and Start SSH on Kali Linux](https://www.geeksforgeeks.org/how-to-enable-and-start-ssh-on-kali-linux/): 
 - [How to Setup REMOTE DESKTOP on Kali Linux XRDP](https://www.youtube.com/watch?v=TetjB6uj_No): 
@@ -104,7 +103,7 @@ This is a list of guides and helpful information.
 
 <!-- ++++++++++++++++++++ Linux Start ++++++++++++++++++++ -->
 
-### Linux General Guides
+## Linux General Guides
 - [Linux Commands Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/?ref=outind): 
 - [Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/): 
 - [r/linuxquestions](https://www.reddit.com/r/linuxquestions/): 
@@ -113,7 +112,7 @@ This is a list of guides and helpful information.
 
 <!-- ++++++++++++++++++++ Offline Start ++++++++++++++++++++ -->
 
-### Offline Internet (Kiwix, RACHEL, IIAB)
+## Offline Internet (Kiwix, RACHEL, IIAB)
 - [Build Your Own Off-Grid Internet with Raspberry Pi!](https://www.youtube.com/watch?v=Hp4hLpDFVyg): 
 - [Build an Off Grid Wikipedia with #RaspberryPi](https://www.youtube.com/watch?v=R63x2TXm0s8): 
 - [*Making a RACHEL Module](https://ftp.worldpossible.org/rachel_plus/tutorials/making_a_rachel_content_module.pdf): 
@@ -123,7 +122,7 @@ This is a list of guides and helpful information.
 
 <!-- ++++++++++++++++++++ Networking Start ++++++++++++++++++++ -->
 
-### Networking
+## Networking
 - [Share laptop WiFi via ethernet cable to PC](https://answers.microsoft.com/en-us/windows/forum/all/share-laptop-wifi-via-ethernet-cable-to-pc/b8cd07cc-b6b7-4d5a-b8ca-1b7c2bb465ad): 
 - [How to Share Internet Over Ethernet Cable](https://www.instructables.com/How-to-share-Internet-over-Ethernet-Cable/): 
 
@@ -131,7 +130,7 @@ This is a list of guides and helpful information.
 
 <!-- ++++++++++++++++++++ RPi Start ++++++++++++++++++++ -->
 
-### Raspberry Pi Specific
+## Raspberry Pi Specific
 - [Raspberry Pi OS Documentation](https://www.raspberrypi.com/documentation/computers/os.html): 
 - [Boot from USB - RPi 2/3](https://pimylifeup.com/raspberry-pi-boot-from-usb/): 
 - [Raspberry Pi as an FM Transmitter](https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/): 
@@ -139,6 +138,13 @@ This is a list of guides and helpful information.
 - [Raspberry Pi Configuration](https://www.raspberrypi.com/documentation/computers/configuration.html): 
 
 <!-- ++++++++++++++++++++ RPi End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
+
+## Software Defined Radio
+ - [RTL-SDR Quick Star Guide]([RTL-SDR](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/)):
+
+<!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
 
 <!-- ------------------------------ Guides End ------------------------------ -->
 
