@@ -142,7 +142,7 @@ This is a list of guides and helpful information.
 <!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
 
 ## Software Defined Radio
- - [RTL-SDR Quick Star Guide]([RTL-SDR](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/)):
+ - [RTL-SDR Quick Star Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/):
 
 <!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
 
