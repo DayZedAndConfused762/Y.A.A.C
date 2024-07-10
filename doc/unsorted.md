@@ -57,6 +57,17 @@ This is a unsorted dump list of links and info
 - https://pine64.com/product/pinetime-dev-kit/
 - https://github.com/outdoorbits/little-backup-box
 - https://github.com/MXZZ/Netgotchi/
+- https://www.youtube.com/watch?v=bbgf1eQk778
+- https://github.com/luigifcruz/pisdr-image
+- https://www.reddit.com/r/RTLSDR/comments/1b8c8ly/rtlsdr_v4_on_a_pi3b/
+- https://www.youtube.com/watch?v=VEayBGl-xLA
+- https://www.youtube.com/watch?v=23jp5K5-pjE
+- https://www.rtl-sdr.com/v4/
+- https://www.reddit.com/r/sdr/comments/1cqz6mr/raspberry_pi_w_rtlsdr_v4_via_gnu_radio/
+- https://www.reddit.com/r/RTLSDR/comments/178bjbk/what_raspberry_pi_to_get/
+- https://www.reddit.com/r/RTLSDR/comments/1bixs2e/rtlsdr_v4_static_on_linux_latest_raspberry_os_on/
+- https://www.reddit.com/r/RTLSDR/comments/ryqood/raspberry_pi_4_wsdr/
+- 
 - 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
