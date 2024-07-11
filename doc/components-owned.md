@@ -15,90 +15,35 @@ This is a list of all components I own for my CyberDecks as well as links and pr
 ## Contents
 - [Cables and Adapters](#cables-and-adapters)
   - [Adpters](#Adapters)
-
-
-### *DC*
-
-### *Dust Covers*
-
-### *Ethernet*
-
-### *GPIO*
-
-
-### *HDMI*
-
-
-
-
-
-### *USB A to A*
-
-### *USB C to C*
-
-
-### *USB C to A*
-
-### *USB C Extention*
-
-
-### *USB C Splitter*
-Item|URL|Price
----|---|---
-
-### *USB Micro*
-
-
-## Cases
-
-
-## Cooling
-
-## Core Compute
-
-
-## Display
-
-
-## Hubs & Card readers
-
-
-## Input Devices
-
-
-## Mounting and Hardware
-
-
-## Organization and Labeling
-
-
-## Panels
-
-## Ports
-
-## Power
-
-### *Batteries*
-
-### *Buttons*
-
-
-### *Power Supplies*
-
-
-### *UPS*
-
-
-## *SDR*
-
-
-
-## Storage
-
-
-## Tools
-
-
+  - [](#DC)
+  - [](#Dust-Covers)
+  - [](#Ethernet)
+  - [](#GPIO)
+  - [](#HDMI)
+  - [](#USB-A-to-A)
+  - [](#USB-C-to-C)
+  - [](#USB-C-to-A)
+  - [](#USB-C-Extention)
+  - [](#USB-C-Splitter)
+  - [](#USB-Micro)
+- [Cases](#Cases)
+- [Cooling](#Cooling)
+- [Core Compute](#Core-Compute)
+- [Display](#Display)
+- [Hubs and Card Readers](#Hubs-and-Card-Readers)
+- [Input Devices](#Input-Devices)
+- [Mounting and Hardware](#Mounting-and-Hardware)
+- [Organization and Labeling](#Organization-and-Labeling)
+- [Panels](#Panels)
+- [Ports](#Ports)
+- [Power](#Power)
+  - [Power](#Batteries)
+  - [Buttons](#Buttons)
+  - [Power Supplies](#Power Supplies)
+  - [UPS](#UPS)
+- [SDR](#SDR)
+- [Storage](#Storage)
+- [Tools])#Tools)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
@@ -240,7 +185,7 @@ waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FG
 
 <!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
 
-## Hubs & Card readers
+## Hubs and Card Readers
 Item|URL|Price
 ---|---|---
 GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router | https://www.amazon.com/gp/product/B09N72FMH5/ | $33.90
