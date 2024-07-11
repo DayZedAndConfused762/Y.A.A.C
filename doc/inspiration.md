@@ -30,6 +30,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 ## Cyberdecks
 - [CyberDecks](https://www.reddit.com/r/cyberDeck/)
 - [The CyberDeck Cafe](https://cyberdeck.cafe/)
+- [A CyberDeck Scrapbook](https://scrapbox.io/CYBERDECK/)
 - [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
 - [Framework Cyberdeck](https://github.com/BenMakesEverything/cyberdeck)
 - [framedeck](https://github.com/brickbots/framedeck)
