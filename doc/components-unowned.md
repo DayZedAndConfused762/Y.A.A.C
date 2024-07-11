@@ -41,6 +41,7 @@ This is a list of components that I do not own that may be useful for future bui
 - [Hats](#Hats)
 - [Hubs and Card Readers](#Hubs-and-Card-Readers)
 - [Input Devices](#Input-Devices)
+- [Media](Media)
 - [Meshtastic](#Meshtastic)
 - [Mounting and Hardware](#Mounting-and-Hardware)
 - [Organization and Labeling](#Organization-and-Labeling)
