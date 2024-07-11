@@ -17,29 +17,20 @@ This is a template for list of components.
 - [Section Name](#Section-Name)
   - [Subsection Name](#Subsection-Name)
 
-
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 
 <!-- ------------------------------ Section Start ------------------------------ -->
 
 ## Section Name
-
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
-
-### Section Name
 Item|URL|Price
 ---|---|---
 Item Name | https://www.amazon.com/ | $123,456,789.99
 Item Name | https://www.amazon.com/ | $123,456,789.99
 
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
-
 <!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
 
-### Subsection Name
-
-#### *Subsubsection Name*
+### *Subsubsection Name*
 Item|URL|Price
 ---|---|---
 Item Name | https://www.amazon.com/ | $123,456,789.99
