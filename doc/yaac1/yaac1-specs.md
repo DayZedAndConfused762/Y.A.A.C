@@ -17,7 +17,7 @@ Hardware Specs for the Y.A.A.C-1
  - [Cases](#Cases)
  - [Core Compute](#Core-Compute)
  - [Display](#Display)
- - [Power](Power)
+ - [Power](#Power)
  - [Storage](#Storage)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
