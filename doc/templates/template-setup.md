@@ -15,22 +15,15 @@ Template for steps to setup and install operating systems and software.
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 
-<!-- ------------------------------ Setup Start ------------------------------ -->
+<!-- ------------------------------ Section Start ------------------------------ -->
 
-## Setup
-
-<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
-
-### Subsection Name - Purpose - Operating System - Storage Device
+## Subsection Name - Purpose - Operating System - Storage Device
 
 * Step 1
 * Step 2
 * Step 3 `this is a command to run`
 
-<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
-
-
-<!-- ------------------------------ Setup End ------------------------------ -->
+<!-- ------------------------------ Section End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
