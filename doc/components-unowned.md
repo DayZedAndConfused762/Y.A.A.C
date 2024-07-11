@@ -54,7 +54,7 @@ This is a list of components that I do not own that may be useful for future bui
 - [SDR](#SDR)
 - [Storage](#Storage)
 - [Tools](#Tools)
-- [Wifi Adapters](#WiFi-Adapters
+- [Wifi Adapters](#WiFi-Adapters)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
