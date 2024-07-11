@@ -5,12 +5,12 @@
 
 # Template - To Do
 
+This is a template for a To Do list
+
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
-
-This is a template for a To Do list
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
