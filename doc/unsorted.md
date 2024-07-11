@@ -19,15 +19,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-- https://www.remove.bg/upload
-- https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck
-- https://github.com/The-Exterminator/PiShrink-to-Crontab
-- https://vimm.net/?p=emulate
-- https://www.crowdsupply.com/useful-sensors/ai-in-a-box
-- https://github.com/arbowl/cyberdeck-battery-indicator/
-- https://github.com/andrewdavidmackenzie/pigg
-- https://www.amazon.com/dp/B0C61XFGHC?starsLeft=1&ref_=cm_sw_r_cso_cp_apin_dp_17Y1W88WWHRQY2E9SFQ7
-- https://www.youtube.com/watch?v=6UwWQSTCr_I
 - https://www.reddit.com/r/meshtastic/comments/1b0lfvw/raspberry_pi/
 - https://www.reddit.com/r/meshtastic/comments/1awf8mi/lora_hat_915mhz_for_raspberry_pi/
 - https://www.reddit.com/r/meshtastic/comments/1aw04zh/raspberry_pi_4_lora/
