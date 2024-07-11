@@ -1,18 +1,25 @@
-<!-- ======================================== template-inspiration.md Start ======================================== -->
+<!-- ======================================== template-list.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Template - Inspiration
-
-This is template for a list of inspiration and sources of information.
+# Template - Lists
 
 <!-- ------------------------------ Intro End ------------------------------ -->
+
+
+<!-- ------------------------------ Overview End ------------------------------ -->
+
+This is template for lists.
+
+<!-- ------------------------------ Overview End ------------------------------ -->
 
 
 <!-- ------------------------------ Section Start ------------------------------ -->
 
 ## Section Name
+* [Link](https://www.google.com/): Link Description
+  - [Sublink](https://www.google.com/): Sublink Description
 
 <!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
 
@@ -33,4 +40,4 @@ Outro Text Goes Here
 <!-- ------------------------------ Outro End ------------------------------ -->
 
 
-<!-- ======================================== template-inspiration.md End ======================================== -->
+<!-- ======================================== template-list.md End ======================================== -->
