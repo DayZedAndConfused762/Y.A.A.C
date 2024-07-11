@@ -36,7 +36,7 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 - [Panels](#Panels)
 - [Ports](#Ports)
 - [Power](#Power)
-  - [Power](#Batteries)
+  - [Batteries](#Batteries)
   - [Buttons](#Buttons)  <!--  - [Power Supplies](#Power-Supplies) -->
   - [UPS](#UPS)  <!-- - [SDR](#SDR) -->
 - [Storage](#Storage)  <!-- - [Tools](#Tools) -->
