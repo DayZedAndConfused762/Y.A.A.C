@@ -26,7 +26,7 @@ This is a list of components that I do not own that may be useful for future bui
   - [HDMI](#HDMI)
   - [Micro SD Extension](#Micro-SD-Extension)
   - [USB A to A](#USB-A-to-A)
-  - [USB C ot C](#USB-C-to-C)
+  - [USB C to C](#USB-C-to-C)
   - [USB A to C](#USB-C-to-A)
   - [USB Extention](#USB-C-Extention)
   - [USB C Splitter](#USB-C-Splitter)
