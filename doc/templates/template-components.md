@@ -12,6 +12,11 @@ This is a template for list of components.
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
+## Contents
+
+- [Platforms](#platforms)
+
+
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 

@@ -5,54 +5,55 @@
 
 # Y.A.A.C - Owned Components List
 
+This is a list of all components I own for my CyberDecks as well as links and prices (when available).
+
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-This is a list of all components I own for my CyberDecks as well as links and prices (when available).
+
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 
-<!-- ------------------------------ Components Owned Start ------------------------------ -->
+<!-- ------------------------------ Components Start ------------------------------ -->
 
-## Components Owned
 
 <!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
 
-### Cables & Adapters
+## Cables & Adapters
 
-#### *Adapters*
+### *Adapters*
 Item|URL|Price
 ---|---|---
 Cable Matters Combo-Pack 8K@60Hz Right Angle HDMI 2.1 Adapters | https://www.amazon.com/gp/product/B097CJLNXS/ | $7.99
 Poyiccot USB C Adapter 40Gbps, 3Pack 90 Degree | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
 QianLink Micro USB to USB C Adapter,8-Pack Micro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL | $5.99
 
-#### *DC*
+### *DC*
 Item|URL|Price
 ---|---|---
 StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $5.29
 USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
 
-#### *Dust Covers*
+### *Dust Covers*
 Item|URL|Price
 ---|---|---
 40PCS USB Port Cover Assortment | https://www.amazon.com/gp/product/B0CYZZ879Q/ | $7.99
 uxcell 5pcs Silicone Protectors Micro HDMI | https://www.amazon.com/gp/product/B07YJX8BYG/ | $.89
 
-#### *Ethernet*
+### *Ethernet*
 Item|URL|Price
 ---|---|---
 Cable Matters 10Gbps 5-Pack Snagless Short Shielded Cat6A 6pk | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
 Short USB C to USB C Cable 60W (2-Pack 1ft) | https://www.amazon.com/gp/product/B0BV6BGQ3B/ | $5.99
 
-#### *GPIO*
+### *GPIO*
 Item|URL|Price
 ---|---|---
 
-#### *HDMI*
+### *HDMI*
 Item|URL|Price
 ---|---|---
 4K Micro HDMI to HDMI Cable Adapter 3FT | https://www.amazon.com/gp/product/B08C2QMT4R/ | $8.99
@@ -62,39 +63,39 @@ Seadream 4K Micro HDMI to HDMI Cable 1FT 2Pack | https://www.amazon.com/gp/produ
 SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
 
 <!--
-#### *Micro SD Extension*
+### *Micro SD Extension*
 Item|URL|Price
 ---|---|---
 -->
 
-#### *USB A to A*
+### *USB A to A*
 Item|URL|Price
 ---|---|---
 USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
 USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
 
-#### *USB C to C*
+### *USB C to C*
 Item|URL|Price
 ---|---|---
 Anker New Nylon USB-C to USB-C Cable (2pack, 1 ft, 60W) | https://www.amazon.com/gp/product/B0CFZNZN25/ | $10.99
 SUNGUY USB C to USB C 1.5FT [2Pack] | https://www.amazon.com/gp/product/B08L7NCLZN/ | $7.99
 
-#### *USB C to A*
+### *USB C to A*
 Item|URL|Price
 ---|---|---
 JXMOX Short USB C Cable (1ft 3-Pack) | https://www.amazon.com/gp/product/B07HQHL6ZK/ | $6.99
 
-#### *USB C Extention*
+### *USB C Extention*
 Item|URL|Price
 ---|---|---
 CLEEFUN USB C Extension Cable 1ft | https://www.amazon.com/gp/product/B0C9STSC2B/ | $6.99
 USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/gp/product/B0C9JMH9VT/ | $6.99
 
-#### *USB C Splitter*
+### *USB C Splitter*
 Item|URL|Price
 ---|---|---
 
-#### *USB Micro*
+### *USB Micro*
 Item|URL|Price
 ---|---|---
 SABRENT [6-Pack 22AWG Premium 1ft Micro USB Cables | https://www.amazon.com/gp/product/B011KMSNXM/ | $7.98
@@ -103,7 +104,7 @@ SABRENT [6-Pack 22AWG Premium 1ft Micro USB Cables | https://www.amazon.com/gp/p
 
 <!-- ++++++++++++++++++++ Cases Start ++++++++++++++++++++ -->
 
-### Cases
+## Cases
 Item|URL|Price
 ---|---|---
 APACHE 1800 Weatherproof Protective Case, Small, Black | https://www.harborfreight.com/1800-weatherproof-protective-case-small-black-64550.html | $12.99
@@ -121,7 +122,7 @@ Geekworm for Raspberry Pi 4 Case, Universal HAT Size | https://www.amazon.com/gp
 
 <!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
-### Cooling
+## Cooling
 Item|URL|Price
 ---|---|---
 2Pack Quiet 80mm USB Fan | https://www.amazon.com/dp/B0C1GF3R3Y | $19.95
@@ -131,7 +132,7 @@ Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23
 
 <!-- ++++++++++++++++++++ Compute Start ++++++++++++++++++++ -->
 
-### Core Compute
+## Core Compute
 Item|URL|Price
 ---|---|---
 Raspberry Pi 3 Model B+ Board (3B+) | Previously Owned | $35.00
@@ -143,7 +144,7 @@ Waveshare Package E Compatible with Raspberry Pi Zero 2 WHC Bundle | https://www
 
 <!-- ++++++++++++++++++++ Display Start ++++++++++++++++++++ -->
 
-### Display
+## Display
 Item|URL|Price
 ---|---|---
 Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
@@ -153,7 +154,7 @@ waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FG
 
 <!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
 
-### Hubs & Card readers
+## Hubs & Card readers
 Item|URL|Price
 ---|---|---
 GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router | https://www.amazon.com/gp/product/B09N72FMH5/ | $33.90
