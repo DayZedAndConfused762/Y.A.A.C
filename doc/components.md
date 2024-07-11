@@ -3,14 +3,14 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Y.A.A.C - Components List
+# Y.A.A.C - Owned Components List
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-This is a list of all components for my CyberDecks as well as links and prices (when available).  This list includes components I own, as well as components not yet purchased but may be useful.
+This is a list of all components I own for my CyberDecks as well as links and prices (when available).
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
@@ -19,7 +19,7 @@ This is a list of all components for my CyberDecks as well as links and prices (
 
 ## Components Owned
 
-<!-- ++++++++++++++++++++ OwnedCables Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
 
 ### Cables & Adapters
 
@@ -99,9 +99,9 @@ Item|URL|Price
 ---|---|---
 SABRENT [6-Pack 22AWG Premium 1ft Micro USB Cables | https://www.amazon.com/gp/product/B011KMSNXM/ | $7.98
 
-<!-- ++++++++++++++++++++ OwnedCables End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cables End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedCases Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cases Start ++++++++++++++++++++ -->
 
 ### Cases
 Item|URL|Price
@@ -117,9 +117,9 @@ Micro SD/SDHC/SDXC Card Storage Holder Case | https://www.amazon.com/dp/B0196PR0
 Apache 3800 Black | https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html | $39.99
 Geekworm for Raspberry Pi 4 Case, Universal HAT Size | https://www.amazon.com/gp/product/B074T7D1V5/ | $6.00
 
-<!-- ++++++++++++++++++++ OwnedCases End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cases End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedStart ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ### Cooling
 Item|URL|Price
@@ -127,9 +127,9 @@ Item|URL|Price
 2Pack Quiet 80mm USB Fan | https://www.amazon.com/dp/B0C1GF3R3Y | $19.95
 Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23/ | $9.99
 
-<!-- ++++++++++++++++++++ OwnedCooling End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cooling End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedCompute Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Compute Start ++++++++++++++++++++ -->
 
 ### Core Compute
 Item|URL|Price
@@ -139,9 +139,9 @@ Raspberry Pi 3 Model B Board | Previously Owned | $35.00
 Raspberry Pi 4 Computer Model B 8GB | https://www.amazon.com/gp/product/B0899VXM8F/ | $75.00
 Waveshare Package E Compatible with Raspberry Pi Zero 2 WHC Bundle | https://www.amazon.com/dp/B09LCKL6D1 | $65.99
 
-<!-- ++++++++++++++++++++ OwnedCompute End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Compute End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedDisplay Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Display Start ++++++++++++++++++++ -->
 
 ### Display
 Item|URL|Price
@@ -149,9 +149,9 @@ Item|URL|Price
 Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
 waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FGC | $129.99
 
-<!-- ++++++++++++++++++++ OwnedDisplay End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Display End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedHubs Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
 
 ### Hubs & Card readers
 Item|URL|Price
@@ -163,9 +163,9 @@ USB C Hub, 9-in-1 USB C Hub Multiport Adapter | https://www.amazon.com/gp/produc
 BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
 USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J4ZT/ | $9.99
 
-<!-- ++++++++++++++++++++ OwnedHubs End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Hubs End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedInput Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Input Start ++++++++++++++++++++ -->
 
 ### Input Devices
 Item|URL|Price
@@ -174,9 +174,9 @@ Chicmine LT-T19 2.4GHz Wireless Mouse | https://www.walmart.com/ip/5239182812 | 
 E-YOOSO 60 Percent Mechanical Keyboard | https://www.amazon.com/gp/product/B098JVHPBF/ | $25.99
 TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ | $14.99
 
-<!-- ++++++++++++++++++++ OwnedInput End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Input End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedMounting Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Mounting Start ++++++++++++++++++++ -->
 
 ### Mounting & Hardware
 Item|URL|Price
@@ -193,9 +193,9 @@ T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX
 VELCRO® Brand Sticky Back 5ft x 3/4in Roll, Black | https://www.walmart.com/ip/46059293 | $15.98
 LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.com/gp/product/B07TP2YYQB/ | $14.88 
 
-<!-- ++++++++++++++++++++ OwnedMounting End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Mounting End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedOrganization Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Organization Start ++++++++++++++++++++ -->
 
 ### Organization and Labeling
 Item|URL|Price
@@ -203,9 +203,9 @@ Item|URL|Price
 Velcro Brand Cable Ties | no link/in store (Michaels) | $1.00 (Clearance)
 30 Pieces Cable Labels Multi-Color Wire Labels | https://www.amazon.com/gp/product/B0CMJ8K1L4/ | $4.46
 
-<!-- ++++++++++++++++++++ OwnedOrganization End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Organization End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedPanels Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
 
 ### Panels
 Item|URL|Price
@@ -214,9 +214,9 @@ Item|URL|Price
 2PCS 86 Hole Panel (4 Hole) for D-Type Module | https://www.amazon.com/gp/product/B09BNGQGP6/ | $12.99
 Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
 
-<!-- ++++++++++++++++++++ OwnedPanels End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Panels End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedPorts Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
 
 ### Ports
 Item|URL|Price
@@ -227,9 +227,9 @@ QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJW
 QIANRENON TRS 3.5mm Panel Mount | https://www.amazon.com/gp/product/B0CQLPX1VB/ | $$12.99
 USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
 
-<!-- ++++++++++++++++++++ OwnedPorts End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedPower Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Power Start ++++++++++++++++++++ -->
 
 ### Power
 
@@ -257,17 +257,17 @@ Item|URL|Price
 Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
 PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/gp/product/B09MJ8SCGD/ | $39.99
 
-<!-- ++++++++++++++++++++ OwnedPower End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Power End ++++++++++++++++++++ -->
 
 
-<!-- ++++++++++++++++++++ OwnedSdr Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Sdr Start ++++++++++++++++++++ -->
 
 #### *SDR*
 Item|URL|Price
 ---|---|---
 V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www.amazon.com/dp/B0CD7558GT/ | $41.95
 
-<!-- ++++++++++++++++++++ OwnedSdr End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Sdr End ++++++++++++++++++++ -->
 
 
 ### Storage
@@ -279,9 +279,9 @@ SanDisk 512GB Ultra microSDXC | https://www.walmart.com/ip/1455959513 | $42.69
 SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB) | https://www.amazon.com/gp/product/B09FFK1QLR/ | $20.82
 SanDisk 64GB Extreme PRO® microSD | https://www.amazon.com/gp/product/B09X7BYSFG/ | $13.99
 
-<!-- ++++++++++++++++++++ OwnedStorage End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Storage End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ OwnedTools Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Tools Start ++++++++++++++++++++ -->
 
 ### Tools
 Item|URL|Price
@@ -295,7 +295,7 @@ Utility Knife | no link/in store (Harbor Freight) | $4.99
 3mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.00
 4mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.50
 
-<!-- ++++++++++++++++++++ OwnedTools End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Tools End ++++++++++++++++++++ -->
 
 <!-- ------------------------------ Components Owned End ------------------------------ -->
 
