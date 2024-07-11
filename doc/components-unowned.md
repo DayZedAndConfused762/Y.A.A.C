@@ -5,102 +5,135 @@
 
 # Y.A.A.C - Owned Components List
 
+This is a list of components that I do not own that may be useful for future builds.
+
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-This is a list of all components I own for my CyberDecks as well as links and prices (when available).
+
+<!-- ------------------------------ Overview Start ------------------------------ -->
+
+## Contents
+- [Antennas](#Antennas)
+- [Cables and Adapters](#cables-and-adapters)
+  - [Adpters](#Adapters)
+  - [Audio](#Audio)
+  - [DC](#DC)
+  - [Ethernet](#Ethernet)
+  - [GPIO](#GPIO)
+  - [HDMI](#HDMI)
+  - [Micro SD Extension](#Micro-SD-Extension)
+  - [USB A to A](#USB-A-to-A)
+  - [USB C ot C](#USB-C-to-C)
+  - [USB A to C](#USB-C-to-A)
+  - [USB Extention](#USB-C-Extention)
+  - [USB C Splitter](#USB-C-Splitter)
+  - [USB Micro](#USB-Micro)
+  - [USB Micro Extension](#USB-Micro-Extension)
+- [Cases](#Cases)
+- [Cooling](#Cooling)
+- [Core Compute](#Core-Compute)
+- [Display](#Display)
+- [Gadgets](#Gadgets)
+- [GPS](#GPS)
+- [Hats](#Hats)
+- [Hubs and Card Readers](#Hubs-and-Card-Readers)
+- [Input Devices](#Input-Devices)
+- [Meshtastic](#Meshtastic)
+- [Mounting and Hardware](#Mounting-and-Hardware)
+- [Organization and Labeling](#Organization-and-Labeling)
+- [Panels](#Panels)
+- [Ports](#Ports)
+- [Power](#Power)
+  - [Batteries](#Batteries)
+  - [Buttons](#Buttons)
+  - [Power Supplies](#Power-Supplies)
+  - [UPS](#UPS)
+- [SDR](#SDR)
+- [Storage](#Storage)
+- [Tools](#Tools)
+- [Wifi Adapters](#WiFi-Adapters
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 
 <!-- ------------------------------ Components Start ------------------------------ -->
 
-## Possible Components to Use
-
 <!-- ++++++++++++++++++++ Antennas Start ++++++++++++++++++++ -->
 
-### Antennas
+## Antennas
 Item|URL|Price
 ---|---|---
 
 <!-- ++++++++++++++++++++ Antennas End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Audio Start ++++++++++++++++++++ -->
-
-### Audio
-Item|URL|Price
----|---|---
-WM8960 Audio HAT Module for Raspberry Pi | https://www.amazon.com/dp/B098R7TTM4/ | $
-WM8960 Hi-Fi Sound Card HAT for Raspberry Pi | https://www.amazon.com/dp/B0CN1D7Z9H/ | $
-
-<!-- ++++++++++++++++++++ Audio End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
 
-### Cables & Adapters
+## Cables and Adapters
 
-#### *Audio*
+### *Audio*
 Item|URL|Price
 ---|---|---
 3.5mm Angle Male to Female Audio Adapter | https://www.amazon.com/gp/product/B07YFBCQTT/ | 
 
-#### *DC*
+### *DC*
 Item|URL|Price
 ---|---|---
 
-#### *Ethernet*
+### *Ethernet*
 Item|URL|Price
 ---|---|---
 iGreely Ethernet Extender 2Pack RJ45 | https://www.amazon.com/dp/B06Y4J9MZ4/ | 
 SinLoon 90 Degree Left to Right Angle Cat8 Ethernet | https://www.amazon.com/gp/product/B0B3RKQRV1/ | 
 StarTech.com 6 in CAT6 Cable | https://www.amazon.com/gp/product/B078MP2HN1/ | 
 
-#### *GPIO*
+### *GPIO*
 Item|URL|Price
 ---|---|---
 Chanzon 40pcs 30cm Long Male to Female Header Jumper | https://www.amazon.com/gp/product/B09FP9M5J9/ | 
 
-#### *HDMI*
+### *HDMI*
 Item|URL|Price
 ---|---|---
 HDMI Cable Flat – 3ft – 4K@60Hz (Flat Cable) | https://www.amazon.com/dp/B0BV72556Z/ | 
 
-#### *Micro SD Extension*
+### *Micro SD Extension*
 Item|URL|Price
 ---|---|---
 Micro SD to Micro SD Card TF Memory Card Reader Flexible Extender | https://www.aliexpress.us/item/3256801742490754.html | $0.99
 
-#### *USB A to A*
+### *USB A to A*
 Item|URL|Price
 ---|---|---
 USB 3.0 USB Male A to Female A | https://www.amazon.com/gp/product/B09YL35VPF/ | 
 
-#### *USB C to C*
+### *USB C to C*
 Item|URL|Price
 ---|---|---
 2Pcs 3FT Flat Design USB C Android Auto Cable | https://www.amazon.com/dp/B08F7KCLKR/ | 
 Charger Cable 3FT for Car, Coiled USB C to USB C | https://www.amazon.com/gp/product/B0CQR8FDR2/ | 
 SUNGUY USB C Male to USB C Male CableRight Angle | https://www.amazon.com/gp/product/B07H96FWY9/ | 
 
-#### *USB C to A*
+### *USB C to A*
 Item|URL|Price
 ---|---|---
 Right Angle USB A Male to USB C Female Adapter | https://www.amazon.com/gp/product/B08PSCL9FC/ | 
 USB C Cable Fast Charging, 2Pack 3ft Coiled USB A | https://www.amazon.com/dp/B0BQ93DBF3/ | 
 
-#### *USB C Extention*
+### *USB C Extention*
 Item|URL|Price
 ---|---|---
 APEXSUN USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/dp/B0C9JMH9VT/ | 
 
-#### *USB C Splitter*
+### *USB C Splitter*
 Item|URL|Price
 ---|---|---
 USB Type C Splitter | https://www.amazon.com/gp/product/B0BZ8DFFNP/ | 
 
-#### *USB Micro*
+### *USB Micro*
 Item|URL|Price
 ---|---|---
 
@@ -113,7 +146,7 @@ Item|URL|Price
 
 <!-- ++++++++++++++++++++ Cases Start ++++++++++++++++++++ -->
 
-### Cases
+## Cases
 Item|URL|Price
 ---|---|---
 C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W | https://www.amazon.com/dp/B06XCK7G2R/ | 
@@ -121,21 +154,9 @@ Pelican Vault V100 Hard Case | https://www.amazon.com/Pelican-Vault-V100-Pistol-
 
 <!-- ++++++++++++++++++++ Cases End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Compute Start ++++++++++++++++++++ -->
-
-### Core Compute
-Item|URL|Price
----|---|---
-Beelink S12 Pro Mini PC | https://www.amazon.com/dp/B0BVLS7ZHP/ | 
-GeeekPi Raspberry Pi Zero 2 W Starter Kit | https://www.amazon.com/gp/product/B0BHD2S5MJ/ | 
-Raspberry Pi Zero WH | https://www.amazon.com/gp/product/B0CG99MR5W/ | 
-Waveshare Package D | https://www.amazon.com/dp/B09LCKNKM5/ | 
-
-<!-- ++++++++++++++++++++ Compute End ++++++++++++++++++++ -->
-
 <!-- ++++++++++++++++++++ Cooling Start ++++++++++++++++++++ -->
 
-### Cooling
+## Cooling
 Item|URL|Price
 ---|---|---
 2 Packs Wathai 60mm x 10mm USB | https://www.amazon.com/dp/B0821YC2NW/ | 
@@ -147,9 +168,21 @@ ELUTENG Dual Cooling Fan Whisper Quiet 80mm USB | https://www.amazon.com/dp/B09Q
 
 <!-- ++++++++++++++++++++ Cooling End ++++++++++++++++++++ -->
 
+<!-- ++++++++++++++++++++ Compute Start ++++++++++++++++++++ -->
+
+## Core Compute
+Item|URL|Price
+---|---|---
+Beelink S12 Pro Mini PC | https://www.amazon.com/dp/B0BVLS7ZHP/ | 
+GeeekPi Raspberry Pi Zero 2 W Starter Kit | https://www.amazon.com/gp/product/B0BHD2S5MJ/ | 
+Raspberry Pi Zero WH | https://www.amazon.com/gp/product/B0CG99MR5W/ | 
+Waveshare Package D | https://www.amazon.com/dp/B09LCKNKM5/ | 
+
+<!-- ++++++++++++++++++++ Compute End ++++++++++++++++++++ -->
+
 <!-- ++++++++++++++++++++ Display Start ++++++++++++++++++++ -->
 
-### Display
+## Display
 Item|URL|Price
 ---|---|---
 2.13inch E-Ink Display HAT V4 | https://www.amazon.com/dp/B07Z1WYRQH/ | $
@@ -161,7 +194,7 @@ waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/dp/
 
 <!-- ++++++++++++++++++++ Gadgets Start ++++++++++++++++++++ -->
 
-### Gadgets
+## Gadgets
 Item|URL|Price
 ---|---|---
 Deauther Watch | https://dstike.com/collections/frontpage/products/dstike-deauther-watch-v3s | 
@@ -177,7 +210,7 @@ SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th
 
 <!-- ++++++++++++++++++++ GPS Start ++++++++++++++++++++ -->
 
-### GPS
+## GPS
 Item|URL|Price
 ---|---|---
 
@@ -185,7 +218,7 @@ Item|URL|Price
 
 <!-- ++++++++++++++++++++ Hats Start ++++++++++++++++++++ -->
 
-### Hats
+## Hats
 Item|URL|Price
 ---|---|---
 Raspberry Pi AI HAT | https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/ | $70.00
@@ -194,7 +227,7 @@ Raspberry Pi AI HAT | https://www.raspberrypi.com/news/raspberry-pi-ai-kit-avail
 
 <!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
 
-### Hubs & Card Readers
+## Hubs and Card Readers
 Item|URL|Price
 ---|---|---
 TP-Link N300 Wireless Portable Router | https://www.amazon.com/dp/B00TQEX8BO/ | $
@@ -204,16 +237,26 @@ USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switc
 
 <!-- ++++++++++++++++++++ Input Start ++++++++++++++++++++ -->
 
-### Input Devices
+## Input Devices
 Item|URL|Price
 ---|---|---
 Medium Panel Mount USB Trackpad with Three Buttons | https://www.adafruit.com/product/5061 | $39.95
 
 <!-- ++++++++++++++++++++ Input End ++++++++++++++++++++ -->
 
+<!-- ++++++++++++++++++++ Media Start ++++++++++++++++++++ -->
+
+## Media
+Item|URL|Price
+---|---|---
+WM8960 Audio HAT Module for Raspberry Pi | https://www.amazon.com/dp/B098R7TTM4/ | $
+WM8960 Hi-Fi Sound Card HAT for Raspberry Pi | https://www.amazon.com/dp/B0CN1D7Z9H/ | $
+
+<!-- ++++++++++++++++++++ Media End ++++++++++++++++++++ -->
+
 <!-- ++++++++++++++++++++ Meshtastic Start ++++++++++++++++++++ -->
 
-### Meshtastic
+## Meshtastic
 Item|URL|Price
 ---|---|---
 915 ESP32 LoRa OLED Board V3 |  https://www.amazon.com/dp/B086ZFCV7F/ | $
@@ -226,7 +269,7 @@ LILYGO® TTGO LoRa32 V2.1_1.6 | https://www.aliexpress.us/item/2251832685763835.
 
 <!-- ++++++++++++++++++++ Mounting Start ++++++++++++++++++++ -->
 
-### Mounting & Hardware
+## Mounting and Hardware
 Item|URL|Price
 ---|---|---
 2Pcs 3 inch Silver Folding Butt Hinges | https://www.amazon.com/gp/product/B07BXGPSFP/ | $8.49
@@ -241,7 +284,7 @@ VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ 
 
 <!-- ++++++++++++++++++++ Organization Start ++++++++++++++++++++ -->
 
-### Organization & Labeling
+## Organization & Labeling
 Item|URL|Price
 ---|---|---
 Digital Tube Wire labels 0-9 Number Coded Clip | https://www.amazon.com/dp/B07V3S9LT6/ | $6.91
@@ -251,7 +294,7 @@ Wrap-It Storage - Cable Labels, Oval, Multi-Color (36 Pack) | https://www.amazon
 
 <!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
 
-### Panels
+## Panels
 Item|URL|Price
 ---|---|---
 
@@ -260,20 +303,17 @@ Item|URL|Price
 
 <!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
 
-### Ports
+## Ports
 Item|URL|Price
 ---|---|---
-
-
-
 
 <!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Power Start ++++++++++++++++++++ -->
 
-### Power
+## Power
 
-#### *Batteres*
+### *Batteres*
 Item|URL|Price
 ---|---|---
 3.7V 4500mAh 955178 LiPo Battery Pack with PH2.0mm JST Connector | https://www.amazon.com/dp/B07TXHV3ST | $13.80
@@ -287,22 +327,22 @@ Shargeek Portable Charger, Storm 2 100W 25600mAh | https://www.amazon.com/gp/pro
 Talentcell Rechargeable 12V 6000mAh/5V 12000mAh | https://www.amazon.com/dp/B00ME3ZH7C/ | $
 Trozk Portable Charger, PD30W | https://www.amazon.com/dp/B0CJ2J2YDS | $
 
-#### *Battery Chargers*
+### *Battery Chargers*
 Item|URL|Price
 ---|---|---
 Renogy 12V 20A AC-to-DC Portable Battery Charger Plug-and-Play with 12AWG Alligator Clips for Lithium-iron Phosphate Batteries  | https://www.amazon.com/Renogy-12V-20A-Alligator-Batteries/dp/B08C2JN76Q | $113.54
 
-#### *Buttons*
+### *Buttons*
 Item|URL|Price
 ---|---|---
 4 in 1 ON/Off Toggle Switch | https://www.amazon.com/dp/B0CPNYDCP6/ | $
 Nilight 4 in 1 ON/Off Charger Socket Panel | https://www.amazon.com/gp/product/B0BC8G9DNY/ | $
 
-#### *Power Supplies*
+### *Power Supplies*
 Item|URL|Price
 ---|---|---
 
-#### *UPS*
+### *UPS*
 Item|URL|Price
 ---|---|---
 Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://www.amazon.com/dp/B07RC649ZC | $38.99
@@ -313,7 +353,7 @@ PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/dp/B097RC8KLQ/ | $27.99
 
 <!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
 
-### SDR
+## SDR
 Item|URL|Price
 ---|---|---
 RTL-SDR (DVB-T), (DAB), and FM tuner | https://hackerwarehouse.com/product/rtlsdr/ | $
@@ -323,7 +363,7 @@ Software Defined Radio (Dongle Only) | https://www.amazon.com/gp/product/B0BMKZC
 
 <!-- ++++++++++++++++++++ Storage Start ++++++++++++++++++++ -->
 
-### Storage        
+## Storage        
 Item|URL|Price
 ---|---|---
 SanDisk 128GB Extreme microSDXC | https://www.amazon.com/dp/B09X7BK27V/ | $
@@ -332,7 +372,7 @@ SanDisk 128GB Extreme microSDXC | https://www.amazon.com/dp/B09X7BK27V/ | $
 
 <!-- ++++++++++++++++++++ Tools Start ++++++++++++++++++++ -->
 
-### Tools
+## Tools
 Item|URL|Price
 ---|---|---
 
@@ -340,7 +380,7 @@ Item|URL|Price
 
 <!-- ++++++++++++++++++++ WiFi Start ++++++++++++++++++++ -->
 
-### WiFi Adapters
+## WiFi Adapters
 Item|URL|Price
 ---|---|---
 
