@@ -76,6 +76,7 @@ This is a unsorted dump list of links and info
 - https://scrapbox.io/CYBERDECK/
 - https://github.com/PiSugar/PiSugar/wiki/PiSugar-3-Series
 - https://github.com/PiSugar/PiSugar/wiki/PiSugar-Power-Manager-(Software)
+- https://superuser.com/questions/1715839/how-re-format-a-linux-usb-in-windows
 - 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
