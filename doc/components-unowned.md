@@ -18,7 +18,7 @@ This is a list of components that I do not own that may be useful for future bui
 ## Contents
 - [Antennas](#Antennas)
 - [Cables and Adapters](#cables-and-adapters)
-  - [Adpters](#Adapters)
+  - [Adapters](#Adapters)
   - [Audio](#Audio)
   - [DC](#DC)
   - [Ethernet](#Ethernet)
@@ -73,6 +73,10 @@ Item|URL|Price
 <!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
 
 ## Cables and Adapters
+
+### *Adapters*
+Item|URL|Price
+---|---|---
 
 ### *Audio*
 Item|URL|Price
