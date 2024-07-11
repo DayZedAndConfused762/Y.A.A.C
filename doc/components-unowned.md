@@ -10,11 +10,6 @@
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-<!-- ------------------------------ Overview Start ------------------------------ -->
-
-
-<!-- ------------------------------ Overview Start ------------------------------ -->
-
 This is a list of all components I own for my CyberDecks as well as links and prices (when available).
 
 <!-- ------------------------------ Overview End ------------------------------ -->
