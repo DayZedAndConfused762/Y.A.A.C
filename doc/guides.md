@@ -169,7 +169,11 @@ This is a list of guides and helpful information.
 - [Boot from USB - RPi 2/3](https://pimylifeup.com/raspberry-pi-boot-from-usb/): 
 - [Raspberry Pi as an FM Transmitter](https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/): 
 - [Setup a Raspberry Pi to run a Web Browser in Kiosk Mode](https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/): 
-- [Raspberry Pi Configuration](https://www.raspberrypi.com/documentation/computers/configuration.html): 
+- [Raspberry Pi Configuration](https://www.raspberrypi.com/documentation/computers/configuration.html):
+- https://www.reddit.com/r/raspberry_pi/comments/sd1u3k/irc_client_with_web_interface/
+- https://www.reddit.com/r/irc/comments/osu1f6/creating_an_raspberry_pi_irc_and_web_server/
+- https://pimylifeup.com/raspberry-pi-irc-server/
+- 
 
 <!-- ++++++++++++++++++++ RPi End ++++++++++++++++++++ -->
 
