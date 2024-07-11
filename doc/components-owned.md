@@ -14,6 +14,93 @@ This is a list of all components I own for my CyberDecks as well as links and pr
 
 ## Contents
 - [Cables and Adapters](#cables-and-adapters)
+## Cables and Adapters
+
+### *Adapters*
+
+
+### *DC*
+
+### *Dust Covers*
+
+### *Ethernet*
+
+### *GPIO*
+
+
+### *HDMI*
+
+
+
+
+
+### *USB A to A*
+
+### *USB C to C*
+
+
+### *USB C to A*
+
+### *USB C Extention*
+
+
+### *USB C Splitter*
+Item|URL|Price
+---|---|---
+
+### *USB Micro*
+
+
+## Cases
+
+
+## Cooling
+
+## Core Compute
+
+
+## Display
+
+
+## Hubs & Card readers
+
+
+## Input Devices
+
+
+## Mounting and Hardware
+
+
+## Organization and Labeling
+
+
+## Panels
+
+## Ports
+
+## Power
+
+### *Batteries*
+
+### *Buttons*
+
+
+### *Power Supplies*
+
+
+### *UPS*
+
+
+## *SDR*
+
+
+
+## Storage
+
+
+## Tools
+
+
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
@@ -169,7 +256,7 @@ USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J
 
 <!-- ++++++++++++++++++++ Input Start ++++++++++++++++++++ -->
 
-### Input Devices
+## Input Devices
 Item|URL|Price
 ---|---|---
 Chicmine LT-T19 2.4GHz Wireless Mouse | https://www.walmart.com/ip/5239182812 | $12.35
@@ -180,7 +267,7 @@ TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ |
 
 <!-- ++++++++++++++++++++ Mounting Start ++++++++++++++++++++ -->
 
-### Mounting and Hardware
+## Mounting and Hardware
 Item|URL|Price
 ---|---|---
 600PCS M3 Male Female Nylon Hex Spacer Standoffs | https://www.amazon.com/gp/product/B0CBPGKDP4/ | $14.99
@@ -199,7 +286,7 @@ LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.c
 
 <!-- ++++++++++++++++++++ Organization Start ++++++++++++++++++++ -->
 
-### Organization and Labeling
+## Organization and Labeling
 Item|URL|Price
 ---|---|---
 Velcro Brand Cable Ties | no link/in store (Michaels) | $1.00 (Clearance)
@@ -209,7 +296,7 @@ Velcro Brand Cable Ties | no link/in store (Michaels) | $1.00 (Clearance)
 
 <!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
 
-### Panels
+## Panels
 Item|URL|Price
 ---|---|---
 16" x 20" Black Foam Boards, 3ct. | https://www.michaels.com/product/16-x-20-black-foam-boards-3ct-10308906 | $9.99
@@ -220,7 +307,7 @@ Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/pro
 
 <!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
 
-### Ports
+## Ports
 Item|URL|Price
 ---|---|---
 PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
