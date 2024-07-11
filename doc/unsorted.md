@@ -69,6 +69,8 @@ This is a unsorted dump list of links and info
 - https://www.reddit.com/r/RTLSDR/comments/ryqood/raspberry_pi_4_wsdr/
 - https://www.reddit.com/r/raspberry_pi/comments/1e03o7r/linux_file_system_for_windows_by_paragon_software/
 - https://scrapbox.io/CYBERDECK/
+- https://github.com/PiSugar/PiSugar/wiki/PiSugar-3-Series
+- https://github.com/PiSugar/PiSugar/wiki/PiSugar-Power-Manager-(Software)
 - 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
