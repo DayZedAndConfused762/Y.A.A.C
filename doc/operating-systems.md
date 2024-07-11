@@ -5,12 +5,24 @@
 
 # Y.A.A.C Operating Systems
 
+This is a list of operating systems that be be useful for the Y.A.A.Cs
+
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-This is a list of operating systems that be be useful for the Y.A.A.Cs
+## Contents:
+
+- [Communications](#Communications)
+- [Data](#Data)
+- [Gaming](#Gaming)
+- [General Use](#General-Use)
+- [Media](#Media)
+- [Misc](#Misc)
+- [Software Defined Radio](#Software-Defined-Radio)
+- [Security](#Security)
+- [Servers](#Servers)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
