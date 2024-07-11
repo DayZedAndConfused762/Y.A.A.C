@@ -289,7 +289,7 @@ VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ 
 
 <!-- ++++++++++++++++++++ Organization Start ++++++++++++++++++++ -->
 
-## Organization & Labeling
+## Organization and Labeling
 Item|URL|Price
 ---|---|---
 Digital Tube Wire labels 0-9 Number Coded Clip | https://www.amazon.com/dp/B07V3S9LT6/ | $6.91
