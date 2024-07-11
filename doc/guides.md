@@ -17,7 +17,7 @@ This is a list of guides and helpful information.
 - [AI](#AI)
 - [Coding](#Coding)
   - [Markdown](#Markdown)
-  - [Python](#Pythonb)
+  - [Python](#Python)
   - [Bash](#Bash)
 - [CyberSecurity](#CyberSecurity)
 - [Data Management](#Data-Management)
