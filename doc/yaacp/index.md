@@ -14,23 +14,16 @@ This page is the home of the Y.A.A.C-p, a portable power station.
 
 ## Overview
 
-The Y.A.A.C-p is a planned gaming CyberDeck.
+The Y.A.A.C-p is a planned portable power station.
 
-This repository details my build process, as well as containing links to components, software, inspiration and other useful information.
+This repository will detail my build process, as well as containing links to components, software, inspiration and other useful information.
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 
-<!-- ------------------------------ Files Start ------------------------------ -->
+<!-- ------------------------------ Section Start ------------------------------ -->
 
-## Files
-
-* [Build Guide](yaacp-build.md) A step by step reference of the build process
-* [Components](yaacp-components.md) A list of compents used, components owned, and components to possibly buy
-* [Specifications](yaacp-specs.md) Hardware specifications
-* [To Do List](yaacp-todo.md) To Do list
-
-<!-- ------------------------------ Files End ------------------------------ -->
+<!-- ------------------------------ Section End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
