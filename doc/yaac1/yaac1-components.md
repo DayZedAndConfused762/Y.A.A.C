@@ -48,7 +48,7 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 
 ## Components Used
 
-<!-- ++++++++++++++++++++ UsedCables Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
 
 <!--
 ### Cables & Adapters
@@ -94,9 +94,9 @@ Item|URL|Price
 ---|---|---
 -->
 
-<!-- ++++++++++++++++++++ UsedCables End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cables End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedCases Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cases Start ++++++++++++++++++++ -->
 
 ### Cases
 Item|URL|Price
@@ -104,36 +104,36 @@ Item|URL|Price
 Apache 3800 Black | https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html | $39.99
 Geekworm for Raspberry Pi 4 Case, Universal HAT Size | https://www.amazon.com/gp/product/B074T7D1V5/ | $6.00
 
-<!-- ++++++++++++++++++++ UsedCases End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cases End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedCooling Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cooling Start ++++++++++++++++++++ -->
 
 ### Cooling
 Item|URL|Price
 ---|---|---
 Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23/ | $9.99
 
-<!-- ++++++++++++++++++++ UsedCooling End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Cooling End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedCompute Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Compute Start ++++++++++++++++++++ -->
 
 ### Core Compute
 Item|URL|Price
 ---|---|---
 Raspberry Pi 4 Computer Model B 8GB | https://www.amazon.com/gp/product/B0899VXM8F/ | $75.00
 
-<!-- ++++++++++++++++++++ UsedCompute End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Compute End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedDisplay Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Display Start ++++++++++++++++++++ -->
 
 ### Display
 Item|URL|Price
 ---|---|---
 waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FGC | $129.99
 
-<!-- ++++++++++++++++++++ UsedDisplay End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Display End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedHubs Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
 
 ### Hubs & Card Readers
 Item|URL|Price
@@ -141,9 +141,9 @@ Item|URL|Price
 BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
 USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J4ZT/ | $9.99
 
-<!-- ++++++++++++++++++++ UsedHubs End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Hubs End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedInput Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Input Start ++++++++++++++++++++ -->
 
 ### Input Devices
 Item|URL|Price
@@ -151,18 +151,18 @@ Item|URL|Price
 E-YOOSO 60 Percent Mechanical Keyboard | https://www.amazon.com/gp/product/B098JVHPBF/ | $25.99
 TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ | $14.99
 
-<!-- ++++++++++++++++++++ UsedInput End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Input End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedMounting Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Mounting Start ++++++++++++++++++++ -->
 
 ### Mounting  & Hardware
 Item|URL|Price
 ---|---|---
 LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.com/gp/product/B07TP2YYQB/ | $14.88 
 
-<!-- ++++++++++++++++++++ UsedMounting End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Mounting End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedOrganization Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Organization Start ++++++++++++++++++++ -->
 
 <!--
 ### Organization and Labeling
@@ -170,9 +170,9 @@ Item|URL|Price
 ---|---|---
 -->
 
-<!-- ++++++++++++++++++++ UsedOrganization End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Organization End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedPanels Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
 
 <!--
 ### Panels
@@ -180,9 +180,9 @@ Item|URL|Price
 ---|---|---
 -->
 
-<!-- ++++++++++++++++++++ UsedPanels End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Panels End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedPorts Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
 
 ### Ports
 Item|URL|Price
@@ -191,9 +191,9 @@ PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9Z
 PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
 USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
 
-<!-- ++++++++++++++++++++ UsedPorts End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedPower Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Power Start ++++++++++++++++++++ -->
 
 ### Power
 #### *Batteries*
@@ -217,9 +217,9 @@ Item|URL|Price
 ---|---|---
 Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
 
-<!-- ++++++++++++++++++++ UsedPower End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Power End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ UsedStorage Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Storage Start ++++++++++++++++++++ -->
 
 ### Storage
 Item|URL|Price
@@ -228,7 +228,7 @@ Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
 SanDisk 1TB Extreme External Portable SSD | https://www.walmart.com/ip/1928585043 | $94.00
 SanDisk 512GB Ultra microSDXC | https://www.walmart.com/ip/1455959513 | $42.69
 
-<!-- ++++++++++++++++++++ UsedStorage End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Storage End ++++++++++++++++++++ -->
 
 <!-- ------------------------------ Components Used End ------------------------------ -->
 
