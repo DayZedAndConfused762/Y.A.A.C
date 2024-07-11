@@ -10,6 +10,13 @@ Template for steps to setup and install operating systems and software
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
+<!-- ------------------------------ Overview Start ------------------------------ -->
+
+Template for steps to setup and install operating systems and software
+
+<!-- ------------------------------ Overview End ------------------------------ -->
+
+
 <!-- ------------------------------ Setup Start ------------------------------ -->
 
 ## Setup
