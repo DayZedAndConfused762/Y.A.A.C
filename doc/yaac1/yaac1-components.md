@@ -32,18 +32,14 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 - [Display](#Display)
 - [Hubs and Card Readers](#Hubs-and-Card-Readers)
 - [Input Devices](#Input-Devices)
-- [Mounting and Hardware](#Mounting-and-Hardware)
-<!-- - [Organization and Labeling](#Organization-and-Labeling) -->
+- [Mounting and Hardware](#Mounting-and-Hardware)   <!-- - [Organization and Labeling](#Organization-and-Labeling) -->
 - [Panels](#Panels)
 - [Ports](#Ports)
 - [Power](#Power)
   - [Power](#Batteries)
-  - [Buttons](#Buttons)
-<!--  - [Power Supplies](#Power-Supplies) -->
-  - [UPS](#UPS)
-<!-- - [SDR](#SDR) -->
-- [Storage](#Storage)
-<!-- - [Tools](#Tools) -->
+  - [Buttons](#Buttons)  <!--  - [Power Supplies](#Power-Supplies) -->
+  - [UPS](#UPS)  <!-- - [SDR](#SDR) -->
+- [Storage](#Storage)  <!-- - [Tools](#Tools) -->
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
