@@ -31,5 +31,4 @@ This repository will detail my build process, as well as containing links to com
 <!-- ------------------------------ Outro End ------------------------------ -->
 
 
-
 <!-- ======================================== yaacpindex.md End ======================================== -->
