@@ -26,7 +26,7 @@ This is a list of guides and helpful information.
 - [Linux General Guides](Linux-General-Guides)
 - [Offline Internet](#Offline-Internet)
 - [Networking](#Networking)
-- [Raspberry Pi Specific](Raspberry-Pi-Specific)
+- [Raspberry Pi Specific](#Raspberry-Pi-Specific)
 - [Software Defined Radio](#Software-Defined-Radio)
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
