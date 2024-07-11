@@ -14,9 +14,7 @@ This is a list of all components I own for my CyberDecks as well as links and pr
 
 ## Contents
 - [Cables and Adapters](#cables-and-adapters)
-## Cables and Adapters
-
-### *Adapters*
+  - [Adpters](#Adapters)
 
 
 ### *DC*
