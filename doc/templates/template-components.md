@@ -5,12 +5,12 @@
 
 # Template- Components List
 
+This is a template for list of components.
+
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
-
-This is a template for list of componenets.
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
