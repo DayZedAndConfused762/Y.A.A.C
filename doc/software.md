@@ -41,6 +41,8 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 <!-- ++++++++++++++++++++ Lists Start ++++++++++++++++++++ -->
 
 ## Lists
+
+- [Awesome](https://github.com/sindresorhus/awesome): The Awesome Manifesto list, a list of all sort of awesome things, mostly software.
 - [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi): This list is a collection of tools, projects, images and resources conforming to the Awesome Manifesto.
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software): This repo is a collection of AWESOME Linux applications and tools for any users/developers.
 - [Pi-Apps list](https://pi-apps.io/wiki/getting-started/apps-list/): Rasberry Pi Software List.
@@ -115,6 +117,7 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 - [Waveshare 10.1inch HDMI LCD (B) (with case)](https://www.waveshare.com/wiki/10.1inch_HDMI_LCD_(B)_(with_case)): Software for the Waveshare 10.1inch LCD (B) display.
 - [Geekworm x728 Software](https://wiki.geekworm.com/X728-Software): Software for the Geekworm x728 UPS.
 - [Geekworm x728 Repository](https://github.com/geekworm-com/x728): GitHub repository for the Geekworm x728 UPS.
+- [Cyberdeck Battery Indicator](https://github.com/arbowl/cyberdeck-battery-indicator): A GUI battery indicator for Raspberry Pi and x728 UPS
 
 <!-- ++++++++++++++++++++ Hardware End ++++++++++++++++++++ -->
 
