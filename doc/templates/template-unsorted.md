@@ -5,12 +5,12 @@
 
 # Template - Unsorted
 
+This is a template for an unsorted dump list of links and info
+
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
-
-This is a template for an unsorted dump list of links and info
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
