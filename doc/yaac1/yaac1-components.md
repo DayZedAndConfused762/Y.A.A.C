@@ -12,6 +12,39 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
+## Contents
+<!-- - [Cables and Adapters](#cables-and-adapters)
+  - [Adpters](#Adapters)
+  - [DC](#DC)
+  - [Dust Covers](#Dust-Covers)
+  - [Ethernet](#Ethernet)
+  - [GPIO](#GPIO)
+  - [HDMI](#HDMI)
+  - [USB A to A](#USB-A-to-A)
+  - [USB C ot C](#USB-C-to-C)
+  - [USB A to C](#USB-C-to-A)
+  - [USB Extention](#USB-C-Extention)
+  - [USB C Splitter](#USB-C-Splitter)
+  - [USB Micro](#USB-Micro) -->
+- [Cases](#Cases)
+- [Cooling](#Cooling)
+- [Core Compute](#Core-Compute)
+- [Display](#Display)
+- [Hubs and Card Readers](#Hubs-and-Card-Readers)
+- [Input Devices](#Input-Devices)
+- [Mounting and Hardware](#Mounting-and-Hardware)
+<!-- - [Organization and Labeling](#Organization-and-Labeling) -->
+- [Panels](#Panels)
+- [Ports](#Ports)
+- [Power](#Power)
+  - [Power](#Batteries)
+  - [Buttons](#Buttons)
+<!--  - [Power Supplies](#Power-Supplies) -->
+  - [UPS](#UPS)
+<!-- - [SDR](#SDR) -->
+- [Storage](#Storage)
+<!-- - [Tools](#Tools) -->
+
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 
@@ -155,11 +188,12 @@ Item|URL|Price
 
 <!-- ++++++++++++++++++++ UsedPorts Start ++++++++++++++++++++ -->
 
-<!--
 ### Ports
 Item|URL|Price
 ---|---|---
--->
+PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
+PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
+USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
 
 <!-- ++++++++++++++++++++ UsedPorts End ++++++++++++++++++++ -->
 
