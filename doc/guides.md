@@ -23,7 +23,7 @@ This is a list of guides and helpful information.
 - [Data Management](#Data-Management)
 - [Downloading Content](#Downloading-Content)
 - [Kali Linux](#Kali-Linux)
-- [Linux General Guides](Linux-General-Guides)
+- [Linux General Guides](#Linux-General-Guides)
 - [Offline Internet](#Offline-Internet)
 - [Networking](#Networking)
 - [Raspberry Pi Specific](#Raspberry-Pi-Specific)
