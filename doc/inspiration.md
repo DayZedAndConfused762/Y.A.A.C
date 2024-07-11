@@ -57,10 +57,12 @@ This is a list of inspiration and sources of information for CyberDecks.
 <!-- ++++++++++++++++++++ SubReddits Start ++++++++++++++++++++ -->
 
 ### SubReddits
-- [Raspberry Pi](https://www.reddit.com/r/raspberry_pi/)
-- [Raspberry Pi Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/)
+- [CyberDecks](http://www.reddit.com/r/cyberdeck/)
 - [Preppers](https://www.reddit.com/r/preppers/)
 - [Prepping items on sale](https://www.reddit.com/r/preppersales/)
+- [Raspberry Pi](https://www.reddit.com/r/raspberry_pi/)
+- [Raspberry Pi Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/)
+
 
 <!-- ++++++++++++++++++++ SubReddits End ++++++++++++++++++++ -->
 
