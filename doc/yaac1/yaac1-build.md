@@ -5,9 +5,16 @@
 
 # Y.A.A.C-1 Build Steps
 
-Steps and info on the building process.  The Y.A.A.C-1 is currently disassembled, undergoing a revision due to new hardware.  Full details of the build process will be posted here as completei.
+Steps and info on the building process.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
+
+
+<!-- ------------------------------ Overview Start ------------------------------ -->
+
+The Y.A.A.C-1 is currently disassembled, undergoing a revision due to new hardware.  Full details of the build process will be posted here as completed.
+
+<!-- ------------------------------ Overview End ------------------------------ -->
 
 
 <!-- ------------------------------ Section End ------------------------------ -->
@@ -16,8 +23,6 @@ Steps and info on the building process.  The Y.A.A.C-1 is currently disassembled
 
 
 <!-- ------------------------------ Outro End ------------------------------ -->
-
-Outro Text
 
 <!-- ------------------------------ Outro End ------------------------------ -->
 
