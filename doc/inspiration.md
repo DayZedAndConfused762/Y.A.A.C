@@ -55,6 +55,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 - [writerDeck.org](https://github.com/brsloan/writerDeck)
 - [Midnight Eclipse](https://github.com/paradoxzss/Project-Midnight-Eclipse)
 - [CyberMiga](https://github.com/SquishVic/CyberMiga)
+- [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
 
 <!-- ++++++++++++++++++++ Cyberdecks End ++++++++++++++++++++ -->
 
