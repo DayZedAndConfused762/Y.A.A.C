@@ -210,6 +210,8 @@ Pirate Audio: Speaker for Raspberry Pi - Built-in 1W Speaker | https://www.adafr
 Pirate Audio: 3W Stereo Speaker Amp for Raspberry Pi | https://www.adafruit.com/product/4453 | $24.95
 Mini Monochrome PiOLED Ad Blocking Pi-Hole Kit - No Soldering! | https://www.adafruit.com/product/3973 | $39.95
 SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th=1 | 
+PineTime SmartWatch (Sealed) | https://pine64.com/product/pinetime-smartwatch-sealed/ | $26.99
+PineTime SmartWatch Dev Kit | https://pine64.com/product/pinetime-dev-kit/ | $26.99
 
 <!-- ++++++++++++++++++++ Gadgets End ++++++++++++++++++++ -->
 
