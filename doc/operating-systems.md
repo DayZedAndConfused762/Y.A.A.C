@@ -33,6 +33,7 @@ This is a list of operating systems that be be useful for the Y.A.A.Cs
 
 ## Communications
 - [EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast): Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system.
+- [PiSDR](https://github.com/luigifcruz/pisdr-image): The PiSDR is a Raspbian based operating system for the Pi pre-loaded with multiple Software Defined Radio software. It was created to serve as a fast and reliable bootstrap for SDR projects.
 
 <!-- ++++++++++++++++++++ Communications End ++++++++++++++++++++ -->
 
