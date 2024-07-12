@@ -20,6 +20,7 @@ This is a list of guides and helpful information.
   - [Python](#Python)
   - [Bash](#Bash)
 - [Communications](#Communications)
+  - [IRC](#IRC)
   - [Meshtastic](#Meshtastic)
 - [CyberSecurity](#CyberSecurity)
 - [Data Management](#Data-Management)
@@ -79,18 +80,24 @@ This is a list of guides and helpful information.
 
 ## Communications
 
+### IRC
+
+- https://www.reddit.com/r/raspberry_pi/comments/sd1u3k/irc_client_with_web_interface/
+- https://www.reddit.com/r/irc/comments/osu1f6/creating_an_raspberry_pi_irc_and_web_server/
+- https://pimylifeup.com/raspberry-pi-irc-server/
+
 ### Meshtastic
 
- - https://docs.google.com/document/d/17LW4ExkG6xVFnusVBMaDMA08kmZfyHiPbi8vjLpmLAs/edit
- - https://github.com/thecookingsenpai/emesh
- - https://github.com/meshtastic/python
- - https://meshtastic.org/docs/community/software/meshtastic-web-api/
- - https://github.com/meshtastic/meshtastic/issues/891
- - https://meshtastic.org/docs/hardware/devices/raspberry-pi/
- - https://www.reddit.com/r/meshtastic/comments/1bepyt5/lilygo_tbeam_raspberry_pi_zero_serial_connection/
- - https://www.reddit.com/r/meshtastic/comments/vwsrk4/raspberry_pi_with_lora_and_lcd_screen/
- - https://www.reddit.com/r/meshtastic/comments/190bw6c/guide_to_install_the_python_cli_and_configure/
- - https://flasher.meshtastic.org/
+- https://docs.google.com/document/d/17LW4ExkG6xVFnusVBMaDMA08kmZfyHiPbi8vjLpmLAs/edit
+- https://github.com/thecookingsenpai/emesh
+- https://github.com/meshtastic/python
+- https://meshtastic.org/docs/community/software/meshtastic-web-api/
+- https://github.com/meshtastic/meshtastic/issues/891
+- https://meshtastic.org/docs/hardware/devices/raspberry-pi/
+- https://www.reddit.com/r/meshtastic/comments/1bepyt5/lilygo_tbeam_raspberry_pi_zero_serial_connection/
+- https://www.reddit.com/r/meshtastic/comments/vwsrk4/raspberry_pi_with_lora_and_lcd_screen/
+- https://www.reddit.com/r/meshtastic/comments/190bw6c/guide_to_install_the_python_cli_and_configure/
+- https://flasher.meshtastic.org/
 
 <!-- ------------------------------ Communications End ------------------------------ -->
 
@@ -190,10 +197,6 @@ This is a list of guides and helpful information.
 - [Raspberry Pi as an FM Transmitter](https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/): 
 - [Setup a Raspberry Pi to run a Web Browser in Kiosk Mode](https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/): 
 - [Raspberry Pi Configuration](https://www.raspberrypi.com/documentation/computers/configuration.html):
-- https://www.reddit.com/r/raspberry_pi/comments/sd1u3k/irc_client_with_web_interface/
-- https://www.reddit.com/r/irc/comments/osu1f6/creating_an_raspberry_pi_irc_and_web_server/
-- https://pimylifeup.com/raspberry-pi-irc-server/
-- 
 
 <!-- ------------------------------ RPi End ------------------------------ -->
 
