@@ -28,8 +28,8 @@ Version 0.1.0 of the Y.A.A.C.1
 
 ## Files
 
-- [Components](doc/components-owned.md): A list of compents I own and plan on using.
-  [Components](doc/components-unowned.md): A list of compents that may be useful for future builds.
+- [Owned Components](doc/components-owned.md): A list of compents I own and plan on using.
+- [Unowned Components](doc/components-unowned.md): A list of compents that may be useful for future builds.
 - [Guides](doc/guides.md): A list of guides/tutorials/information.
 - [Inspiration](doc/inspiration.md): Other CyberDecks, projects, and links for inspiration.
 - [Software](doc/software.md): Software used and to possibly use.
