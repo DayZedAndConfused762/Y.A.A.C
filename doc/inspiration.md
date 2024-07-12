@@ -120,7 +120,11 @@ This is a list of inspiration and sources of information for CyberDecks.
 - [Just got a Pi Zero W. What are some good first projects for it?](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/16b5t44/just_got_a_pi_zero_w_what_are_some_good_first/): 
 - [MagPi Raspberry Pi Projects](https://magpi.raspberrypi.com/books/projects-1/pdf/download): 
 - [Doscher.com, one of the most popular CyberDecks](https://www.doscher.com/): 
-- [AI in a Box](https://github.com/usefulsensors/ai_in_a_box): 
+- [AI in a Box](https://github.com/usefulsensors/ai_in_a_box):
+- [OURphone - an Open-Source Linux Smartphone](https://www.instructables.com/OURphone-an-Open-Source-Linux-Smartphone/):
+  - [Ourphone Github](https://github.com/evanman83/OURS-project/):
+- [Little Backup Box](https://github.com/outdoorbits/little-backup-box):
+- [Netgotchi](https://github.com/MXZZ/Netgotchi/): 
 
 <!-- ++++++++++++++++++++ RPiProjects End ++++++++++++++++++++ -->
 
