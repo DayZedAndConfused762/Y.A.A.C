@@ -19,21 +19,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-- https://www.reddit.com/r/meshtastic/comments/1b0lfvw/raspberry_pi/
-- https://www.reddit.com/r/meshtastic/comments/1awf8mi/lora_hat_915mhz_for_raspberry_pi/
-- https://www.reddit.com/r/meshtastic/comments/1aw04zh/raspberry_pi_4_lora/
-- https://www.reddit.com/r/meshtastic/comments/1d0lldr/raspberry_pi_all_in_one_with_meshtastic/
-- https://www.reddit.com/r/meshtastic/comments/1abwlt6/base_station_raspberry_pi/
-- https://www.reddit.com/r/meshtastic/comments/18uhpv5/any_hope_for_raspberry_pi_4_support/
-- https://www.reddit.com/r/meshtastic/comments/1b5avdc/questions_about_raspberry_pi_pico/
-- https://www.reddit.com/r/meshtastic/comments/18r2dzp/meshtastic_with_raspberry_pi_zero/
-- https://www.reddit.com/r/meshtastic/comments/1bepyt5/lilygo_tbeam_raspberry_pi_zero_serial_connection/
-- https://www.reddit.com/r/meshtastic/comments/1aodbke/raspberry_pi4_what_rak_components_do_i_need_for_a/
-- https://www.reddit.com/r/meshtastic/comments/14n0x12/raspberry_pi_as_base_station/
-- https://www.reddit.com/r/meshtastic/comments/vwsrk4/raspberry_pi_with_lora_and_lcd_screen/
-- https://www.reddit.com/r/meshtastic/comments/190bw6c/guide_to_install_the_python_cli_and_configure/
-- https://www.reddit.com/r/meshtastic/comments/1ckseky/someone_make_setup_with_raspberry_pi_rp2040_and/
-- https://www.reddit.com/r/meshtastic/comments/17n59lk/getting_meshtastic_working_on_pico_wzero_w3/
 - http://www.broadband-hamnet.org/
 - https://www.instructables.com/OURphone-an-Open-Source-Linux-Smartphone/
 - https://pine64.com/
