@@ -15,7 +15,6 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 # Content:
 
 - [Lists](#Lists)
-- [Audio](#Audio)
 - [Communications](#Communications)
 - [CyberSecurity](#CyberSecurity)
 - [Data Management](#Data-Management)
@@ -49,13 +48,6 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 - [Pi-Apps software](https://github.com/Botspot/pi-apps ): The most popular app store for Raspberry Pi computers. 100% free, open-source and written in shell scripts.
 
 <!-- ++++++++++++++++++++ Lists End ++++++++++++++++++++ -->
-
-<!-- ++++++++++++++++++++ Audio Start ++++++++++++++++++++ -->
-
-## Audio
-- [Simple Internet Radio](https://github.com/blake5634/Simple-Internet-Radio): A minimal internet radio with analog input controls for volume and tuning.
-
-<!-- ++++++++++++++++++++ Audio End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Communications Start ++++++++++++++++++++ -->
 
@@ -127,6 +119,7 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg): FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [FIM (Fbi IMproved) image viewer](https://www.nongnu.org/fbi-improved/): FIM is a highly customizable and scriptable image viewer for users who are comfortable with software like the VIM text editor
 - [mpv](https://mpv.io/): a free, open source, and cross-platform media player
+- [Simple Internet Radio](https://github.com/blake5634/Simple-Internet-Radio): A minimal internet radio with analog input controls for volume and tuning.
 - [ytfzf](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
 <!-- ++++++++++++++++++++ Media End ++++++++++++++++++++ -->
