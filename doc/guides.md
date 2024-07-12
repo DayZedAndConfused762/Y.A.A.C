@@ -19,6 +19,8 @@ This is a list of guides and helpful information.
   - [Markdown](#Markdown)
   - [Python](#Python)
   - [Bash](#Bash)
+- [Communications](#Communications)
+  - [Meshtastic](#Meshtastic)
 - [CyberSecurity](#CyberSecurity)
 - [Data Management](#Data-Management)
 - [Downloading Content](#Downloading-Content)
@@ -32,10 +34,7 @@ This is a list of guides and helpful information.
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
 
-<!-- ------------------------------ Guides Start ------------------------------ -->
-
-
-<!-- ++++++++++++++++++++ AI Start ++++++++++++++++++++ -->
+<!-- ------------------------------ AI Start ------------------------------ -->
 
 ## AI
 
@@ -45,9 +44,9 @@ This is a list of guides and helpful information.
 - [How to Run a Large Language Model on Your Raspberry Pi](https://www.reddit.com/r/raspberry_pi/comments/11xnsu3/how_to_run_a_large_language_model_on_your/?rdt=52395): 
 - [How to run a Large Language Model (LLM) on a Raspberry Pi 4](https://www.reddit.com/r/raspberry_pi/comments/1ati2ki/how_to_run_a_large_language_model_llm_on_a/?rdt=64733): 
 
-<!-- ++++++++++++++++++++ AI End ++++++++++++++++++++ -->
+<!-- ------------------------------ AI End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Coding Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Coding Start ------------------------------ -->
 
 ## Coding
 
@@ -72,9 +71,30 @@ This is a list of guides and helpful information.
 - [Write Your Own Bash Scripts to Automate Tasks on Linux](https://null-byte.wonderhowto.com/how-to/write-your-own-bash-scripts-automate-tasks-linux-0296284/): 
 
 
-<!-- ++++++++++++++++++++ Coding End ++++++++++++++++++++ -->
+<!-- ------------------------------ Coding End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Coding End ------------------------------ -->
+
+<!-- ------------------------------ Communications Start ------------------------------ -->
+
+## Communications
+
+### Meshtastic
+
+ - https://docs.google.com/document/d/17LW4ExkG6xVFnusVBMaDMA08kmZfyHiPbi8vjLpmLAs/edit
+ - https://github.com/thecookingsenpai/emesh
+ - https://github.com/meshtastic/python
+ - https://meshtastic.org/docs/community/software/meshtastic-web-api/
+ - https://github.com/meshtastic/meshtastic/issues/891
+ - https://meshtastic.org/docs/hardware/devices/raspberry-pi/
+ - https://www.reddit.com/r/meshtastic/comments/1bepyt5/lilygo_tbeam_raspberry_pi_zero_serial_connection/
+ - https://www.reddit.com/r/meshtastic/comments/vwsrk4/raspberry_pi_with_lora_and_lcd_screen/
+ - https://www.reddit.com/r/meshtastic/comments/190bw6c/guide_to_install_the_python_cli_and_configure/
+ - https://flasher.meshtastic.org/
+
+<!-- ------------------------------ Communications End ------------------------------ -->
+
+<!-- ------------------------------ CyberSecurity Start ------------------------------ -->
 
 ## CyberSecurity
 
@@ -89,9 +109,9 @@ This is a list of guides and helpful information.
 - [Securiosity YouTube Channel](https://www.youtube.com/@Securiosity): 
 - [Stopping people play music via bluetooth speakers](https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers): 
 
-<!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
+<!-- ------------------------------ CyberSecurity End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Data Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Data Start ------------------------------ -->
 
 ## Data Management
 
@@ -99,18 +119,18 @@ This is a list of guides and helpful information.
 - [Re-format SD card back to normal](https://forums.raspberrypi.com/viewtopic.php?t=204167&sid=8ff11f46427bd9df34d5688809002891): 
 - [PSA: Backup your SD cards. It's cheap and easy to get an USB SD card reader and automate the process](https://www.reddit.com/r/raspberry_pi/comments/1d8s51a/psa_backup_your_sd_cards_its_cheap_and_easy_to/): 
 
-<!-- ++++++++++++++++++++ Data End ++++++++++++++++++++ -->
+<!-- ------------------------------ Data End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Downloading Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Downloading Start ------------------------------ -->
 
 ## Downloading Content
 
 - [Downloading in bulk using wget](https://blog.archive.org/2012/04/26/downloading-in-bulk-using-wget/): 
 - [Archive.org command line interface](https://archive.org/developers/internetarchive/cli.html): 
 
-<!-- ++++++++++++++++++++ Downloading End ++++++++++++++++++++ -->
+<!-- ------------------------------ Downloading End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Kali Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Kali Start ------------------------------ -->
 
 ## Kali Linux
 
@@ -129,9 +149,9 @@ This is a list of guides and helpful information.
 - [rdp from kali linux to windows machine](https://www.reddit.com/r/Kalilinux/comments/fx5ma1/rdp_from_kali_linux_to_windows_machine/): 
 - [How to enable Remote Desktop and SSH access to Kali Linux](https://www.fosslinux.com/120180/how-to-enable-remote-desktop-and-ssh-access-to-kali-linux.htm): 
 
-<!-- ++++++++++++++++++++ Kali End ++++++++++++++++++++ -->
+<!-- ------------------------------ Kali End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Linux Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Linux Start ------------------------------ -->
 
 ## Linux General Guides
 
@@ -139,9 +159,9 @@ This is a list of guides and helpful information.
 - [Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/): 
 - [r/linuxquestions](https://www.reddit.com/r/linuxquestions/): 
 
-<!-- ++++++++++++++++++++ Linux End ++++++++++++++++++++ -->
+<!-- ------------------------------ Linux End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Offline Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Offline Start ------------------------------ -->
 
 ## Offline Internet
 
@@ -150,18 +170,18 @@ This is a list of guides and helpful information.
 - [*Making a RACHEL Module](https://ftp.worldpossible.org/rachel_plus/tutorials/making_a_rachel_content_module.pdf): 
 - [RACHEL Module information](https://community.worldpossible.org/): 
 
-<!-- ++++++++++++++++++++ Offline End ++++++++++++++++++++ -->
+<!-- ------------------------------ Offline End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Networking Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Networking Start ------------------------------ -->
 
 ## Networking
 
 - [Share laptop WiFi via ethernet cable to PC](https://answers.microsoft.com/en-us/windows/forum/all/share-laptop-wifi-via-ethernet-cable-to-pc/b8cd07cc-b6b7-4d5a-b8ca-1b7c2bb465ad): 
 - [How to Share Internet Over Ethernet Cable](https://www.instructables.com/How-to-share-Internet-over-Ethernet-Cable/): 
 
-<!-- ++++++++++++++++++++ Networking End ++++++++++++++++++++ -->
+<!-- ------------------------------ Networking End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ RPi Start ++++++++++++++++++++ -->
+<!-- ------------------------------ RPi Start ------------------------------ -->
 
 ## Raspberry Pi Specific
 
@@ -175,17 +195,15 @@ This is a list of guides and helpful information.
 - https://pimylifeup.com/raspberry-pi-irc-server/
 - 
 
-<!-- ++++++++++++++++++++ RPi End ++++++++++++++++++++ -->
+<!-- ------------------------------ RPi End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
+<!-- ------------------------------ SDR Start ------------------------------ -->
 
 ## Software Defined Radio
 
  - [RTL-SDR Quick Star Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/):
 
-<!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
-
-<!-- ------------------------------ Guides End ------------------------------ -->
+<!-- ------------------------------ SDR End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
