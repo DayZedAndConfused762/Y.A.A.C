@@ -22,6 +22,7 @@ This is a list of guides and helpful information.
 - [Communications](#Communications)
   - [IRC](#IRC)
   - [Meshtastic](#Meshtastic)
+  - [Software Defined Radio](#Software-Defined-Radio)
 - [CyberSecurity](#CyberSecurity)
 - [Data Management](#Data-Management)
 - [Downloading Content](#Downloading-Content)
@@ -30,7 +31,6 @@ This is a list of guides and helpful information.
 - [Offline Internet](#Offline-Internet)
 - [Networking](#Networking)
 - [Raspberry Pi Specific](#Raspberry-Pi-Specific)
-- [Software Defined Radio](#Software-Defined-Radio)
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
@@ -98,6 +98,10 @@ This is a list of guides and helpful information.
 - https://www.reddit.com/r/meshtastic/comments/vwsrk4/raspberry_pi_with_lora_and_lcd_screen/
 - https://www.reddit.com/r/meshtastic/comments/190bw6c/guide_to_install_the_python_cli_and_configure/
 - https://flasher.meshtastic.org/
+
+### Software Defined Radio
+
+- [RTL-SDR Quick Star Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/):
 
 <!-- ------------------------------ Communications End ------------------------------ -->
 
@@ -199,14 +203,6 @@ This is a list of guides and helpful information.
 - [Raspberry Pi Configuration](https://www.raspberrypi.com/documentation/computers/configuration.html):
 
 <!-- ------------------------------ RPi End ------------------------------ -->
-
-<!-- ------------------------------ SDR Start ------------------------------ -->
-
-## Software Defined Radio
-
- - [RTL-SDR Quick Star Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/):
-
-<!-- ------------------------------ SDR End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
