@@ -19,17 +19,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-- https://www.reddit.com/r/sdr/comments/1cqz6mr/raspberry_pi_w_rtlsdr_v4_via_gnu_radio/
-- https://www.reddit.com/r/RTLSDR/comments/178bjbk/what_raspberry_pi_to_get/
-- https://www.reddit.com/r/RTLSDR/comments/1bixs2e/rtlsdr_v4_static_on_linux_latest_raspberry_os_on/
-- https://www.reddit.com/r/RTLSDR/comments/ryqood/raspberry_pi_4_wsdr/
-
-- https://scrapbox.io/CYBERDECK/
-- https://github.com/PiSugar/PiSugar/wiki/PiSugar-3-Series
-- https://github.com/PiSugar/PiSugar/wiki/PiSugar-Power-Manager-(Software)
-- https://superuser.com/questions/1715839/how-re-format-a-linux-usb-in-windows
-- https://github.com/leaverossb/CyberDeck/blob/main/Images/Banner1.JPG
-- https://us.store.bambulab.com/products/a1-mini?variant=41513493627016&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gclid=Cj0KCQjws560BhCuARIsAHMqE0HnUhAIglJQwQqTK-sM3_zbbS-OCuRnXC50aFpFoEUQareySjqvBPwaAoAyEALw_wcB
 - https://github.com/DevMiser
 - https://github.com/hack-shack/glowfire
 - https://vimm.net/?p=emulate
