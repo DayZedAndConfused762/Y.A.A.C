@@ -102,6 +102,9 @@ This is a list of guides and helpful information.
 ### Software Defined Radio
 
 - [RTL-SDR Quick Star Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/):
+- https://www.rtl-sdr.com/v4/
+- https://www.reddit.com/r/RTLSDR/comments/1bixs2e/rtlsdr_v4_static_on_linux_latest_raspberry_os_on/
+- 
 
 <!-- ------------------------------ Communications End ------------------------------ -->
 
