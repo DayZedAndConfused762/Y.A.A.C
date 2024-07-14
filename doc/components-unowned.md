@@ -271,6 +271,7 @@ Armachat - Meshtastic compatible LORA messenger | https://www.tindie.com/product
 LILYGO® T-Deck ESP32-S3 LoRa Module 2.8 inch LCD Development Board | https://www.aliexpress.us/item/3256805505920840.html | $55.98
 LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module | https://www.amazon.com/dp/B0B659536P/ | $
 LILYGO® TTGO LoRa32 V2.1_1.6 | https://www.aliexpress.us/item/2251832685763835.html | $19.98
+Waveshare SX1262 LoRaWAN Node Module | https://www.amazon.com/dp/B0C61XFGHC | $23.99
 
 <!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
 
