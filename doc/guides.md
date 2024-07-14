@@ -80,6 +80,8 @@ This is a list of guides and helpful information.
 
 ## Communications
 
+- https://www.instructables.com/Cell-Phone-WiFi-Signal-Booster-Antenna/
+
 ### IRC
 
 - https://www.reddit.com/r/raspberry_pi/comments/sd1u3k/irc_client_with_web_interface/
@@ -175,7 +177,14 @@ https://superuser.com/questions/1715839/how-re-format-a-linux-usb-in-windows
 
 - [Linux Commands Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/?ref=outind): 
 - [Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/): 
-- [r/linuxquestions](https://www.reddit.com/r/linuxquestions/): 
+- [r/linuxquestions](https://www.reddit.com/r/linuxquestions/):
+- https://www.reddit.com/r/linux4noobs/comments/1w80uc/what_are_your_must_haves_for_your_linux_machine/
+- https://training.linuxfoundation.org/training/introduction-to-linux/
+- https://linuxjourney.com/
+- https://www.reddit.com/r/linux4noobs/comments/1e29h5k/where_to_start_learning_linux/
+- https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
+- https://www.youtube.com/watch?v=HbgzrKJvDRw
+- https://www.youtube.com/watch?v=3HZph7t5nL8
 
 <!-- ------------------------------ Linux End ------------------------------ -->
 
@@ -208,6 +217,7 @@ https://superuser.com/questions/1715839/how-re-format-a-linux-usb-in-windows
 - [Raspberry Pi as an FM Transmitter](https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/): 
 - [Setup a Raspberry Pi to run a Web Browser in Kiosk Mode](https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/): 
 - [Raspberry Pi Configuration](https://www.raspberrypi.com/documentation/computers/configuration.html):
+- https://www.reddit.com/r/raspberryDIY/comments/1dtlvbx/streaming_to_youtube_live_from_a_raspberry_pi/
 
 <!-- ------------------------------ RPi End ------------------------------ -->
 
