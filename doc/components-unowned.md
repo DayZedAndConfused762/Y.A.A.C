@@ -212,6 +212,7 @@ Mini Monochrome PiOLED Ad Blocking Pi-Hole Kit - No Soldering! | https://www.ada
 SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th=1 | 
 PineTime SmartWatch (Sealed) | https://pine64.com/product/pinetime-smartwatch-sealed/ | $26.99
 PineTime SmartWatch Dev Kit | https://pine64.com/product/pinetime-dev-kit/ | $26.99
+https://www.amazon.com/CircuitMess-Chatter-Communicator-Electronics-Engineering/dp/B09RTLNX7T
 
 <!-- ++++++++++++++++++++ Gadgets End ++++++++++++++++++++ -->
 
@@ -272,6 +273,9 @@ LILYGO® T-Deck ESP32-S3 LoRa Module 2.8 inch LCD Development Board | https://ww
 LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module | https://www.amazon.com/dp/B0B659536P/ | $
 LILYGO® TTGO LoRa32 V2.1_1.6 | https://www.aliexpress.us/item/2251832685763835.html | $19.98
 Waveshare SX1262 LoRaWAN Node Module | https://www.amazon.com/dp/B0C61XFGHC | $23.99
+https://heltec.org/project/wireless-paper/
+https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html
+
 
 <!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
 
