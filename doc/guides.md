@@ -100,6 +100,7 @@ This is a list of guides and helpful information.
 - https://flasher.meshtastic.org/
 - https://www.youtube.com/watch?v=6UwWQSTCr_I
 - https://www.reddit.com/r/meshtastic/comments/1auh79f/rasp3b_and_waveshare_sx1262_915m_lora_hat/
+- https://adrelien.com/blog/what-is-the-best-device-for-meshtastic/
 
 ### Software Defined Radio
 
@@ -134,6 +135,7 @@ This is a list of guides and helpful information.
 - [How To Format Pi SD Cards Using SD Formatter](https://www.raspberrypi-spy.co.uk/2015/03/how-to-format-pi-sd-cards-using-sd-formatter/): 
 - [Re-format SD card back to normal](https://forums.raspberrypi.com/viewtopic.php?t=204167&sid=8ff11f46427bd9df34d5688809002891): 
 - [PSA: Backup your SD cards. It's cheap and easy to get an USB SD card reader and automate the process](https://www.reddit.com/r/raspberry_pi/comments/1d8s51a/psa_backup_your_sd_cards_its_cheap_and_easy_to/): 
+https://superuser.com/questions/1715839/how-re-format-a-linux-usb-in-windows
 
 <!-- ------------------------------ Data End ------------------------------ -->
 
