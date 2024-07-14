@@ -98,6 +98,8 @@ This is a list of guides and helpful information.
 - https://www.reddit.com/r/meshtastic/comments/vwsrk4/raspberry_pi_with_lora_and_lcd_screen/
 - https://www.reddit.com/r/meshtastic/comments/190bw6c/guide_to_install_the_python_cli_and_configure/
 - https://flasher.meshtastic.org/
+- https://www.youtube.com/watch?v=6UwWQSTCr_I
+- https://www.reddit.com/r/meshtastic/comments/1auh79f/rasp3b_and_waveshare_sx1262_915m_lora_hat/
 
 ### Software Defined Radio
 
