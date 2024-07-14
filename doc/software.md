@@ -110,8 +110,7 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 - [Geekworm x728 Software](https://wiki.geekworm.com/X728-Software): Software for the Geekworm x728 UPS.
 - [Geekworm x728 Repository](https://github.com/geekworm-com/x728): GitHub repository for the Geekworm x728 UPS.
 - [Cyberdeck Battery Indicator](https://github.com/arbowl/cyberdeck-battery-indicator): A GUI battery indicator for Raspberry Pi and x728 UPS
-- https://github.com/PiSugar/PiSugar/wiki/PiSugar-3-Series
-- https://github.com/PiSugar/PiSugar/wiki/PiSugar-Power-Manager-(Software)
+- [PiSugar Power Manager](https://github.com/PiSugar/PiSugar/wiki/PiSugar-Power-Manager-(Software)): PiSugar Power Manager is a software created for PiSugar 2/3 serises.
 
 <!-- ++++++++++++++++++++ Hardware End ++++++++++++++++++++ -->
 
@@ -169,8 +168,7 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 
 ## SDR
 - [SDRangel](https://www.sdrangel.org/): TX & RX Software Defined Radio.
-- https://github.com/Nuand/gr-osmosdr
-- https://www.gqrx.dk/download/gqrx-sdr-for-the-raspberry-pi
+- [Gqrx SDR](https://www.gqrx.dk/download/gqrx-sdr-for-the-raspberry-pi): Open source software defined radio by Alexandru Csete OZ9AEC.
 - 
 
 <!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
