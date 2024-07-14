@@ -161,6 +161,7 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 - [sysmon](https://github.com/gridhead/sysmon): An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.
 - [TorTiPi](https://github.com/rosehgal/tortipi): a tool to setup the Tor based wifi hotspot on Raspberry Pi.
 - [pigg - Raspberry Pi GPIO GUI](https://github.com/andrewdavidmackenzie/pigg): An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate.
+- [PiOSK](https://github.com/debloper/piosk): One-shot set up Raspberry Pi in kiosk mode as a webpage shuffler, with a web interface for management.
 
 <!-- ++++++++++++++++++++ RPi General End ++++++++++++++++++++ -->
 
