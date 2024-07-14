@@ -124,7 +124,8 @@ This is a list of inspiration and sources of information for CyberDecks.
 - [OURphone - an Open-Source Linux Smartphone](https://www.instructables.com/OURphone-an-Open-Source-Linux-Smartphone/):
   - [Ourphone Github](https://github.com/evanman83/OURS-project/):
 - [Little Backup Box](https://github.com/outdoorbits/little-backup-box):
-- [Netgotchi](https://github.com/MXZZ/Netgotchi/): 
+- [Netgotchi](https://github.com/MXZZ/Netgotchi/):
+- https://www.crowdsupply.com/useful-sensors/ai-in-a-box
 
 <!-- ++++++++++++++++++++ RPiProjects End ++++++++++++++++++++ -->
 
