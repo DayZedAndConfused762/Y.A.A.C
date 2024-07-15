@@ -184,9 +184,9 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 - [Cool-Retro-Term](https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file): A terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
   - [Third Party Themes](https://github.com/Swordfish90/cool-retro-term/wiki/Third-Party-Themes): Themes for Cool-Retro-Term.
   - [MatrixHasYou](https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file): A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix".
-  - https://github.com/fohtla/Fallout3Terminal?tab=readme-ov-file
-  - https://github.com/qjcg/crt-themes
-  - https://github.com/rose-pine/cool-retro-term
+  - [Fallout3Terminal](https://github.com/fohtla/Fallout3Terminal?tab=readme-ov-file): Fallout3Terminal is a version of a Fallout 3/4/NV Terminal operating system, complete with the ability to write journal entries, and in-game sounds from Fallout 3 itself!
+  - [crt-themes](https://github.com/qjcg/crt-themes): Themes for Cool Retro Term.
+  - [Rosé Pine for cool-retro-term](https://github.com/rose-pine/cool-retro-term): All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 - [Putty](https://www.putty.org/): PuTTY is an SSH and telnet client.
 - [tmux](https://github.com/tmux/tmux/wiki): tmux is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal.
   - [Tmux Configuration](https://github.com/samoshkin/tmux-config): Tmux configuration, that supercharges your tmux and builds cozy and cool terminal environment.
