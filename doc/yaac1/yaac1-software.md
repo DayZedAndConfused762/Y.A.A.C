@@ -16,7 +16,7 @@ A list of operating systems and software in use on the Y.A.A.C-1.
 # Contents:
 
 - [CyberSecurity](#CyberSecurity)
-- [Offline_Internet](#Offline-Internet)
+- [Offline Internet](#Offline-Internet)
 - [Utilities](#Utilities)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
