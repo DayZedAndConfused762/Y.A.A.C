@@ -3,7 +3,7 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Template- Components List
+# Template - Components List
 
 This is a template for list of components.
 
