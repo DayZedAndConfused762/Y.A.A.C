@@ -56,7 +56,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 - [Midnight Eclipse](https://github.com/paradoxzss/Project-Midnight-Eclipse)
 - [CyberMiga](https://github.com/SquishVic/CyberMiga)
 - [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
-- https://www.reddit.com/r/cyberDeck/comments/1e2habi/my_first_cyberdeck/
+- [CRT CyberDeck with VHF Transmitter](https://www.reddit.com/r/cyberDeck/comments/1e2habi/my_first_cyberdeck/)
 
 <!-- ++++++++++++++++++++ Cyberdecks End ++++++++++++++++++++ -->
 
@@ -126,8 +126,8 @@ This is a list of inspiration and sources of information for CyberDecks.
   - [Ourphone Github](https://github.com/evanman83/OURS-project/):
 - [Little Backup Box](https://github.com/outdoorbits/little-backup-box):
 - [Netgotchi](https://github.com/MXZZ/Netgotchi/):
-- https://www.crowdsupply.com/useful-sensors/ai-in-a-box
-- https://www.reddit.com/r/raspberryDIY/comments/1dje4ud/i_created_a_pi5_12tb_storj_node/
+- [AI in a Box](https://www.crowdsupply.com/useful-sensors/ai-in-a-box)
+- [I created a Pi5 12TB storj node!](https://www.reddit.com/r/raspberryDIY/comments/1dje4ud/i_created_a_pi5_12tb_storj_node/)
 
 <!-- ++++++++++++++++++++ RPiProjects End ++++++++++++++++++++ -->
 

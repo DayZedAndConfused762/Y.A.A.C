@@ -176,13 +176,13 @@ This is a list of guides and helpful information.
 - [Linux Commands Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/?ref=outind): 
 - [Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/): 
 - [r/linuxquestions](https://www.reddit.com/r/linuxquestions/):
-- https://www.reddit.com/r/linux4noobs/comments/1w80uc/what_are_your_must_haves_for_your_linux_machine/
-- https://training.linuxfoundation.org/training/introduction-to-linux/
-- https://linuxjourney.com/
-- https://www.reddit.com/r/linux4noobs/comments/1e29h5k/where_to_start_learning_linux/
-- https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
-- https://www.youtube.com/watch?v=HbgzrKJvDRw
-- https://www.youtube.com/watch?v=3HZph7t5nL8
+- [What are your must haves for your Linux machine?](https://www.reddit.com/r/linux4noobs/comments/1w80uc/what_are_your_must_haves_for_your_linux_machine/)
+- [Introduction to Linux (LFS101)](https://training.linuxfoundation.org/training/introduction-to-linux/)
+- [Learn the ways of Linux-fu, for free](https://linuxjourney.com/)
+- [Where to start learning Linux?](https://www.reddit.com/r/linux4noobs/comments/1e29h5k/where_to_start_learning_linux/)
+- [Linux for Hackers // EP 1 (FREE Linux course for beginners)](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
+- [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+- [Linux How To Set Up Permanent Bash Alias](https://www.youtube.com/watch?v=3HZph7t5nL8)
 
 <!-- ------------------------------ Linux End ------------------------------ -->
 
