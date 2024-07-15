@@ -215,7 +215,7 @@ This is a list of guides and helpful information.
 - [Raspberry Pi as an FM Transmitter](https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/): 
 - [Setup a Raspberry Pi to run a Web Browser in Kiosk Mode](https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/): 
 - [Raspberry Pi Configuration](https://www.raspberrypi.com/documentation/computers/configuration.html):
-- https://www.reddit.com/r/raspberryDIY/comments/1dtlvbx/streaming_to_youtube_live_from_a_raspberry_pi/
+- [Streaming to YouTube Live from a Raspberry Pi Camera Using Python](https://www.reddit.com/r/raspberryDIY/comments/1dtlvbx/streaming_to_youtube_live_from_a_raspberry_pi/)
 
 <!-- ------------------------------ RPi End ------------------------------ -->
 
