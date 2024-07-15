@@ -80,13 +80,13 @@ This is a list of guides and helpful information.
 
 ## Communications
 
-- https://www.instructables.com/Cell-Phone-WiFi-Signal-Booster-Antenna/
+- [Repurposed Satellite Dish Antenna Captures Wi-Fi and Cell Phone Signals](https://www.instructables.com/Cell-Phone-WiFi-Signal-Booster-Antenna/)
 
 ### IRC
 
-- https://www.reddit.com/r/raspberry_pi/comments/sd1u3k/irc_client_with_web_interface/
-- https://www.reddit.com/r/irc/comments/osu1f6/creating_an_raspberry_pi_irc_and_web_server/
-- https://pimylifeup.com/raspberry-pi-irc-server/
+- [IRC client with web interface](https://www.reddit.com/r/raspberry_pi/comments/sd1u3k/irc_client_with_web_interface/)
+- [Creating an Raspberry pi IRC and web server](https://www.reddit.com/r/irc/comments/osu1f6/creating_an_raspberry_pi_irc_and_web_server/)
+- [Raspberry Pi IRC Server](https://pimylifeup.com/raspberry-pi-irc-server/)
 
 ### Meshtastic
 
@@ -107,9 +107,7 @@ This is a list of guides and helpful information.
 ### Software Defined Radio
 
 - [RTL-SDR Quick Star Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/):
-- https://www.rtl-sdr.com/v4/
-- https://www.reddit.com/r/RTLSDR/comments/1bixs2e/rtlsdr_v4_static_on_linux_latest_raspberry_os_on/
-- 
+- [RTL-SDR BLOG V4 USERS GUIDE](https://www.rtl-sdr.com/v4/)
 
 <!-- ------------------------------ Communications End ------------------------------ -->
 
@@ -137,7 +135,7 @@ This is a list of guides and helpful information.
 - [How To Format Pi SD Cards Using SD Formatter](https://www.raspberrypi-spy.co.uk/2015/03/how-to-format-pi-sd-cards-using-sd-formatter/): 
 - [Re-format SD card back to normal](https://forums.raspberrypi.com/viewtopic.php?t=204167&sid=8ff11f46427bd9df34d5688809002891): 
 - [PSA: Backup your SD cards. It's cheap and easy to get an USB SD card reader and automate the process](https://www.reddit.com/r/raspberry_pi/comments/1d8s51a/psa_backup_your_sd_cards_its_cheap_and_easy_to/): 
-https://superuser.com/questions/1715839/how-re-format-a-linux-usb-in-windows
+- [How to re-format a Linux-USB in Windows](https://superuser.com/questions/1715839/how-re-format-a-linux-usb-in-windows)
 
 <!-- ------------------------------ Data End ------------------------------ -->
 
