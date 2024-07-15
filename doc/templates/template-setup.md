@@ -12,13 +12,18 @@ Template for steps to setup and install operating systems and software.
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
+## Contents:
+
+- [Section Name](#Section-Name)
+
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 
 <!-- ------------------------------ Section Start ------------------------------ -->
 
-## Subsection Name - Purpose - Operating System - Storage Device
+## Section Name
 
+**Purpose - Operating System - Storage Device**
 * Step 1
 * Step 2
 * Step 3 `this is a command to run`
