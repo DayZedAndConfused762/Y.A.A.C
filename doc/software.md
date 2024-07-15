@@ -62,8 +62,8 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi):  A2C-based "AI" leveraging bettercap that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 - [Aircrack-ng](http://www.aircrack-ng.org/): Aircrack-ng is a complete suite of tools to assess WiFi network security.
 - [Cyberdeck](https://github.com/Martian1337/CyberDeck): CyberDeck is a script designed for setting up a web pentesting environment. It installs a wide range of essential tools for network reconnaissance, vulnerability analysis, exploitation, and is specifically tailored to web security testing.
-- https://github.com/infinition/Bjorn
-- https://github.com/guardicore/monkey
+- [Bjorn](https://github.com/infinition/Bjorn): Bjorn is a sophisticated network scanning, vulnerability assessment, and offensive security tool designed to run on a Raspberry Pi equipped with a 2.13-inch e-Paper HAT.
+- [Infection Monkey](https://github.com/guardicore/monkey): Infection Monkey is an open-source adversary emulation platform that helps you improve your security posture using empirical data.
 
 <!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
 
@@ -124,7 +124,8 @@ A list of software that may be useful for CyberDecks.  This is a general list an
 - [mpv](https://mpv.io/): a free, open source, and cross-platform media player
 - [Simple Internet Radio](https://github.com/blake5634/Simple-Internet-Radio): A minimal internet radio with analog input controls for volume and tuning.
 - [ytfzf](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
-- https://mtpaint.sourceforge.net/
+- [mtPaint](https://mtpaint.sourceforge.net/): mtPaint is a painting program which Mark Tyler developed from scratch so he could easily create pixel art and manipulate digital photos.
+- [GIMP](https://www.gimp.org/): GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.
 
 <!-- ++++++++++++++++++++ Media End ++++++++++++++++++++ -->
 
