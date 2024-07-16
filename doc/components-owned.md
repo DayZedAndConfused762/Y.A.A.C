@@ -78,7 +78,7 @@ uxcell 5pcs Silicone Protectors Micro HDMI | https://www.amazon.com/gp/product/B
 Item|URL|Price
 ---|---|---
 Cable Matters 10Gbps 5-Pack Snagless Short Shielded Cat6A 6pk | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
-Short USB C to USB C Cable 60W (2-Pack 1ft) | https://www.amazon.com/gp/product/B0BV6BGQ3B/ | $5.99
+
 
 ### *GPIO*
 Item|URL|Price
@@ -110,6 +110,7 @@ Item|URL|Price
 ---|---|---
 Anker New Nylon USB-C to USB-C Cable (2pack, 1 ft, 60W) | https://www.amazon.com/gp/product/B0CFZNZN25/ | $10.99
 SUNGUY USB C to USB C 1.5FT [2Pack] | https://www.amazon.com/gp/product/B08L7NCLZN/ | $7.99
+Short USB C to USB C Cable 60W (2-Pack 1ft) | https://www.amazon.com/gp/product/B0BV6BGQ3B/ | $5.99
 
 ### *USB C to A*
 Item|URL|Price
