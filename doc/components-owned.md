@@ -21,9 +21,9 @@ This is a list of all components I own for my CyberDecks as well as links and pr
   - [GPIO](#GPIO)
   - [HDMI](#HDMI)
   - [USB A to A](#USB-A-to-A)
+  - [USB C to A](#USB-C-to-A)
   - [USB C ot C](#USB-C-to-C)
-  - [USB A to C](#USB-C-to-A)
-  - [USB Extention](#USB-C-Extention)
+  - [USB C Extention](#USB-C-Extention)
   - [USB C Splitter](#USB-C-Splitter)
   - [USB Micro](#USB-Micro)
 - [Cases](#Cases)
@@ -93,17 +93,16 @@ Seadream 1Foot 90 Degree Down Angle Micro HDMI | https://www.amazon.com/dp/B07BL
 Seadream 4K Micro HDMI to HDMI Cable 1FT 2Pack | https://www.amazon.com/gp/product/B0B938BP37/ | $9.88
 SMALLRIG D to A HDMI Cable Ultra Thin | https://www.amazon.com/dp/B08R9ND13X | $9.90
 
-<!--
-### *Micro SD Extension*
-Item|URL|Price
----|---|---
--->
-
 ### *USB A to A*
 Item|URL|Price
 ---|---|---
 USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
 USB to USB Cable 1.5FT(2 Package) | https://www.amazon.com/gp/product/B0CQYF74JY/ | $8.99
+
+### *USB C to A*
+Item|URL|Price
+---|---|---
+JXMOX Short USB C Cable (1ft 3-Pack) | https://www.amazon.com/gp/product/B07HQHL6ZK/ | $6.99
 
 ### *USB C to C*
 Item|URL|Price
@@ -111,11 +110,6 @@ Item|URL|Price
 Anker New Nylon USB-C to USB-C Cable (2pack, 1 ft, 60W) | https://www.amazon.com/gp/product/B0CFZNZN25/ | $10.99
 SUNGUY USB C to USB C 1.5FT [2Pack] | https://www.amazon.com/gp/product/B08L7NCLZN/ | $7.99
 Short USB C to USB C Cable 60W (2-Pack 1ft) | https://www.amazon.com/gp/product/B0BV6BGQ3B/ | $5.99
-
-### *USB C to A*
-Item|URL|Price
----|---|---
-JXMOX Short USB C Cable (1ft 3-Pack) | https://www.amazon.com/gp/product/B07HQHL6ZK/ | $6.99
 
 ### *USB C Extention*
 Item|URL|Price
