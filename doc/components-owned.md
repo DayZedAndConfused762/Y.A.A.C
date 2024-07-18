@@ -24,7 +24,6 @@ This is a list of all components I own for my CyberDecks as well as links and pr
   - [USB C to A](#USB-C-to-A)
   - [USB C to C](#USB-C-to-C)
   - [USB C Extention](#USB-C-Extention)
-  - [USB C Splitter](#USB-C-Splitter)
   - [USB Micro](#USB-Micro)
 - [Cases](#Cases)
 - [Cooling](#Cooling)
@@ -116,10 +115,6 @@ Item|URL|Price
 ---|---|---
 CLEEFUN USB C Extension Cable 1ft | https://www.amazon.com/gp/product/B0C9STSC2B/ | $6.99
 USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/gp/product/B0C9JMH9VT/ | $6.99
-
-### *USB C Splitter*
-Item|URL|Price
----|---|---
 
 ### *USB Micro*
 Item|URL|Price
