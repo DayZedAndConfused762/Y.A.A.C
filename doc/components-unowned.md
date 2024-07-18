@@ -67,6 +67,7 @@ This is a list of components that I do not own that may be useful for future bui
 ## Antennas
 Item|URL|Price
 ---|---|---
+Rabbit-Labs 4dBm 868MHz 900MHz 915MHz Antenna SMA Male | https://www.amazon.com/gp/product/B0D19JJBKZ | $6.25
 
 <!-- ++++++++++++++++++++ Antennas End ++++++++++++++++++++ -->
 
