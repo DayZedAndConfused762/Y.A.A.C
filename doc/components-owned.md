@@ -77,11 +77,6 @@ Item|URL|Price
 ---|---|---
 Cable Matters 10Gbps 5-Pack Snagless Short Shielded Cat6A 6pk | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
 
-
-### *GPIO*
-Item|URL|Price
----|---|---
-
 ### *HDMI*
 Item|URL|Price
 ---|---|---
