@@ -103,6 +103,7 @@ This is a list of guides and helpful information.
 - https://www.youtube.com/watch?v=6UwWQSTCr_I
 - https://www.reddit.com/r/meshtastic/comments/1auh79f/rasp3b_and_waveshare_sx1262_915m_lora_hat/
 - https://adrelien.com/blog/what-is-the-best-device-for-meshtastic/
+- https://meshtastic.org/docs/hardware/devices/linux-native-hardware/
 
 ### Software Defined Radio
 
