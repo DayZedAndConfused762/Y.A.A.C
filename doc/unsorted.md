@@ -34,6 +34,9 @@ This is a unsorted dump list of links and info
 - https://github.com/madmalik/mononoki/tree/main?tab=readme-ov-file
 - https://github.com/brabadu/awesome-fonts?tab=readme-ov-file#programming-fonts
 - https://github.com/ryanoasis/nerd-fonts
+- https://github.com/raspberrypi/rpi-imager
+- https://github.com/adafruit/Raspberry-Pi-Installer-Scripts
+- https://github.com/RPi-Distro
 - 
 
 
