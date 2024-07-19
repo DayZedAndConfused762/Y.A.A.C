@@ -18,7 +18,6 @@ This is a list of all components I own for my CyberDecks as well as links and pr
   - [DC](#DC)
   - [Dust Covers](#Dust-Covers)
   - [Ethernet](#Ethernet)
-  - [GPIO](#GPIO)
   - [HDMI](#HDMI)
   - [USB A to A](#USB-A-to-A)
   - [USB C to A](#USB-C-to-A)
