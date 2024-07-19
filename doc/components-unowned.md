@@ -18,9 +18,7 @@ This is a list of components that I do not own that may be useful for future bui
 ## Contents
 - [Antennas](#Antennas)
 - [Cables and Adapters](#cables-and-adapters)
-  - [Adapters](#Adapters)
   - [Audio](#Audio)
-  - [DC](#DC)
   - [Ethernet](#Ethernet)
   - [GPIO](#GPIO)
   - [HDMI](#HDMI)
@@ -30,7 +28,6 @@ This is a list of components that I do not own that may be useful for future bui
   - [USB A to C](#USB-C-to-A)
   - [USB Extention](#USB-C-Extention)
   - [USB C Splitter](#USB-C-Splitter)
-  - [USB Micro](#USB-Micro)
   - [USB Micro Extension](#USB-Micro-Extension)
 - [Cases](#Cases)
 - [Cooling](#Cooling)
@@ -45,17 +42,12 @@ This is a list of components that I do not own that may be useful for future bui
 - [Meshtastic](#Meshtastic)
 - [Mounting and Hardware](#Mounting-and-Hardware)
 - [Organization and Labeling](#Organization-and-Labeling)
-- [Panels](#Panels)
-- [Ports](#Ports)
 - [Power](#Power)
   - [Batteries](#Batteries)
   - [Buttons](#Buttons)
-  - [Power Supplies](#Power-Supplies)
   - [UPS](#UPS)
 - [SDR](#SDR)
 - [Storage](#Storage)
-- [Tools](#Tools)
-- [Wifi Adapters](#WiFi-Adapters)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
@@ -76,18 +68,10 @@ Rabbit-Labs 4dBm 868MHz 900MHz 915MHz Antenna SMA Male | https://www.amazon.com/
 
 ## Cables and Adapters
 
-### *Adapters*
-Item|URL|Price
----|---|---
-
 ### *Audio*
 Item|URL|Price
 ---|---|---
 3.5mm Angle Male to Female Audio Adapter | https://www.amazon.com/gp/product/B07YFBCQTT/ | 
-
-### *DC*
-Item|URL|Price
----|---|---
 
 ### *Ethernet*
 Item|URL|Price
@@ -138,10 +122,6 @@ APEXSUN USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/dp/B0C9JMH9V
 Item|URL|Price
 ---|---|---
 USB Type C Splitter | https://www.amazon.com/gp/product/B0BZ8DFFNP/ | 
-
-### *USB Micro*
-Item|URL|Price
----|---|---
 
 ### *USB Micro Extension*
 Item|URL|Price
@@ -195,6 +175,7 @@ Item|URL|Price
 waveshare 1.51inch Transparent OLED | https://www.amazon.com/gp/product/B0B8N46G24/ | $
 Waveshare 2.13inch E-paper | https://www.amazon.com/dp/B0D5CJKXTD/ | $26.99
 waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/dp/B09GKB8XT8/ | $32.99
+Wireless Paper is an E-Ink development kit | https://heltec.org/project/wireless-paper/ | $15.90
 
 <!-- ++++++++++++++++++++ Display End ++++++++++++++++++++ -->
 
@@ -274,8 +255,7 @@ LILYGO® T-Deck ESP32-S3 LoRa Module 2.8 inch LCD Development Board | https://ww
 LILYGO T-Echo Meshtastic LoRa SX1262 Wireless Module | https://www.amazon.com/dp/B0B659536P/ | $
 LILYGO® TTGO LoRa32 V2.1_1.6 | https://www.aliexpress.us/item/2251832685763835.html | $19.98
 Waveshare SX1262 LoRaWAN Node Module | https://www.amazon.com/dp/B0C61XFGHC | $23.99
-https://heltec.org/project/wireless-paper/
-https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html
+SenseCAP Card Tracker T1000-E for Meshtastic | https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html | $39.90
 
 
 <!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
@@ -307,18 +287,9 @@ Wrap-It Storage - Cable Labels, Oval, Multi-Color (36 Pack) | https://www.amazon
 
 <!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
 
-## Panels
-Item|URL|Price
----|---|---
-
-
 <!-- ++++++++++++++++++++ Panels End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
-
-## Ports
-Item|URL|Price
----|---|---
 
 <!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
 
@@ -351,10 +322,6 @@ Item|URL|Price
 4 in 1 ON/Off Toggle Switch | https://www.amazon.com/dp/B0CPNYDCP6/ | $
 Nilight 4 in 1 ON/Off Charger Socket Panel | https://www.amazon.com/gp/product/B0BC8G9DNY/ | $
 
-### *Power Supplies*
-Item|URL|Price
----|---|---
-
 ### *UPS*
 Item|URL|Price
 ---|---|---
@@ -385,17 +352,9 @@ SanDisk 128GB Extreme microSDXC | https://www.amazon.com/dp/B09X7BK27V/ | $
 
 <!-- ++++++++++++++++++++ Tools Start ++++++++++++++++++++ -->
 
-## Tools
-Item|URL|Price
----|---|---
-
 <!-- ++++++++++++++++++++ Tools End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ WiFi Start ++++++++++++++++++++ -->
-
-## WiFi Adapters
-Item|URL|Price
----|---|---
 
 <!-- ++++++++++++++++++++ Wifi End ++++++++++++++++++++ -->
 
