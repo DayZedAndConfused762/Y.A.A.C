@@ -194,7 +194,7 @@ Mini Monochrome PiOLED Ad Blocking Pi-Hole Kit - No Soldering! | https://www.ada
 SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th=1 | 
 PineTime SmartWatch (Sealed) | https://pine64.com/product/pinetime-smartwatch-sealed/ | $26.99
 PineTime SmartWatch Dev Kit | https://pine64.com/product/pinetime-dev-kit/ | $26.99
-https://www.amazon.com/CircuitMess-Chatter-Communicator-Electronics-Engineering/dp/B09RTLNX7T
+CircuitMess Chatter - DIY Encrypted Wireless Communicator | https://www.amazon.com/CircuitMess-Chatter-Communicator-Electronics-Engineering/dp/B09RTLNX7T | $31.83
 
 <!-- ++++++++++++++++++++ Gadgets End ++++++++++++++++++++ -->
 
@@ -203,6 +203,9 @@ https://www.amazon.com/CircuitMess-Chatter-Communicator-Electronics-Engineering/
 ## GPS
 Item|URL|Price
 ---|---|---
+VK-162 G-Mouse USB GPS Dongle | https://www.amazon.com/dp/B078Y52FGQ/ | $16.98
+G72 G-Mouse USB GPS Dongle | https://www.amazon.com/dp/B07SMRXSC8/ | $18.99
+VK172 G-Mouse USB GPS Dongle | https://www.amazon.com/dp/B09Q2ZYRCS/ | $9.99
 
 <!-- ++++++++++++++++++++ GPS End ++++++++++++++++++++ -->
 
