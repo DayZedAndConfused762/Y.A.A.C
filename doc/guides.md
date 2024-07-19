@@ -36,7 +36,7 @@ This is a list of guides and helpful information.
 
 
 <!-- ------------------------------ AI Start ------------------------------ -->
-**[`^        back to top        ^`](#awesome-sysadmin)**
+
 ## AI
 
 - [Deploy and run LLM on Raspberry Pi](https://www.dfrobot.com/blog-13498.html): 
