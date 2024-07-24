@@ -269,7 +269,7 @@ SenseCAP Card Tracker T1000-E for Meshtastic | https://www.seeedstudio.com/Sense
 Item|URL|Price
 ---|---|---
 2Pcs 3 inch Silver Folding Butt Hinges | https://www.amazon.com/gp/product/B07BXGPSFP/ | $8.49
-5Pack Cable Spring Holder Clips | https://www.amazon.com/dp/B09S8VXZXC/ $11.99
+5Pack Cable Spring Holder Clips | https://www.amazon.com/dp/B09S8VXZXC/ | $11.99
 500pcs Laptop Notebook Computer Screw Kit Set | https://www.amazon.com/gp/product/B01FTI8TM8 | $8.99
 500Pcs M2 M2.5 M3 Metric Female Thread Knurled Brass Threaded Insert Embedded Nuts | https://www.amazon.com/gp/product/B07GLJ7KCJ/ | $11.39
 DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ/ | $12.99
