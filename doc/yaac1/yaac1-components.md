@@ -174,11 +174,11 @@ Item|URL|Price
 
 <!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
 
-<!--
 ### Panels
 Item|URL|Price
 ---|---|---
--->
+16" x 20" Black Foam Boards, 3ct. | https://www.michaels.com/product/16-x-20-black-foam-boards-3ct-10308906 | $9.99
+Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/product/B0BJDKZWDF/ | $17.99
 
 <!-- ++++++++++++++++++++ Panels End ++++++++++++++++++++ -->
 
