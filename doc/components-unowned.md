@@ -36,15 +36,19 @@ This is a list of components that I do not own that may be useful for future bui
 - [Gadgets](#Gadgets)
 - [GPS](#GPS)
 - [Hats](#Hats)
+- [Headers](#Headers)
 - [Hubs and Card Readers](#Hubs-and-Card-Readers)
 - [Input Devices](#Input-Devices)
 - [Media](Media)
 - [Meshtastic](#Meshtastic)
 - [Mounting and Hardware](#Mounting-and-Hardware)
 - [Organization and Labeling](#Organization-and-Labeling)
+- [Ports](#Ports)
 - [Power](#Power)
   - [Batteries](#Batteries)
+  - [Battery Chargers](#Battery-Chargers)
   - [Buttons](#Buttons)
+  - [Inverters](#Inverters)
   - [UPS](#UPS)
 - [SDR](#SDR)
 - [Storage](#Storage)
@@ -89,6 +93,8 @@ Chanzon 40pcs 30cm Long Male to Female Header Jumper | https://www.amazon.com/gp
 Item|URL|Price
 ---|---|---
 HDMI Cable Flat – 3ft – 4K@60Hz (Flat Cable) | https://www.amazon.com/dp/B0BV72556Z/ | 
+JSER CYFPV FPV HDMI Male to Up Angled 90D HDMI Male | https://www.amazon.com/gp/product/B07R5JPTDB/ | $9.00
+FPV HDMI Cable, 20cm FPV HDMI Slim Flat Cable, 90 Degree Upward | https://www.amazon.com/gp/product/B07F59KDZ3/ | $15.99
 
 ### *Micro SD Extension*
 Item|URL|Price
@@ -137,6 +143,7 @@ Item|URL|Price
 ---|---|---
 C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W | https://www.amazon.com/dp/B06XCK7G2R/ | 
 Pelican Vault V100 Hard Case | https://www.amazon.com/Pelican-Vault-V100-Pistol-Black/dp/B0CVQSRC6L/ | $49.95
+Modular Battery Storage Case with Movable Inserts | https://www.amazon.com/gp/product/ | $31.99
 
 <!-- ++++++++++++++++++++ Cases End ++++++++++++++++++++ -->
 
@@ -218,6 +225,12 @@ Raspberry Pi AI HAT | https://www.raspberrypi.com/news/raspberry-pi-ai-kit-avail
 
 <!-- ++++++++++++++++++++ Hats End ++++++++++++++++++++ -->
 
+<!-- ++++++++++++++++++++ Headers End ++++++++++++++++++++ -->
+
+GeeekPi 2x20 40 Pin Stacking Female Header Kit for Raspberry Pi | https://www.amazon.com/gp/product/B08GC18NMK/ | $13.99
+
+<!-- ++++++++++++++++++++ Headers End ++++++++++++++++++++ -->
+
 <!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
 
 ## Hubs and Card Readers
@@ -294,13 +307,19 @@ Wrap-It Storage - Cable Labels, Oval, Multi-Color (36 Pack) | https://www.amazon
 
 <!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
 
+## Ports
+Item|URL|Price
+---|---|---
+Nilight 4 in 1 ON/Off Charger Socket Panel Dual USB Power Outlet | https://www.amazon.com/gp/product/B0BC8G9DNY/ | $17.99
+4 in 1 ON/Off Toggle Switch | https://www.amazon.com/dp/B0CPNYDCP6/ | $
+
 <!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Power Start ++++++++++++++++++++ -->
 
 ## Power
 
-### *Batteres*
+### *Batteries*
 Item|URL|Price
 ---|---|---
 3.7V 4500mAh 955178 LiPo Battery Pack with PH2.0mm JST Connector | https://www.amazon.com/dp/B07TXHV3ST | $13.80
@@ -319,11 +338,15 @@ Item|URL|Price
 ---|---|---
 Renogy 12V 20A AC-to-DC Portable Battery Charger Plug-and-Play with 12AWG Alligator Clips for Lithium-iron Phosphate Batteries  | https://www.amazon.com/Renogy-12V-20A-Alligator-Batteries/dp/B08C2JN76Q | $113.54
 
+### *Inverters*
+Item|URL|Price
+---|---|---
+BMK 200W Car Power Inverter | https://www.amazon.com/gp/product/B079HPZ9JY/ | $19.99
+
 ### *Buttons*
 Item|URL|Price
 ---|---|---
-4 in 1 ON/Off Toggle Switch | https://www.amazon.com/dp/B0CPNYDCP6/ | $
-Nilight 4 in 1 ON/Off Charger Socket Panel | https://www.amazon.com/gp/product/B0BC8G9DNY/ | $
+Ulincos® Latching Push Button Switch | https://www.amazon.com/gp/product/B08DR1475W/ | $8.89
 
 ### *UPS*
 Item|URL|Price
