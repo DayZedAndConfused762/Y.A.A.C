@@ -140,6 +140,7 @@ Item|URL|Price
 ---|---|---
 BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
 USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J4ZT/ | $9.99
+USB C Hub, 9-in-1 USB C Hub Multiport Adapter | https://www.amazon.com/gp/product/B0D22M5713/ | $29.99
 
 <!-- ++++++++++++++++++++ Hubs End ++++++++++++++++++++ -->
 
@@ -148,8 +149,8 @@ USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J
 ### Input Devices
 Item|URL|Price
 ---|---|---
+Chicmine LT-T19 2.4GHz Wireless Mouse | https://www.walmart.com/ip/5239182812 | $12.35
 E-YOOSO 60 Percent Mechanical Keyboard | https://www.amazon.com/gp/product/B098JVHPBF/ | $25.99
-TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ | $14.99
 
 <!-- ++++++++++++++++++++ Input End ++++++++++++++++++++ -->
 
@@ -158,7 +159,13 @@ TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ |
 ### Mounting  & Hardware
 Item|URL|Price
 ---|---|---
-LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.com/gp/product/B07TP2YYQB/ | $14.88 
+LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.com/gp/product/B07TP2YYQB/ | $14.88
+N NOROCME 192 PCS Cable Management Kit | https://www.amazon.com/gp/product/B0B687J37D/ | $14.95
+T Tulead 20PCS Mini Decorative Handles | https://www.amazon.com/gp/product/B07SX719XB/ | $9.29
+VELCRO® Brand Sticky Back 5ft x 3/4in Roll, Black | https://www.walmart.com/ip/46059293 | $15.98
+Pro MAG® Round Magnets with Foam Adhesive | https://www.michaels.com/product/pro-mag-round-magnets-with-foam-adhesive-10392634 | $3.99
+Pro MAG® Value Pack Button Magnets, .5" | https://www.michaels.com/product/pro-mag-value-pack-button-magnets-5-10026598 | $7.99
+Rare Earth Magnets, 10 Pack | https://www.harborfreight.com/10-piece-rare-earth-magnets-67488.html | $2.99
 
 <!-- ++++++++++++++++++++ Mounting End ++++++++++++++++++++ -->
 
