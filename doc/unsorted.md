@@ -42,6 +42,10 @@ This is a unsorted dump list of links and info
 - https://www.amazon.com/StarTech-com-Micro-USB-Cable-Cord/dp/B00EBGGXS2/ref=sr_1_4?crid=3N9W18WOM7UEA&dib=eyJ2IjoiMSJ9.u4hPaKnZzz4wJialniZeEB3dBEPq4Y0didYHy1PD3SNoXlsqo7uF3xQYnPDF7S0LmZ_XJTrzONNHIo2s1hlvScIXfrt--1fuZqZMHXHck30rLorFHEiCcTCS-9YB4WafwBkG9eo2H3Kfd7djBQY9jfFgOnhq3rrVei501UQr7cryn-4KvGHjDhZfkiQdrpd_ZdBAc6uaIDb_HUz05mkQFGUb5O7Af8ntI2Lu7Olx1pA.So0vv_LKR1KYsxmR-n29WDn6JE7oRUI8JGmr3xpH3Es&dib_tag=se&keywords=right+angle+usb+micro&qid=1721759318&sprefix=right+angle+usb+micro%2Caps%2C103&sr=8-4
 - https://www.amazon.com/Durable-Braided-Android-Charging-Samsung/dp/B09XK4JDBJ/?_encoding=UTF8&pd_rd_w=2WUhT&content-id=amzn1.sym.a725c7b8-b047-4210-9584-5391d2d91b93%3Aamzn1.symc.d10b1e54-47e4-4b2a-b42d-92fe6ebbe579&pf_rd_p=a725c7b8-b047-4210-9584-5391d2d91b93&pf_rd_r=GJEPZ4QNGH6K3CDWNPEW&pd_rd_wg=ESAuH&pd_rd_r=7acdc7fe-301e-4ba4-85a8-e0153922f602&ref_=pd_hp_d_atf_ci_mcx_mr_hp_atf_m
 - https://www.amazon.com/SUNGUY-Charging-Compatible-RAVPower-Powercore/dp/B01COTBHV0/?_encoding=UTF8&pd_rd_w=2WUhT&content-id=amzn1.sym.a725c7b8-b047-4210-9584-5391d2d91b93%3Aamzn1.symc.d10b1e54-47e4-4b2a-b42d-92fe6ebbe579&pf_rd_p=a725c7b8-b047-4210-9584-5391d2d91b93&pf_rd_r=GJEPZ4QNGH6K3CDWNPEW&pd_rd_wg=ESAuH&pd_rd_r=7acdc7fe-301e-4ba4-85a8-e0153922f602&ref_=pd_hp_d_atf_ci_mcx_mr_hp_atf_m&th=1
+- https://www.reddit.com/r/linux4noobs/comments/15w4nu8/running_linux_on_asus_tuf_a15_2023/
+- https://github.com/ByteSnipers/awesome-pentest-cheat-sheets
+- https://adrelien.com/blog/tag/meshtastic/
+- https://adrelien.com/blog/how-to-do-coverage-mapping-meshtastic/
 - 
 
 
