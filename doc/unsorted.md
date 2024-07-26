@@ -98,7 +98,12 @@ This is a unsorted dump list of links and info
 - https://www.doscher.com/work-recovery-kit/
 - https://www.doscher.com/the-raspberry-pi-field-unit/
 - https://www.doscher.com/mobile-media-bot/
-- 
+- https://github.com/phillipadsmith/awesome-github#readme
+- https://github.com/homerchen19/github-file-icons
+- https://github.com/tiimgreen/github-cheat-sheet#readme
+- https://github.com/arslanbilal/git-cheat-sheet#readme
+- https://github.com/git-tips/tips#readme
+
 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
