@@ -13,6 +13,7 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
 ## Contents
+
 <!-- - [Cables and Adapters](#cables-and-adapters)
   - [Adpters](#Adapters)
   - [DC](#DC)

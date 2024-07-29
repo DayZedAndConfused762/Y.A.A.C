@@ -12,7 +12,7 @@ This is a list of operating systems that be be useful for the Y.A.A.Cs
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents:
+## Contents
 
 - [Communications](#Communications)
 - [Data](#Data)

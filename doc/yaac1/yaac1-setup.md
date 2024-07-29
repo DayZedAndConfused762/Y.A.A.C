@@ -12,7 +12,7 @@ Steps to setup and install operating systems and software on the Y.A.A.C-1.
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents:
+## Contents
 
 - [Bootloader](#Bootloader)
 - [Operating System 1](#Operating-System-1)
