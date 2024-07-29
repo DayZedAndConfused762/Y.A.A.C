@@ -346,7 +346,6 @@ BMK 200W Car Power Inverter | https://www.amazon.com/gp/product/B079HPZ9JY/ | $1
 ### *Buttons*
 Item|URL|Price
 ---|---|---
-Ulincos® Latching Push Button Switch | https://www.amazon.com/gp/product/B08DR1475W/ | $8.89
 
 ### *UPS*
 Item|URL|Price
