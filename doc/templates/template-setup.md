@@ -12,7 +12,7 @@ Template for steps to setup and install operating systems and software.
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents:
+# Contents:
 
 - [Section Name](#Section-Name)
 

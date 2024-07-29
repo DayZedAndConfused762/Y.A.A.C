@@ -12,7 +12,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents
+# Contents:
 
 - [CyberDecks](#CyberDecks)
   - [Lists](#Deck-Lists)

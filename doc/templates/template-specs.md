@@ -12,7 +12,7 @@ Template for hardware specs
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents:
+# Contents:
 
  - [Section Name](#Section-Name)
 

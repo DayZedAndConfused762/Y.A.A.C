@@ -12,7 +12,7 @@ This is a list of content to be included on the Y.A.A.C-1
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents:
+# Contents:
 
 - [Books](#Books)
 

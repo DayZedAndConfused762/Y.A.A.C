@@ -15,7 +15,7 @@ This is a list of components that I do not own that may be useful for future bui
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents:
+# Contents:
 
 - [Antennas](#Antennas)
 - [Cables and Adapters](#cables-and-adapters)
