@@ -103,6 +103,8 @@ This is a unsorted dump list of links and info
 - https://github.com/tiimgreen/github-cheat-sheet#readme
 - https://github.com/arslanbilal/git-cheat-sheet#readme
 - https://github.com/git-tips/tips#readme
+- https://www.civtak.org/atak-about/
+- 
 
 
 
