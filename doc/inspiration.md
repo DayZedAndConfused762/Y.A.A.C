@@ -1,4 +1,4 @@
-<!-- ======================================== inspiration.md Start ======================================== -->
+ <!-- ======================================== inspiration.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
@@ -15,6 +15,9 @@ This is a list of inspiration and sources of information for CyberDecks.
 ## Content
 
 - [CyberDecks](#CyberDecks)
+  - [Lists](#Deck-Lists)
+  - [Gun Case Decks](#Gun-Case-Decks)
+  - [Unsorted Decks](#Unsorted-Decks)
 - [CyberSecurity](#CyberSecurity)
 - [SubReddits](#SubReddits)
 - [Youtube](#Youtube)
@@ -23,28 +26,43 @@ This is a list of inspiration and sources of information for CyberDecks.
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
 
-<!-- ------------------------------ Inspiration Start ------------------------------ -->
+<!-- ------------------------------ Cyberdecks Start ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Cyberdecks Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Lists Start ++++++++++++++++++++ -->
 
-## Cyberdecks
+## Deck Lists
 - [CyberDecks](https://www.reddit.com/r/cyberDeck/)
 - [The CyberDeck Cafe](https://cyberdeck.cafe/)
 - [A CyberDeck Scrapbook](https://scrapbox.io/CYBERDECK/)
+
+<!-- ++++++++++++++++++++ Lists End ++++++++++++++++++++ -->
+
+
+<!-- ++++++++++++++++++++ Gun Case Start ++++++++++++++++++++ -->
+
+## Gun Case Decks
+- [Yet Another Apache Cyberdeck (Y.A.A.C)](https://www.reddit.com/r/cyberdeck/): The Y.A.A.C is a family of CyberDecks built using Apache gun cases.
 - [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
+- [little-luggable](https://github.com/jbmorley/little-luggable)
+- [the Raspberry Pi Quick Kit](https://www.doscher.com/the-raspberry-pi-quick-kit/)
+- [RPI-CyberDeck](https://github.com/JFisch25200/RPI-CyberDeck)
+- [LunchBox_cyberDeck](https://github.com/AndresBorray/LunchBox_cyberDeck)
+
+<!-- ++++++++++++++++++++ Gun Case End ++++++++++++++++++++ -->
+
+
+<!-- ++++++++++++++++++++ Unsorted Start ++++++++++++++++++++ -->
+
+## Unsorted Decks
 - [Framework Cyberdeck](https://github.com/BenMakesEverything/cyberdeck)
 - [framedeck](https://github.com/brickbots/framedeck)
-- [little-luggable](https://github.com/jbmorley/little-luggable)
 - [MR 3000 dual band radio device](https://parallax_punch.artstation.com/projects/XL6eL)
-- [the Raspberry Pi Quick Kit](https://www.doscher.com/the-raspberry-pi-quick-kit/)
 - [cyberDeck by TechDocN](https://github.com/TechDocN/cyberDeck)
 - [CyberDeck by T-ryder2](https://github.com/T-ryder2/CyberDeck)
 - [Cyberdeck by SlothWizard](https://github.com/Sloth-Wizard/CyberDeck)
 - [cyberDeck 2022](https://github.com/wdbm/cyberDeck_2022)
-- [RPI-CyberDeck](https://github.com/JFisch25200/RPI-CyberDeck)
 - [oldsoul](https://github.com/rconjoe/oldsoul)
 - [Orange-Pi-Cyberdeck](https://github.com/Skitz67/Orange-Pi-Cyberdeck)
-- [LunchBox_cyberDeck](https://github.com/AndresBorray/LunchBox_cyberDeck)
 - [PiZero-CyberDeck-Tape](https://github.com/krum04/PiZero-CyberDeck-Tape)
 - [OmniDevice](https://github.com/spacecadet85/CyberDeck--OmniDevice)
 - [smolDeck](https://github.com/cjdaly/smolDeck)
@@ -55,20 +73,21 @@ This is a list of inspiration and sources of information for CyberDecks.
 - [writerDeck.org](https://github.com/brsloan/writerDeck)
 - [Midnight Eclipse](https://github.com/paradoxzss/Project-Midnight-Eclipse)
 - [CyberMiga](https://github.com/SquishVic/CyberMiga)
-- [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
 - [CRT CyberDeck with VHF Transmitter](https://www.reddit.com/r/cyberDeck/comments/1e2habi/my_first_cyberdeck/)
 
-<!-- ++++++++++++++++++++ Cyberdecks End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Unsorted End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Cyberdecks End ------------------------------ -->
+
+<!-- ------------------------------ CyberSecurity Start ------------------------------ -->
 
 ## CyberSecurity
 - [Pwnagotchi](https://pwnagotchi.ai/)
 - [Pwnagotchi Cases](https://pwnagotchi.org/3d-printable-cases/index.html)
 
-<!-- ++++++++++++++++++++ CyberSecurity End ++++++++++++++++++++ -->
+<!-- ------------------------------ CyberSecurity End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ SubReddits Start ++++++++++++++++++++ -->
+<!-- ------------------------------ SubReddits Start ------------------------------ -->
 
 ## SubReddits
 - [CyberDecks](http://www.reddit.com/r/cyberdeck/)
@@ -78,9 +97,9 @@ This is a list of inspiration and sources of information for CyberDecks.
 - [Raspberry Pi Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/)
 
 
-<!-- ++++++++++++++++++++ SubReddits End ++++++++++++++++++++ -->
+<!-- ------------------------------ SubReddits End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Youtube Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Youtube Start ------------------------------ -->
 
 ## Youtube
 - [CRT Cyberdeck](https://www.youtube.com/watch?v=Ty9pPNabPpQ): 
@@ -98,9 +117,9 @@ This is a list of inspiration and sources of information for CyberDecks.
 - [This RISC-V cyberdeck is not for you](https://www.youtube.com/watch?v=8qDGV6LTOnk): 
 - [Forget WiFi! This Wireless Method is WAY Better?](https://www.youtube.com/watch?v=sLW_r0OVyok): 
 
-<!-- ++++++++++++++++++++ Youtube End ++++++++++++++++++++ -->
+<!-- ------------------------------ Youtube End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ RPiProjects Start ++++++++++++++++++++ -->
+<!-- ------------------------------ RPiProjects Start ------------------------------ -->
 
 ## Raspberry Pi Projects
 - [Weather Station with ePaper and Raspberry Pi](https://www.hackster.io/sridhar-rajagopal/weather-station-with-epaper-and-raspberry-pi-c26a70): 
@@ -129,9 +148,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 - [AI in a Box](https://www.crowdsupply.com/useful-sensors/ai-in-a-box)
 - [I created a Pi5 12TB storj node!](https://www.reddit.com/r/raspberryDIY/comments/1dje4ud/i_created_a_pi5_12tb_storj_node/)
 
-<!-- ++++++++++++++++++++ RPiProjects End ++++++++++++++++++++ -->
-
-<!-- ------------------------------ Inspiration Start ------------------------------ -->
+<!-- ------------------------------ RPiProjects End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
