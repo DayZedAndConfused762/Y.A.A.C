@@ -20,6 +20,7 @@ This is a unsorted dump list of links and info
 ## Unsorted Links
 
 - http://www.broadband-hamnet.org/
+- https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-
 - https://technotim.live/
 - https://www.amazon.com/Poyiccot-Android-Degree-Shaped-Charger/dp/B08Z3FQQJL/ref=sr_1_16?crid=RWL1DIRSWZ1G&dib=eyJ2IjoiMSJ9.rZzW7HnqfbhuCpuXea_MtyVYwmklrMvMZGY9rOu8WApXovj6TmWhaIi8epRBxXufm3d648z4zFlsKzFYWN3B2huofjH7Z4dRj4JJbQGUixSCdfRT6jVsjYLT6jPebMXJnrldotzqkQkLyyXgfgsrkaYoV2vbSFw8xHG4fcwJO49nKTJTkVoBggDfMpbmlXP3mczLfmWskVqZoEaHAKwvZWrtvJkxVYOyStQ6al3CHqA5dtpwtqvWBU78w4QLpMmE-X7BHzwIn2hnzBZD5BoxsfOFtyo_-VqSzPEpYyI5Nz8.jb50OFcbWX7W0G0D1rAeudWxOfyG-Q2e2CuzuFab2kY&dib_tag=se&keywords=right%2Bangle%2Busb%2Bmicro%2Bup%2Bangle&qid=1721759368&refinements=p_n_feature_sixteen_browse-bin%3A119746482011&rnid=119746477011&s=electronics&sprefix=right%2Bangle%2Busb%2Bmicro%2Bup%2Bangle%2Celectronics%2C89&sr=1-16&th=1
 - https://www.amazon.com/StarTech-com-USBAUB2MU-Micro-Cable-Cord/dp/B00ENZDFQ4/ref=sr_1_5?crid=3N9W18WOM7UEA&dib=eyJ2IjoiMSJ9.u4hPaKnZzz4wJialniZeEB3dBEPq4Y0didYHy1PD3SNoXlsqo7uF3xQYnPDF7S0LmZ_XJTrzONNHIo2s1hlvScIXfrt--1fuZqZMHXHck30rLorFHEiCcTCS-9YB4WafwBkG9eo2H3Kfd7djBQY9jfFgOnhq3rrVei501UQr7cryn-4KvGHjDhZfkiQdrpd_ZdBAc6uaIDb_HUz05mkQFGUb5O7Af8ntI2Lu7Olx1pA.So0vv_LKR1KYsxmR-n29WDn6JE7oRUI8JGmr3xpH3Es&dib_tag=se&keywords=right%2Bangle%2Busb%2Bmicro&qid=1721759318&sprefix=right%2Bangle%2Busb%2Bmicro%2Caps%2C103&sr=8-5&th=1
