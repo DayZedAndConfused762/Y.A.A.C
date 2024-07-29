@@ -12,9 +12,6 @@ This is a list of components that I do not own that may be useful for future bui
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-
-<!-- ------------------------------ Overview Start ------------------------------ -->
-
 # Contents:
 
 - [Antennas](#Antennas)
@@ -57,7 +54,7 @@ This is a list of components that I do not own that may be useful for future bui
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 
-<!-- ++++++++++++++++++++ Antennas Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Antennas Start ------------------------------ -->
 
 ## Antennas
 
@@ -65,10 +62,10 @@ Item|URL|Price
 ---|---|---
 Rabbit-Labs 4dBm 868MHz 900MHz 915MHz Antenna SMA Male | https://www.amazon.com/gp/product/B0D19JJBKZ | $6.25
 
-<!-- ++++++++++++++++++++ Antennas End ++++++++++++++++++++ -->
+<!-- ------------------------------ Antennas End ------------------------------ -->
 
 
-<!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Cables Start ------------------------------ -->
 
 ## Cables and Adapters
 
@@ -145,9 +142,9 @@ Item|URL|Price
 ---|---|---
 6 inch USB Micro Male to Female OTG Extension Cable | https://www.amazon.com/gp/product/B00HAOK7XE/  $5.97
 
-<!-- ++++++++++++++++++++ Cables End ++++++++++++++++++++ -->
+<!-- ------------------------------ Cables End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Cases Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Cases Start ------------------------------ -->
 
 ## Cases
 
@@ -157,9 +154,9 @@ C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W | https://www
 Pelican Vault V100 Hard Case | https://www.amazon.com/Pelican-Vault-V100-Pistol-Black/dp/B0CVQSRC6L/ | $49.95
 Modular Battery Storage Case with Movable Inserts | https://www.amazon.com/gp/product/ | $31.99
 
-<!-- ++++++++++++++++++++ Cases End ++++++++++++++++++++ -->
+<!-- ------------------------------ Cases End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Cooling Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Cooling Start ------------------------------ -->
 
 ## Cooling
 
@@ -172,9 +169,9 @@ Coolerguys 25mm (25x25x10) USB Fan | https://www.amazon.com/dp/B07NC4Z24T/ |
 ELUTENG Dual 40mm USB Fan | https://www.amazon.com/dp/B08ZY7X4CR/ | 
 ELUTENG Dual Cooling Fan Whisper Quiet 80mm USB | https://www.amazon.com/dp/B09QMC1458/ | 
 
-<!-- ++++++++++++++++++++ Cooling End ++++++++++++++++++++ -->
+<!-- ------------------------------ Cooling End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Compute Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Compute Start ------------------------------ -->
 
 ## Core Compute
 
@@ -185,9 +182,9 @@ GeeekPi Raspberry Pi Zero 2 W Starter Kit | https://www.amazon.com/gp/product/B0
 Raspberry Pi Zero WH | https://www.amazon.com/gp/product/B0CG99MR5W/ | 
 Waveshare Package D | https://www.amazon.com/dp/B09LCKNKM5/ | 
 
-<!-- ++++++++++++++++++++ Compute End ++++++++++++++++++++ -->
+<!-- ------------------------------ Compute End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Display Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Display Start ------------------------------ -->
 
 ## Display
 
@@ -199,9 +196,9 @@ Waveshare 2.13inch E-paper | https://www.amazon.com/dp/B0D5CJKXTD/ | $26.99
 waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/dp/B09GKB8XT8/ | $32.99
 Wireless Paper is an E-Ink development kit | https://heltec.org/project/wireless-paper/ | $15.90
 
-<!-- ++++++++++++++++++++ Display End ++++++++++++++++++++ -->
+<!-- ------------------------------ Display End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Gadgets Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Gadgets Start ------------------------------ -->
 
 ## Gadgets
 
@@ -219,9 +216,9 @@ PineTime SmartWatch (Sealed) | https://pine64.com/product/pinetime-smartwatch-se
 PineTime SmartWatch Dev Kit | https://pine64.com/product/pinetime-dev-kit/ | $26.99
 CircuitMess Chatter - DIY Encrypted Wireless Communicator | https://www.amazon.com/CircuitMess-Chatter-Communicator-Electronics-Engineering/dp/B09RTLNX7T | $31.83
 
-<!-- ++++++++++++++++++++ Gadgets End ++++++++++++++++++++ -->
+<!-- ------------------------------ Gadgets End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ GPS Start ++++++++++++++++++++ -->
+<!-- ------------------------------ GPS Start ------------------------------ -->
 
 ## GPS
 
@@ -231,9 +228,9 @@ VK-162 G-Mouse USB GPS Dongle | https://www.amazon.com/dp/B078Y52FGQ/ | $16.98
 G72 G-Mouse USB GPS Dongle | https://www.amazon.com/dp/B07SMRXSC8/ | $18.99
 VK172 G-Mouse USB GPS Dongle | https://www.amazon.com/dp/B09Q2ZYRCS/ | $9.99
 
-<!-- ++++++++++++++++++++ GPS End ++++++++++++++++++++ -->
+<!-- ------------------------------ GPS End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Hats Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Hats Start ------------------------------ -->
 
 ## Hats
 
@@ -241,15 +238,15 @@ Item|URL|Price
 ---|---|---
 Raspberry Pi AI HAT | https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/ | $70.00
 
-<!-- ++++++++++++++++++++ Hats End ++++++++++++++++++++ -->
+<!-- ------------------------------ Hats End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Headers End ++++++++++++++++++++ -->
+<!-- ------------------------------ Headers End ------------------------------ -->
 
 GeeekPi 2x20 40 Pin Stacking Female Header Kit for Raspberry Pi | https://www.amazon.com/gp/product/B08GC18NMK/ | $13.99
 
-<!-- ++++++++++++++++++++ Headers End ++++++++++++++++++++ -->
+<!-- ------------------------------ Headers End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Hubs Start ------------------------------ -->
 
 ## Hubs and Card Readers
 
@@ -258,9 +255,9 @@ Item|URL|Price
 TP-Link N300 Wireless Portable Router | https://www.amazon.com/dp/B00TQEX8BO/ | $
 USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini | $
 
-<!-- ++++++++++++++++++++ Hubs End ++++++++++++++++++++ -->
+<!-- ------------------------------ Hubs End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Input Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Input Start ------------------------------ -->
 
 ## Input Devices
 
@@ -268,9 +265,9 @@ Item|URL|Price
 ---|---|---
 Medium Panel Mount USB Trackpad with Three Buttons | https://www.adafruit.com/product/5061 | $39.95
 
-<!-- ++++++++++++++++++++ Input End ++++++++++++++++++++ -->
+<!-- ------------------------------ Input End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Media Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Media Start ------------------------------ -->
 
 ## Media
 
@@ -279,9 +276,9 @@ Item|URL|Price
 WM8960 Audio HAT Module for Raspberry Pi | https://www.amazon.com/dp/B098R7TTM4/ | $
 WM8960 Hi-Fi Sound Card HAT for Raspberry Pi | https://www.amazon.com/dp/B0CN1D7Z9H/ | $
 
-<!-- ++++++++++++++++++++ Media End ++++++++++++++++++++ -->
+<!-- ------------------------------ Media End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Meshtastic Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Meshtastic Start ------------------------------ -->
 
 ## Meshtastic
 
@@ -296,9 +293,9 @@ Waveshare SX1262 LoRaWAN Node Module | https://www.amazon.com/dp/B0C61XFGHC | $2
 SenseCAP Card Tracker T1000-E for Meshtastic | https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html | $39.90
 
 
-<!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
+<!-- ------------------------------ Meshtastic End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Mounting Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Mounting Start ------------------------------ -->
 
 ## Mounting and Hardware
 
@@ -312,9 +309,9 @@ DIYMAG 120Pcs Refrigerator Magnets 10x2mm | https://www.amazon.com/dp/B0753ZPBLQ
 Sumnacon 8Pcs Stainless Steel Flat Plates | https://www.amazon.com/gp/product/B07D8QMLPR/ | $8.99
 VELCRO Brand ONE WRAP Thin Ties | https://www.amazon.com/gp/product/B000F5K82A/ | $
 
-<!-- ++++++++++++++++++++ Mounting End ++++++++++++++++++++ -->
+<!-- ------------------------------ Mounting End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Organization Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Organization Start ------------------------------ -->
 
 ## Organization and Labeling
 
@@ -323,13 +320,13 @@ Item|URL|Price
 Digital Tube Wire labels 0-9 Number Coded Clip | https://www.amazon.com/dp/B07V3S9LT6/ | $6.91
 Wrap-It Storage - Cable Labels, Oval, Multi-Color (36 Pack) | https://www.amazon.com/dp/B07Y2JSTXK/ | $15.99
 
-<!-- ++++++++++++++++++++ Organization End ++++++++++++++++++++ -->
+<!-- ------------------------------ Organization End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Panels Start ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Panels End ++++++++++++++++++++ -->
+<!-- ------------------------------ Panels End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Ports Start ------------------------------ -->
 
 ## Ports
 
@@ -338,9 +335,9 @@ Item|URL|Price
 Nilight 4 in 1 ON/Off Charger Socket Panel Dual USB Power Outlet | https://www.amazon.com/gp/product/B0BC8G9DNY/ | $17.99
 4 in 1 ON/Off Toggle Switch | https://www.amazon.com/dp/B0CPNYDCP6/ | $
 
-<!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
+<!-- ------------------------------ Ports End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Power Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Power Start ------------------------------ -->
 
 ## Power
 
@@ -384,9 +381,9 @@ Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://ww
 Pisugar 2 Portable 1200 mAh UPS | https://www.amazon.com/dp/B08D678XPR/ | $35.99
 PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/dp/B097RC8KLQ/ | $27.99
 
-<!-- ++++++++++++++++++++ Power End ++++++++++++++++++++ -->
+<!-- ------------------------------ Power End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
+<!-- ------------------------------ SDR Start ------------------------------ -->
 
 ## SDR
 
@@ -395,9 +392,9 @@ Item|URL|Price
 RTL-SDR (DVB-T), (DAB), and FM tuner | https://hackerwarehouse.com/product/rtlsdr/ | $
 Software Defined Radio (Dongle Only) | https://www.amazon.com/gp/product/B0BMKZCKTF/ | $
 
-<!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
+<!-- ------------------------------ SDR End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Storage Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Storage Start ------------------------------ -->
 
 ## Storage
 
@@ -405,15 +402,15 @@ Item|URL|Price
 ---|---|---
 SanDisk 128GB Extreme microSDXC | https://www.amazon.com/dp/B09X7BK27V/ | $
 
-<!-- ++++++++++++++++++++ Storage End ++++++++++++++++++++ -->
+<!-- ------------------------------ Storage End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Tools Start ++++++++++++++++++++ -->
+<!-- ------------------------------ Tools Start ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Tools End ++++++++++++++++++++ -->
+<!-- ------------------------------ Tools End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ WiFi Start ++++++++++++++++++++ -->
+<!-- ------------------------------ WiFi Start ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Wifi End ++++++++++++++++++++ -->
+<!-- ------------------------------ Wifi End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
