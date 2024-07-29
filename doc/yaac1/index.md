@@ -28,7 +28,7 @@ Version 0.1.0 of the Y.A.A.C-1
 
 <!-- ------------------------------ Files Start ------------------------------ -->
 
-## Files
+## Files:
 
 * [Build Guide](yaac1-build.md) A step by step reference of the build process
 * [Components](yaac1-components.md) A list of compents used, components owned, and components to possibly buy

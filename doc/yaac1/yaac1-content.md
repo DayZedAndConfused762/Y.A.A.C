@@ -12,7 +12,8 @@ This is a list of content to be included on the Y.A.A.C-1
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents
+## Contents:
+
 - [Books](#Books)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
@@ -21,6 +22,7 @@ This is a list of content to be included on the Y.A.A.C-1
 <!-- ------------------------------ Books Start ------------------------------ -->
 
 ## Books
+
 - [Folkscanomy: Prepper and Survivalist Books](https://archive.org/details/folkscanomy_prepper): 
 - [Folkscanomy: Self-Defense Books](https://archive.org/details/folkscanomy_defense): 
 - [Folkscanomy: Agriculture Books](https://archive.org/details/folkscanomy_agriculture): 

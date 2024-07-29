@@ -12,7 +12,7 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents
+## Contents:
 
 <!-- - [Cables and Adapters](#cables-and-adapters)
   - [Adpters](#Adapters)
@@ -100,6 +100,7 @@ Item|URL|Price
 <!-- ++++++++++++++++++++ Cases Start ++++++++++++++++++++ -->
 
 ### Cases
+
 Item|URL|Price
 ---|---|---
 Apache 3800 Black | https://www.harborfreight.com/3800-weatherproof-protective-case-large-black-63927.html | $39.99
@@ -110,6 +111,7 @@ Geekworm for Raspberry Pi 4 Case, Universal HAT Size | https://www.amazon.com/gp
 <!-- ++++++++++++++++++++ Cooling Start ++++++++++++++++++++ -->
 
 ### Cooling
+
 Item|URL|Price
 ---|---|---
 Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23/ | $9.99
@@ -119,6 +121,7 @@ Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23
 <!-- ++++++++++++++++++++ Compute Start ++++++++++++++++++++ -->
 
 ### Core Compute
+
 Item|URL|Price
 ---|---|---
 Raspberry Pi 4 Computer Model B 8GB | https://www.amazon.com/gp/product/B0899VXM8F/ | $75.00
@@ -128,6 +131,7 @@ Raspberry Pi 4 Computer Model B 8GB | https://www.amazon.com/gp/product/B0899VXM
 <!-- ++++++++++++++++++++ Display Start ++++++++++++++++++++ -->
 
 ### Display
+
 Item|URL|Price
 ---|---|---
 waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FGC | $129.99
@@ -137,6 +141,7 @@ waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FG
 <!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
 
 ### Hubs & Card Readers
+
 Item|URL|Price
 ---|---|---
 BUDI Multifunctional 9 in1 SD Card Reader | https://www.amazon.com/gp/product/B0BJ622NHZ/ | $27.99
@@ -148,6 +153,7 @@ USB C Hub, 9-in-1 USB C Hub Multiport Adapter | https://www.amazon.com/gp/produc
 <!-- ++++++++++++++++++++ Input Start ++++++++++++++++++++ -->
 
 ### Input Devices
+
 Item|URL|Price
 ---|---|---
 Chicmine LT-T19 2.4GHz Wireless Mouse | https://www.walmart.com/ip/5239182812 | $12.35
@@ -158,6 +164,7 @@ E-YOOSO 60 Percent Mechanical Keyboard | https://www.amazon.com/gp/product/B098J
 <!-- ++++++++++++++++++++ Mounting Start ++++++++++++++++++++ -->
 
 ### Mounting  & Hardware
+
 Item|URL|Price
 ---|---|---
 LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.com/gp/product/B07TP2YYQB/ | $14.88
@@ -183,6 +190,7 @@ Item|URL|Price
 <!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
 
 ### Panels
+
 Item|URL|Price
 ---|---|---
 16" x 20" Black Foam Boards, 3ct. | https://www.michaels.com/product/16-x-20-black-foam-boards-3ct-10308906 | $9.99
@@ -193,6 +201,7 @@ Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/pro
 <!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
 
 ### Ports
+
 Item|URL|Price
 ---|---|---
 PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
@@ -204,12 +213,14 @@ USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | 
 <!-- ++++++++++++++++++++ Power Start ++++++++++++++++++++ -->
 
 ### Power
+
 #### *Batteries*
 Item|URL|Price
 ---|---|---
 Panasonic NCR 18650 3400mAh 3.7V Unprotected High-Drain 4.87A Lithium Ion | https://www.batteryjunction.com/panasonic-ncr18650b-3400 | $8.99
 
 #### *Buttons*
+
 Item|URL|Price
 ---|---|---
 Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
@@ -221,6 +232,7 @@ Item|URL|Price
 -->
 
 #### *UPS*
+
 Item|URL|Price
 ---|---|---
 Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
@@ -230,6 +242,7 @@ Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/d
 <!-- ++++++++++++++++++++ Storage Start ++++++++++++++++++++ -->
 
 ### Storage
+
 Item|URL|Price
 ---|---|---
 Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99

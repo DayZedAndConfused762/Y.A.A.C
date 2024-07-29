@@ -12,7 +12,7 @@ This is a list of all components I own for my CyberDecks as well as links and pr
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents
+## Contents:
 
 - [Cables and Adapters](#cables-and-adapters)
   - [Adpters](#Adapters)
@@ -122,6 +122,7 @@ SABRENT [6-Pack 22AWG Premium 1ft Micro USB Cables | https://www.amazon.com/gp/p
 <!-- ++++++++++++++++++++ Cases Start ++++++++++++++++++++ -->
 
 ## Cases
+
 Item|URL|Price
 ---|---|---
 APACHE 1800 Weatherproof Protective Case, Small, Black | https://www.harborfreight.com/1800-weatherproof-protective-case-small-black-64550.html | $12.99
@@ -140,6 +141,7 @@ Geekworm for Raspberry Pi 4 Case, Universal HAT Size | https://www.amazon.com/gp
 <!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
 ## Cooling
+
 Item|URL|Price
 ---|---|---
 2Pack Quiet 80mm USB Fan | https://www.amazon.com/dp/B0C1GF3R3Y | $19.95
@@ -152,6 +154,7 @@ Geekworm Cooling Fan Expansion Board (X728-A1) | https://www.amazon.com/dp/B08B5
 <!-- ++++++++++++++++++++ Compute Start ++++++++++++++++++++ -->
 
 ## Core Compute
+
 Item|URL|Price
 ---|---|---
 Raspberry Pi 3 Model B+ Board (3B+) | Previously Owned | $35.00
@@ -164,6 +167,7 @@ Waveshare Package E Compatible with Raspberry Pi Zero 2 WHC Bundle | https://www
 <!-- ++++++++++++++++++++ Display Start ++++++++++++++++++++ -->
 
 ## Display
+
 Item|URL|Price
 ---|---|---
 Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
@@ -174,6 +178,7 @@ waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FG
 <!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
 
 ## Hubs and Card Readers
+
 Item|URL|Price
 ---|---|---
 GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router | https://www.amazon.com/gp/product/B09N72FMH5/ | $33.90
@@ -188,6 +193,7 @@ USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J
 <!-- ++++++++++++++++++++ Input Start ++++++++++++++++++++ -->
 
 ## Input Devices
+
 Item|URL|Price
 ---|---|---
 Chicmine LT-T19 2.4GHz Wireless Mouse | https://www.walmart.com/ip/5239182812 | $12.35
@@ -199,6 +205,7 @@ TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ |
 <!-- ++++++++++++++++++++ Mounting Start ++++++++++++++++++++ -->
 
 ## Mounting and Hardware
+
 Item|URL|Price
 ---|---|---
 600PCS M3 Male Female Nylon Hex Spacer Standoffs | https://www.amazon.com/gp/product/B0CBPGKDP4/ | $14.99
@@ -218,6 +225,7 @@ LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.c
 <!-- ++++++++++++++++++++ Organization Start ++++++++++++++++++++ -->
 
 ## Organization and Labeling
+
 Item|URL|Price
 ---|---|---
 Velcro Brand Cable Ties | no link/in store (Michaels) | $1.00 (Clearance)
@@ -228,6 +236,7 @@ Velcro Brand Cable Ties | no link/in store (Michaels) | $1.00 (Clearance)
 <!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
 
 ## Panels
+
 Item|URL|Price
 ---|---|---
 16" x 20" Black Foam Boards, 3ct. | https://www.michaels.com/product/16-x-20-black-foam-boards-3ct-10308906 | $9.99
@@ -239,6 +248,7 @@ Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/pro
 <!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
 
 ## Ports
+
 Item|URL|Price
 ---|---|---
 PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
@@ -254,6 +264,7 @@ USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | 
 ## Power
 
 ### *Batteries*
+
 Item|URL|Price
 ---|---|---
 Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.amazon.com/gp/product/B09VP9QJSS/ | $79.99
@@ -263,23 +274,27 @@ Panasonic NCR 18650 3400mAh 3.7V Unprotected High-Drain 4.87A Lithium Ion | http
 Shargeek 100 25,600mAh power bank | https://sharge.com/products/storm2?variant=42179797123323  $169.00
 
 ### *Buttons*
+
 Item|URL|Price
 ---|---|---
 Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
 Ulincos® Latching Push Button Switch | https://www.amazon.com/gp/product/B08DR1475W/ | $8.89
 
 ### *Power Supplies*
+
 Item|URL|Price
 ---|---|---
 CanaKit 3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
 Sharge 100W Pro | https://sharge.com/products/shargeek-usb-c-charger-100w?variant=45663814648059 | $49.99
 
 ### *Solar Panels*
+
 Item|URL|Price
 ---|---|---
 Power Bank Solar Panel(Shargeek 100) | https://sharge.com/products/storm-2-solar-power-bank-charger-case-portable-solar-panels-charger-12w?variant=44517890851067 | $89.00
 
 ### *UPS*
+
 Item|URL|Price
 ---|---|---
 Geekworm for Raspberry Pi UPS, X728 (Max 5.1V 6A) UPS | https://www.amazon.com/dp/B087FXLZZH | $43.00
@@ -291,6 +306,7 @@ PiSugar 3 Portable 1200 mAh UPS | https://www.amazon.com/gp/product/B09MJ8SCGD/ 
 <!-- ++++++++++++++++++++ Sdr Start ++++++++++++++++++++ -->
 
 ## *SDR*
+
 Item|URL|Price
 ---|---|---
 V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www.amazon.com/dp/B0CD7558GT/ | $41.95
@@ -299,6 +315,7 @@ V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www
 
 
 ## Storage
+
 Item|URL|Price
 ---|---|---
 Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
@@ -313,6 +330,7 @@ SHARGE Disk SSD Holder | https://sharge.com/products/sharge-disk?variant=4495782
 <!-- ++++++++++++++++++++ Tools Start ++++++++++++++++++++ -->
 
 ## Tools
+
 Item|URL|Price
 ---|---|---
 Fiskars 12" x 18" Double-Sided Rotary Cutting Mat, Gray| https://www.walmart.com/ip/24548295 | $10.99

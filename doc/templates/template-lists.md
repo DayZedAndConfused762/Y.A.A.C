@@ -23,12 +23,14 @@ This is template for lists.
 <!-- ------------------------------ Section Start ------------------------------ -->
 
 ## Section Name
+
 * [Link](https://www.google.com/): Link Description
   - [Sublink](https://www.google.com/): Sublink Description
 
 <!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
 
 ### Subsection Name
+
 * [Link](https://www.google.com/): Link Description
   - [Sublink](https://www.google.com/): Sublink Description
 

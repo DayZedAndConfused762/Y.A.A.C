@@ -31,6 +31,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 <!-- ++++++++++++++++++++ Lists Start ++++++++++++++++++++ -->
 
 ## Deck Lists
+
 - [CyberDecks](https://www.reddit.com/r/cyberDeck/)
 - [The CyberDeck Cafe](https://cyberdeck.cafe/)
 - [A CyberDeck Scrapbook](https://scrapbox.io/CYBERDECK/)
@@ -41,6 +42,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 <!-- ++++++++++++++++++++ Gun Case Start ++++++++++++++++++++ -->
 
 ## Gun Case Decks
+
 - [Yet Another Apache Cyberdeck (Y.A.A.C)](https://www.reddit.com/r/cyberdeck/): The Y.A.A.C is a family of CyberDecks built using Apache gun cases.
 - [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
 - [little-luggable](https://github.com/jbmorley/little-luggable)
@@ -54,6 +56,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 <!-- ++++++++++++++++++++ Unsorted Start ++++++++++++++++++++ -->
 
 ## Unsorted Decks
+
 - [Framework Cyberdeck](https://github.com/BenMakesEverything/cyberdeck)
 - [framedeck](https://github.com/brickbots/framedeck)
 - [MR 3000 dual band radio device](https://parallax_punch.artstation.com/projects/XL6eL)
@@ -82,6 +85,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 <!-- ------------------------------ CyberSecurity Start ------------------------------ -->
 
 ## CyberSecurity
+
 - [Pwnagotchi](https://pwnagotchi.ai/)
 - [Pwnagotchi Cases](https://pwnagotchi.org/3d-printable-cases/index.html)
 
@@ -90,6 +94,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 <!-- ------------------------------ SubReddits Start ------------------------------ -->
 
 ## SubReddits
+
 - [CyberDecks](http://www.reddit.com/r/cyberdeck/)
 - [Preppers](https://www.reddit.com/r/preppers/)
 - [Prepping items on sale](https://www.reddit.com/r/preppersales/)
@@ -102,6 +107,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 <!-- ------------------------------ Youtube Start ------------------------------ -->
 
 ## Youtube
+
 - [CRT Cyberdeck](https://www.youtube.com/watch?v=Ty9pPNabPpQ): 
 - [Build Your Own Off-Grid Internet with Raspberry Pi!](https://www.youtube.com/watch?v=Hp4hLpDFVyg): 
 - [Build an Off Grid Wikipedia with #RaspberryPi ](https://www.youtube.com/watch?v=R63x2TXm0s8): 
@@ -122,6 +128,7 @@ This is a list of inspiration and sources of information for CyberDecks.
 <!-- ------------------------------ RPiProjects Start ------------------------------ -->
 
 ## Raspberry Pi Projects
+
 - [Weather Station with ePaper and Raspberry Pi](https://www.hackster.io/sridhar-rajagopal/weather-station-with-epaper-and-raspberry-pi-c26a70): 
 - [Weather and news station](https://www.hackster.io/aerodynamics/weather-and-news-station-e-paper-and-raspberry-pi-a19fa3): 
 - [LoRa - Raspberry Pi - Single Channel Gateway](https://www.hackster.io/ChrisSamuelson/lora-raspberry-pi-single-channel-gateway-cheap-d57d36): 

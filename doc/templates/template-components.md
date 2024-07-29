@@ -12,7 +12,7 @@ This is a template for list of components.
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents
+## Contents:
 
 - [Section Name](#Section-Name)
   - [Subsection Name](#Subsection-Name)
@@ -23,6 +23,7 @@ This is a template for list of components.
 <!-- ------------------------------ Section Start ------------------------------ -->
 
 ## Section Name
+
 Item|URL|Price
 ---|---|---
 Item Name | https://www.amazon.com/ | $123,456,789.99
@@ -31,6 +32,7 @@ Item Name | https://www.amazon.com/ | $123,456,789.99
 <!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
 
 ### *Subsubsection Name*
+
 Item|URL|Price
 ---|---|---
 Item Name | https://www.amazon.com/ | $123,456,789.99
