@@ -32,10 +32,11 @@ Version 0.1.0 of the Y.A.A.C.1
 - [Unowned Components](doc/components-unowned.md): A list of compents that may be useful for future builds.
 - [Guides](doc/guides.md): A list of guides/tutorials/information.
 - [Inspiration](doc/inspiration.md): Other CyberDecks, projects, and links for inspiration.
+- [Operating Systems](doc/operating-systems.md): A list of various Operating Systems.
 - [Software](doc/software.md): Software used and to possibly use.
 - [To Do List](doc/todo.md): A To Do list for this repository.
 - [Unsorted](doc/unsorted.md): A file containing links and other information yet to be sorted.
-- [Web Tools](doc/webtools.md): A collection of web based tools and utilities.
+- [Web-based Tools & Utilities](doc/webtools.md): A collection of web based tools and utilities.
 
 <!-- ------------------------------ Files End ------------------------------ -->
 
