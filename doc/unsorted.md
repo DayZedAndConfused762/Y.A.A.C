@@ -19,23 +19,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-- http://www.broadband-hamnet.org/
-- https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-
-- https://technotim.live/
-- https://www.amazon.com/Poyiccot-Android-Degree-Shaped-Charger/dp/B08Z3FQQJL/ref=sr_1_16?crid=RWL1DIRSWZ1G&dib=eyJ2IjoiMSJ9.rZzW7HnqfbhuCpuXea_MtyVYwmklrMvMZGY9rOu8WApXovj6TmWhaIi8epRBxXufm3d648z4zFlsKzFYWN3B2huofjH7Z4dRj4JJbQGUixSCdfRT6jVsjYLT6jPebMXJnrldotzqkQkLyyXgfgsrkaYoV2vbSFw8xHG4fcwJO49nKTJTkVoBggDfMpbmlXP3mczLfmWskVqZoEaHAKwvZWrtvJkxVYOyStQ6al3CHqA5dtpwtqvWBU78w4QLpMmE-X7BHzwIn2hnzBZD5BoxsfOFtyo_-VqSzPEpYyI5Nz8.jb50OFcbWX7W0G0D1rAeudWxOfyG-Q2e2CuzuFab2kY&dib_tag=se&keywords=right%2Bangle%2Busb%2Bmicro%2Bup%2Bangle&qid=1721759368&refinements=p_n_feature_sixteen_browse-bin%3A119746482011&rnid=119746477011&s=electronics&sprefix=right%2Bangle%2Busb%2Bmicro%2Bup%2Bangle%2Celectronics%2C89&sr=1-16&th=1
-- https://www.amazon.com/StarTech-com-USBAUB2MU-Micro-Cable-Cord/dp/B00ENZDFQ4/ref=sr_1_5?crid=3N9W18WOM7UEA&dib=eyJ2IjoiMSJ9.u4hPaKnZzz4wJialniZeEB3dBEPq4Y0didYHy1PD3SNoXlsqo7uF3xQYnPDF7S0LmZ_XJTrzONNHIo2s1hlvScIXfrt--1fuZqZMHXHck30rLorFHEiCcTCS-9YB4WafwBkG9eo2H3Kfd7djBQY9jfFgOnhq3rrVei501UQr7cryn-4KvGHjDhZfkiQdrpd_ZdBAc6uaIDb_HUz05mkQFGUb5O7Af8ntI2Lu7Olx1pA.So0vv_LKR1KYsxmR-n29WDn6JE7oRUI8JGmr3xpH3Es&dib_tag=se&keywords=right%2Bangle%2Busb%2Bmicro&qid=1721759318&sprefix=right%2Bangle%2Busb%2Bmicro%2Caps%2C103&sr=8-5&th=1
-- https://www.amazon.com/StarTech-com-Micro-USB-Cable-Cord/dp/B00EBGGXS2/ref=sr_1_4?crid=3N9W18WOM7UEA&dib=eyJ2IjoiMSJ9.u4hPaKnZzz4wJialniZeEB3dBEPq4Y0didYHy1PD3SNoXlsqo7uF3xQYnPDF7S0LmZ_XJTrzONNHIo2s1hlvScIXfrt--1fuZqZMHXHck30rLorFHEiCcTCS-9YB4WafwBkG9eo2H3Kfd7djBQY9jfFgOnhq3rrVei501UQr7cryn-4KvGHjDhZfkiQdrpd_ZdBAc6uaIDb_HUz05mkQFGUb5O7Af8ntI2Lu7Olx1pA.So0vv_LKR1KYsxmR-n29WDn6JE7oRUI8JGmr3xpH3Es&dib_tag=se&keywords=right+angle+usb+micro&qid=1721759318&sprefix=right+angle+usb+micro%2Caps%2C103&sr=8-4
-- https://www.amazon.com/Durable-Braided-Android-Charging-Samsung/dp/B09XK4JDBJ/?_encoding=UTF8&pd_rd_w=2WUhT&content-id=amzn1.sym.a725c7b8-b047-4210-9584-5391d2d91b93%3Aamzn1.symc.d10b1e54-47e4-4b2a-b42d-92fe6ebbe579&pf_rd_p=a725c7b8-b047-4210-9584-5391d2d91b93&pf_rd_r=GJEPZ4QNGH6K3CDWNPEW&pd_rd_wg=ESAuH&pd_rd_r=7acdc7fe-301e-4ba4-85a8-e0153922f602&ref_=pd_hp_d_atf_ci_mcx_mr_hp_atf_m
-- https://www.amazon.com/SUNGUY-Charging-Compatible-RAVPower-Powercore/dp/B01COTBHV0/?_encoding=UTF8&pd_rd_w=2WUhT&content-id=amzn1.sym.a725c7b8-b047-4210-9584-5391d2d91b93%3Aamzn1.symc.d10b1e54-47e4-4b2a-b42d-92fe6ebbe579&pf_rd_p=a725c7b8-b047-4210-9584-5391d2d91b93&pf_rd_r=GJEPZ4QNGH6K3CDWNPEW&pd_rd_wg=ESAuH&pd_rd_r=7acdc7fe-301e-4ba4-85a8-e0153922f602&ref_=pd_hp_d_atf_ci_mcx_mr_hp_atf_m&th=1
-- https://www.reddit.com/r/linux4noobs/comments/15w4nu8/running_linux_on_asus_tuf_a15_2023/
-- https://github.com/ByteSnipers/awesome-pentest-cheat-sheets
-- https://adrelien.com/blog/tag/meshtastic/
-- https://adrelien.com/blog/how-to-do-coverage-mapping-meshtastic/
-- https://www.adafruit.com/product/4498?gad_source=1&gclid=CjwKCAjwzIK1BhAuEiwAHQmU3nmbPJGcPv8jivdHovvunVjrBXR4Z11Isjj5vSwxXCNjEo42wZrpuRoC6S8QAvD_BwE
-- https://store.planetcom.co.uk/products/cosmo-communicator?variant=29408265338974
-- https://github.com/a8ksh4/rpi-integrated-battery-module
-- https://www.thingiverse.com/thing:4631869
-- https://docs.google.com/document/d/169zB-Vy2VnYyYtGU2rh24okWb6o3HyAHv_RvgzCO9Wk/edit#heading=h.nkvmtpohlhez
 - https://www.amazon.com/wireless-USB-WiFi-Adapter-PC/dp/B07P5PRK7J/ref=asc_df_B07P5PRK7J/?tag=hyprod-20&linkCode=df0&hvadid=693308325592&hvpos=&hvnetw=g&hvrand=3629734503847443248&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002357&hvtargid=pla-759946407819&mcid=2f5d97295b193db7ba9c94ea64d723c0&gad_source=1&th=1
 - https://www.amazon.com/5-5x2-1mm-Interchangeable-Connectors-Lightsaber-Electronics/dp/B0CD7MHTZ7/ref=asc_df_B0CD7MHTZ7/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=6306698593876401704&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033318&hvtargid=pla-2281435179058&psc=1&mcid=3ab156ddbd8036e6971d635e700f086e&hvocijid=6306698593876401704-B0CD7MHTZ7-&hvexpln=73&gad_source=1
 - https://www.waveshare.com/wiki/UPS_Module_3S
@@ -105,6 +88,7 @@ This is a unsorted dump list of links and info
 - https://github.com/arslanbilal/git-cheat-sheet#readme
 - https://github.com/git-tips/tips#readme
 - https://www.civtak.org/atak-about/
+- http://www.broadband-hamnet.org/
 - 
 
 
