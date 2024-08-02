@@ -97,6 +97,7 @@ This is a unsorted dump list of links and info
 - https://carboncomputers.us/product/hacking-on-a-compute-stick-be-portable-be-anywhere-blackarch-kali/
 - https://carboncomputers.us/product/cyber-uconsole/
 - https://www.amazon.com/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX
+- https://github.com/ElNiak/awesome-ai-cybersecurity
 - 
 
 
