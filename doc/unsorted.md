@@ -89,6 +89,10 @@ This is a unsorted dump list of links and info
 - https://github.com/git-tips/tips#readme
 - https://www.civtak.org/atak-about/
 - http://www.broadband-hamnet.org/
+- https://muzi.works/collections/all?page=1
+- https://www.adafruit.com/product/5815?gad_source=1&gclid=CjwKCAjw2Je1BhAgEiwAp3KY7-mmA-z2OBLQkpXHajsRGW1Y4vJP4LsVdoXLV0XMtzj_DAhx1jNLzBoCSlcQAvD_BwE
+- https://www.amazon.com/gp/product/B0CPQTV1DN/ref=ox_sc_act_title_1?smid=A3NP8YZY01DAMT&psc=1
+- https://learn.adafruit.com/adafruit-powerboost-1000c-load-share-usb-charge-boost/overview?gad_source=1&gclid=CjwKCAjw2Je1BhAgEiwAp3KY7yuZuOb479l_0ObTAMxJ2OKoG1Ndr75AZrI6AVPsA6sV9dH8V5oljBoCincQAvD_BwE
 - 
 
 
