@@ -99,6 +99,7 @@ This is a unsorted dump list of links and info
 - https://www.amazon.com/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX
 - https://github.com/ElNiak/awesome-ai-cybersecurity
 - https://www.amazon.com/dp/B0CWKX4DG5
+- https://www.blakecarpenter.dev/using-a-raspberry-pi-with-a-crt-television/
 - 
 
 
