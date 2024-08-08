@@ -100,6 +100,7 @@ This is a unsorted dump list of links and info
 - https://github.com/ElNiak/awesome-ai-cybersecurity
 - https://www.amazon.com/dp/B0CWKX4DG5
 - https://www.blakecarpenter.dev/using-a-raspberry-pi-with-a-crt-television/
+- https://www.youtube.com/watch?v=91ULi9DWgds
 - 
 
 
