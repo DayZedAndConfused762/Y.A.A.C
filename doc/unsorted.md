@@ -19,22 +19,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-- https://www.amazon.com/wireless-USB-WiFi-Adapter-PC/dp/B07P5PRK7J/ref=asc_df_B07P5PRK7J/?tag=hyprod-20&linkCode=df0&hvadid=693308325592&hvpos=&hvnetw=g&hvrand=3629734503847443248&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002357&hvtargid=pla-759946407819&mcid=2f5d97295b193db7ba9c94ea64d723c0&gad_source=1&th=1
-- https://www.amazon.com/5-5x2-1mm-Interchangeable-Connectors-Lightsaber-Electronics/dp/B0CD7MHTZ7/ref=asc_df_B0CD7MHTZ7/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=6306698593876401704&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033318&hvtargid=pla-2281435179058&psc=1&mcid=3ab156ddbd8036e6971d635e700f086e&hvocijid=6306698593876401704-B0CD7MHTZ7-&hvexpln=73&gad_source=1
-- https://www.waveshare.com/wiki/UPS_Module_3S
-- https://holykeebs.com/products/pimoroni-trackball-module
-- https://www.newegg.com/perixx-periboard-505h-plus-pb-505hp-n10970-usb-wired/p/0GA-0038-00007
-- https://www.waveshare.com/9.3inch-1600x600-lcd.htm
-- https://drop.com/buy/drop-mito-sa-laser-custom-keycap-set?defaultSelectionIds=974120
-- https://makerworld.com/en/models/495106#profileId-409179
-- https://www.reddit.com/r/MiniPCs/
-- https://www.amazon.com/dp/B0B8H9W5RY?th=1
-- https://www.crowdsupply.com/mnt/pocket-reform
-- https://wiki.geekworm.com/index.php?title=X1202&mobileaction=toggle_view_desktop
-- https://geekworm.com/collections/raspberry-pi/Hat+Raspberry-Pi-5
-- https://sharge.com/products/shargeek-170
-- https://www.ebay.com/itm/116177741080?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=I8ORr0BxSt6&sssrc=4429486&ssuid=rhwK7tMnQfO&var=&widget_ver=artemis&media=COPY
-- https://www.amazon.com/gp/product/B0CRR7XMCQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 - https://www.thingiverse.com/thing:377253
 - https://www.adafruit.com/product/913
 - https://www.reddit.com/r/cyberDeck/comments/1crki13/junk_cyberdeck_very_early/
