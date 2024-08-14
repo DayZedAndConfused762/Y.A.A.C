@@ -338,6 +338,7 @@ Folding Lock-Back Utility Knife | https://www.harborfreight.com/folding-lock-bac
 2mm drill Bit | no link/in store (Fisher Auto Parts) | $2.50
 3mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.00
 4mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.50
+Hyper Tough 12V Max Lithium-Ion Cordless | https://www.walmart.com/ip/366676178 | $19.97
 
 <!-- ------------------------------ Tools End ------------------------------ -->
 
