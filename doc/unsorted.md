@@ -43,6 +43,11 @@ This is a unsorted dump list of links and info
 - https://www.doscher.com/mobile-media-bot/
 - https://github.com/phillipadsmith/awesome-github#readme
 - https://github.com/sb-ocr/miniature-retro-pc/tree/main
+- https://www.reddit.com/r/ATAK/comments/jhk03u/rpifts_readytogo_image_available_for_raspberry_pi/
+- https://www.reddit.com/r/ATAK/comments/1afp1kq/tak_server/
+- https://www.reddit.com/r/ATAK/comments/13pdj6a/tak_tracker_for_raspberry_pi/
+- https://www.reddit.com/r/ATAK/comments/husyzl/howto_install_freetakserver_on_a_pi/
+- 
 
 guides
 
