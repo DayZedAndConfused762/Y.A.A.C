@@ -236,7 +236,7 @@ USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | 
 Item|URL|Price
 ---|---|---
 Panasonic NCR 18650 3400mAh 3.7V Unprotected High-Drain 4.87A Lithium Ion | https://www.batteryjunction.com/panasonic-ncr18650b-3400 | $8.99
-Shargeek 100 25,600mAh power bank | https://sharge.com/products/storm2?variant=42179797123323  $169.00
+Shargeek 100 25,600mAh power bank | https://sharge.com/products/storm2?variant=42179797123323 | $169.00
 
 #### *Buttons*
 
