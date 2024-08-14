@@ -17,6 +17,7 @@ This is a list of components that I do not own that may be useful for future bui
 - [Antennas](#Antennas)
 - [Cables and Adapters](#cables-and-adapters)
   - [Audio](#Audio)
+  - [DC](#DC)
   - [Ethernet](#Ethernet)
   - [GPIO](#GPIO)
   - [HDMI](#HDMI)
@@ -47,9 +48,11 @@ This is a list of components that I do not own that may be useful for future bui
   - [Battery Chargers](#Battery-Chargers)
   - [Buttons](#Buttons)
   - [Inverters](#Inverters)
+  - [Solar](#Solar)
   - [UPS](#UPS)
 - [SDR](#SDR)
 - [Storage](#Storage)
+- [WiFi](#WiFi)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
@@ -74,6 +77,11 @@ Rabbit-Labs 4dBm 868MHz 900MHz 915MHz Antenna SMA Male | https://www.amazon.com/
 Item|URL|Price
 ---|---|---
 3.5mm Angle Male to Female Audio Adapter | https://www.amazon.com/gp/product/B07YFBCQTT/ | 
+
+### *DC*
+Item|URL|Price
+---|---|---
+USB to DC 5V Power Cable, DC 5.5x2.1mm Plugs Charging Cord with 11 Interchangeable Jack Connectors | https://www.amazon.com/dp/B0CD7MHTZ7/ | $9.99
 
 ### *Ethernet*
 
@@ -168,6 +176,7 @@ AC Infinity MULTIFAN Mini, Compact 40mm x 20mm USB | https://www.amazon.com/dp/B
 Coolerguys 25mm (25x25x10) USB Fan | https://www.amazon.com/dp/B07NC4Z24T/ | 
 ELUTENG Dual 40mm USB Fan | https://www.amazon.com/dp/B08ZY7X4CR/ | 
 ELUTENG Dual Cooling Fan Whisper Quiet 80mm USB | https://www.amazon.com/dp/B09QMC1458/ | 
+Official Raspberry Pi 5 Active Cooler | https://www.adafruit.com/product/5815 | $5.00
 
 <!-- ------------------------------ Cooling End ------------------------------ -->
 
@@ -195,6 +204,8 @@ waveshare 1.51inch Transparent OLED | https://www.amazon.com/gp/product/B0B8N46G
 Waveshare 2.13inch E-paper | https://www.amazon.com/dp/B0D5CJKXTD/ | $26.99
 waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/dp/B09GKB8XT8/ | $32.99
 Wireless Paper is an E-Ink development kit | https://heltec.org/project/wireless-paper/ | $15.90
+9.3inch Capacitive Touch Display, High Brightness, 1600×600 | https://www.waveshare.com/9.3inch-1600x600-lcd.htm | $99.99
+Waveshare 4.3inch Capacitive Touch Small Display | https://www.amazon.com/dp/B083Q8YLVP | $43.99
 
 <!-- ------------------------------ Display End ------------------------------ -->
 
@@ -264,6 +275,14 @@ USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switc
 Item|URL|Price
 ---|---|---
 Medium Panel Mount USB Trackpad with Three Buttons | https://www.adafruit.com/product/5061 | $39.95
+Pimoroni Trackball Module | https://holykeebs.com/products/pimoroni-trackball-module | $22.00
+Perixx PERIBOARD-505H PLUS, Wired USB Trackball Keyboard | https://www.newegg.com/perixx-periboard-505h-plus-pb-505hp-n10970-usb-wired/p/0GA-0038-00007 | $53.99
+VssoPlor Foldable Bluetooth Keyboard with Touchpad | https://www.amazon.com/dp/B0B8H9W5RY | $23.99
+5 Inch Raspberry Pi Touchscreen, 800x480 DSI IPS LCD | https://www.amazon.com/gp/product/B0CRR7XMCQ/ | $39.59
+Bluetooth 3.0 Keyboard,Rechargeable Mini Slim Travel Size Wireless Pocket Keypad | https://www.amazon.com/dp/B07XCP3THX | $16.99
+Super Mini Wired Keyboard | https://www.amazon.com/dp/B07DZZWD9W/ | $24.99
+CHUYI Mini Bluetooth Keyboard | https://www.amazon.com/gp/product/B0BMDQD5WV | $19.99
+Rii Mini Bluetooth Keyboard | https://www.amazon.com/dp/B0B46F8RS6 | $24.99
 
 <!-- ------------------------------ Input End ------------------------------ -->
 
@@ -355,6 +374,7 @@ SHARGEEK 170 Power Bank, 170W Output 24,000mAh |  https://www.amazon.com/dp/B0CR
 Shargeek Portable Charger, Storm 2 100W 25600mAh | https://www.amazon.com/gp/product/B09NY8GN76/ | $
 Talentcell Rechargeable 12V 6000mAh/5V 12000mAh | https://www.amazon.com/dp/B00ME3ZH7C/ | $
 Trozk Portable Charger, PD30W | https://www.amazon.com/dp/B0CJ2J2YDS | $
+18650 3.7V 6600mAh 1S3P Rechargeable Li-ion Battery Pack, JST-PH2.0 2-pin Connector | https://www.amazon.com/gp/product/B0CPQTV1DN/ | $22.99
 
 ### *Battery Chargers*
 
@@ -362,13 +382,18 @@ Item|URL|Price
 ---|---|---
 Renogy 12V 20A AC-to-DC Portable Battery Charger Plug-and-Play with 12AWG Alligator Clips for Lithium-iron Phosphate Batteries  | https://www.amazon.com/Renogy-12V-20A-Alligator-Batteries/dp/B08C2JN76Q | $113.54
 
+### *Buttons*
+
+Item|URL|Price
+---|---|---
+
 ### *Inverters*
 
 Item|URL|Price
 ---|---|---
 BMK 200W Car Power Inverter | https://www.amazon.com/gp/product/B079HPZ9JY/ | $19.99
 
-### *Buttons*
+### *Solar*
 
 Item|URL|Price
 ---|---|---
@@ -380,6 +405,8 @@ Item|URL|Price
 Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://www.amazon.com/dp/B07RC649ZC | $38.99
 Pisugar 2 Portable 1200 mAh UPS | https://www.amazon.com/dp/B08D678XPR/ | $35.99
 PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/dp/B097RC8KLQ/ | $27.99
+UPS Module 3S | https://www.waveshare.com/ups-module-3s.htm | $21.99
+Geekworm X1202 4-Cell 18650 5.1V 5A UPS HAT for Raspberry Pi | https://geekworm.com/products/x1202 | $48.00
 
 <!-- ------------------------------ Power End ------------------------------ -->
 
@@ -412,6 +439,11 @@ SanDisk 128GB Extreme microSDXC | https://www.amazon.com/dp/B09X7BK27V/ | $
 
 <!-- ------------------------------ Wifi End ------------------------------ -->
 
+## WiFi
+
+Item|URL|Price
+---|---|---
+TP-Link AC600 USB WiFi Adapter for PC | https://www.amazon.com/dp/B07P5PRK7J/ | $16.99
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
