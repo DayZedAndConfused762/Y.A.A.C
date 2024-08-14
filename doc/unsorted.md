@@ -41,7 +41,51 @@ This is a unsorted dump list of links and info
 - https://www.doscher.com/work-recovery-kit/
 - https://www.doscher.com/the-raspberry-pi-field-unit/
 - https://www.doscher.com/mobile-media-bot/
-- 
+
+
+Reddits
+r/MiniPCs | https://www.reddit.com/r/MiniPCs/
+https://www.reddit.com/r/retrobattlestations/
+
+
+guides
+https://github.com/phillipadsmith/awesome-github#readme
+https://github.com/tiimgreen/github-cheat-sheet#readme
+https://github.com/arslanbilal/git-cheat-sheet#readme
+https://github.com/git-tips/tips#readme
+https://www.blakecarpenter.dev/using-a-raspberry-pi-with-a-crt-television/
+https://www.youtube.com/watch?v=91ULi9DWgds
+https://www.reddit.com/r/ATAK/comments/1elywi0/map_down_loads/
+https://null-byte.wonderhowto.com/how-to/hack-5-ghz-wi-fi-networks-with-alfa-wi-fi-adapter-0203515/
+
+
+software
+https://github.com/homerchen19/github-file-icons
+https://www.civtak.org/atak-about/
+https://github.com/ElNiak/awesome-ai-cybersecurity
+https://www.reddit.com/r/cyberDeck/comments/1er5ywj/may_i_recommend_pico8_or_picotron_for_your_builds/
+
+
+Mini PC
+https://higolepcstore.com/
+
+
+
+unsorted
+https://www.waveshare.com/product/esp32-s3-touch-lcd-1.28.htm
+https://pine64.com/product/pinetime-smartwatch-sealed/
+https://github.com/frogCaller/
+http://www.broadband-hamnet.org/
+https://www.amazon.com/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX
+
+
+meshtastic
+https://muzi.works/collections/all?page=1
+
+PreBuilts
+https://carboncomputers.us/product/microsoft-surface-pro-rugged-cyberdeck-edition-intel-core-i5-6300u-8gb-ram-256gb-ssd-bluetooth-dual-camera/?currency=USD
+https://carboncomputers.us/product/cyber-uconsole/
+
 
 
 
