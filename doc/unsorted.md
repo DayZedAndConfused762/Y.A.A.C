@@ -42,6 +42,7 @@ This is a unsorted dump list of links and info
 - https://www.doscher.com/the-raspberry-pi-field-unit/
 - https://www.doscher.com/mobile-media-bot/
 - https://github.com/phillipadsmith/awesome-github#readme
+- https://github.com/sb-ocr/miniature-retro-pc/tree/main
 
 guides
 
