@@ -19,15 +19,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-- https://www.thingiverse.com/thing:377253
-- https://www.adafruit.com/product/913
-- https://www.reddit.com/r/cyberDeck/comments/1crki13/junk_cyberdeck_very_early/
-- https://hackaday.com/2021/03/13/its-not-a-computer-if-it-doesnt-have-a-cartridge-slot/
-- https://www.amazon.com/Bluetooth-Keyboard-Rechargeable-Wireless-Smartphones/dp/B07XCP3THX
-- https://thepihut.com/products/mini-bluetooth-keyboard-black
-- https://www.amazon.ca/dp/B083Q8YLVP?th=1
-- https://yarh.io/cyberdeck-keyboard.html
-- https://www.amazon.com/Keyboard-Portable-Professional-Industrial-Computer/dp/B07DZZWD9W/ref=asc_df_B07DZZWD9W/?tag=hyprod-20&linkCode=df0&hvadid=693588244503&hvpos=&hvnetw=g&hvrand=205394621374623402&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9006595&hvtargid=pla-796210651866&psc=1&mcid=ceb17820f9ac36a4b9babc7e27934e48&gad_source=1
 - https://yarh.io/misc/m4crt/IMG_6189.jpg
 - https://yarh.io/misc/m4crt/IMG_6187.jpg
 - https://yarh.io/misc/m4crt/IMG_6186.jpg
