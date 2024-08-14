@@ -30,13 +30,13 @@ Version 0.1.0 of the Y.A.A.C.1
 
 - [Owned Components](doc/components-owned.md): A list of compents I own and plan on using.
 - [Unowned Components](doc/components-unowned.md): A list of compents that may be useful for future builds.
-- [Guides](doc/guides.md): A list of guides/tutorials/information.
+- [Guides](https://github.com/DayZedAndConfused762/awesome-cyberdeck/blob/main/doc/guides.md): A list of guides/tutorials/information.
 - [Inspiration](https://github.com/DayZedAndConfused762/awesome-cyberdeck/blob/main/doc/inspiration.md): Other CyberDecks, projects, and links for inspiration.
-- [Operating Systems](doc/operating-systems.md): A list of various Operating Systems.
-- [Software](doc/software.md): Software used and to possibly use.
+- [Operating Systems](https://github.com/DayZedAndConfused762/awesome-cyberdeck/blob/main/doc/operating-systems.md): A list of various Operating Systems.
+- [Software](https://github.com/DayZedAndConfused762/awesome-cyberdeck/blob/main/doc/software.md): Software used and to possibly use.
 - [To Do List](doc/todo.md): A To Do list for this repository.
 - [Unsorted](doc/unsorted.md): A file containing links and other information yet to be sorted.
-- [Web-based Tools & Utilities](doc/webtools.md): A collection of web based tools and utilities.
+- [Web-based Tools & Utilities](https://github.com/DayZedAndConfused762/awesome-cyberdeck/blob/main/doc/webtools.md): A collection of web based tools and utilities.
 
 <!-- ------------------------------ Files End ------------------------------ -->
 
