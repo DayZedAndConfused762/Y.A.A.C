@@ -19,21 +19,6 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-- https://yarh.io/misc/m4crt/IMG_6189.jpg
-- https://yarh.io/misc/m4crt/IMG_6187.jpg
-- https://yarh.io/misc/m4crt/IMG_6186.jpg
-- https://yarh.io/misc/m4crt/IMG_6185.jpg
-- https://yarh.io/misc/adventure-time-bmo-jake-finn-the-human-wallpaper.jpg
-- https://www.amazon.ca/gp/product/B0BMDQD5WV
-- https://www.amazon.com/Rii-Bluetooth-Rechargeable-Handhelds-PS3-BLACK/dp/B0B46F8RS6
-- https://yarh.io/
-- https://www.amazon.com/dp/B093Q96GJW?ref=cm_sw_r_cso_cp_apin_dp_24J8QEYQGYF0D67WGKC8&ref_=cm_sw_r_cso_cp_apin_dp_24J8QEYQGYF0D67WGKC8&social_share=cm_sw_r_cso_cp_apin_dp_24J8QEYQGYF0D67WGKC8&starsLeft=1&skipTwisterOG=2
-- https://www.waveshare.com/esp32-s3-touch-lcd-1.28.htm
-- https://pine64.com/product/pinetime-smartwatch-sealed/
-- https://github.com/veebch/boostbox
-- https://higolepcstore.com/
-- https://github.com/frogCaller/tinySetup
-- https://www.doscher.com/
 - https://www.reddit.com/r/retrobattlestations/
 - https://www.doscher.com/the-recovery-kit-2b/
 - https://www.doscher.com/two-spools-of-filament-the-intel-100-obelisk/
