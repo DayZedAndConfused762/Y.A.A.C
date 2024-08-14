@@ -14,7 +14,7 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 
 # Contents:
 
-<!-- - [Cables and Adapters](#cables-and-adapters)
+- [Cables and Adapters](#cables-and-adapters)
   - [Adpters](#Adapters)
   - [DC](#DC)
   - [Dust Covers](#Dust-Covers)
@@ -26,7 +26,7 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
   - [USB A to C](#USB-C-to-A)
   - [USB Extention](#USB-C-Extention)
   - [USB C Splitter](#USB-C-Splitter)
-  - [USB Micro](#USB-Micro) -->
+  - [USB Micro](#USB-Micro)
 - [Cases](#Cases)
 - [Cooling](#Cooling)
 - [Core Compute](#Core-Compute)
@@ -38,9 +38,12 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 - [Ports](#Ports)
 - [Power](#Power)
   - [Batteries](#Batteries)
-  - [Buttons](#Buttons)  <!--  - [Power Supplies](#Power-Supplies) -->
+  - [Buttons](#Buttons)
+  - [Power Supplies](#Power-Supplies)
+  - [Solar Panels](#Solar-Panels)
   - [UPS](#UPS)  <!-- - [SDR](#SDR) -->
-- [Storage](#Storage)  <!-- - [Tools](#Tools) -->
+- [Storage](#Storage)  
+- [Tools](#Tools)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
@@ -51,16 +54,27 @@ This is a list of all componenets used in the Y.A.A.C-1, as well as links and pr
 
 <!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
 
-<!--
+
 ### Cables & Adapters
+
+#### *Adapters*
+Item|URL|Price
+---|---|---
 
 #### *DC*
 Item|URL|Price
 ---|---|---
 
+#### *Dust Covers*
+Item|URL|Price
+---|---|---
+40PCS USB Port Cover Assortment | https://www.amazon.com/gp/product/B0CYZZ879Q/ | $7.99
+uxcell 5pcs Silicone Protectors Micro HDMI | https://www.amazon.com/gp/product/B07YJX8BYG/ | $.89
+
 #### *Ethernet*
 Item|URL|Price
 ---|---|---
+Cable Matters 10Gbps 5-Pack Snagless Short Shielded Cat6A 6pk | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
 
 #### *GPIO*
 Item|URL|Price
@@ -69,10 +83,12 @@ Item|URL|Price
 #### *HDMI*
 Item|URL|Price
 ---|---|---
+Seadream 4K Micro HDMI to HDMI Cable 1FT 2Pack | https://www.amazon.com/gp/product/B0B938BP37/ | $9.88
 
 #### *USB A to A*
 Item|URL|Price
 ---|---|---
+USB to USB 3.0 Cable, 2-Pack 1.5ft Short Braided USB 3.0 | https://www.amazon.com/gp/product/B07BKRS1W5/ | $9.69
 
 #### *USB C to A*
 Item|URL|Price
@@ -93,7 +109,7 @@ Item|URL|Price
 #### *USB Micro*
 Item|URL|Price
 ---|---|---
--->
+SABRENT [6-Pack 22AWG Premium 1ft Micro USB Cables | https://www.amazon.com/gp/product/B011KMSNXM/ | $7.98
 
 <!-- ++++++++++++++++++++ Cables End ++++++++++++++++++++ -->
 
@@ -115,6 +131,8 @@ Geekworm for Raspberry Pi 4 Case, Universal HAT Size | https://www.amazon.com/gp
 Item|URL|Price
 ---|---|---
 Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23/ | $9.99
+GeeekPi 102pcs Heatsink Kit | https://www.amazon.com/gp/product/B099DTH24X/ | $15.99
+Geekworm Cooling Fan Expansion Board (X728-A1) | https://www.amazon.com/dp/B08B5TQH6W | $16.99
 
 <!-- ++++++++++++++++++++ Cooling End ++++++++++++++++++++ -->
 
@@ -218,18 +236,24 @@ USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | 
 Item|URL|Price
 ---|---|---
 Panasonic NCR 18650 3400mAh 3.7V Unprotected High-Drain 4.87A Lithium Ion | https://www.batteryjunction.com/panasonic-ncr18650b-3400 | $8.99
+Shargeek 100 25,600mAh power bank | https://sharge.com/products/storm2?variant=42179797123323  $169.00
 
 #### *Buttons*
 
 Item|URL|Price
 ---|---|---
-Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
+Ulincos® Latching Push Button Switch | https://www.amazon.com/gp/product/B08DR1475W/ | $8.89
 
-<!--
 #### *Power Supplies*
 Item|URL|Price
 ---|---|---
--->
+Sharge 100W Pro | https://sharge.com/products/shargeek-usb-c-charger-100w?variant=45663814648059 | $49.99
+
+#### *Solar Panels*
+
+Item|URL|Price
+---|---|---
+Power Bank Solar Panel(Shargeek 100) | https://sharge.com/products/storm-2-solar-power-bank-charger-case-portable-solar-panels-charger-12w?variant=44517890851067 | $89.00
 
 #### *UPS*
 
@@ -250,6 +274,22 @@ SanDisk 1TB Extreme External Portable SSD | https://www.walmart.com/ip/192858504
 SanDisk 512GB Ultra microSDXC | https://www.walmart.com/ip/1455959513 | $42.69
 
 <!-- ++++++++++++++++++++ Storage End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Tools Start ++++++++++++++++++++ -->
+
+### Tools
+
+Item|URL|Price
+---|---|---
+Fiskars 12" x 18" Double-Sided Rotary Cutting Mat, Gray| https://www.walmart.com/ip/24548295 | $10.99
+Fiskars® Standard #11 Blades, 5ct | https://www.michaels.com/product/fiskars-standard-11-blades-5ct-10608964 | $4.99
+Fiskars® Softgrip® Detail Knife | https://www.michaels.com/product/fiskars-softgrip-detail-knife-10450829 | $6.99
+STREBITO Electronics Precision Screwdriver Sets | https://www.amazon.com/gp/product/B08SGM6F79/ | $27.99
+Folding Lock-Back Utility Knife | https://www.harborfreight.com/folding-lock-back-utility-knife-62358.html | $5.99
+3mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.00
+Hyper Tough 12V Max Lithium-Ion Cordless | https://www.walmart.com/ip/366676178 | $19.97
+
+<!-- ++++++++++++++++++++ Tools End ++++++++++++++++++++ -->
 
 <!-- ------------------------------ Components Used End ------------------------------ -->
 
