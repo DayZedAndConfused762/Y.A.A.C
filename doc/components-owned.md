@@ -268,7 +268,7 @@ Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.ama
 Anker Power Bank, 24,000mAh 3-Port Portable Charger with 140W Output |  https://www.amazon.com/gp/product/B09VPHVT2Z/ | $109.99
 140W Power Bank, 24600mAh 3-Port PD3.1 | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
 Panasonic NCR 18650 3400mAh 3.7V Unprotected High-Drain 4.87A Lithium Ion | https://www.batteryjunction.com/panasonic-ncr18650b-3400 | $8.99
-Shargeek 100 25,600mAh power bank | https://sharge.com/products/storm2?variant=42179797123323  $169.00
+Shargeek 100 25,600mAh power bank | https://sharge.com/products/storm2?variant=42179797123323 | $169.00
 
 ### *Buttons*
 
