@@ -48,6 +48,7 @@ This is a unsorted dump list of links and info
 - https://www.reddit.com/r/ATAK/comments/13pdj6a/tak_tracker_for_raspberry_pi/
 - https://www.reddit.com/r/ATAK/comments/husyzl/howto_install_freetakserver_on_a_pi/
 - https://www.amazon.com/dp/B07FFV537V?psc=1&ref=ppx_yo2ov_dt_b_product_details
+- https://www.amazon.com/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX/ref=pd_ci_mcx_mh_mcx_views_0?pd_rd_w=CJk8f&content-id=amzn1.sym.352fa4e9-2aa8-47c3-b5ac-8a90ddbece20%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=352fa4e9-2aa8-47c3-b5ac-8a90ddbece20&pf_rd_r=MYPSF9F1YK3TPM7V9KYY&pd_rd_wg=0ecnr&pd_rd_r=d5f571ca-15c2-4308-827d-2ddc3c82d3de&pd_rd_i=B0C3LRLPNX
 - 
 
 guides
