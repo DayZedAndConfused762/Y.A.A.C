@@ -47,6 +47,7 @@ This is a unsorted dump list of links and info
 - https://www.reddit.com/r/ATAK/comments/1afp1kq/tak_server/
 - https://www.reddit.com/r/ATAK/comments/13pdj6a/tak_tracker_for_raspberry_pi/
 - https://www.reddit.com/r/ATAK/comments/husyzl/howto_install_freetakserver_on_a_pi/
+- https://www.amazon.com/dp/B07FFV537V?psc=1&ref=ppx_yo2ov_dt_b_product_details
 - 
 
 guides
