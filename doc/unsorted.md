@@ -49,7 +49,9 @@ This is a unsorted dump list of links and info
 - https://www.reddit.com/r/ATAK/comments/husyzl/howto_install_freetakserver_on_a_pi/
 - https://www.amazon.com/dp/B07FFV537V?psc=1&ref=ppx_yo2ov_dt_b_product_details
 - https://www.amazon.com/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX/ref=pd_ci_mcx_mh_mcx_views_0?pd_rd_w=CJk8f&content-id=amzn1.sym.352fa4e9-2aa8-47c3-b5ac-8a90ddbece20%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=352fa4e9-2aa8-47c3-b5ac-8a90ddbece20&pf_rd_r=MYPSF9F1YK3TPM7V9KYY&pd_rd_wg=0ecnr&pd_rd_r=d5f571ca-15c2-4308-827d-2ddc3c82d3de&pd_rd_i=B0C3LRLPNX
-- 
+- https://www.amazon.com/NanoVNA-H-Analyzer-10KHz-1-5GHz-Measuring-Instrument/dp/B08GM9HYL4/ref=asc_df_B08GM9HYL4/?hvadid=693071814379&hvdev=c&hvdvcmdl&hvlocint&hvlocphy=9002357&hvnetw=g&hvpone&hvpos&hvptwo&hvqmt&hvrand=6663498542464262267&hvtargid=pla-1017777180229&linkCode=df0&mcid=c3b0fb5166f9348b88bdd4bd0900ad76&psc=1&tag=hyprod-20
+- https://www.ebay.com/itm/385698481747?chn=ps&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&mkscid=101&itemid=385698481747&targetid=2299003535955&device=c&mktype=pla&googleloc=9002357&poi=&campaignid=21214315381&mkgroupid=161363866036&rlsatarget=aud-1352894069216:pla-2299003535955&abcId=9407526&merchantid=507159140&gad_source=1&gclid=CjwKCAjw8rW2BhAgEiwAoRO5rA6bI3hdDr_ObQ5vW5_77WKsXHneUQDkSUA3kq-0lieUGW1rr3jMhhoCAnUQAvD_BwE
+
 WiFi
 TP-Link AC600 USB WiFi Adapter for PC | https://www.amazon.com/dp/B07P5PRK7J/ | $16.99
 
