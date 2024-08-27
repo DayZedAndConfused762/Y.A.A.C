@@ -54,6 +54,8 @@ This is a unsorted dump list of links and info
 - https://www.printables.com/model/987725-heltec-lora-t114-gendemik-chunky-maximus-remix
 - https://www.printables.com/model/944979-meshtastic-gendemik-chunky-maximus-heltecv3-remix
 - https://www.reddit.com/r/meshtastic/comments/1f2bje8/the_t114_upgrade_to_the_gendemic_chunky_maximus/
+- https://www.reddit.com/r/CardPuter/comments/1f11cle/minor_update_on_cardputer/
+- https://www.reddit.com/r/pwnagotchi/comments/1f2j8lz/minor_update_on_evilcardputer/
 - 
 
 WiFi
