@@ -19,19 +19,7 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-https://www.sigidwiki.com/wiki/Signal_Identification_Guide
-https://www.tindie.com/products/hexandflex/400mhz-log-spiral-antenna-pro-version/
-https://www.tindie.com/products/unkyulee/micro-journal-rev2-mother-of-twins/
-https://www.tindie.com/products/openncc/openncc-usb/
-https://www.tindie.com/products/howchon/mini-oscilloscope-clock-dg7-6-cathode-ray-tube-3/
-https://www.tindie.com/products/howchon/oscilloscope-clock-blue-2-round-cathode-ray-tube/
-https://www.tindie.com/products/unkyulee/micro-journa-rev7-kindred-gift-epaper/
-https://www.tindie.com/products/cycle/pocket386-retro-dos-computer-386sx-40mhz-black/
-https://www.tindie.com/products/bobricius/armachat-meshtastic-compatible-lora-messenger/
-https://www.tindie.com/products/plop211/power-bank-keep-alive-based-on-555-timer-kit/
-https://www.tindie.com/products/kdcircuits/vplayer-esp32-smart-watch-display/
-https://www.tindie.com/products/tanner87661/iott-stick-iott-stick-plus2/
-https://www.tindie.com/products/devdavisnunez/sanni-open-source-cartridge-reader-oscr-hw5-rev5/
+
 
 https://www.reddit.com/r/raspberry_pi/comments/1ati2ki/how_to_run_a_large_language_model_llm_on_a/
 https://www.reddit.com/r/LocalLLM/comments/1hlw4ke/whats_the_best_local_llm_for_a_raspberry_pi_5_8gb/
