@@ -19,6 +19,7 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
+https://www.sigidwiki.com/wiki/Signal_Identification_Guide
 https://www.tindie.com/products/hexandflex/400mhz-log-spiral-antenna-pro-version/
 https://www.tindie.com/products/unkyulee/micro-journal-rev2-mother-of-twins/
 https://www.tindie.com/products/openncc/openncc-usb/
