@@ -22,65 +22,12 @@ This is a unsorted dump list of links and info
 
 
 
-Mini PC
-https://higolepcstore.com/
+
+
 
 
 meshtastic
 https://muzi.works/collections/all?page=1
-
-
-Cooling
-https://www.adafruit.com/product/5815?gad_source=1&gclid=CjwKCAjw2Je1BhAgEiwAp3KY7-mmA-z2OBLQkpXHajsRGW1Y4vJP4LsVdoXLV0XMtzj_DAhx1jNLzBoCSlcQAvD_BwE
-
-
-Battery
-https://www.amazon.com/gp/product/B0CPQTV1DN/ref=ox_sc_act_title_1?smid=A3NP8YZY01DAMT&psc=1
-
-
-PreBuilts
-https://carboncomputers.us/product/microsoft-surface-pro-rugged-cyberdeck-edition-intel-core-i5-6300u-8gb-ram-256gb-ssd-bluetooth-dual-camera/?currency=USD
-https://carboncomputers.us/product/cyber-uconsole/
-
-
-Display
-9.3inch Capacitive Touch Display, High Brightness, 1600×600 | https://www.waveshare.com/9.3inch-1600x600-lcd.htm | $99.99
-Waveshare 4.3inch Capacitive Touch Small Display | https://www.amazon.com/dp/B083Q8YLVP | $43.99
-
-https://www.waveshare.com/product/esp32-s3-touch-lcd-1.28.htm
-https://pine64.com/product/pinetime-smartwatch-sealed/
-https://www.amazon.com/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX
-https://higolepcstore.com/
-https://carboncomputers.us/product/microsoft-surface-pro-rugged-cyberdeck-edition-intel-core-i5-6300u-8gb-ram-256gb-ssd-bluetooth-dual-camera/?currency=USD
-https://carboncomputers.us/product/cyber-uconsole/
-
-
-https://www.tindie.com/products/questwise-ventures/retroprompt-miniature-crt-monitor-ms-dos-prompt/
-Fosmon Mini Bluetooth Keyboard		https://www.amazon.com/dp/B00BX0YKX4?ref=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&ref_=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&social_share=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&language=en-US&newOGT=1
-Stacktech cases		https://stacktech.toughbuilt.com/catalog/
-HiLetgo MAX7219 Dot Matrix Module for Arduino Microcontroller 4 in 1 Display with 5pin Line	https://www.amazon.com/dp/B07FFV537V?psc=1&ref=ppx_yo2ov_dt_b_product_details
-HackyPi - Ultimate DIY USB Hacking Tool for Security Professionals and Ethical Hackers, DIY Programmable Hacking USB for Educational Purposes	https://www.amazon.com/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX/
-NanoVNA-H Vector Network Analyzer, Portable VNA Antenna Analyzer Kit with 10KHz-1.5GHz, 2.8 Inch Digital LCD Display Touching Screen Standing Wave Measuring Instrument (Ver 3.4) Nano VNA	https://www.amazon.com/NanoVNA-H-Analyzer-10KHz-1-5GHz-Measuring-Instrument/dp/B08GM9HYL4/
-
-https://www.amazon.com/dp/B07P5PRK7J/1
-https://www.amazon.com/dp/B0CD7MHTZ7/
-https://www.amazon.com/dp/B093Q96GJW/
-https://www.waveshare.com/ups-module-3s.htm
-https://geekworm.com/products/x1202
-https://holykeebs.com/products/pimoroni-trackball-module
-https://www.newegg.com/perixx-periboard-505h-plus-pb-505hp-n10970-usb-wired/p/0GA-0038-00007
-https://www.amazon.com/dp/B0B8H9W5RY
-https://www.amazon.com/gp/product/B0CRR7XMCQ/
-https://www.amazon.com/dp/B07XCP3THX
-https://www.amazon.com/dp/B07DZZWD9W/
-https://www.amazon.com/dp/B0B46F8RS6
-https://www.amazon.com/gp/product/B0BMDQD5WV
-
-https://www.amazon.com/dp/B07P5PRK7J/
-https://www.amazon.com/dp/B0CD7MHTZ7/
-https://www.amazon.com/dp/B093Q96GJW/
-
-
 
 Cyberdecks
 Cyberdeck by kylecasey4 | https://makerworld.com/en/models/495106#profileId-409179
