@@ -20,17 +20,17 @@ This is a unsorted dump list of links and info
 ## Unsorted Links
 
 
-
-https://www.reddit.com/r/raspberry_pi/comments/1ati2ki/how_to_run_a_large_language_model_llm_on_a/
-https://www.reddit.com/r/LocalLLM/comments/1hlw4ke/whats_the_best_local_llm_for_a_raspberry_pi_5_8gb/
-https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/
-https://itsfoss.com/llms-for-raspberry-pi/
-https://www.youtube.com/watch?v=2Ry-ck0fhfw
-https://www.tindie.com/products/questwise-ventures/retroprompt-miniature-crt-monitor-ms-dos-prompt/
-https://github.com/alx-xlx/awesome-survival?tab=readme-ov-file
-https://web.archive.org/web/20151203125238/http://www.ps-survival.com/PS/Radio/index.htm
-https://www.amazon.com/dp/B00BX0YKX4?ref=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&ref_=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&social_share=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&language=en-US&newOGT=1
-https://www.hideoutshowcase.com/hideout/show/6895/title/Small%20Market
+- 
+- https://www.reddit.com/r/raspberry_pi/comments/1ati2ki/how_to_run_a_large_language_model_llm_on_a/
+- https://www.reddit.com/r/LocalLLM/comments/1hlw4ke/whats_the_best_local_llm_for_a_raspberry_pi_5_8gb/
+- https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/
+- https://itsfoss.com/llms-for-raspberry-pi/
+- https://www.youtube.com/watch?v=2Ry-ck0fhfw
+- https://www.tindie.com/products/questwise-ventures/retroprompt-miniature-crt-monitor-ms-dos-prompt/
+- https://github.com/alx-xlx/awesome-survival?tab=readme-ov-file
+- https://web.archive.org/web/20151203125238/http://www.ps-survival.com/PS/Radio/index.htm
+- https://www.amazon.com/dp/B00BX0YKX4?ref=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&ref_=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&social_share=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&language=en-US&newOGT=1
+- https://www.hideoutshowcase.com/hideout/show/6895/title/Small%20Market
 - https://stacktech.toughbuilt.com/catalog/
 - https://www.doscher.com/the-recovery-kit-2b/
 - https://www.doscher.com/two-spools-of-filament-the-intel-100-obelisk/
