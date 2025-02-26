@@ -24,6 +24,30 @@ This is a unsorted dump list of links and info
 
 
 
+https://github.com/ElNiak/awesome-ai-cybersecurity
+Cyberdeck by kylecasey4 | https://makerworld.com/en/models/495106#profileId-409179
+https://www.crowdsupply.com/mnt/pocket-reform
+https://www.reddit.com/r/cyberDeck/comments/1crki13/junk_cyberdeck_very_early/
+https://yarh.io/
+https://github.com/veebch/boostbox
+https://www.doscher.com/
+
+
+Reddits
+r/MiniPCs | https://www.reddit.com/r/MiniPCs/
+https://www.reddit.com/r/retrobattlestations/
+
+
+
+Components:
+
+	meshtastic
+		https://muzi.works/collections/all?page=1
+
+https://github.com/frogCaller/
+https://www.reddit.com/r/cyberDeck/comments/1er5ywj/may_i_recommend_pico8_or_picotron_for_your_builds/
+http://www.broadband-hamnet.org/
+
 
 
 
