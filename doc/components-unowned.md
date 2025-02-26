@@ -8,7 +8,20 @@
 This is a list of components that I do not own that may be useful for future builds.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
+https://www.amazon.com/dp/B00BX0YKX4?ref=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&ref_=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&social_share=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&language=en-US&newOGT=1
+https://stacktech.toughbuilt.com/catalog/
+https://www.amazon.com/dp/B07FFV537V?psc=1&ref=ppx_yo2ov_dt_b_product_details
+https://www.amazon.com/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX/
+https://www.amazon.com/dp/B07P5PRK7J/1?th=1
+https://www.amazon.com/NanoVNA-H-Analyzer-10KHz-1-5GHz-Measuring-Instrument/dp/B08GM9HYL4/
+https://carboncomputers.us/
+https://www.amazon.com/dp/B093Q96GJW/
+https://www.waveshare.com/ups-module-3s.htm
+https://geekworm.com/products/x1202
+https://holykeebs.com/products/pimoroni-trackball-module
+https://www.newegg.com/perixx-periboard-505h-plus-pb-505hp-n10970-usb-wired/p/0GA-0038-00007
 
+https://www.amazon.com/dp/B0CD7MHTZ7/
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
@@ -188,6 +201,7 @@ Item|URL|Price
 ---|---|---
 Beelink S12 Pro Mini PC | https://www.amazon.com/dp/B0BVLS7ZHP/ | 
 GeeekPi Raspberry Pi Zero 2 W Starter Kit | https://www.amazon.com/gp/product/B0BHD2S5MJ/ | 
+HIGOLE Mini PCs | https://higolepcstore.com/ | 
 Raspberry Pi Zero WH | https://www.amazon.com/gp/product/B0CG99MR5W/ | 
 Waveshare Package D | https://www.amazon.com/dp/B09LCKNKM5/ | 
 
@@ -200,11 +214,12 @@ Waveshare Package D | https://www.amazon.com/dp/B09LCKNKM5/ |
 Item|URL|Price
 ---|---|---
 2.13inch E-Ink Display HAT V4 | https://www.amazon.com/dp/B07Z1WYRQH/ | $
+9.3inch Capacitive Touch Display, High Brightness, 1600×600 | https://www.waveshare.com/9.3inch-1600x600-lcd.htm | $99.99
+ESP32-S3 Development Board, with 1.28inch Round Touch LCD| https://www.waveshare.com/product/esp32-s3-touch-lcd-1.28.htm | $21.99
 waveshare 1.51inch Transparent OLED | https://www.amazon.com/gp/product/B0B8N46G24/ | $
 Waveshare 2.13inch E-paper | https://www.amazon.com/dp/B0D5CJKXTD/ | $26.99
 waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/dp/B09GKB8XT8/ | $32.99
 Wireless Paper is an E-Ink development kit | https://heltec.org/project/wireless-paper/ | $15.90
-9.3inch Capacitive Touch Display, High Brightness, 1600×600 | https://www.waveshare.com/9.3inch-1600x600-lcd.htm | $99.99
 Waveshare 4.3inch Capacitive Touch Small Display | https://www.amazon.com/dp/B083Q8YLVP | $43.99
 
 <!-- ------------------------------ Display End ------------------------------ -->
@@ -217,11 +232,15 @@ Item|URL|Price
 ---|---|---
 Deauther Watch | https://dstike.com/collections/frontpage/products/dstike-deauther-watch-v3s | 
 ELECROW Crowpi Raspberry Pi 4 3 b 3b+ 4b+ | https://www.amazon.com/dp/B07L4RZP6B | 
+HackyPi - Ultimate DIY USB Hacking Tool  | https://www.amazon.com/dp/B0C3LRLPNX | $44.90
 Military Grade Hard Drive Wiper | https://www.amazon.com/gp/product/B07RPNJPRG/ | 
+Mini Monochrome PiOLED Ad Blocking Pi-Hole Kit - No Soldering! | https://www.adafruit.com/product/3973 | $39.95
 Password Reset Key Pro Next Generation - USB 3.0 | https://www.amazon.com/dp/B08PNH5VFG/ | 
+PineTime SmartWatch (sealed) | https://pine64.com/product/pinetime-smartwatch-sealed/ | $26.99
 Pirate Audio: Speaker for Raspberry Pi - Built-in 1W Speaker | https://www.adafruit.com/product/4451 | $24.95
 Pirate Audio: 3W Stereo Speaker Amp for Raspberry Pi | https://www.adafruit.com/product/4453 | $24.95
-Mini Monochrome PiOLED Ad Blocking Pi-Hole Kit - No Soldering! | https://www.adafruit.com/product/3973 | $39.95
+RetroPrompt: Miniature CRT Monitor MS-DOS Prompt | https://www.tindie.com/products/questwise-ventures/retroprompt-miniature-crt-monitor-ms-dos-prompt/ | $14.80
+
 SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th=1 | 
 PineTime SmartWatch (Sealed) | https://pine64.com/product/pinetime-smartwatch-sealed/ | $26.99
 PineTime SmartWatch Dev Kit | https://pine64.com/product/pinetime-dev-kit/ | $26.99

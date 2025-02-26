@@ -26,6 +26,32 @@ This is a unsorted dump list of links and info
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+https://www.amazon.com/dp/B0B8H9W5RY
+https://www.amazon.com/gp/product/B0CRR7XMCQ/
+https://www.amazon.com/dp/B07XCP3THX
+https://www.amazon.com/dp/B07DZZWD9W/
+https://www.amazon.com/dp/B0B46F8RS6
+https://www.amazon.com/gp/product/B0BMDQD5WV
+
+https://www.amazon.com/dp/B07P5PRK7J/
+https://www.amazon.com/dp/B0CD7MHTZ7/
+https://www.amazon.com/dp/B093Q96GJW/
+
+
+
+
+
 meshtastic
 https://muzi.works/collections/all?page=1
 
