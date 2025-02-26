@@ -20,42 +20,6 @@ This is a unsorted dump list of links and info
 ## Unsorted Links
 
 
-- https://www.printables.com/model/987725-heltec-lora-t114-gendemik-chunky-maximus-remix
-- https://www.printables.com/model/944979-meshtastic-gendemik-chunky-maximus-heltecv3-remix
-- https://www.reddit.com/r/meshtastic/comments/1f2bje8/the_t114_upgrade_to_the_gendemic_chunky_maximus/
-- https://www.reddit.com/r/CardPuter/comments/1f11cle/minor_update_on_cardputer/
-- https://www.reddit.com/r/pwnagotchi/comments/1f2j8lz/minor_update_on_evilcardputer/
-- https://github.com/SHUR1K-N/Project-Pwnag0dchi
-- 
-
-WiFi
-TP-Link AC600 USB WiFi Adapter for PC | https://www.amazon.com/dp/B07P5PRK7J/ | $16.99
-
-
-DC
-USB to DC 5V Power Cable, DC 5.5x2.1mm Plugs Charging Cord with 11 Interchangeable Jack Connectors | https://www.amazon.com/dp/B0CD7MHTZ7/ | $9.99
-
-
-Solar
-https://www.amazon.com/dp/B093Q96GJW?ref=cm_sw_r_cso_cp_apin_dp_24J8QEYQGYF0D67WGKC8&ref_=cm_sw_r_cso_cp_apin_dp_24J8QEYQGYF0D67WGKC8&social_share=cm_sw_r_cso_cp_apin_dp_24J8QEYQGYF0D67WGKC8&starsLeft=1&skipTwisterOG=2
-
-
-UPS
-UPS Module 3S | https://www.waveshare.com/ups-module-3s.htm | $21.99
-Geekworm X1202 4-Cell 18650 5.1V 5A UPS HAT for Raspberry Pi | https://geekworm.com/products/x1202 | $48.00
-
-
-Input
-Pimoroni Trackball Module | https://holykeebs.com/products/pimoroni-trackball-module | $22.00
-Perixx PERIBOARD-505H PLUS, Wired USB Trackball Keyboard | https://www.newegg.com/perixx-periboard-505h-plus-pb-505hp-n10970-usb-wired/p/0GA-0038-00007 | $53.99
-VssoPlor Foldable Bluetooth Keyboard with Touchpad | https://www.amazon.com/dp/B0B8H9W5RY | $23.99
-5 Inch Raspberry Pi Touchscreen, 800x480 DSI IPS LCD | https://www.amazon.com/gp/product/B0CRR7XMCQ/ | $39.59
-Bluetooth 3.0 Keyboard,Rechargeable Mini Slim Travel Size Wireless Pocket Keypad | https://www.amazon.com/dp/B07XCP3THX | $16.99
-Super Mini Wired Keyboard | https://www.amazon.com/dp/B07DZZWD9W/ | $24.99
-CHUYI Mini Bluetooth Keyboard | https://www.amazon.com/gp/product/B0BMDQD5WV | $19.99
-Rii Mini Bluetooth Keyboard | https://www.amazon.com/dp/B0B46F8RS6 | $24.99
-
-
 Mini PC
 https://higolepcstore.com/
 
