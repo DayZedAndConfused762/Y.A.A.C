@@ -19,28 +19,7 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
-- https://www.doscher.com/the-recovery-kit-2b/
-- https://www.doscher.com/two-spools-of-filament-the-intel-100-obelisk/
-- https://www.doscher.com/recovery-kit-version-2/
-- https://www.doscher.com/arm-terminal-flat-hack/
-- https://www.doscher.com/patrons-only-recovery-kit-2024-update/
-- https://www.doscher.com/quick-kit-2024-editions/
-- https://www.doscher.com/how-to-assemble-a-quick-kit-2024-edition/
-- https://www.doscher.com/recovery-kit-retrospective/
-- https://www.doscher.com/update-on-subscriptions/
-- https://www.doscher.com/work-field-unit-2/
-- https://www.doscher.com/work-tough-kit/
-- https://www.doscher.com/work-kuiper-deck/
-- https://www.doscher.com/the-raspberry-pi-cluster-deck/
-- https://www.doscher.com/the-raspberry-pi-quick-kit/
-- https://www.doscher.com/the-open-frame-mini/
-- https://www.doscher.com/the-mil-plastic-deck/
-- https://www.doscher.com/work-open-frame-computer/
-- https://www.doscher.com/work-zero-gadget/
-- https://www.doscher.com/the-a-r-m-terminal/
-- https://www.doscher.com/work-recovery-kit/
-- https://www.doscher.com/the-raspberry-pi-field-unit/
-- https://www.doscher.com/mobile-media-bot/
+
 - https://www.printables.com/model/987725-heltec-lora-t114-gendemik-chunky-maximus-remix
 - https://www.printables.com/model/944979-meshtastic-gendemik-chunky-maximus-heltecv3-remix
 - https://www.reddit.com/r/meshtastic/comments/1f2bje8/the_t114_upgrade_to_the_gendemic_chunky_maximus/
@@ -180,6 +159,29 @@ PreBuilts
 https://carboncomputers.us/product/microsoft-surface-pro-rugged-cyberdeck-edition-intel-core-i5-6300u-8gb-ram-256gb-ssd-bluetooth-dual-camera/?currency=USD
 https://carboncomputers.us/product/cyber-uconsole/
 
+
+- https://www.doscher.com/the-recovery-kit-2b/
+- https://www.doscher.com/two-spools-of-filament-the-intel-100-obelisk/
+- https://www.doscher.com/recovery-kit-version-2/
+- https://www.doscher.com/arm-terminal-flat-hack/
+- https://www.doscher.com/patrons-only-recovery-kit-2024-update/
+- https://www.doscher.com/quick-kit-2024-editions/
+- https://www.doscher.com/how-to-assemble-a-quick-kit-2024-edition/
+- https://www.doscher.com/recovery-kit-retrospective/
+- https://www.doscher.com/update-on-subscriptions/
+- https://www.doscher.com/work-field-unit-2/
+- https://www.doscher.com/work-tough-kit/
+- https://www.doscher.com/work-kuiper-deck/
+- https://www.doscher.com/the-raspberry-pi-cluster-deck/
+- https://www.doscher.com/the-raspberry-pi-quick-kit/
+- https://www.doscher.com/the-open-frame-mini/
+- https://www.doscher.com/the-mil-plastic-deck/
+- https://www.doscher.com/work-open-frame-computer/
+- https://www.doscher.com/work-zero-gadget/
+- https://www.doscher.com/the-a-r-m-terminal/
+- https://www.doscher.com/work-recovery-kit/
+- https://www.doscher.com/the-raspberry-pi-field-unit/
+- https://www.doscher.com/mobile-media-bot/
 
 
 
