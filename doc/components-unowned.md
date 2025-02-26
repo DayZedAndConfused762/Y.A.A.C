@@ -51,6 +51,11 @@ https://github.com/alx-xlx/awesome-survival?tab=readme-ov-file
   - [Inverters](#Inverters)
   - [Solar](#Solar)
   - [UPS](#UPS)
+- [Pre Built](#Prebuilt)
+  - [Console](#Console)
+  - [Desktop](#Desktop)
+  - [Laptop](#Laptops)
+  - [Tablet](#Tablet)
 - [SDR](#SDR)
 - [Storage](#Storage)
 - [WiFi](#WiFi)
@@ -64,6 +69,8 @@ https://github.com/alx-xlx/awesome-survival?tab=readme-ov-file
 
 Item|URL|Price
 ---|---|---
+16dBi WiFi Directional Antenna | https://carboncomputers.us/products/16dbi-wifi-directional-antenna | $55.00
+Directional WiFi - Dual Band 2.4G/5G 10dBi high gain | https://carboncomputers.us/products/16dbi-2-4ghz-wifi-yagi-directional-antenna-enhanced-laptop-desktop-pc-computer-usb-wireless-network | $35.00
 Rabbit-Labs 4dBm 868MHz 900MHz 915MHz Antenna SMA Male | https://www.amazon.com/gp/product/B0D19JJBKZ | $6.25
 
 <!-- ------------------------------ Antennas End ------------------------------ -->
@@ -162,6 +169,7 @@ Item|URL|Price
 C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W | https://www.amazon.com/dp/B06XCK7G2R/ | 
 Pelican Vault V100 Hard Case | https://www.amazon.com/Pelican-Vault-V100-Pistol-Black/dp/B0CVQSRC6L/ | $49.95
 Modular Battery Storage Case with Movable Inserts | https://www.amazon.com/gp/product/ | $31.99
+Pi Edge 3D Printed Case - STL Digital File | https://carboncomputers.us/products/pi-edge-3d-printed-case-stl-digital-file | $10.00 & Up
 
 <!-- ------------------------------ Cases End ------------------------------ -->
 
@@ -202,8 +210,10 @@ Waveshare Package D | https://www.amazon.com/dp/B09LCKNKM5/ |
 Item|URL|Price
 ---|---|---
 2.13inch E-Ink Display HAT V4 | https://www.amazon.com/dp/B07Z1WYRQH/ | $
+5 Inch Raspberry Pi Touchscreen, 800x480 DSI IPS LCD | https://www.amazon.com/gp/product/B0CRR7XMCQ/ | $35.99
 9.3inch Capacitive Touch Display, High Brightness, 1600×600 | https://www.waveshare.com/9.3inch-1600x600-lcd.htm | $99.99
 ESP32-S3 Development Board, with 1.28inch Round Touch LCD| https://www.waveshare.com/product/esp32-s3-touch-lcd-1.28.htm | $21.99
+VssoPlor Foldable Bluetooth Keyboard with Touchpad | https://www.amazon.com/dp/B0B8H9W5RY | $
 waveshare 1.51inch Transparent OLED | https://www.amazon.com/gp/product/B0B8N46G24/ | $
 Waveshare 2.13inch E-paper | https://www.amazon.com/dp/B0D5CJKXTD/ | $26.99
 waveshare 2.13inch Touch E-Paper E-Ink Display HAT  | https://www.amazon.com/dp/B09GKB8XT8/ | $32.99
@@ -379,6 +389,7 @@ Item|URL|Price
 Anker Prime Power Bank, 20,000mAh Portable Charger | https://www.amazon.com/dp/B0BYNZXFM2/ | $
 Anker Prime Power Bank, 27,650mAh 3-Port | https://www.amazon.com/dp/B0BYP2F3SG/ | $
 CUKTECH 20 Power Bank, 25,000mAh | https://www.amazon.com/dp/B0CCCNYW6Y/ | $
+Laptop Power Bank 130W, 25000mAh Fast Charging USB C 3-Port | https://carboncomputers.us/products/laptop-power-bank-130w-25000mah-fast-charging-usb-c-3-port | $149.00
 LiFePO4 Deep Cycle Battery -20Ah 12v | https://www.amazon.com/dp/B08JQQXB5T/ | $
 SHARGEEK 170 Power Bank, 170W Output 24,000mAh |  https://www.amazon.com/dp/B0CRF1BGVZ/ | $
 Shargeek Portable Charger, Storm 2 100W 25600mAh | https://www.amazon.com/gp/product/B09NY8GN76/ | $
@@ -422,6 +433,49 @@ Uninterruptible Power Supply Module, Supports charging And Power output at the s
 
 <!-- ------------------------------ Power End ------------------------------ -->
 
+<!-- ------------------------------ Prebuilt Start ------------------------------ -->
+
+## Prebuilt
+
+### *Blackberry*
+
+Item|URL|Price
+---|---|---
+CyberDeck PiBerry 1.7 - Raspberry Pi Zero Handheld | https://carboncomputers.us/products/cyberdeck-piberry-17-raspberry-pi-zero | $19.00 & up
+CyberDeck PiBerry 7.5 - Raspberry Pi Zero Handheld | https://carboncomputers.us/products/piberry-75 | $58 & Up
+HackBerryPi with CyberPunk Case - Kali | https://carboncomputers.us/products/hackberrypi-with-cyberpunk-case | $229.00
+Pi-Edge - Panda - Kali & Windows Handheld | https://carboncomputers.us/products/pi-edge-panda-kali-windows-handheld | $349.00
+
+### *Console*
+
+Item|URL|Price
+---|---|---
+Cyber uConsole - Dual Boot Kali & Pi OS – Arch | https://carboncomputers.us/products/cyber-uconsole-dual-boot-kali | $399.00 & Up
+
+### *Desktop*
+
+Item|URL|Price
+---|---|---
+Pi CyberDeck 400 with Kali | https://carboncomputers.us/products/pi-cyberdeck-400-with-kali | $178.00
+
+### *Laptop*
+
+Item|URL|Price
+---|---|---
+Cyber Book X Laptop with Win + Dual Boot Kali & BlackArch | https://carboncomputers.us/products/cyber-book-x | $549.00
+Cyber DuoFlux Laptop - Dual Display Windows + Dual Boot Kali & BlackArch | https://carboncomputers.us/products/cyber-duoflux-laptop-dual-display | $549.00
+Cyber Pocket Laptop | Touch | Multi-boot Boot Kali & BlackArch | WIN 11 | https://carboncomputers.us/products/mini-cyber-pc-with-touch-screen-and-89874 | $529.00
+CyberDeck MK-III with MacOS, Windows - Dual Boot Kali & BlackArch
+DELL-420 Cyber Rugged Laptop with Win + Dual Boot Kali & BlackArch | https://carboncomputers.us/products/dell-420-cyber-rugged-laptop-with-win-06895?variant=40945868210279 | $699.00 & Up
+
+### *Tablet*
+
+Item|URL|Price
+---|---|---
+Cyberdeck Rugged Surface Pro with Dual Boot Kali & BlackArch | https://carboncomputers.us/products/cyberdeck-rugged-surface-pro-with-dual-41228 | $449.00
+
+<!-- ------------------------------ Prebuilt End ------------------------------ -->
+
 <!-- ------------------------------ SDR Start ------------------------------ -->
 
 ## SDR
@@ -439,7 +493,11 @@ Software Defined Radio (Dongle Only) | https://www.amazon.com/gp/product/B0BMKZC
 
 Item|URL|Price
 ---|---|---
+Cyber M.2 Drive – Portable Hacker with Kali & BlackArch | https://carboncomputers.us/products/cyber-m-2-drive-portable-hacker-with-kali-blackarch | $149.99 & up
 SanDisk 128GB Extreme microSDXC | https://www.amazon.com/dp/B09X7BK27V/ | $
+MIN-DRIVE TYPE-C - Portable Hacker with Kali & BlackArch | https://carboncomputers.us/products/blackarch-hacker-software-usb-64gb | $78.00 & Up
+CyberPunk BlackArch USB | https://carboncomputers.us/products/cyberpunk-blackarch-usb | $39.00
+Mini Cyber M.2 NVMe with Display - Portable Hacker with Kali & BlackArch | https://carboncomputers.us/products/mini-cyber-m-2-nvme-with-display-portable-hacker-with-kali-blackarch | $199.00 & Up
 
 <!-- ------------------------------ Storage End ------------------------------ -->
 
@@ -455,6 +513,7 @@ SanDisk 128GB Extreme microSDXC | https://www.amazon.com/dp/B09X7BK27V/ | $
 
 Item|URL|Price
 ---|---|---
+ALFA USB Wi-Fi Dongle AC600M Dual Band 2.4G/5.8Ghz | https://carboncomputers.us/products/alfa-usb-wi-fi-dongle-ac600m | $39.00
 TP-Link AC600 USB WiFi Adapter for PC | https://www.amazon.com/dp/B07P5PRK7J/ | $16.99
 TP-Link AC600 USB WiFi Adapter for PC
 

@@ -21,34 +21,6 @@ This is a unsorted dump list of links and info
 
 
 
-https://www.amazon.com/NanoVNA-H-Analyzer-10KHz-1-5GHz-Measuring-Instrument/dp/B08GM9HYL4/
-
-https://github.dev/DayZedAndConfused762/Y.A.A.C/blob/main/doc/components-unowned.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://www.amazon.com/dp/B0B8H9W5RY
-https://www.amazon.com/gp/product/B0CRR7XMCQ/
-https://www.amazon.com/dp/B07XCP3THX
-https://www.amazon.com/dp/B07DZZWD9W/
-https://www.amazon.com/dp/B0B46F8RS6
-https://www.amazon.com/gp/product/B0BMDQD5WV
-
-https://www.amazon.com/dp/B07P5PRK7J/
-https://www.amazon.com/dp/B0CD7MHTZ7/
-https://www.amazon.com/dp/B093Q96GJW/
-
-
 
 
 
@@ -176,6 +148,9 @@ https://github.com/SHUR1K-N/Project-Pwnag0dchi
 
 
 https://www.hideoutshowcase.com/hideout/show/6895/title/Small%20Market
+
+
+https://www.amazon.com/NanoVNA-H-Analyzer-10KHz-1-5GHz-Measuring-Instrument/dp/B08GM9HYL4/
 
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
