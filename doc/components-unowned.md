@@ -72,6 +72,7 @@ Item|URL|Price
 16dBi WiFi Directional Antenna | https://carboncomputers.us/products/16dbi-wifi-directional-antenna | $55.00
 Directional WiFi - Dual Band 2.4G/5G 10dBi high gain | https://carboncomputers.us/products/16dbi-2-4ghz-wifi-yagi-directional-antenna-enhanced-laptop-desktop-pc-computer-usb-wireless-network | $35.00
 Rabbit-Labs 4dBm 868MHz 900MHz 915MHz Antenna SMA Male | https://www.amazon.com/gp/product/B0D19JJBKZ | $6.25
+USB GPS Receiver Antenna | https://carboncomputers.us/products/usb-gps-receiver-antenna | $39.00
 
 <!-- ------------------------------ Antennas End ------------------------------ -->
 
@@ -170,6 +171,7 @@ C4Labs Triple Stack Zero Case for The Raspberry Pi Zero and Zero W | https://www
 Pelican Vault V100 Hard Case | https://www.amazon.com/Pelican-Vault-V100-Pistol-Black/dp/B0CVQSRC6L/ | $49.95
 Modular Battery Storage Case with Movable Inserts | https://www.amazon.com/gp/product/ | $31.99
 Pi Edge 3D Printed Case - STL Digital File | https://carboncomputers.us/products/pi-edge-3d-printed-case-stl-digital-file | $10.00 & Up
+ZITAO HackBerryPi - Digital CyberPunk STL | https://carboncomputers.us/products/zitao-hackberry-pi-cyberpunk-case-stl | $9.99
 
 <!-- ------------------------------ Cases End ------------------------------ -->
 
@@ -445,6 +447,8 @@ CyberDeck PiBerry 1.7 - Raspberry Pi Zero Handheld | https://carboncomputers.us/
 CyberDeck PiBerry 7.5 - Raspberry Pi Zero Handheld | https://carboncomputers.us/products/piberry-75 | $58 & Up
 HackBerryPi with CyberPunk Case - Kali | https://carboncomputers.us/products/hackberrypi-with-cyberpunk-case | $229.00
 Pi-Edge - Panda - Kali & Windows Handheld | https://carboncomputers.us/products/pi-edge-panda-kali-windows-handheld | $349.00
+PiBerry 10.0 - Pi Zero 2W Handheld | https://carboncomputers.us/products/piberry-10 | $59.00 & Up
+PiBerry 12.0 - Pi Zero 2W Handheld | https://carboncomputers.us/products/piberry-12-0-pi-zero-2w-handheld | $59.00 & Up
 
 ### *Console*
 
@@ -467,6 +471,9 @@ Cyber DuoFlux Laptop - Dual Display Windows + Dual Boot Kali & BlackArch | https
 Cyber Pocket Laptop | Touch | Multi-boot Boot Kali & BlackArch | WIN 11 | https://carboncomputers.us/products/mini-cyber-pc-with-touch-screen-and-89874 | $529.00
 CyberDeck MK-III with MacOS, Windows - Dual Boot Kali & BlackArch
 DELL-420 Cyber Rugged Laptop with Win + Dual Boot Kali & BlackArch | https://carboncomputers.us/products/dell-420-cyber-rugged-laptop-with-win-06895?variant=40945868210279 | $699.00 & Up
+ThinkPad Cyber Laptop with Win + Dual Boot Kali & BlackArch | https://carboncomputers.us/products/thinkpad-cyber-laptop | $399.00 & Up
+XPS Cyber Laptop with Win + Dual Boot Kali & BlackArch | https://carboncomputers.us/products/xps-cyber-laptop-with-win-dual-boot | $548.00 & Up
+
 
 ### *Tablet*
 
@@ -498,6 +505,10 @@ SanDisk 128GB Extreme microSDXC | https://www.amazon.com/dp/B09X7BK27V/ | $
 MIN-DRIVE TYPE-C - Portable Hacker with Kali & BlackArch | https://carboncomputers.us/products/blackarch-hacker-software-usb-64gb | $78.00 & Up
 CyberPunk BlackArch USB | https://carboncomputers.us/products/cyberpunk-blackarch-usb | $39.00
 Mini Cyber M.2 NVMe with Display - Portable Hacker with Kali & BlackArch | https://carboncomputers.us/products/mini-cyber-m-2-nvme-with-display-portable-hacker-with-kali-blackarch | $199.00 & Up
+Premium WD Rugged SSD - Portable Hacker with Kali & BlackArch | https://carboncomputers.us/products/premium-aluminum-wd-rugged-ssd-portable-hacker-with-kali-blackarch | $178.00 & Up
+Rugged Mini M.2 NVMe - Portable Hacker with Kali & BlackArch | https://carboncomputers.us/products/rugged-mini-m2-nvme-portable-hacker-12965 | $129.00 & Up
+Sleek USB SSD - Portable Hacker with Kali & BlackArch | https://carboncomputers.us/products/sleek-usb-ssd-portable-hacker-with-kali-46842 | $78.00 & Up
+
 
 <!-- ------------------------------ Storage End ------------------------------ -->
 
