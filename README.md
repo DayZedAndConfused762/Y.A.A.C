@@ -29,7 +29,6 @@ Version 0.1.0 of the Y.A.A.C.1
 ## Files
 
 - [Owned Components](doc/components-owned.md): A list of compents I own and plan on using.
-- [Unowned Components](doc/components-unowned.md): A list of compents that may be useful for future builds.
 - [Guides](https://github.com/DayZedAndConfused762/awesome-cyberdeck/blob/main/doc/guides.md): A list of guides/tutorials/information.
 - [Inspiration](https://github.com/DayZedAndConfused762/awesome-cyberdeck/blob/main/doc/inspiration.md): Other CyberDecks, projects, and links for inspiration.
 - [Operating Systems](https://github.com/DayZedAndConfused762/awesome-cyberdeck/blob/main/doc/operating-systems.md): A list of various Operating Systems.
