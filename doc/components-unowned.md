@@ -8,20 +8,11 @@
 This is a list of components that I do not own that may be useful for future builds.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
-https://www.amazon.com/dp/B00BX0YKX4?ref=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&ref_=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&social_share=cm_sw_r_apin_dp_QPSBYEG25F9YJG113ATZ&language=en-US&newOGT=1
-https://stacktech.toughbuilt.com/catalog/
-https://www.amazon.com/dp/B07FFV537V?psc=1&ref=ppx_yo2ov_dt_b_product_details
-https://www.amazon.com/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX/
-https://www.amazon.com/dp/B07P5PRK7J/1?th=1
-https://www.amazon.com/NanoVNA-H-Analyzer-10KHz-1-5GHz-Measuring-Instrument/dp/B08GM9HYL4/
-https://carboncomputers.us/
-https://www.amazon.com/dp/B093Q96GJW/
-https://www.waveshare.com/ups-module-3s.htm
-https://geekworm.com/products/x1202
-https://holykeebs.com/products/pimoroni-trackball-module
-https://www.newegg.com/perixx-periboard-505h-plus-pb-505hp-n10970-usb-wired/p/0GA-0038-00007
 
-https://www.amazon.com/dp/B0CD7MHTZ7/
+https://github.com/alx-xlx/awesome-survival?tab=readme-ov-file
+https://carboncomputers.us/
+https://www.amazon.com/NanoVNA-H-Analyzer-10KHz-1-5GHz-Measuring-Instrument/dp/B08GM9HYL4/
+https://www.amazon.com/dp/B07P5PRK7J/1?th=1
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
@@ -293,6 +284,7 @@ USB Powered Ethernet Switch | https://store.ui.com/us/en/collections/unifi-switc
 
 Item|URL|Price
 ---|---|---
+Fosmon Mini Bluetooth Keyboard (QWERTY Keypad), Wireless Portable with Touchpad | https://www.amazon.com/dp/B00BX0YKX4/ | $23.99
 Medium Panel Mount USB Trackpad with Three Buttons | https://www.adafruit.com/product/5061 | $39.95
 Pimoroni Trackball Module | https://holykeebs.com/products/pimoroni-trackball-module | $22.00
 Perixx PERIBOARD-505H PLUS, Wired USB Trackball Keyboard | https://www.newegg.com/perixx-periboard-505h-plus-pb-505hp-n10970-usb-wired/p/0GA-0038-00007 | $53.99
@@ -302,6 +294,8 @@ Bluetooth 3.0 Keyboard,Rechargeable Mini Slim Travel Size Wireless Pocket Keypad
 Super Mini Wired Keyboard | https://www.amazon.com/dp/B07DZZWD9W/ | $24.99
 CHUYI Mini Bluetooth Keyboard | https://www.amazon.com/gp/product/B0BMDQD5WV | $19.99
 Rii Mini Bluetooth Keyboard | https://www.amazon.com/dp/B0B46F8RS6 | $24.99
+Perixx PERIBOARD-505H PLUS, Wired USB Trackball Keyboard | https://www.newegg.com/p/0GA-0038-00007 | $39.99
+Pimoroni Trackball Module | https://holykeebs.com/products/pimoroni-trackball-module | Regular price$22.00
 
 <!-- ------------------------------ Input End ------------------------------ -->
 
@@ -416,6 +410,7 @@ BMK 200W Car Power Inverter | https://www.amazon.com/gp/product/B079HPZ9JY/ | $1
 
 Item|URL|Price
 ---|---|---
+200W Solar Generator, 146Wh Portable Power Station with Pure Sine Wave AC Outlet | https://www.amazon.com/dp/B093Q96GJW/
 
 ### *UPS*
 
@@ -425,7 +420,8 @@ Pisugar 1200 mAh Lithium Battery Power Module for Raspberry Pi-Zero | https://ww
 Pisugar 2 Portable 1200 mAh UPS | https://www.amazon.com/dp/B08D678XPR/ | $35.99
 PiSugar S Portable 1200 mAh UPS | https://www.amazon.com/dp/B097RC8KLQ/ | $27.99
 UPS Module 3S | https://www.waveshare.com/ups-module-3s.htm | $21.99
-Geekworm X1202 4-Cell 18650 5.1V 5A UPS HAT for Raspberry Pi | https://geekworm.com/products/x1202 | $48.00
+Geekworm X1202 4-Cell 18650 5.1V 5A UPS HAT for Raspberry Pi 5 | https://geekworm.com/products/x1202 | $47.00
+Uninterruptible Power Supply Module, Supports charging And Power output at the same time, 3S & 5V 5A Output | https://www.waveshare.com/ups-module-3s.htm | $21.99
 
 <!-- ------------------------------ Power End ------------------------------ -->
 
