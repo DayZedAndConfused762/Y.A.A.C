@@ -10,10 +10,6 @@ This is a list of components that I do not own that may be useful for future bui
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 https://github.com/alx-xlx/awesome-survival?tab=readme-ov-file
-https://carboncomputers.us/
-https://www.amazon.com/NanoVNA-H-Analyzer-10KHz-1-5GHz-Measuring-Instrument/dp/B08GM9HYL4/
-https://www.amazon.com/dp/B07P5PRK7J/1?th=1
-https://www.amazon.com/dp/B07FFV537V?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
@@ -460,6 +456,7 @@ SanDisk 128GB Extreme microSDXC | https://www.amazon.com/dp/B09X7BK27V/ | $
 Item|URL|Price
 ---|---|---
 TP-Link AC600 USB WiFi Adapter for PC | https://www.amazon.com/dp/B07P5PRK7J/ | $16.99
+TP-Link AC600 USB WiFi Adapter for PC
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 

@@ -21,9 +21,9 @@ This is a unsorted dump list of links and info
 
 
 
+https://www.amazon.com/NanoVNA-H-Analyzer-10KHz-1-5GHz-Measuring-Instrument/dp/B08GM9HYL4/
 
-
-
+https://github.dev/DayZedAndConfused762/Y.A.A.C/blob/main/doc/components-unowned.md
 
 
 
