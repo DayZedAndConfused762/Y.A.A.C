@@ -15,11 +15,33 @@ A list of operating systems and software in use on the Y.A.A.C-1.
 
 # Contents:
 
+- [Communications](#communications)
 - [CyberSecurity](#CyberSecurity)
 - [Offline Internet](#Offline-Internet)
+- [Operating Systems](#Operating-Systems)
 - [Utilities](#Utilities)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
+
+## Communications
+
+- [WeeChat](https://github.com/weechat/weechat): (Wee Enhanced Environment for Chat) is a free chat client, fast and light, designed for many operating systems.
+- [PiFM GTK](https://github.com/MundeepL/PiFM): PiFM GTK is an extension to the already popular PiFmAdv repository developd by Miegl. This extension features a small number of additional files that greatly assist the procedure to install and set up the software.
+
+
+- [imgclone](https://github.com/tom-2015/imgclone): This program can be used to create a backup of your Raspberry Pi SD card while it's active. 
+
+
+https://wiki.geekworm.com/X728-script
+  - [OUTDATED-Geekworm x728 Software](https://wiki.geekworm.com/X728-Software): Software for the Geekworm x728 UPS.
+- [Geekworm x728 Repository](https://github.com/geekworm-com/x728): GitHub repository for the Geekworm x728 UPS.
+
+
+
+pi apps - kwget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+
+
+
 
 
 <!-- ------------------------------ CyberSecurity Start ------------------------------ -->
@@ -38,6 +60,23 @@ A list of operating systems and software in use on the Y.A.A.C-1.
 - [Kiwix offline internet/wiki](https://www.kiwix.org/en/): Kiwix is a free, open-source, non-profit software project that allows users to access the internet without an internet connection.
 
 <!-- ------------------------------ Offline Internet End ------------------------------ -->
+
+<!-- ------------------------------ Operating Systems Start ------------------------------ -->
+
+## Operating Systems
+
+
+Raspberry Pi Bookworm: Your Raspberry Pi needs an operating system to work. This is it. Raspberry Pi OS (previously called Raspbian) is our official supported operating system.
+https://www.raspberrypi.com/software/
+
+Kali linux: Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
+
+https://www.kali.org/
+
+- [](): ...
+- [](): ...
+
+<!-- ------------------------------ Operating Systems End ------------------------------ -->
 
 <!-- ------------------------------ Utilities Start ------------------------------ -->
 
